@@ -4,71 +4,60 @@
       {
          "roles":[
             {
-               "name":"11 Pipers Piping",
-               "short":"Pipers Piping",
+               "name":"Schauspieler",
                "required":false,
                "tags":[
                   "kreativ",
-                  "musikalisch",
-                  "dudelsackspieler"
+                  "arrogant",
+                  "Improvisator"
                ]
             },
             {
-               "name":"9 Ladies Dancing",
-               "short":"Ladies Dancing",
+               "name":"Regisseur",
                "required":false,
                "tags":[
-                  "Angeber*in",
-                  "agil",
-                  "unbekümmert",
-                  "Tänzer*in",
-                  "leichtfüssig"
+                  "Befehlshaber",
+                  "direkt",
+                  "bestimmt",
+                  "Erklärbär"
                ]
             },
             {
-               "name":"6 Geese a-Laying",
-               "short":"Geese a-Laying",
+               "name":"Produzent",
                "required":false,
                "tags":[
-                  "aggressiv",
-                  "animal",
-                  "Gans",
-                  "elterlich"
-               ]
-            },
-            {
-               "name":"5 Golden Rings",
-               "short":"Golden Rings",
-               "required":true,
-               "tags":[
-                  "Stylish",
-                  "Aristokrat*in",
                   "reich",
-                  "Angeber*in",
-                  "wohlhabend"
+                  "Stratege",
+                  "leitend",
+                  "Planer"
                ]
             },
             {
-               "name":"2 Turtle Doves",
-               "short":"Turtle Doves",
-               "required":false,
-               "tags":[
-                  "Animal",
-                  "niedlich",
-                  "Taube",
-                  "nett",
-                  "liebend",
-                  "friedlich"
-               ]
-            },
-            {
-               "name":"and a Partridge in a Pear Tree",
-               "short":"Partridge in a Pear Tree",
+               "name":"Kabeltrommel halten",
                "required":true,
                "tags":[
-                  "animal",
-                  "mühsam",
-                  "sweetheart"
+                  "unvorsichtig",
+                  "Nichtskönner",
+                  "verantwortungslos",
+                  "langweilig"
+               ]
+            },
+            {
+               "name":"Caterer",
+               "required":false,
+               "tags":[
+                  "begabt",
+                  "vielseitig",
+                  "Koch"
+               ]
+            },
+            {
+               "name":"Kamera",
+               "required":true,
+               "tags":[
+                  "strukturiert",
+                  "ruhig",
+                  "fokussiert"
                ]
             }
          ],
@@ -82,20 +71,20 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Du hast sechs Kinder. Wie heißen sie?",
-                     "name":"6 Geese a-Laying",
+                     "question":"Mit wem besetzt du die Hauptrolle für eine Realverfilmung von <i>Shrek</i>?",
+                     "name":"Produzent",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wenn du diese Rolle gewinnst, was wirst du sagen, um mit deinen Gegnern Frieden zu schließen?",
-                     "name":"2 Turtle Doves",
+                     "question":"Was servierst du dem Schauspieler, weil dieser dich arrogant angepöbelt hat?",
+                     "name":"Caterer",
                      "idx":5
                   },
                   {
                      "role":5,
-                     "question":"Was ist das schlechteste Geschenk, das du jemals jemandem gemacht hast?",
-                     "name":"and a Partridge in a Pear Tree",
+                     "question":"Wo hälst du die Kamera bei einer Sexszene drauf?",
+                     "name":"Kamera",
                      "idx":6
                   }
                ]
@@ -104,9 +93,9 @@
                "id":"MethodAct",
                "prompts":[
                   {
-                     "role":1,
-                     "question":"Zeige deine Tanzmoves, um dich von den anderen 8 tanzenden Ladies zu abzuheben.",
-                     "name":"9 Ladies Dancing",
+                     "role":0,
+                     "question":"Imitiere Gollum auf der Suche nach dem Ring.",
+                     "name":"Schauspieler",
                      "idx":8
                   }
                ]
@@ -116,20 +105,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer könnte wohl ein krasses Flötensolo spielen?",
-                     "name":"11 Pipers Piping",
+                     "question":"Wen würde Quentin Tarantino für <i>Inglorious Basterds 2</i> besetzen?",
+                     "name":"Schauspieler",
                      "idx":1
                   },
                   {
                      "role":1,
                      "question":"Wer würde sich in einer Kickline bei den Rockettes nicht völlig blamieren?",
-                     "name":"9 Ladies Dancing",
+                     "name":"Regisseur",
                      "idx":2
                   },
                   {
                      "role":3,
                      "question":"Wer trägt die meisten Klunker?",
-                     "name":"5 Golden Rings",
+                     "name":"Kabeltrommel halten",
                      "idx":4
                   }
                ]
@@ -138,16 +127,15 @@
                "id":"Trivia",
                "prompts":[
                   {
-                     "role":2,
-                     "question":"Wie nennt man eine männliche Gans?",
-                     "correct":"Ganter",
-                     "name":"6 Geese a-Laying",
+                     "role":0,
+                     "question":"Wer spielte Batman in der <i>Dark Knight</i>-Trilogie von Christopher Nolan?",
+                     "correct":"Christian Bale",
+                     "name":"Schauspieler",
                      "altSpellings":[
-                        "ganter",
-                        "Ganser",
-                        "ganser",
-                        "Ganterich",
-                        "Gänserich"
+                        "Christian Bal",
+                        "Chris Bale",
+                        "Christian Balle",
+                        "Kristian Bale"
                      ],
                      "idx":7
                   }
@@ -156,12 +144,12 @@
             {
                "roles":[
                   {
-                     "name":"3 French Hens",
+                     "name":"Komponist",
                      "idx":0,
                      "tags":[
-                        "animal",
+                        "musikalisch",
                         "kultiviert",
-                        "Henne"
+                        "Dramatiker"
                      ]
                   }
                ],
@@ -169,26 +157,27 @@
             }
          ],
          "id":56241,
-         "category":"<i>12 Days of Christmas<\/i> Geschenke",
-         "prompt":"Welches Geschenk aus \u201cThe 12 Days of Christmas\u201d passt am besten zu euch?"
+         "category":"Aufgaben bei einem Filmdreh",
+         "prompt":"Welche Aufgabe würde jeder von euch bei einem Filmdreh übernehmen?"
       },
       {
          "roles":[
             {
-               "name":"Pilot*in",
+               "name":"Pilot",
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Anführer*in",
-                  "stoisch"
+                  "Anführer",
+                  "konzentriert"
                ]
             },
             {
-               "name":"Flugbegleiter*in",
-               "required":false,
+               "name":"Typ, der plant, das Flugzeug zu kidnappen",
+               "short":"Flugzeug-Kidnapper",
+               "required":true,
                "tags":[
-                  "guide",
-                  "hilfreich"
+                  "Schelm",
+                  "böswillig",
                ]
             },
             {
@@ -196,7 +185,7 @@
                "required":true,
                "tags":[
                   "komfortabel",
-                  "Gammler*in",
+                  "Gammler",
                   "wohlhabend"
                ]
             },
@@ -206,12 +195,12 @@
                "required":false,
                "tags":[
                   "ermächtigt",
-                  "Lügner*in"
+                  "Lügner"
                ]
             },
             {
                "name":"Baby, das losheulen könnte",
-               "required":true,
+               "required":false,
                "tags":[
                   "zusammenhangslos",
                   "Säugling",
@@ -219,11 +208,11 @@
                ]
             },
             {
-               "name":"ein Handgepäckstück",
+               "name":"Blinder Passagier",
                "required":false,
                "tags":[
-                  "peinlich",
-                  "Gepäck"
+                  "trickreich",
+                  "Gauner"
                ]
             }
          ],
@@ -237,7 +226,7 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Warum sind Sie als Mitglied der ersten Klasse besser als alle anderen hier?",
+                     "question":"Warum bist du als Mitglied der ersten Klasse besser als alle anderen hier?",
                      "name":"Passagier erster Klasse",
                      "idx":4
                   },
@@ -249,8 +238,8 @@
                   },
                   {
                      "role":5,
-                     "question":"Was ist ein Buch, das man mit sich herumträgt, aber nie wirklich liest?",
-                     "name":"ein Handgepäckstück",
+                     "question":"Mit welcher Taktik würdest du dich an Bord schleichen?",
+                     "name":"Blinder Passagier",
                      "idx":6
                   },
                   {
@@ -261,8 +250,8 @@
                   },
                   {
                      "role":1,
-                     "question":"Was ist das Beste daran, kostenlos um die Welt zu fliegen?",
-                     "name":"Flugbegleiter*in",
+                     "question":"Was machst du mit dem Piloten, wenn er sich weigert, deinen Befehlen zu gehorchen?",
+                     "name":"Typ, der plant, das Flugzeug zu kidnappen",
                      "idx":8
                   }
                ]
@@ -272,14 +261,14 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Weise auf alle Ausgänge des Raumes hin.",
-                     "name":"Flugbegleiter*in",
+                     "question":"Offenbare allen Passagieren deinen diabolischen Plan.",
+                     "name":"Typ, der plant, das Flugzeug zu kidnappen",
                      "idx":0
                   },
                   {
                      "role":0,
-                     "question":"Beschreibe mit deiner besten Kapitänsstimme, was jede*r sehen kann, wenn er*sie aus dem Fenster schaut.",
-                     "name":"Pilot*in",
+                     "question":"Beschreibe mit deiner besten Kapitänsstimme, was jeder sehen kann, wenn er aus dem Fenster schaut.",
+                     "name":"Pilot",
                      "idx":9
                   }
                ]
@@ -298,11 +287,12 @@
             {
                "roles":[
                   {
-                     "name":"Trosttier einer reichen Dame",
+                     "name":"Autist mit Flugangst",
                      "idx":3,
                      "tags":[
-                        "animal",
-                        "wohltuend"
+                        "beschränkt",
+                        "paranoid",
+                        "Angsthase"
                      ]
                   }
                ],
@@ -316,58 +306,60 @@
       {
          "roles":[
             {
-               "name":"Besitzt eine eigene Arzneiausgabe",
+               "name":"Ein gefürchteter Auftragsmörder",
                "required":false,
                "tags":[
-                  "unbekümmert",
-                  "Unternehmer*in",
-                  "hippie"
+                  "tödlich",
+                  "Waffenmeister",
+                  "subtil"
                ]
             },
             {
-               "name":"Kabel-TV-Nachrichten-Moderator",
+               "name":"Staubsauger-Vertreter",
                "required":false,
                "tags":[
-                  "zugeknöpft",
-                  "gastgeber*in",
-                  "informativ",
-                  "seriös"
+                  "nervtötend",
+                  "hartnäckig",
+                  "Versager",
+                  "aalglatt"
                ]
             },
             {
-               "name":"Erfolgreiche*r Chirurg*in",
-               "required":false,
+               "name":"Ist die KI einer Waschmaschine",
+               "required":true,
                "tags":[
-                  "fachmann*frau",
-                  "geschickt",
-                  "smart",
-                  "wohlhabend"
+                  "Klugscheißer",
+                  "geschlechtsneutral",
+                  "strukturiert"
                ]
             },
             {
-               "name":"Inhaftiert in einem anderen Land",
+               "name":"Präsident einer Diktatur",
                "required":false,
                "tags":[
-                  "Verbrecher*in",
-                  "Unruhestifter"
+                  "Verbrecher",
+                  "Besserwisser",
+                  "größenwahnsinnig"
                ]
             },
             {
-               "name":"Kleiner Broadway-Star",
+               "name":"Leitet einen Blumenladen für Cannabispflanzen",
+               "short":"Blumenverkäufer",
                "required":false,
                "tags":[
-                  "kreativ",
-                  "Schmierenschauspieler*in",
-                  "musikalisch"
+                  "entspannt",
+                  "süchtig",
+                  "Unternehmer"
                ]
             },
             {
-               "name":"Anführer*in einer Sekte",
+               "name":"Wird der nächste Pokémon-Champion",
+               "short":"Pokémon-Trainer",
                "required":false,
                "tags":[
-                  "charismatisch",
-                  "unheimlich",
-                  "Anführer*in"
+                  "zielstrebig",
+                  "der Allerbeste",
+                  "verrückt"
                ]
             }
          ],
@@ -381,20 +373,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist ein schrecklicher Name für eine Arzneiausgabe?",
-                     "name":"Besitzt eine eigene Arzneiausgabe",
+                     "question":"Welche Waffe verwendest du, um viel Aufruhr zu erzeugen?",
+                     "name":"Ein gefürchteter Auftragsmörder",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Welches Verbrechen hast du begangen, um in einem fremden Land eingesperrt zu werden?",
-                     "name":"Inhaftiert in einem anderen Land",
+                     "question":"Welches Gesetz steht in Paragraph 1 deines Grundgesetzes?",
+                     "name":"Präsident einer Diktatur",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Wie heißt dein Publikumshit?",
-                     "name":"Kleiner Broadway-Star",
+                     "question":"Welche Pflanze empfiehlst du Paaren an Valetinstag?",
+                     "name":"Leitet einen Blumenladen für Cannabispflanzen",
                      "idx":5
                   }
                ]
@@ -404,20 +396,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wen würdest du als den vertrauenswürdigsten Namen in den Nachrichten bezeichnen?",
-                     "name":"Kabel-TV-Nachrichten-Moderator",
+                     "question":"Was machst du, damit der Kunde dich hereinlässt?",
+                     "name":"Staubsauger-Vertreter",
                      "idx":2
                   },
                   {
                      "role":2,
-                     "question":"Wer könnte wahrscheinlich am besten erklären, was eine Gallenblase tut?",
-                     "name":"Erfolgreiche*r Chirurg*in",
+                     "question":"Welches Programm empfiehlst du für <i>unerzogene Kinder</i>?",
+                     "name":"Ist die KI einer Waschmaschine",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wer ist am überzeugendsten?",
-                     "name":"Anführer*in einer Sekte",
+                     "question":"Was ist deine Geheimwaffe?",
+                     "name":"Wird der nächste Pokémon-Champion",
                      "idx":6
                   }
                ]
@@ -425,12 +417,12 @@
             {
                "roles":[
                   {
-                     "name":"Einfach nur du mit einer Augenklappe",
+                     "name":"Virus, das eine Pandemie auslöst",
                      "idx":0,
                      "tags":[
-                        "verblendet",
-                        "rätsel",
-                        "böse"
+                        "gefährlich",
+                        "klein",
+                        "unbekannt"
                      ]
                   }
                ],
@@ -438,60 +430,59 @@
             }
          ],
          "id":56470,
-         "category":"Du in einem alternativen Universum",
-         "prompt":"Welche alternative Universumsversion von euch selbst ist jeder von euch?"
+         "category":"Du in einer Parallelwelt",
+         "prompt":"Wer wärt ihr in einer Parallelwelt?"
       },
       {
          "roles":[
             {
-               "name":"helle Färbung",
+               "name":"Mord",
                "required":false,
                "tags":[
-                  "Exhibitionist*in",
-                  "Modeikone",
-                  "Angeber*in"
+                  "kaltblütig",
+                  "gewissenlos",
+                  "blutrünstig"
                ]
             },
             {
-               "name":"lautes Bellen",
+               "name":"Steuerhinterziehung",
                "required":false,
                "tags":[
-                  "laut",
-                  "Grossmaul",
-                  "rechthaberisch"
+                  "gierig",
+                  "hinterlistig",
+                  "arrogant"
                ]
             },
             {
-               "name":"Tintenwolke schießen",
-               "required":true,
+               "name":"Brandstiftung",
+               "required":false,
                "tags":[
-                  "Misteriös",
-                  "unhöflich",
-                  "rätsel"
+                  "brandgefährlich",
+                  "Vandale",
+                  "fahrlässig"
                ]
             },
             {
-               "name":"mit Stacheln bedeckt",
+               "name":"Bandenkriminalität",
                "required":false,
                "tags":[
                   "asozial",
-                  "Kämpfer*in",
-                  "Einzelgänger*in"
+                  "Mitläufer"
                ]
             },
             {
-               "name":"Gliedmaße abtrennen",
+               "name":"Körperverletzung",
                "required":false,
                "tags":[
-                  "verzweifelt",
-                  "schlamassel"
+                  "gewalttätig",
+                  "Schläger"
                ]
             },
             {
-               "name":"tot stellen",
-               "required":true,
+               "name":"Raub",
+               "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "habgierig",
                   "gewieft"
                ]
             }
@@ -506,14 +497,14 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wann wäre der beste Zeitpunkt, um in einer Tintenwolke zu verschwinden?",
-                     "name":"Tintenwolke schießen",
+                     "question":"Welchen Ort hast du attackiert und wurdest dabei erwischt?",
+                     "name":"Brandstiftung",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Welches Körperteil würdest du gerne nach Belieben ab- und wieder anbringen können?",
-                     "name":"Gliedmaße abtrennen",
+                     "question":"Wen hast du angegriffen?",
+                     "name":"Körperverletzung",
                      "idx":4
                   }
                ]
@@ -523,26 +514,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer trägt gegenwärtig die leuchtendsten Farben?",
-                     "name":"helle Färbung",
+                     "question":"Was war dein Mordmotiv?",
+                     "name":"Mord",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Wer benutzt seine Autohupe am häufigsten?",
-                     "name":"lautes Bellen",
+                     "question":"Warum hast du keine Steuern gezahlt?",
+                     "name":"Steuerhinterziehung",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Wer würde mit Hörnern am besten aussehen?",
-                     "name":"mit Stacheln bedeckt",
+                     "question":"Wie heißt deine Gang?",
+                     "name":"Bandenkriminalität",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wer würde die überzeugendste Leiche abgeben?",
-                     "name":"tot stellen",
+                     "question":"Was hast du erbeutet?",
+                     "name":"Raub",
                      "idx":5
                   }
                ]
@@ -550,12 +541,11 @@
             {
                "roles":[
                   {
-                     "name":"vom Bären gefressen werden",
+                     "name":"GEZ nicht bezahlt",
                      "idx":6,
                      "tags":[
-                        "köstlich",
-                        "hauptgericht",
-                        "ausgenutzt"
+                        "Rebell",
+                        "eigennützig"
                      ]
                   }
                ],
@@ -563,59 +553,69 @@
             }
          ],
          "id":57337,
-         "category":"Tierische Abwehrmechanismen",
-         "prompt":"Wie würdet ihr euch vor Raubtieren schützen?"
+         "category":"Inhaftiert im Knast/Hinter schwedischen Gardinen",
+         "prompt":"Weswegen sitzt jeder von euch im Gefängnis?"
       },
       {
          "roles":[
             {
-               "name":"Delfin",
+               "name":"Drill-Sergeant",
                "required":false,
                "tags":[
-                  "animal",
-                  "niedlich",
-                  "Schätzchen",
-                  "verspielt"
+                  "Schreihals",
+                  "bestimmend",
+                  "Anführer",
+                  "direkt"
                ]
             },
             {
-               "name":"Kleeblatt",
+               "name":"Hacker",
                "required":false,
                "tags":[
-                  "vom glück begünstigt",
-                  "seltenheit"
+                  "hochbegabt",
+                  "Stratege",
+                  "technikaffin",
+                  "Tüfftler"
                ]
             },
             {
-               "name":"Rose mit Dornen",
+               "name":"Kanonenfutter",
                "required":false,
                "tags":[
-                  "stachelig",
-                  "sensibelchen"
+                  "Lauch",
+                  "dumm",
+                  "ahnungslos",
+                  "hilflos"
                ]
             },
             {
-               "name":"Hotdog",
+               "name":"Ninja",
                "required":false,
                "tags":[
-                  "foodie",
-                  "doof"
+                  "leise",
+                  "unsichtbar",
+                  "Trickser",
+                  "Akrobat"
                ]
             },
             {
-               "name":"Tweety",
+               "name":"Sekretär",
                "required":false,
                "tags":[
-                  "nostalgisch",
-                  "sweetheart"
+                  "verantwortungsvoll",
+                  "planungsfähig",
+                  "administrativ",
+                  "Organisator"
                ]
             },
             {
-               "name":"Illuminaten-Symbol",
-               "required":true,
+               "name":"Sprengkommando",
+               "required":false,
                "tags":[
-                  "erleuchtet",
-                  "mystery"
+                  "zerstörerisch",
+                  "wild",
+                  "unkompliziert",
+                  "Kommandeur"
                ]
             }
          ],
@@ -629,14 +629,14 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Was ist das SCHLECHTESTE, womit man einen Hotdog belegen kann?",
-                     "name":"Hotdog",
+                     "question":"Auf welche Waffe greifst du zurück, um dein Ziel lautlos zu eliminieren?",
+                     "name":"Ninja",
                      "idx":2
                   },
                   {
-                     "role":0,
-                     "question":"Worüber könnte der Delfin springen?",
-                     "name":"Delfin",
+                     "role":5,
+                     "question":"Womit befüllst du deine Bomben, um sie noch effektiver zu machen?",
+                     "name":"Sprengkommando",
                      "idx":6
                   }
                ]
@@ -646,14 +646,14 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Imitiere einen Delfin, der sich tätowieren lässt.",
-                     "name":"Delfin",
+                     "question":"Motiviere deine Truppe mit der Stimmlage eines Drill-Sergeants.",
+                     "name":"Drill-Sergeant",
                      "idx":0
                   },
                   {
                      "role":4,
-                     "question":"Mache Tweety nach, wie er die Polizei anruft umd ein Verbrechen zu melden.",
-                     "name":"Tweety",
+                     "question":"Berichte den Söldnern von dem Tagesablauf, den du geplant hattest.",
+                     "name":"Sekretär",
                      "idx":7
                   }
                ]
@@ -663,26 +663,26 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer fühlt die Dinge am TIEFSTEN?",
-                     "name":"Rose mit Dornen",
+                     "question":"Wer hält die meisten Kugeln mit seinem Körper auf?",
+                     "name":"Kanonenfutter",
                      "idx":1
                   },
                   {
                      "role":5,
-                     "question":"Wer ist am geheimnisvollsten?",
-                     "name":"Illuminaten-Symbol",
+                     "question":"Wen würden die Gegner am schnellsten bemerken?",
+                     "name":"Sprengkommando",
                      "idx":3
                   },
                   {
                      "role":1,
-                     "question":"Wer hat das meiste unverdiente Glück?",
-                     "name":"Kleeblatt",
+                     "question":"Wer hat mehr Hardware-Equipment?",
+                     "name":"Hacker",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Wer kommt mit schlechtem Benehmen davon, weil er*sie einfach zu niedlich ist?",
-                     "name":"Tweety",
+                     "question":"Wer hat einen Ausflug schon komplett geplant, bevor das Ziel überhaupt feststeht?",
+                     "name":"Sekretär",
                      "idx":5
                   }
                ]
@@ -690,13 +690,12 @@
             {
                "roles":[
                   {
-                     "name":"coole Narbe, die irgendwie wie eine Tätowierung aussieht",
+                     "name":"Camper",
                      "idx":8,
                      "tags":[
-                        "cool",
-                        "schorf",
-                        "narbig",
-                        "einzigartig"
+                        "ruhig",
+                        "Hausbesetzer",
+                        "faul"
                      ]
                   }
                ],
@@ -704,62 +703,59 @@
             }
          ],
          "id":56695,
-         "category":"Knöchel-Tattoos",
-         "prompt":"Welches süße kleine Knöchel-Tattoo ist jeder von euch?"
+         "category":"Jobs im Söldnertrupp",
+         "prompt":"Welche Tätigkeit würdet ihr in einer Söldnertruppe ausüben?"
       },
       {
          "roles":[
             {
-               "name":"Austern",
+               "name":"Genervter Spielleiter",
                "required":false,
                "tags":[
-                  "klamm",
-                  "luxus",
-                  "salzig",
-                  "rutschig"
+                  "allwissend",
+                  "machtvoll",
+                  "über allen erhaben"
                ]
             },
             {
-               "name":"Erdbeeren",
+               "name":"Zauberer mit Leseschwäche",
                "required":false,
                "tags":[
-                  "gesund",
-                  "saftig",
-                  "snack"
+                  "gebildet",
+                  "Bücherwurm",
+                  "geheimnisvoll"
                ]
             },
             {
-               "name":"Schokolade",
+               "name":"ungeschickter Dieb",
                "required":false,
                "tags":[
-                  "süss",
-                  "leckerbissen"
+                  "tollpatschig",
+                  "Trampeltier"
                ]
             },
             {
-               "name":"Feigen",
+               "name":"atheistischer Priester",
                "required":false,
                "tags":[
-                  "aromatisch",
-                  "mild",
-                  "leckerbissen"
+                  "abergläubisch",
+                  "Lehrmeister"
                ]
             },
             {
-               "name":"Elfenblumen",
+               "name":"pazifistischer Krieger",
                "required":false,
                "tags":[
-                  "Blume",
-                  "horny"
+                  "friedvoll",
+                  "charismatisch"
                ]
             },
             {
-               "name":"penisförmige Lollies",
-               "required":true,
+               "name":"zittriger Doktor",
+               "required":false,
                "tags":[
-                  "offensichtlich",
-                  "offenkundig sexuell",
-                  "sauger"
+                  "geschickt",
+                  "nervös"
                ]
             }
          ],
@@ -773,38 +769,38 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Welches Lied würdest du spielen, um so richtig in Stimmung zu kommen?",
-                     "name":"Erdbeeren",
+                     "question":"Wie merkst du dir deine Zaubersprüche, wenn du sie nicht lesen kannst?",
+                     "name":"Zauberer mit Leseschwäche",
                      "idx":9
                   },
                   {
                      "role":0,
-                     "question":"Was wünscht man sich statt einer Perle, was man in einer Auster finden würde?",
-                     "name":"Austern",
+                     "question":"Was tust du mit einem Spieler, der dir tierisch auf den Keks geht?",
+                     "name":"Genervter Spielleiter",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"What\u2019s the worst thing to dip in chocolate fondue?",
-                     "name":"Schokolade",
+                     "question":"Weswegen ist dein letzter Raub gescheitert?",
+                     "name":"ungeschickter Dieb",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Was ist deine Vorstellung von einem perfekten Date?",
-                     "name":"Feigen",
+                     "question":"Woran glaubst du, wenn du nicht an Gott glaubst?",
+                     "name":"atheistischer Priester",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Welches Altweibermärchen hältst du für wahr?",
-                     "name":"Elfenblumen",
+                     "question":"Was tust du, wenn dein bester Freund einen Unschuldigen tötet?",
+                     "name":"pazifistischer Krieger",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Was ist der ideale Ort für einen Junggesellinnenabschied?",
-                     "name":"penisförmige Lollies",
+                     "question":"Wie betäubst du Patienten, die du operieren musst?",
+                     "name":"zittriger Doktor",
                      "idx":5
                   }
                ]
@@ -814,8 +810,8 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Singe deine beste Darbietung von \u201cUnter dem Meer\u201d aus <i>Arielle - Die kleine Meerjungfrau<\/i>.",
-                     "name":"Austern",
+                     "question":"Beschreibe das Schlachtfeld, auf dem die finale Schlacht stattfindet.",
+                     "name":"Genervter Spielleiter",
                      "idx":10
                   }
                ]
@@ -823,11 +819,12 @@
             {
                "roles":[
                   {
-                     "name":"viel suggestives Zwinkern",
+                     "name":"Assassine mit Tourette",
                      "idx":0,
                      "tags":[
-                        "verwirrend",
-                        "flirt"
+                        "geheimnisvoll",
+                        "stotternd",
+                        "verspielt"
                      ]
                   }
                ],
@@ -835,8 +832,8 @@
             }
          ],
          "id":56649,
-         "category":"Aphrodisiaka",
-         "prompt":"Welches Aphrodisiakum seid ihr?"
+         "category":"Pen&Paper-Abend",
+         "prompt":"Wer übernimmt welche Rolle bei einer Pen&Paper-Runde?"
       },
       {
          "roles":[
