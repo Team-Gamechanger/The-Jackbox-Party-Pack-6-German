@@ -838,55 +838,56 @@
       {
          "roles":[
             {
-               "name":"\u201cOhne Entschuldigung\u201d",
+               "name":"Rentner, der Einkauf auf den Cent genau bezahlen will",
+               "short":"Rentner mit Kleingeld",
                "required":false,
                "tags":[
-                  "unbekümmert",
-                  "tatsache",
-                  "frech",
-                  "Unruhestifter"
+                  "akribisch",
+                  "alt",
+                  "langsam"
                ]
             },
             {
-               "name":"\u201cÜberwiegend Lügen\u201d",
+               "name":"Alleinerziehende Mutter mit 3 Kindern",
+               "short":"Mutter mit Kindern",
                "required":false,
                "tags":[
-                  "Lügner*in",
-                  "gewieft"
+                  "überfordert",
+                  "gestresst"
                ]
             },
             {
-               "name":"\u201cIch habe Was getan?!!\u201d",
+               "name":"Kassierer, der keinen Bock hat",
                "required":false,
                "tags":[
-                  "dumm",
-                  "Mensch ohne Gedächtnis",
-                  "verwirrt"
+                  "genervt",
+                  "eilig"
                ]
             },
             {
-               "name":"\u201c@#*!!\u201d",
+               "name":"ungeschickter Ladendieb",
                "required":false,
                "tags":[
-                  "wütend",
-                  "banause"
+                  "Banause",
+                  "Schmuggler",
+                  "nervös"
                ]
             },
             {
-               "name":"\u201cAufstieg zur Macht\u201d",
+               "name":"Typ, der 10 Leute vor lässt",
                "required":false,
                "tags":[
-                  "Anführer*in",
-                  "Planer*in",
-                  "wuchtig"
+                  "freundlich",
+                  "sozial",
+                  "entspannt"
                ]
             },
             {
-               "name":"\u201cKiss and Tell\u201d",
+               "name":"Obdachloser, der sich Alkohol kauft",
                "required":false,
                "tags":[
-                  "flirt",
-                  "Romantiker*in"
+                  "süchtig",
+                  "dreckig"
                ]
             }
          ],
@@ -900,38 +901,38 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Du schreibst deine Autobiografie aus dem Gefängnis heraus.  Wie nennst du das Kapitel über deine Inhaftierung?",
-                     "name":"\u201cOhne Entschuldigung\u201d",
+                     "question":"Du findest das richtige Centstück nicht und die Leute werden immer ungedulgier. Was machst du?",
+                     "name":"Rentner, der Einkauf auf den Cent genau bezahlen will",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Welchem prominenten besten Freund widmest du deine Autobiografie?",
-                     "name":"\u201cÜberwiegend Lügen\u201d",
+                     "question":"Eins deiner Kinder läuft zum Ausgang, während du bezahlst. Worum kümmerst du dich zuerst?",
+                     "name":"Alleinerziehende Mutter mit 3 Kindern",
                      "idx":2
                   },
                   {
                      "role":2,
-                     "question":"Du kannst dieses Buch nicht unter deinem richtigen Namen veröffentlichen.  Welches Pseudonym verwendest du?",
-                     "name":"\u201cIch habe Was getan?!!\u201d",
+                     "question":"Eine Dame möchte einen Artikel umtauschen, hat aber den Bon verloren. Wie reagierst du?",
+                     "name":"Kassierer, der keinen Bock hat",
                      "idx":6
                   },
                   {
                      "role":3,
-                     "question":"Beende diesen Haftungsausschluss. Dieses Buch enthält den folgenden grafischen Inhalt:",
-                     "name":"\u201c@#*!!\u201d",
+                     "question":"Du versuchst ein 10 Liter Bierfass zu klauen. Wie stellst du das an?",
+                     "name":"ungeschickter Ladendieb",
                      "idx":7
                   },
                   {
                      "role":4,
-                     "question":"Was hast du mit einem vollständigen Soziopathen am meisten gemeinsam?",
-                     "name":"\u201cAufstieg zur Macht\u201d",
+                     "question":"Hinter dir steht ein 2 Meter Typ, der dich grimmig anschaut und ein Rollstuhlfahrer möchte vor. Was tust du?",
+                     "name":"Typ, der 10 Leute vor lässt",
                      "idx":8
                   },
                   {
                      "role":5,
-                     "question":"Sag uns, welchen leblosen Gegenstand du am liebsten küssen würdest.",
-                     "name":"\u201cKiss and Tell\u201d",
+                     "question":"Was sagst du, wenn du nach deinem Ausweis gefragt wirst?",
+                     "name":"Obdachloser, der sich Alkohol kauft",
                      "idx":9
                   }
                ]
@@ -939,12 +940,12 @@
             {
                "roles":[
                   {
-                     "name":"\u201cMein Geständnis\u201d",
+                     "name":"Student, der um 22Uhr einkaufen geht",
                      "idx":1,
                      "tags":[
-                        "Verbrecher*in",
-                        "böse",
-                        "ehrlich"
+                        "gelassen",
+                        "verplant",
+                        "Stratege"
                      ]
                   }
                ],
@@ -952,8 +953,8 @@
             }
          ],
          "id":57325,
-         "category":"Titel deiner Autobiographie",
-         "prompt":"Welchen Titel wirst du am ehesten für deine späteren Autobiografien verwenden?"
+         "category":"Personen an der Kasse",
+         "prompt":"Welche Art von Person an einer Supermarktkasse wärt ihr?"
       },
       {
          "roles":[
