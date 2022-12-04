@@ -1102,57 +1102,63 @@
       {
          "roles":[
             {
-               "name":"zuckerhaltiges Müsli",
+               "name":"Ist noch in der Steinzeit, während die Mitspieler Schusswaffen verwenden",
+               "short":"Steinzeitmensch",
                "required":true,
                "tags":[
-                  "unbekümmert",
-                  "Adrenalinjunkie"
+                  "langsam",
+                  "abgelenkt",
+                  "Anfänger"
                ]
             },
             {
-               "name":"ein Glas Milch",
-               "short":"Milch",
+               "name":"Versucht alle mit seinem Glauben zu bekehren",
+               "short":"Sektenanführer",
                "required":true,
                "tags":[
-                  "zuverlässig",
-                  "grundlage"
+                  "aufdringlich",
+                  "fromm",
+                  "gläubig",
+                  "Gesandter"
                ]
             },
             {
-               "name":"das zweite Glas Orangensaft",
-               "short":"zweiter O-Saft",
+               "name":"Fliegt bereits zum Mond, als die anderen das Rad entdeckt haben",
+               "short":"Wissenschaftler",
                "required":false,
                "tags":[
-                  "Sonderling",
-                  "überraschung",
-                  "unerwartet"
+                  "Pionier",
+                  "klug",
+                  "vorausschauend"
                ]
             },
             {
-               "name":"eine halbe Grapefruit und eine Schüssel Haferflocken",
-               "short":"Grapefruit und Haferflocken",
+               "name":"Spieler, der zuerst die Atombombe schmeißt",
+               "short":"Kriegstreiber",
                "required":false,
                "tags":[
-                  "rätsel",
-                  "misteriös"
+                  "impulsiv",
+                  "Agressor",
+                  "zerstörerisch"
                ]
             },
             {
-               "name":"eine Art Würstchen?",
-               "short":"Würstchen?",
+               "name":"Wird andauernd von Barbaren bedrängt",
+               "short":"KI-Kanonenfutter",
                "required":false,
                "tags":[
-                  "herzhaft",
-                  "fleischklops"
+                  "unbeholfen",
+                  "machtlos"
                ]
             },
             {
-               "name":"geschmackvolle karierte Tischdecke",
-               "short":"karierte Tischdecke",
+               "name":"Spieler, auf den alle anderen warten müssen",
+               "short":"akribischer Stratege",
                "required":false,
                "tags":[
-                  "viehzüchter",
-                  "stylish"
+                  "konzentriert",
+                  "durchdacht",
+                  "Planer"
                ]
             }
          ],
@@ -1166,20 +1172,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist dein guilty pleasure Müsli?",
-                     "name":"zuckerhaltiges Müsli",
+                     "question":"Was ist dein Plan in 10 Runden dennoch die Führung zu übernehmen?",
+                     "name":"Ist noch in der Steinzeit, während die Mitspieler Schusswaffen verwenden",
                      "idx":0
                   },
                   {
                      "role":3,
-                     "question":"Wie heißt die schlechteste Diät?",
-                     "name":"eine halbe Grapefruit und eine Schüssel Haferflocken",
+                     "question":"Ein Reich möchte diplomatische Beziehungen mit dir aufbauen. Wie lautet deine Antwort?",
+                     "name":"Spieler, der zuerst die Atombombe schmeißt",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Was wäre das beste neuartige Muster für eine Tischdecke?",
-                     "name":"geschmackvolle karierte Tischdecke",
+                     "question":"Die Anderen habe ihren Zug bereits beendet, du brauchst jedoch noch Zeit um deine Truppenbewegungen zu planen. Welche Ausrede verwendest du?",
+                     "name":"Spieler, auf den alle anderen warten müssen",
                      "idx":6
                   }
                ]
@@ -1189,20 +1195,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer hat wahrscheinlich die stärksten Knochen?",
-                     "name":"ein Glas Milch",
+                     "question":"Wer würde für seinen Glauben sterben?",
+                     "name":"Versucht alle mit seinem Glauben zu bekehren",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Wer hat keine Zeit, morgens zu frühstücken?",
-                     "name":"das zweite Glas Orangensaft",
+                     "question":"Wer ist der klügste im ganzen Land?",
+                     "name":"Fliegt bereits zum Mond, als die anderen das Rad entdeckt haben",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wer isst am ehesten eine Wurst, ohne zu wissen, um welche Art von Fleisch es sich handelt?",
-                     "name":"eine Art Würstchen?",
+                     "question":"Wer zieht immer den Kürzeren?",
+                     "name":"Wird andauernd von Barbaren bedrängt",
                      "idx":5
                   }
                ]
@@ -1210,12 +1216,13 @@
             {
                "roles":[
                   {
-                     "name":"Maskottchen, das versucht, das Frühstück zu stehlen",
+                     "name":"Verliert ständig die Verbindung zur Lobby",
+                     "short":"Der Asynchrone"
                      "idx":2,
                      "tags":[
                         "frustriert",
-                        "Dummkopf",
-                        "maskottchen"
+                        "genervt",
+                        "langsam"
                      ]
                   }
                ],
@@ -1223,8 +1230,8 @@
             }
          ],
          "id":56261,
-         "category":"Ausgewogenes Frühstück",
-         "prompt":"Welcher Teil eines ausgewogenen Frühstücks seid ihr jeweils?"
+         "category":"<i>Sid Meier\u2019s Civilization<\/i>-Spieler",
+         "prompt":"Welche Spielertypen seid ihr in Civilization?"
       },
       {
          "roles":[
