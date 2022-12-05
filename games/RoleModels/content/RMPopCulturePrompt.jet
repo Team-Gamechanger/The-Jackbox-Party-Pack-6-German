@@ -4,62 +4,62 @@
       {
          "roles":[
             {
-               "name":"Barack Obama",
+               "name":"Schlumpf, der nicht merkt, dass er kein Talent für Musik hat",
+               "short":"Flötenschlumpf",
                "required":true,
                "tags":[
-                  "Anführer*in",
-                  "diplomatisch",
-                  "beliebt",
-                  "smart"
+                  "Musiker",
+                  "untalentiert",
+                  "nervig",
+                  "gutherzig"
                ]
             },
             {
-               "name":"Michelle Obama",
+               "name":"Papa Schlumpf",
                "required":true,
                "tags":[
-                  "mit Klasse",
-                  "selbstbewusst",
-                  "glamourös",
-                  "menschenfreund"
+                  "alt",
+                  "weise",
+                  "Vater"
                ]
             },
             {
-               "name":"Joe Biden",
+               "name":"Übervorsichtiger Schlumpf, der vor allem Angst hat",
+               "short":"Fürchteschlumpf",
                "required":false,
                "tags":[
-                  "Dummbatz",
-                  "verrückt",
-                  "unberechenbar"
+                  "Angsthase",
+                  "paranoid",
+                  "schreckhaft"
                ]
             },
             {
-               "name":"Nervöse*r Praktikant*in",
-               "required":false,
-               "tags":[
-                  "ängstlich",
-                  "sidekick",
-                  "aushilfe",
-                  "unbezahlt",
-                  "Bedenkenträger*in"
-               ]
-            },
-            {
-               "name":"Bo, der Hund",
+               "name":"Schlumpf, der sich bei jeder Gelegenheit ins Abenteuer stürzt",
+               "short":"Marco Schlumpfo",
                "required":true,
                "tags":[
-                  "Animal",
-                  "liebenswert",
-                  "maskottchen"
+                  "Abenteurer",
+                  "mutig",
+                  "selbstbewusst"
                ]
             },
             {
-               "name":"Obama\u2019s hellbrauner Anzug",
+               "name":"Journalist unter den Schlümpfen",
+               "short":"Reporterschlumpf",
                "required":false,
                "tags":[
-                  "kühn",
-                  "kontrovers",
-                  "schäbig",
-                  "trendsetter*in"
+                  "neugierig",
+                  "aufdringlich",
+                  "sensationsgierig"
+               ]
+            },
+            {
+               "name":"Gargamel",
+               "required":false,
+               "tags":[
+                  "boshaft",
+                  "gierig",
+                  "dumm"
                ]
             }
          ],
@@ -134,8 +134,8 @@
             }
          ],
          "id":56137,
-         "category":"Das weiße Haus 2014",
-         "prompt":"Welche*r Bewohner*in des weißen Haus 2014 seid ihr?"
+         "category":"Die Schlümpfe",
+         "prompt":"Welcher Bewohner der Welt der Schlümpfe seid ihr?"
       },
       {
          "roles":[
@@ -315,7 +315,7 @@
          ],
          "id":56581,
          "category":"\u201990er Topfilme",
-         "prompt":"Welcher Klassiker aus dern 90ern seid ihr?"
+         "prompt":"Welcher Klassiker aus den 90ern seid ihr?"
       },
       {
          "roles":[
