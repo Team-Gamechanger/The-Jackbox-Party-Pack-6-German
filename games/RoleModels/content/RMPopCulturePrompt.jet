@@ -140,60 +140,58 @@
       {
          "roles":[
             {
-               "name":"<i>Clueless - Was sonst?<\/i>",
+               "name":"Relaxo",
                "required":true,
                "tags":[
-                  "dumm",
-                  "Schwarm",
-                  "stylish"
+                  "fett",
+                  "Langschläfer",
+                  "faul"
                ]
             },
             {
-               "name":"<i>Pulp Fiction<\/i>",
+               "name":"Fuegro",
                "required":true,
                "tags":[
-                  "cool",
-                  "Verbrecher*in",
-                  "erwachsen",
+                  "muskulös",
+                  "hitzig",
+                  "Katzenliebhaber",
                   "gewalttätig"
                ]
             },
             {
-               "name":"<i>Scream<\/i>",
+               "name":"Woingenau",
                "required":false,
                "tags":[
-                  "unheimlich",
-                  "überraschend",
+                  "nervig",
+                  "unpassend",
                   "Unruhestifter"
                ]
             },
             {
-               "name":"<i>Titanic<\/i>",
+               "name":"Mogelbaum",
                "required":false,
                "tags":[
-                  "mutig",
-                  "Klassiker",
-                  "melodramatisch",
-                  "Romantiker*in"
+                  "steinhart",
+                  "Hochstapler",
+                  "positiv",
+                  "Grinsebacke"
                ]
             },
             {
-               "name":"<i>König der Löwen<\/i>",
+               "name":"Schlurp",
                "required":false,
                "tags":[
-                  "Animal",
-                  "majestätisch",
-                  "musikalisch"
+                  "tierisch",
+                  "Schleckermäulchen"
                ]
             },
             {
-               "name":"<i>Space Jam<\/i>",
-               "required":true,
+               "name":"Rotom",
+               "required":false,
                "tags":[
-                  "athletisch",
-                  "verrückte*r",
-                  "radikale*r",
-                  "Sprüche klopfend"
+                  "hyperaktiv",
+                  "schnell",
+                  "Geist"
                ]
             }
          ],
@@ -207,14 +205,14 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was ist dein Lieblings-Gruselfilm?",
-                     "name":"<i>Scream<\/i>",
+                     "question":"Was ist das unpassenste, wo bei deine Mutter dich erwischen kann?",
+                     "name":"Woingenau",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"In welcher Sportart oder welchem Spiel würdest du ein Team aus Monsteraliens herausfordern?",
-                     "name":"<i>Space Jam<\/i>",
+                     "question":"In welchen Haushaltsgegenstand würdest du dich verziehen?",
+                     "name":"Rotom",
                      "idx":5
                   }
                ]
@@ -224,14 +222,14 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Tanz/t wie John Travolta und/oder Uma Thurman.",
-                     "name":"<i>Pulp Fiction<\/i>",
+                     "question":"Zeig den anderen, wie du einen Boxkampf gewinnen würdest.",
+                     "name":"Fuegro",
                      "idx":1
                   },
                   {
                      "role":4,
-                     "question":"Singe dein Lieblingslied aus  <i>König der Löwen<\/i>.",
-                     "name":"<i>König der Löwen<\/i>",
+                     "question":"Spiele den anderen vor, wie du am schnellsten Eis isst.",
+                     "name":"Schlurp",
                      "idx":4
                   }
                ]
@@ -241,72 +239,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer scheint während eines Sportevents am meisten verwirrt zu sein?",
-                     "name":"<i>Clueless - Was sonst?<\/i>",
+                     "question":"Wer schläft am Tag mehr, als in der Nacht?",
+                     "name":"Relaxo",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wer gibt am ehesten seinen Platz in einem Rettungsboot frei?",
-                     "name":"<i>Titanic<\/i>",
+                     "question":"Wer würde gegen Geld für jemand anderen einen Test schreiben?",
+                     "name":"Mogelbaum",
                      "idx":3
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Wie heißt die Protagonistin in <i>Scream<\/i> mit Vornamen?",
-                     "correct":"Sidney",
-                     "name":"<i>Scream<\/i>",
-                     "altSpellings":[
-                        "Sydney",
-                        "Sidny",
-                        "Sydny",
-                        "Neve"
-                     ],
-                     "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":5,
-                     "question":"Who likes to slam and who likes to jam?",
-                     "roles":[
-                        {
-                           "name":"<i>Space Jam<\/i> (slammer)",
-                           "tags":[
-                              "athletisch",
-                              "verrückte*r"
-                           ]
-                        },
-                        {
-                           "name":"<i>Space Jam<\/i> (jammer)",
-                           "tags":[
-                              "radikale*r",
-                              "Angeber*in"
-                           ]
-                        }
-                     ],
-                     "name":"<i>Space Jam<\/i>",
-                     "idx":7
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Robin Hood: Männer in Strumpfhosen",
+                     "name":"Karpador",
                      "idx":8,
                      "tags":[
-                        "humoristisch",
-                        "Dummbatz",
-                        "anzüglich"
+                        "nutzlos",
+                        "schuppig"
                      ]
                   }
                ],
@@ -314,78 +266,62 @@
             }
          ],
          "id":56581,
-         "category":"\u201990er Topfilme",
-         "prompt":"Welcher Klassiker aus den 90ern seid ihr?"
+         "category":"<i>Pokémon<\/i>",
+         "prompt":"Welches Pokémon seid ihr?"
       },
       {
          "roles":[
             {
-               "name":"Alice",
+               "name":"Kleine Genitalien",
                "required":true,
                "tags":[
                   "mutig",
                   "neugierig",
-                  "Entdecker*in",
-                  "logisch",
-                  "seriös"
+                  "eingeschränkt"
                ]
             },
             {
-               "name":"Grinsekatze",
+               "name":"Wird gemobbt",
                "required":false,
                "tags":[
-                  "Animal",
-                  "unbekümmert",
-                  "kryptisch",
-                  "rätselhaft",
-                  "grinsend",
-                  "guide",
-                  "misteriös"
-               ]
-            },
-            {
-               "name":"Die Rote Königin",
-               "required":true,
-               "tags":[
-                  "Anführer*in",
-                  "wütend",
-                  "herrschsüchtig",
-                  "böse",
-                  "royal",
-                  "reizbar",
-                  "tyrann*in"
-               ]
-            },
-            {
-               "name":"Raupe",
-               "required":false,
-               "tags":[
-                  "animal",
-                  "mürrisch",
-                  "poetisch",
-                  "streng",
-                  "lehrer*in",
-                  "weise"
-               ]
-            },
-            {
-               "name":"der Hutmacher",
-               "required":true,
-               "tags":[
-                  "irrsinnig",
-                  "Party Typ",
-                  "skurril",
+                  "einsam",
+                  "Außenseiter",
                   "unberechenbar"
                ]
             },
             {
-               "name":"das Weiße Kaninchen",
+               "name":"Ist so groß wie ein Riese",
                "required":false,
                "tags":[
-                  "animal",
-                  "wahnsinnig",
+                  "erhaben",
+                  "furchteinflößend"
+               ]
+            },
+            {
+               "name":"Ist ein Alpha-Kevin",
+               "required":false,
+               "tags":[
+                  "Kevin",
+                  "dumm",
+                  "gelassen",
+                  "einfach"
+               ]
+            },
+            {
+               "name":"Behaart wie ein Primat",
+               "required":false,
+               "tags":[
+                  "ungepflegt",
+                  "skurril"
+               ]
+            },
+            {
+               "name":"Braucht als Erwachsener noch eine Windel",
+               "required":false,
+               "tags":[
                   "nervös",
-                  "Bedenkenträger*in"
+                  "undicht",
+                  "Weichei"
                ]
             }
          ],
@@ -399,26 +335,26 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was ist das Letzte, was dich wirklich, wirklich wütend gemacht hat?",
-                     "name":"Die Rote Königin",
+                     "question":"Was kannst du sehen, was kleine Menschen nicht sehen?",
+                     "name":"Ist so groß wie ein Riese",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"Was ist etwas, das dich im Moment zutiefst beunruhigt?",
-                     "name":"das Weiße Kaninchen",
+                     "question":"Wie hoch fällt dein Sonderrabatt auf Windeln aus?",
+                     "name":"Braucht als Erwachsener noch eine Windel",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Welchen Alltagsgegenstand sollte jeder als Trinkgefäß benutzen?",
-                     "name":"der Hutmacher",
+                     "question":"Welches Körperpflegeprodukt würdest du empfehlen?",
+                     "name":"Behaart wie ein Primat",
                      "idx":6
                   },
                   {
                      "role":0,
-                     "question":"Wenn du plötzlich sehr, sehr klein wärst, in was für einem niedlichen Ding würdest du schlafen?",
-                     "name":"Alice",
+                     "question":"Was ist dafür an deinem Körper besonders groß?",
+                     "name":"Kleine Genitalien",
                      "idx":8
                   }
                ]
@@ -428,8 +364,8 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Stelle Johnny Depp dar, wie er erklärt, wie er zum Hutmacher wurde.",
-                     "name":"der Hutmacher",
+                     "question":"Spiele nach, wie du als Affe Essen bestellen würdest.",
+                     "name":"Behaart wie ein Primat",
                      "idx":7
                   }
                ]
@@ -439,20 +375,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer hat das breitere Grinsen?",
-                     "name":"Grinsekatze",
+                     "question":"Wer würde am ehesten zurückschlagen?",
+                     "name":"Wird gemobbt",
                      "idx":1
                   },
                   {
                      "role":0,
-                     "question":"Wer stolpert eher und fällt kopfüber in ein bodenloses Loch?",
-                     "name":"Alice",
+                     "question":"Wessen Genitalien würde man selbst unter einem Mikroskop nicht finden?",
+                     "name":"Kleine Genitalien",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wer bleibt auch in Stresssituationen unheimlich gelassen?",
-                     "name":"Raupe",
+                     "question":"Wer würde selbst von einem Jeremy-Pascal ausgelacht werden?",
+                     "name":"Ist ein Alpha-Kevin",
                      "idx":5
                   }
                ]
@@ -460,11 +396,13 @@
             {
                "roles":[
                   {
-                     "name":"Tweedledum",
+                     "name":"Ist ein Autist",
                      "idx":3,
                      "tags":[
-                        "dumm",
-                        "Dummbatz"
+                        "intelligent",
+                        "beschränkt",
+                        "speziell",
+                        "unvoreingenommen"
                      ]
                   }
                ],
@@ -472,8 +410,8 @@
             }
          ],
          "id":56267,
-         "category":"<i>Alice im Wunderland<\/i>",
-         "prompt":"Welche Figur aus <i>Alice im Wunderland<\/i> seid ihr?"
+         "category":"<i>Dr. Sommer<\/i>-Diagnosen",
+         "prompt":"Weswegen würde jeder von euch <i>Dr. Sommer<\/i> anschreiben?"
       },
       {
          "roles":[

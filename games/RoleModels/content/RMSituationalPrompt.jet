@@ -553,7 +553,7 @@
             }
          ],
          "id":57337,
-         "category":"Inhaftiert im Knast/Hinter schwedischen Gardinen",
+         "category":"Inhaftiert im Knast",
          "prompt":"Weswegen sitzt jeder von euch im Gefängnis?"
       },
       {
@@ -1236,56 +1236,62 @@
       {
          "roles":[
             {
-               "name":"Kingsize-Matratze",
+               "name":"Ministerium für Migration und Flüchtlinge",
+               "short":"Migrationsminister",
                "required":false,
                "tags":[
-                  "prachtvoll",
-                  "monarch*in",
-                  "königlich"
+                  "voreingenommen",
+                  "gefühllos",
+                  "abweisend"
                ]
             },
             {
-               "name":"Wasserbett",
+               "name":"Ministerium für Digitales und Verkehr",
+               "short":"Vekehrsminister",
                "required":false,
                "tags":[
-                  "gepatsche",
-                  "instabil",
-                  "wischiwaschi"
+                  "altmodisch",
+                  "Rentner",
+                  "arrogant"
                ]
             },
             {
-               "name":"klumpiger Futon",
+               "name":"Ministerium für Vaterlandsschutz",
+               "short":"Staatsschutzminister",
                "required":false,
                "tags":[
-                  "peinlich",
-                  "Täuschung"
+                  "Patriot",
+                  "Lügner",
+                  "direkt"
                ]
             },
             {
-               "name":"Schlafsack",
-               "required":true,
+               "name":"Ministerium für Lager und Gulagbeaufsichtigungen",
+               "short":"Justizminister",
+               "required":false,
                "tags":[
-                  "abenteuerlustig",
-                  "Camper*in",
+                  "Fetischist",
+                  "sadistisch",
+                  "streng"
+               ]
+            },
+            {
+               "name":"Ministerium für Bildung und Forschung",
+               "short":"Bildungsminister",
+               "required":false,
+               "tags":[
+                  "ungebildet",
+                  "abergläubisch",
+                  "beschränkt"
+               ]
+            },
+            {
+               "name":"Ministerium für Abfall und Müllentsorgung",
+               "short":"Abfallminister",
+               "required":false,
+               "tags":[
+                  "dreckig",
                   "simpel"
-               ]
-            },
-            {
-               "name":"flacher Felsen",
-               "required":false,
-               "tags":[
-                  "hart",
-                  "natürlich",
-                  "überlebenskünstler*in"
-               ]
-            },
-            {
-               "name":"aufrecht stehender Sarg",
-               "required":true,
-               "tags":[
-                  "innerlich tot",
-                  "unheimlich",
-                  "vampir"
                ]
             }
          ],
@@ -1299,14 +1305,14 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was ist da drin, das Klumpen macht?",
-                     "name":"klumpiger Futon",
+                     "question":"Was ist deine erste Schutzhandlung, um Eindringlinge abzuwehren?",
+                     "name":"Ministerium für Vaterlandsschutz",
                      "idx":2
                   },
                   {
                      "role":5,
-                     "question":"Was ist die wahre Schwäche eines Vampirs?",
-                     "name":"aufrecht stehender Sarg",
+                     "question":"Was tust du, wenn das Nachbarskind wieder Müll in deinen Vorgarten schmeißt?",
+                     "name":"Ministerium für Abfall und Müllentsorgung",
                      "idx":6
                   }
                ]
@@ -1316,14 +1322,14 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"Zeige den Anwesenden, wie ein Vampir aufwacht.",
-                     "name":"aufrecht stehender Sarg",
+                     "question":"Zeige den anderen, wie man am besten Müll trennt.",
+                     "name":"Ministerium für Abfall und Müllentsorgung",
                      "idx":1
                   },
                   {
                      "role":0,
-                     "question":"Demonstriere ein ordentliches königliches Winken.",
-                     "name":"Kingsize-Matratze",
+                     "question":"Demonstriere, wie du dich mit einem Flüchtling verständigst, der dich nicht versteht.",
+                     "name":"Ministerium für Migration und Flüchtlinge",
                      "idx":7
                   }
                ]
@@ -1333,26 +1339,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Welcher Spieler schläft eher in einem Seidenpyjama?",
-                     "name":"Kingsize-Matratze",
+                     "question":"Welcher Spieler sieht eher aus, wie ein Flüchtling?",
+                     "name":"Ministerium für Migration und Flüchtlinge",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Wer ist sehr emotional wie ein klassisches Wasser-Sternzeichen?",
-                     "name":"Wasserbett",
+                     "question":"Wer würde noch eine Schreibmaschine verwenden, wenn er könnte?",
+                     "name":"Ministerium für Digitales und Verkehr",
                      "idx":3
                   },
                   {
                      "role":3,
-                     "question":"Wer trägt derzeit die meisten Reißverschlüsse?",
-                     "name":"Schlafsack",
+                     "question":"Wer wäre der beste Türsteher?",
+                     "name":"Ministerium für Lager und Gulagbeaufsichtigungen",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Wer wird hart, wenn es hart auf hart kommt?",
-                     "name":"flacher Felsen",
+                     "question":"Wer würde selbst einen Mathetest aus der ersten Klasse nicht bestehen?",
+                     "name":"Ministerium für Bildung und Forschung",
                      "idx":5
                   }
                ]
@@ -1360,11 +1366,12 @@
             {
                "roles":[
                   {
-                     "name":"Deprivationskammer",
+                     "name":"Ministerium für Steuerverschwendung",
+                     "short":"Finanzminister",
                      "idx":8,
                      "tags":[
-                        "neuzeitlich",
-                        "Spinner*in"
+                        "verschwenderisch",
+                        "Bonze"
                      ]
                   }
                ],
@@ -1372,8 +1379,8 @@
             }
          ],
          "id":56887,
-         "category":"Arten von Betten",
-         "prompt":"Welche Art von Bett ist jeder von euch?"
+         "category":"Minister einer Regierung",
+         "prompt":"Für welchen Minister-Posten wird jeder von euch in einer extremistischen Regierung berufen?"
       },
       {
          "roles":[
