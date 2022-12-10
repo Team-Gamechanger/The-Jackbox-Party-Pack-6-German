@@ -34,7 +34,7 @@
             },
             {
                "name":"Kabeltrommel halten",
-               "required":true,
+               "required":false,
                "tags":[
                   "unvorsichtig",
                   "Nichtskönner",
