@@ -73,26 +73,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was glaubst du, tut Barack Obama in diesem Augenblick?",
-                     "name":"Barack Obama",
+                     "question":"Wie würdest du die anderen Schlümpfe überzeugen zu deinem Konzert zu kommen?",
+                     "name":"Schlumpf, der nicht merkt, dass er kein Talent für Musik hat",
                      "idx":1
                   },
                   {
                      "role":1,
-                     "question":"Welchen neuen Nationalfeiertag würden Sie als First Lady versuchen einzuführen?",
-                     "name":"Michelle Obama",
+                     "question":"Eines der Schlumpfkinder hat dir einen fiesen Streich gespielt, was sagst du zu ihm?",
+                     "name":"Papa Schlumpf",
                      "idx":2
                   },
                   {
                      "role":5,
-                     "question":"Welches ist aktuell das peinlichste Teil in deinem Kleiderschrank?",
-                     "name":"Obama\u2019s hellbrauner Anzug",
+                     "question":"Welche Falle stellst du den Schlümpfen um sie endlich zu fangen?",
+                     "name":"Gargamel",
                      "idx":5
                   },
                   {
                      "role":4,
-                     "question":"Was würde ein Hund versprechen, wenn er für das Präsidentenamt kandidieren würde?",
-                     "name":"Bo, der Hund",
+                     "question":"Was tust du, um mehr Schlümpfe davon zu überzeugen deine Zeitung zu lesen?",
+                     "name":"Journalist unter den Schlümpfen",
                      "idx":0
                   }
                ]
@@ -102,8 +102,8 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Als Vizepräsident Joe Biden, mache den besten Eindruck während du der Rede des Präsidenten aufmerksam zuhörst.",
-                     "name":"Joe Biden",
+                     "question":"Als Fürchteschlumpf, stottere eine inspirierende Rede für deine Mitspieler.",
+                     "name":"Übervorsichtiger Schlumpf, der vor allem Angst hat",
                      "idx":3
                   }
                ]
@@ -113,8 +113,8 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Welchem Spieler traust du zu, die Kaffeebestellung richtig zu machen?",
-                     "name":"Nervöse*r Praktikant*in",
+                     "question":"Welcher Spieler ist der beste Teamkollege in einer Schnitzeljagd?",
+                     "name":"Schlumpf, der sich bei jeder Gelegenheit ins Abenteuer stürzt",
                      "idx":4
                   }
                ]
@@ -122,11 +122,13 @@
             {
                "roles":[
                   {
-                     "name":"nur bei der Führung",
+                     "name":"Schlumpf, der immer betrunken ist",
+                     "short":"Saufi",
                      "idx":6,
                      "tags":[
-                        "neugierig",
-                        "Besucher*in"
+                        "unvorsichtig",
+                        "blau",
+                        "Strandhaubitze"
                      ]
                   }
                ],
