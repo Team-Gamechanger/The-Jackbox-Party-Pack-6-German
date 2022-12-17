@@ -576,70 +576,64 @@
             }
          ],
          "id":56570,
-         "category":"Lustige Internetvideos",
-         "prompt":"Welches Video passt zu wem?"
+         "category":"Memes",
+         "prompt":"Welches Meme passt zu wem?"
       },
       {
          "roles":[
             {
-               "name":"Michael",
+               "name":"Bestes Familienspiel",
                "required":true,
                "tags":[
-                  "zuverlässig",
-                  "Anführer*in",
-                  "elterlich",
-                  "ausgenutzt",
+                  "freundlich",
+                  "kindlich",
                   "Langweiler"
                ]
             },
             {
-               "name":"Gob",
+               "name":"Bestes Action-Spiel",
                "required":true,
                "tags":[
-                  "Angeber*in",
+                  "temperamentvoll",
                   "unberechenbar",
-                  "tollpatschig"
+                  "Barbar"
                ]
             },
             {
-               "name":"Lucille",
-               "required":true,
-               "tags":[
-                  "kühn",
-                  "selbstbewusst",
-                  "Matriarchin",
-                  "erwachsen",
-                  "vergesslich",
-                  "spitzzüngig",
-                  "wohlhabend"
-               ]
-            },
-            {
-               "name":"Buster",
-               "required":true,
-               "tags":[
-                  "tollpatschig",
-                  "kindlich",
-                  "Dummbatz"
-               ]
-            },
-            {
-               "name":"Maeby",
+               "name":"Beste künstlerische Gestaltung",
                "required":false,
                "tags":[
-                  "unbekümmert",
-                  "Intrigant*in",
-                  "gewieft",
+                  "kreativ",
+                  "Designer",
+                  "enthusiastisch",
+                  "impulsiv"
+               ]
+            },
+            {
+               "name":"Bestes mobiles Spiel",
+               "required":true,
+               "tags":[
+                  "klein",
+                  "verrufen"
+               ]
+            },
+            {
+               "name":"Bestes Sport-/Rennspiel",
+               "required":false,
+               "tags":[
+                  "schnell",
+                  "Perfektionist",
+                  "hitzköpfig",
                   "Adrenalinjunkie"
                ]
             },
             {
-               "name":"Gene Parmesan",
+               "name":"Bestes Rollenspiel",
                "required":false,
                "tags":[
-                  "lästig",
-                  "gewieft",
-                  "spy"
+                  "vielseitig",
+                  "künstlerisch",
+                  "talentiert"
                ]
             }
          ],
@@ -653,20 +647,20 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was kostet eine Banane?",
-                     "name":"Lucille",
+                     "question":"Ein Gemälde von dir wird für 50.000€ versteigert. Was zeigt es?",
+                     "name":"Beste künstlerische Gestaltung",
                      "idx":0
                   },
                   {
                      "role":0,
-                     "question":"Du öffnest eine braune Papiertüte, was erwartest du dort zu sehen?",
-                     "name":"Michael",
+                     "question":"Welches Spiel würdest du zu Weihnachten spielen, um deine Verwandschaft los zu werden, aber ohne die Kinder zu verschrecken?",
+                     "name":"Bestes Familienspiel",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wie würde der Name deiner Familienfolkband lauten?",
-                     "name":"Maeby",
+                     "question":"Du gewinnst ein Rennen. Was sagst du dem Zweitplazierten?",
+                     "name":"Bestes Sport-/Rennspiel",
                      "idx":4
                   }
                ]
@@ -676,14 +670,14 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Mache deinen besten Ententanz",
-                     "name":"Gob",
+                     "question":"Spiele einen SEK-Einsatzleiter - dessen Team gerade einen zivilen Mord begangen hat - bei der Nachbesprechung nach.",
+                     "name":"Bestes Action-Spiel",
                      "idx":1
                   },
                   {
                      "role":5,
-                     "question":"Reiße einen flaschen Schnurrbart ab und sage dramatisch  \u201cGene Parmesan!\u201d",
-                     "name":"Gene Parmesan",
+                     "question":"Spiele einen grausamen Herrscher mit gespaltener Persönlichkeit nach, wie er seinen Soldaten einen diabolischen Plan erklärt.",
+                     "name":"Bestes Rollenspiel",
                      "idx":5
                   }
                ]
@@ -693,8 +687,8 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Wer verliert am ehesten eine Hand bei einem urkomischen Unfall?",
-                     "name":"Buster",
+                     "question":"Wer würde als erster Micro-Transactions kaufen?",
+                     "name":"Bestes mobiles Spiel",
                      "idx":3
                   }
                ]
@@ -702,13 +696,12 @@
             {
                "roles":[
                   {
-                     "name":"Steve Holt",
+                     "name":"Spiel des Jahres",
                      "idx":6,
                      "tags":[
-                        "doof",
-                        "enthusiastisch",
-                        "Dummbatz",
-                        "vertrauend"
+                        "selbstverliebt",
+                        "arrogant",
+                        "Alleskönner"
                      ]
                   }
                ],
@@ -716,68 +709,68 @@
             }
          ],
          "id":56215,
-         "category":"<i>Arrested Development<\/i>",
-         "prompt":"Welche Figur aus <i>Arrested Development<\/i> passt zu euch?"
+         "category":"Game Awards",
+         "prompt":"Welchen Award würdet ihr als Computerspiel gewinnen?"
       },
       {
          "roles":[
             {
-               "name":"in einer Limosine",
+               "name":"Der, der alles ausfurzt",
+               "short":"Mr. Methan",
                "required":true,
                "tags":[
-                  "jemand mit Klasse",
-                  "mit Klasse",
-                  "single"
+                  "stinkt",
+                  "schamlos",
+                  "flüchtig"
                ]
             },
             {
-               "name":"auf einem Pferd",
+               "name":"Springt aus 10 Metern in ein Planschbecken",
+               "short":"Flachtaucher"
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
-                  "ländlich"
+                  "lebensmüde",
+                  "wahnsinnig",
+                  "furchtlos"
                ]
             },
             {
-               "name":"ein Haikostüm tragend",
+               "name":"Der, der alle möglichen Dinge herunterschluckt",
+               "short":"Der menschliche Automat",
                "required":false,
                "tags":[
-                  "kreativ",
-                  "lustig",
-                  "maskottchen",
-                  "Sonderling",
+                  "Vielfraß",
+                  "dick",
                   "seltsam"
                ]
             },
             {
-               "name":"mit deinem Zwilling",
+               "name":"Die, die alles mit ihren Brüsten zerdrückt",
                "required":false,
                "tags":[
-                  "Doppelgänger*in",
-                  "gruselig",
-                  "vertraut"
+                  "oberflächlich",
+                  "kraftvoll",
+                  "groß"
                ]
             },
             {
-               "name":"in einem Hochzeitskleid/-Anzug",
+               "name":"Der, der eigentlich nichts besonderes kann",
+               "short":"Ein normaler Typ",
                "required":false,
                "tags":[
-                  "Fussfessel",
-                  "kühn",
-                  "verpflichtet",
+                  "normal",
+                  "Langweiler",
+                  "untalentiert"
+               ]
+            },
+            {
+               "name":"Der, der immer sofort rausfliegt, aber jedes Jahr wiederkommt",
+               "short":"Der Wiederholungstäter",
+               "required":false,
+               "tags":[
                   "selbstbewusst",
-                  "lebensgefährte*in"
-               ]
-            },
-            {
-               "name":"in Flammen (Unfall mit der Pyrotechnik)",
-               "required":true,
-               "tags":[
-                  "Angeber*in",
-                  "Desaster",
-                  "Brandgefahr",
-                  "angezündet",
-                  "Adrenalinjunkie"
+                  "lustig",
+                  "Witzbold"
                ]
             }
          ],
@@ -791,26 +784,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist dein perfektes erstes Date?",
-                     "name":"in einer Limosine",
+                     "question":"Wie hast du dein Talent entdeckt?",
+                     "name":"Der, der alles ausfurzt",
                      "idx":0
                   },
                   {
                      "role":4,
-                     "question":"Was wäre das Hochzeitsmotto?",
-                     "name":"in einem Hochzeitskleid/-Anzug",
+                     "question":"Womit glaubst du die Show gewinnen zu können?",
+                     "name":"Der, der eigentlich nichts besonderes kann",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Was ist deine Lieblingsszene aus dem Film <i>Deep Blue Sea<\/i>?",
-                     "name":"ein Haikostüm tragend",
+                     "question":"Was schluckst du am liebsten herunter?",
+                     "name":"Der, der alle möglichen Dinge herunterschluckt",
                      "idx":3
                   },
                   {
                      "role":3,
-                     "question":"Wie heißt dein Zwilling?",
-                     "name":"mit deinem Zwilling",
+                     "question":"Wie heißen deine Brüste?",
+                     "name":"Die, die alles mit ihren Brüsten zerdrückt",
                      "idx":5
                   }
                ]
@@ -820,14 +813,14 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"Zeige, wie du dich brennend vorstellen würdest.",
-                     "name":"in Flammen (Unfall mit der Pyrotechnik)",
+                     "question":"Du hast alles schon probiert, sing doch mal.",
+                     "name":"Der, der immer sofort rausfliegt, aber jedes Jahr wiederkommt",
                      "idx":2
                   },
                   {
                      "role":2,
-                     "question":"Sing die Titelmelodie von <i>Der weiße Hai<\/i> und seh dabei immernoch \u201cdatebar\u201d aus.",
-                     "name":"ein Haikostüm tragend",
+                     "question":"Zeige deinen Freunden, wie man effizient große Dinge herunterschluckt.",
+                     "name":"Der, der alle möglichen Dinge herunterschluckt",
                      "idx":7
                   }
                ]
@@ -837,14 +830,14 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer stand als Kind TOTAL AUF PFERDE?",
-                     "name":"auf einem Pferd",
+                     "question":"Wer wird nicht älter als 30?",
+                     "name":"Springt aus 10 Metern in ein Planschbecken",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Wer lebt sein Leben so, als stünde es sprichwörtlich in Flammen?",
-                     "name":"in Flammen (Unfall mit der Pyrotechnik)",
+                     "question":"Wer würde schon aufgrund seines Namens rausfliegen?",
+                     "name":"Der, der immer sofort rausfliegt, aber jedes Jahr wiederkommt",
                      "idx":6
                   }
                ]
@@ -852,13 +845,13 @@
             {
                "roles":[
                   {
-                     "name":"zu Hause guckend im Käsedunst",
+                     "name":"Das Jurymitglied",
+                     "short":"Dieter Bohlen",
                      "idx":8,
                      "tags":[
-                        "kitschig",
-                        "demütig",
-                        "unordentlich",
-                        "bescheiden",
+                        "gemein",
+                        "arrogant",
+                        "Besserwisser",
                         "Faulpelz"
                      ]
                   }
@@ -867,8 +860,8 @@
             }
          ],
          "id":56662,
-         "category":"<i>Bachelor<\/i> oder <i>Bachelorette<\/i> Vorstellungen",
-         "prompt":"Wie würdet ihr als Kandidat bei <i>Der Bachelor<\/i> oder <i>Die Bachelorette<\/i> vorgestellt werden?"
+         "category":"<i>Das Supertalent<\/i>",
+         "prompt":"Womit würdet ihr als Kandidat bei <i>Das Supertalent<\/i> antreten?"
       },
       {
          "roles":[
