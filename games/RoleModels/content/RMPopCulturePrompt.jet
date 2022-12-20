@@ -418,70 +418,61 @@
       {
          "roles":[
             {
-               "name":"Vater wird im Schritt getroffen",
-               "short":"Papas Schritt",
+               "name":"Der Bruder von Jürgen Hurenson",
                "required":true,
                "tags":[
-                  "Klassiker",
+                  "Witzbold",
                   "dumm",
-                  "schmerzhaft",
-                  "schütze"
+                  "Bastard"
                ]
             },
             {
-               "name":"Hund steckt in Pullover",
-               "short":"Hundepullover",
+               "name":"Pyscho-Andreas von Frauentausch",
                "required":false,
                "tags":[
-                  "Animal",
-                  "niedlich",
-                  "hilflos",
-                  "aussichtslose sache"
+                  "aggressiv",
+                  "laut",
+                  "verrückt",
+                  "Schreihals"
                ]
             },
             {
-               "name":"Katze auf Staubsaugroboter",
-               "short":"Staubsauger Katze",
+               "name":"Nicht-so-tief-Rüdiger",
                "required":false,
                "tags":[
-                  "animal",
-                  "cool",
-                  "Faulpelz"
+                  "Angsthase",
+                  "cholerisch",
+                  "komisch"
                ]
             },
             {
-               "name":"freches Kind sagt, wie es ist",
-               "short":"freches Kind",
+               "name":"HÜHNCHEN MIT REIS",
                "required":false,
                "tags":[
-                  "selbstbewusst",
-                  "niedlich",
-                  "ehrlich",
-                  "Rebell*in",
-                  "frech"
+                  "t",
+                  "temperamentvoll",
+                  "rebellisch",
+                  "Sportler",
+                  "fit"
                ]
             },
             {
-               "name":"mit dem Rad vom Dach springen",
-               "short":"Dach Fahrrad",
-               "required":true,
+               "name":"<i>Kranplätze müssen verdichtet sein!<\/i>",
+               "short":"Kranfahrer Ronny Schäfer",
+               "required":false,
                "tags":[
-                  "kühn",
-                  "mutig",
-                  "Draufgänger*in",
-                  "fahrlässig",
-                  "Adrenalinjunkie"
+                  "aufbrausend",
+                  "spießig",
+                  "strikt"
                ]
             },
             {
-               "name":"Baby schläft in Spaghetti ein",
-               "short":"Spaghetti Baby",
-               "required":true,
+               "name":"JÄGERMEISTAAAA!!!!",
+               "required":false,
                "tags":[
-                  "kindlich",
-                  "niedlich",
-                  "schlamassel",
-                  "schläfrig"
+                  "Alkoholiker",
+                  "süchtig",
+                  "erregt"
                ]
             }
          ],
@@ -495,32 +486,32 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"In welchem Essen sollte man am besten einschlafen?",
-                     "name":"Baby schläft in Spaghetti ein",
+                     "question":"Was trinkst du, um für gute Laune auf einer Party zu sorgen?",
+                     "name":"JÄGERMEISTAAAA!!!!",
                      "idx":2
                   },
                   {
                      "role":2,
-                     "question":"Du bist die neue Presse-Katze von Roomba.  Wofür verballerst du dein Geld?",
-                     "name":"Katze auf Staubsaugroboter",
+                     "question":"Welches ist dein Lieblings-Flugmanöver?",
+                     "name":"Nicht-so-tief-Rüdiger",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Was rufst du, wenn du vom Dach springst?",
-                     "name":"mit dem Rad vom Dach springen",
+                     "question":"Was machst du, wenn die Kranplätze nicht verdichtet sind?",
+                     "name":"<i>Kranplätze müssen verdichtet sein!<\/i>",
                      "idx":5
                   },
                   {
                      "role":0,
-                     "question":"Welche Aktivität würde die überraschendste Gelegenheit für einen klassischen Treffer im Schritt bieten?",
-                     "name":"Vater wird im Schritt getroffen",
+                     "question":"Was ist Jürgen Hurenson von Beruf?",
+                     "name":"Der Bruder von Jürgen Hurenson",
                      "idx":6
                   },
                   {
-                     "role":2,
-                     "question":"Du bist eine Kautze auf einem Staubsaugroboter: Wo soll dich der kleine Roboter hinfahren?",
-                     "name":"Katze auf Staubsaugroboter",
+                     "role":4,
+                     "question":"Wieso bist du Kranfahrer geworden?",
+                     "name":"<i>Kranplätze müssen verdichtet sein!<\/i>",
                      "idx":10
                   }
                ]
@@ -530,14 +521,14 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Mach das Geräusch, das du machen würdest, wenn du im Schritt getroffen wirst.",
-                     "name":"Vater wird im Schritt getroffen",
+                     "question":"Stelle dich dem Personalchef beim Bewerbungsgespräch vor.",
+                     "name":"Der Bruder von Jürgen Hurenson",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Ahme einen Hund nach, der in einem Pullover steckt und zusätzlich etwas im Ofen brennen hat.",
-                     "name":"Hund steckt in Pullover",
+                     "question":"Erkläre einem Freund, der zu Besuch ist, wo sein Gästezimmer ist.",
+                     "name":"Pyscho-Andreas von Frauentausch",
                      "idx":7
                   }
                ]
@@ -547,14 +538,14 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Wer ist in Schwierigkeiten geraten, weil er*sie gesagt hat, wie es ist?",
-                     "name":"freches Kind sagt, wie es ist",
+                     "question":"Wer würde Steroide nehmen, wenn natürliche Mittel nicht mehr helfen?",
+                     "name":"HÜHNCHEN MIT REIS",
                      "idx":1
                   },
                   {
                      "role":1,
-                     "question":"Wer hat ein Kleidungsstück einen ganzen Tag lang auf links getragen?",
-                     "name":"Hund steckt in Pullover",
+                     "question":"Wer ist direkt genervt, wenn Dinge nicht mehr nach Plan verlaufen?",
+                     "name":"Pyscho-Andreas von Frauentausch",
                      "idx":3
                   }
                ]
@@ -562,13 +553,14 @@
             {
                "roles":[
                   {
-                     "name":"langweiliges Schultheaterstück",
+                     "name":"<i>Wie viel Kuh hat das H?<\/i>",
+                     "short":"Schradinenbetrüger",
                      "idx":8,
                      "tags":[
-                        "langweilig",
-                        "kreativ",
-                        "drama lover",
-                        "seriös"
+                        "fassungslos",
+                        "Betrüger",
+                        "wütend",
+                        "unseriös"
                      ]
                   }
                ],
