@@ -837,7 +837,7 @@
             {
                "roles":[
                   {
-                     "name":"Das Jurymitglied",
+                     "name":"Ein Jurymitglied",
                      "short":"Dieter Bohlen",
                      "idx":8,
                      "tags":[
@@ -858,56 +858,65 @@
       {
          "roles":[
             {
-               "name":"Reese Witherspoon",
+               "name":"<i>The Witcher 3: Wild Hunt<\/i>",
+               "short":"Ein Hexer",
                "required":false,
                "tags":[
-                  "niedlich",
+                  "emotionslos",
+                  "Jäger",
+                  "direkt",
+                  "professionell"
+               ]
+            },
+            {
+               "name":"<i>Rainbow Six: Siege<\/i>",
+               "short":"Squad-Leiter einer Anti-Terroreinheit",
+               "required":false,
+               "tags":[
+                  "strategisch",
+                  "strukturiert",
+                  "geschickt"
+               ]
+            },
+            {
+               "name":"<i>Assassin's Creed: Brotherhood<\/i>",
+               "short":"Mentor einer Assassinengilde",
+               "required":false,
+               "tags":[
+                  "charismatisch",
+                  "Akrobat",
+                  "sportlich",
+                  "geheimnisvoll"
+               ]
+            },
+            {
+               "name":"<i>Pokémon: Platin<\/i>",
+               "short":"Ein Pokémon-Trainer",
+               "required":false,
+               "tags":[
                   "energisch",
-                  "influencer",
-                  "sweetheart",
-                  "skurril"
+                  "Entdecker",
+                  "Träumer"
                ]
             },
             {
-               "name":"Laura Dern",
+               "name":"<i>New Super Mario Bros. Wii<\/i>",
+               "short":"Ein nach rechts-laufender Klemptner",
                "required":false,
                "tags":[
-                  "zuverlässig",
-                  "stylish",
-                  "hart"
+                  "freundlich",
+                  "heldenhaft",
+                  "geduldig"
                ]
             },
             {
-               "name":"Nicole Kidman",
+               "name":"<i>Disco Elysium<\/i>",
+               "short":"Alkohol- & Drogensüchtiger Detektiv",
                "required":false,
                "tags":[
-                  "boss",
-                  "unabhängig"
-               ]
-            },
-            {
-               "name":"Zoë Kravitz",
-               "required":false,
-               "tags":[
-                  "künstlerisch",
-                  "Freigeist",
-                  "musikalisch"
-               ]
-            },
-            {
-               "name":"Shailene Woodley",
-               "required":false,
-               "tags":[
-                  "Adrenalinjunkie"
-               ]
-            },
-            {
-               "name":"Meryl Streep",
-               "required":true,
-               "tags":[
-                  "diva",
-                  "ikone",
-                  "begabt",
+                  "abhängig",
+                  "verrückt",
+                  "konsequent",
                   "vielseitig"
                ]
             }
@@ -922,20 +931,20 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Antworte als Nicole Kidman: In einem Wort, wie ist es, mit Tom Cruise verheiratet zu sein?",
-                     "name":"Nicole Kidman",
+                     "question":"Du wurdest beauftragt das Staatsoberhaupt eines Landes lautlos zu eliminieren. Wie stellst du das an?",
+                     "name":"<i>Assassin's Creed: Brotherhood<\/i>",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Antworte als Zoë Kravitz: Was ist das Schwierigste daran, Lenny Kravitz\u2019s Tochter zu sein?",
-                     "name":"Zoë Kravitz",
+                     "question":"Welches Pokémon holst du als erstes in dein Team, um mit diesem Team gegen den Champion anzutreten?",
+                     "name":"<i>Pokémon: Platin<\/i>",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Welche ist die einzige Rolle, die Meryl Streep nciht spielen kann?",
-                     "name":"Meryl Streep",
+                     "question":"Wie bereitest du dich auf einen neuen Fall vor?",
+                     "name":"<i>Disco Elysium<\/i>",
                      "idx":8
                   }
                ]
@@ -945,20 +954,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Zeige deine beste Imitation eines Raptors aus <i>Jurassic Park<\/i>.",
-                     "name":"Laura Dern",
+                     "question":"Erkläre deiner Einheit den Plan, um ein Haus einzunehmen.",
+                     "name":"<i>Rainbow Six: Siege<\/i>",
                      "idx":0
                   },
                   {
                      "role":4,
-                     "question":"Tanz dramatisch in Zeitlupe, um den Schmerz und die Freude am Leben auszudrücke.",
-                     "name":"Shailene Woodley",
+                     "question":"Zeige den anderen, wie du reagierst, wenn die Prinzessin erneut entführt wurde.",
+                     "name":"<i>New Super Mario Bros. Wii<\/i>",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Zeige deine beste Meryl Streep Imitation und schreie \u201cMein Sohn ist tot!\u201d",
-                     "name":"Meryl Streep",
+                     "question":"Erkläre deinem Assistenten - betrunken - wer der Mörder ist.",
+                     "name":"<i>Disco Elysium<\/i>",
                      "idx":5
                   }
                ]
@@ -968,14 +977,14 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer würde blond besser aussehen?",
-                     "name":"Reese Witherspoon",
+                     "question":"Wer wäre der bessere Monsterjäger?",
+                     "name":"<i>The Witcher 3: Wild Hunt<\/i>",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Von wem kannst du dir vorstellen, in O.C., Californien zu leben?",
-                     "name":"Shailene Woodley",
+                     "question":"Wer würde auch nach der 1000. Entführung weiterhin los laufen, um die Prinzessin zu retten?",
+                     "name":"<i>New Super Mario Bros. Wii<\/i>",
                      "idx":7
                   }
                ]
@@ -983,12 +992,13 @@
             {
                "roles":[
                   {
-                     "name":"eine Schauspielerin aus <i>Pretty Little Liars<\/i>",
+                     "name":"<i>Tetris<\/i>",
+                     "short":"Ein \u201cT-Block\u201d",
                      "idx":6,
                      "tags":[
-                        "kindlich",
-                        "Lügner*in",
-                        "skandalös"
+                        "einfach",
+                        "unbeweglich",
+                        "still"
                      ]
                   }
                ],
@@ -996,8 +1006,8 @@
             }
          ],
          "id":56655,
-         "category":"<i>Big Little Lies<\/i> Schauspielerinnen",
-         "prompt":"Welche Schauspielerin aus <i>Big Little Lies<\/i> wärt ihr?"
+         "category":"Protagonist eines Videospiels",
+         "prompt":"Von welchem Videospiel wärt ihr der Protagonist?"
       },
       {
          "roles":[
