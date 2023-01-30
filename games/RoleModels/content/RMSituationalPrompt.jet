@@ -177,7 +177,7 @@
                "required":true,
                "tags":[
                   "Schelm",
-                  "böswillig",
+                  "böswillig"
                ]
             },
             {
@@ -1217,7 +1217,7 @@
                "roles":[
                   {
                      "name":"Verliert ständig die Verbindung zur Lobby",
-                     "short":"Der Asynchrone"
+                     "short":"Der Asynchrone",
                      "idx":2,
                      "tags":[
                         "frustriert",
