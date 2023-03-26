@@ -1,65 +1,155 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt0"
-      },
-      {
-        "t": "S",
-        "v": "Zeichne Instagram",
-        "n": "AlienPromptText0"
-     },
-     {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt1"
-     },
-     {
-        "t": "S",
-        "v": "Zeichne einen Mann mit Kaninchenohren.",
-        "n": "AlienPromptText1"
-     },
-     {
-        "t": "S",
-        "v": "false",
-        "n": "AlienPromptAdultt2"
-     },
-     {
-        "t": "S",
-        "v": "Zeichne ein Selfie.",
-        "n": "AlienPromptText2"
-     },
-     {
-        "t": "S",
-        "v": "Zeichne Snapchat.",
-        "n": "HumanPromptText"
-     },
-     {
-        "s": "Zeichne Snapchat.",
-        "t": "A",
-        "v": "836379_1",
-        "n": "HumanPromptAudio"
-     }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Zeichne Snapchat.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Zeichne Snapchat.",
+      "t": "A",
+      "v": "836379_1",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Instagram.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Geist.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein Selfie.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Godzilla.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne den Fall Roms.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein paar Leute mit Baskenmützen.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne das Musical <i>Les Miserables</i>.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein Baguette.",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Franzosen.",
+      "n": "AlienPromptText8"
+    }
+  ]
 }
