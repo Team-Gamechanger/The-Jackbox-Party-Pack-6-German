@@ -1,65 +1,140 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Der aktuelle Monat ist...",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Mein Lieblingsmonat im Jahr ist ...",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Ein Monat, den ich nie buchstabieren kann, ist ...",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "Der beste Monat, um Urlaub zu machen, ist ...",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Der beste Monat, um Urlaub zu machen, ist ...",
-            "t": "A",
-            "v": "805543_0",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Der beste Monat, um Urlaub zu machen, ist ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Der beste Monat, um Urlaub zu machen, ist ...",
+      "t": "A",
+      "v": "805543_0",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "Der aktuelle Monat ist...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Mein Lieblingsmonat im Jahr ist ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Ein Monat, den ich nie buchstabieren kann, ist ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Mein Lieblings-Superheld hat die Kraft, ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Eine klassische supervillanische Leistung ist ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ich zaubern könnte, würde ich....",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Supermans unheimlichste Kraft ist...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Meine nervigste Angewohnheit ist ...",
+      "n": "AlienPromptText7"
+    }
+  ]
 }

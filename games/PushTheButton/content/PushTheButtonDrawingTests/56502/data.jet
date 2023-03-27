@@ -8,7 +8,7 @@
     {
       "s": "Zeichne jemanden in diesem Raum.",
       "t": "A",
-      "v": "808373_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Zeichne dein schlimmstes Date.",
       "t": "A",
-      "v": "808132_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

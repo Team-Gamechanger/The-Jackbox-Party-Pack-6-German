@@ -8,7 +8,7 @@
     {
       "s": "Zeichne das letzte Foto, das du auf Social Media gestellt hast.",
       "t": "A",
-      "v": "830878_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

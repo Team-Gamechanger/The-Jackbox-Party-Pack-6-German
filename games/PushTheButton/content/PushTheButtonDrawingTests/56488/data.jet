@@ -8,7 +8,7 @@
     {
       "s": "Zeichne einen Schauspieler.",
       "t": "A",
-      "v": "808192_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

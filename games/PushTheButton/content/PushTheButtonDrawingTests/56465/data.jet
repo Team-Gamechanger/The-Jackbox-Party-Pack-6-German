@@ -8,7 +8,7 @@
     {
       "s": "Zeichne eine Waffe, die du in der Zombie-Apokalypse brauchen würdest.",
       "t": "A",
-      "v": "807883_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

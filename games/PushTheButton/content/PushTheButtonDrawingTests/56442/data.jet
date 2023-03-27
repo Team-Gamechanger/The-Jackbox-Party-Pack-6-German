@@ -8,7 +8,7 @@
     {
       "s": "Zeichne ein fiktives Raumschiff.",
       "t": "A",
-      "v": "807573_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

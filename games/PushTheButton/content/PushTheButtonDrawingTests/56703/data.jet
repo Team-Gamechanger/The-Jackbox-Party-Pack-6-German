@@ -8,7 +8,7 @@
     {
       "s": "Zeichne einen Asteroiden, der die Erde trifft.",
       "t": "A",
-      "v": "812610_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

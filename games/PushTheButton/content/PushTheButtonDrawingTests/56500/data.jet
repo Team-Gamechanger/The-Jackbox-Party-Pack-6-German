@@ -8,7 +8,7 @@
     {
       "s": "Zeichne eine historische Figur.",
       "t": "A",
-      "v": "808349_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

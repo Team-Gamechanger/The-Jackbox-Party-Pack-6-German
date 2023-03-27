@@ -8,7 +8,7 @@
     {
       "s": "Zeichne dein erstes Haustier.",
       "t": "A",
-      "v": "809707_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

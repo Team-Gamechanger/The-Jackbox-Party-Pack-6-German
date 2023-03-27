@@ -8,7 +8,7 @@
     {
       "s": "Zeichne deine Freundesgruppe.",
       "t": "A",
-      "v": "808180_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Zeichne einen Bauarbeiter.",
       "t": "A",
-      "v": "null",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Zeichne deinen Lieblingssänger.",
       "t": "A",
-      "v": "811811_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Zeichne eine Schüssel mit deinem Lieblingsmüsli.",
       "t": "A",
-      "v": "809671_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

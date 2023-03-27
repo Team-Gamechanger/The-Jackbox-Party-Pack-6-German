@@ -8,7 +8,7 @@
     {
       "s": "Zeichne eine Filmrequisite.",
       "t": "A",
-      "v": "808144_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

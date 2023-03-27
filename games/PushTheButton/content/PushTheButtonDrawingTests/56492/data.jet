@@ -8,7 +8,7 @@
     {
       "s": "Zeichne das Weihnachtsessen.",
       "t": "A",
-      "v": "808240_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

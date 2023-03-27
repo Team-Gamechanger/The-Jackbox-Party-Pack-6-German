@@ -8,7 +8,7 @@
     {
       "s": "Zeichne ein Haustier aus deiner Kindheit.",
       "t": "A",
-      "v": "808397_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

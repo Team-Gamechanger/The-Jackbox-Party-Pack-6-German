@@ -8,7 +8,7 @@
     {
       "s": "Zeichne den größten Vogel den du dir vorstellen kannst.",
       "t": "A",
-      "v": "809731_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

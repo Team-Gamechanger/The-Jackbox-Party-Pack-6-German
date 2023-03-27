@@ -8,7 +8,7 @@
     {
       "s": "Zeichne ein Talent, das du hast.",
       "t": "A",
-      "v": "830902_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

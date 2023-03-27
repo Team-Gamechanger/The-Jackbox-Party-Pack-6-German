@@ -1,65 +1,65 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt0"
-      },
-      {
-         "t":"S",
-         "v":"bekämpfst dann Verbrechen",
-         "n":"AlienPromptText0"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt1"
-      },
-      {
-         "t":"S",
-         "v":"verkaufst ihn dann",
-         "n":"AlienPromptText1"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt2"
-      },
-      {
-         "t":"S",
-         "v":"erzählst es dann niemandem",
-         "n":"AlienPromptText2"
-      },
-      {
-         "t":"S",
-         "v":"Du findest einen absolut treuen, superstarken Orang-Utan. Du...",
-         "n":"HumanPromptText"
-      },
-      {
-         "s":"Du findest einen absolut treuen, superstarken Orang-Utan. Du...",
-         "t":"A",
-         "v":"814512_1",
-         "n":"HumanPromptAudio"
-      }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Du findest einen absolut treuen, superstarken Orang-Utan. Du...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Du findest einen absolut treuen, superstarken Orang-Utan. Du...",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "S",
+      "v": "bekämpfst dann das Verbrechen",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "verkaufst ihn dann",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "erzählst es dann niemandem",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    }
+  ]
 }

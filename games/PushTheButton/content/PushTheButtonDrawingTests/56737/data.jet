@@ -8,7 +8,7 @@
     {
       "s": "Zeichne ein Monster.",
       "t": "A",
-      "v": "813330_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

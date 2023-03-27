@@ -8,7 +8,7 @@
     {
       "s": "Zeichne das Letzte, was du gegessen hast.",
       "t": "A",
-      "v": "818174_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
