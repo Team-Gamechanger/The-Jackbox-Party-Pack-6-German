@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich bin ein Schwarz-Kaffeetrinker.",
+      "v": "Ich trinke Kaffee immer Schwarz.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich bin ein Schwarz-Kaffeetrinker.",
+      "s": "Ich trinke Kaffee immer Schwarz.",
       "t": "A",
-      "v": "832178_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Redet nicht mit mir, bevor ich meinen Morgenkaffee getrunken habe. LOL.",
+      "v": "Redet nicht mit mir, bevor ich meinen Kaffee hatte.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich hasse Kürbisgewürzkaffee",
+      "v": "Ich hasse Kaffee mit Milch.",
       "n": "AlienPromptText1"
     },
     {

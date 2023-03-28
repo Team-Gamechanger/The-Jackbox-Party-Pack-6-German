@@ -8,7 +8,7 @@
     {
       "s": "Das Händewaschen nach der Benutzung der Toilette ist optional.",
       "t": "A",
-      "v": "890396_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Ich kann keine öffentliche Toilette benutzen.",
+      "v": "Ich gehe nie auf öffentliche Toiletten.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich bin ein bisschen schlampig.",
+      "v": "Ich bin ein bisschen tollpatschig.",
       "n": "AlienPromptText2"
     },
     {

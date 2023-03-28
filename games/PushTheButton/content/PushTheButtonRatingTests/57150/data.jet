@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich sage oft Sachen wie “Quecksilber ist rückläufig”.",
+      "v": "Ich benutze häufig Wörter wie “adäquat”.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich sage oft Sachen wie “Quecksilber ist rückläufig”.",
+      "s": "Ich benutze häufig Wörter wie “adäquat”.",
       "t": "A",
-      "v": "822212_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "t": "S",
-      "v": "Ich zitiere <i>Die Simpsons</i> oft.",
+      "v": "Ich kenne alle Folgen von <i>Die Simpsons</i>.",
       "n": "AlienPromptText1"
     },
     {

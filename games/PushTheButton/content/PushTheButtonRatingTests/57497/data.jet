@@ -8,7 +8,7 @@
     {
       "s": "Filme sind im Fernsehen besser als im Kino.",
       "t": "A",
-      "v": "831982_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Kinobesuch ist zu teuer.",
+      "v": "Kinobesuche sind zu teuer.",
       "n": "AlienPromptText0"
     },
     {

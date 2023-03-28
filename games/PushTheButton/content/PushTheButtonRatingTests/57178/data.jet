@@ -8,7 +8,7 @@
     {
       "s": "Ich möchte meinen Namen ändern.",
       "t": "A",
-      "v": "823365_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich hasse Feuerwerk",
+      "v": "Ich hasse Feuerwerk.",
       "n": "AlienPromptText2"
     },
     {

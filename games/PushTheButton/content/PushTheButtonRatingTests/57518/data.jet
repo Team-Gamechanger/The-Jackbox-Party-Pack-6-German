@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Schnee gibt es eigentlich nicht.",
+      "v": "Den Mond gibt es eigentlich nicht.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Schnee gibt es eigentlich nicht.",
+      "s": "Den Mond gibt es eigentlich nicht.",
       "t": "A",
-      "v": "832262_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Soda aus dem Brunnen ist besser als Soda aus der Dose.",
+      "v": "Cola aus der Flasche ist besser als Cola aus der Dose.",
       "n": "AlienPromptText0"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich erwarte von meinen Freunden, dass sie mir sofort eine SMS zurückschicken.",
+      "v": "Ich erwarte von meinen Freunden, dass sie sofort auf meine Nachrichten reagieren.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich erwarte von meinen Freunden, dass sie mir sofort eine SMS zurückschicken.",
+      "s": "Ich erwarte von meinen Freunden, dass sie sofort auf meine Nachrichten reagieren.",
       "t": "A",
-      "v": "806880_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich schreibe lieber eine SMS als anzurufen.",
+      "v": "Ich schreibe lieber Nachrichten als anzurufen.",
       "n": "AlienPromptText0"
     },
     {

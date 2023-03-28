@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde mich selbst als genügsam bezeichnen.",
+      "v": "Ich würde mich selbst als sparsam bezeichnen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich würde mich selbst als genügsam bezeichnen.",
+      "s": "Ich würde mich selbst als sparsam bezeichnen.",
       "t": "A",
-      "v": "832238_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

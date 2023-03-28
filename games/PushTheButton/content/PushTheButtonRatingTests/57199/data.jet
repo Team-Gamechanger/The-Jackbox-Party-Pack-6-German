@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich könnte alleine gebären, wenn niemand anderes in der Nähe wäre.",
+      "v": "Ich beherrsche Zeichensprache.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich könnte alleine gebären, wenn niemand anderes in der Nähe wäre.",
+      "s": "Ich beherrsche Zeichensprache.",
       "t": "A",
-      "v": "823885_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich könnte in einem Jahr eine weitere Sprache fließend sprechen.",
+      "v": "Ich könnte in einem Jahr lernen, eine weitere Sprache fließend zu sprechen.",
       "n": "AlienPromptText0"
     },
     {

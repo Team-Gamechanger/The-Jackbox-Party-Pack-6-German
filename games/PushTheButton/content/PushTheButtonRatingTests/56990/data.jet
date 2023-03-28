@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich mag es, mit meinen Freunden Händchen zu halten.",
+      "v": "Ich mag es, mit meinem Partner Händchen zu halten.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich mag es, mit meinen Freunden Händchen zu halten.",
+      "s": "Ich mag es, mit meinem Partner Händchen zu halten.",
       "t": "A",
-      "v": "818601_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Ich hänge gerne mit Freunden ab",
+      "v": "Ich hänge gerne mit Freunden ab.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Kaffee ist Leben",
+      "v": "Es geht nichts über Kaffee.",
       "n": "AlienPromptText2"
     },
     {

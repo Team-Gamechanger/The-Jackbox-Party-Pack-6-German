@@ -8,7 +8,7 @@
     {
       "s": "Du wurdest ins Zeugenschutzprogramm aufgenommen, um der Mafia zu entkommen. Wo hast du die besten Chancen, dich zu verstecken?",
       "t": "A",
-      "v": "825342_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

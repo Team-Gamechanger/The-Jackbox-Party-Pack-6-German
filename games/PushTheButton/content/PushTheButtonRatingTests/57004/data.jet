@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich kann einen ausgezeichneten britischen Akzent.",
+      "v": "Ich kann einen ausgezeichneten bayrischen Akzent.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich kann einen ausgezeichneten britischen Akzent.",
+      "s": "Ich kann einen ausgezeichneten bayrischen Akzent.",
       "t": "A",
-      "v": "818922_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich kann einen guten Südstaaten-Akzent.",
+      "v": "Ich kann einen guten österreichischen Akzent.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich kann eine gute Obama-Imitation abgeben.",
+      "v": "Ich kann eine gute Stefan Raab-Imitation abgeben.",
       "n": "AlienPromptText1"
     },
     {

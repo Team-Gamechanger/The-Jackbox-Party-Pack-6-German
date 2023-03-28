@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Prince ist der größte Rockmusiker aller Zeiten.",
+      "v": "ABBA ist die beste Band aller Zeiten.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Prince ist der größte Rockmusiker aller Zeiten.",
+      "s": "ABBA ist die beste Band aller Zeiten.",
       "t": "A",
-      "v": "831922_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Ich liebe die Musik von Prince.",
+      "v": "Ich liebe die Musik von ABBA.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "<i>Purple Rain</i> ist das beste Album aller Zeiten.",
+      "v": "<i>Waterloo</i> ist das beste Album aller Zeiten.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Die Beatles wurden überschätzt.",
+      "v": "Die Beatles wurden überbewertet.",
       "n": "AlienPromptText2"
     },
     {

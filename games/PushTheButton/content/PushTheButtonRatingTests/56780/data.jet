@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich bin eindeutig ein sexuelles Wesen.",
+      "v": "Ich bin sexuell sehr aktiv.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich bin eindeutig ein sexuelles Wesen.",
+      "s": "Ich bin sexuell sehr aktiv.",
       "t": "A",
-      "v": "814114_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich möchte mein Gehirn in einen Hundekörper stecken.",
+      "v": "Mich würde interessieren, was im Kopf von Hunden vor sich geht.",
       "n": "AlienPromptText2"
     },
     {

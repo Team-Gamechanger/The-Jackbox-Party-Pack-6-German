@@ -8,7 +8,7 @@
     {
       "s": "Socken und Sandalen sollten nicht zusammen getragen werden.",
       "t": "A",
-      "v": "832190_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich interessiere mich für Mode",
+      "v": "Ich interessiere mich für Mode.",
       "n": "AlienPromptText0"
     },
     {

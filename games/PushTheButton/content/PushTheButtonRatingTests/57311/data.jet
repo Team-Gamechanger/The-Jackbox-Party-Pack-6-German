@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Magie ist real.",
+      "v": "Magie gibt es wirklich.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Magie ist real.",
+      "s": "Magie gibt es wirklich.",
       "t": "A",
-      "v": "826971_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich denke nicht mit meinen Emotionen.",
+      "v": "Mein Handeln ist nicht durch meine Emotionen gesteuert.",
       "n": "AlienPromptText0"
     },
     {

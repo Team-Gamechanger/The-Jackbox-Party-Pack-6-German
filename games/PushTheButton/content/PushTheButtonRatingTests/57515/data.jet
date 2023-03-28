@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Meine Fürze riechen im Frühling nach Paris",
+      "v": "Meine Fürze riechen meistens gut.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Meine Fürze riechen im Frühling nach Paris",
+      "s": "Meine Fürze riechen meistens gut.",
       "t": "A",
-      "v": "832226_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich warte, bis ich in einer öffentlichen Toilette alleine bin, bevor ich kacke.",
+      "v": "Ich warte in einer öffentlichen Toilette bis ich alleine bin, bevor ich kacke.",
       "n": "AlienPromptText0"
     },
     {

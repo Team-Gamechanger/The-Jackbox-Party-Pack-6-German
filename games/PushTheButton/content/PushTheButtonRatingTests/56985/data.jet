@@ -8,7 +8,7 @@
     {
       "s": "Ich habe Angst vorm Fliegen.",
       "t": "A",
-      "v": "818492_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Im Flugzeug, gib mir den Fensterplatz",
+      "v": "Im Flugzeug möchte ich unbedingt einen Fensterplatz.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich habe Höhenangst",
+      "v": "Ich habe Höhenangst.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mir wird bei Flügen schlecht",
+      "v": "Mir wird bei Flügen schlecht.",
       "n": "AlienPromptText2"
     },
     {

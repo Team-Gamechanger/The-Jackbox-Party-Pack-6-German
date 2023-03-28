@@ -8,7 +8,7 @@
     {
       "s": "Wenn ich herausgefordert werden würde, könnte ich ALLE Pokémon benennen.",
       "t": "A",
-      "v": "890456_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich genieße Videospiele.",
+      "v": "Ich liebe Videospiele.",
       "n": "AlienPromptText0"
     },
     {

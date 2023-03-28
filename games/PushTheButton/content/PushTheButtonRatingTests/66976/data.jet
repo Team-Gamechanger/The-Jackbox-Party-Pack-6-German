@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Herz-Lungen-Wiederbelebung ist eine wertvolle Fähigkeit, die man erlernen sollte.",
+      "v": "Die Herzdruckmassage ist eine wertvolle Fähigkeit, die man erlernen sollte.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Herz-Lungen-Wiederbelebung ist eine wertvolle Fähigkeit, die man erlernen sollte.",
+      "s": "Die Herzdruckmassage ist eine wertvolle Fähigkeit, die man erlernen sollte.",
       "t": "A",
-      "v": "890468_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich habe einen Notfallkoffer",
+      "v": "Ich habe einen Erste-Hilfe-Koffer.",
       "n": "AlienPromptText0"
     },
     {

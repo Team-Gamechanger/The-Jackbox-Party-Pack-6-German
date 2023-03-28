@@ -8,7 +8,7 @@
     {
       "s": "Kanye West ist der beste Musiker der letzten 100 Jahre.",
       "t": "A",
-      "v": "831946_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "t": "S",
-      "v": "Die Kardashians sind amerikanische Schätze.",
+      "v": "Die Kardashians sind deutlich unterbewertet.",
       "n": "AlienPromptText1"
     },
     {

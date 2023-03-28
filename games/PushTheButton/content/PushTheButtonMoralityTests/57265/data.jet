@@ -8,7 +8,7 @@
     {
       "s": "Der Vulkan braucht ein Opfer oder er wird explodieren. Wen stößt du hinein?",
       "t": "A",
-      "v": "826048_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Ich schaue mir viele Online-Spiele-Streams an.",
       "t": "A",
-      "v": "890504_3",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich werde niemals eine intelligente Uhr besitzen",
+      "v": "Ich werde niemals eine Smart-Watch besitzen",
       "n": "AlienPromptText2"
     },
     {

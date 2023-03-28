@@ -8,7 +8,7 @@
     {
       "s": "Ich kann nicht kacken, wenn ich denke, dass mich ein Geist beobachtet.",
       "t": "A",
-      "v": "806856_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Ich ziehe Waschbären den Stinktieren vor.",
+      "v": "Ich mag Waschbären lieber als Stinktiere.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich würde ein Restaurant sofort verlassen, nachdem ich eine Ratte gesehen habe.",
+      "v": "Ich würde ein Restaurant sofort verlassen, wenn ich eine Ratte sehe.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich kann niemanden ernst nehmen, wenn er nicht eine große Putenkeule isst.",
+      "v": "Ich kann Personen, die sich nicht trauen, vom 3-Meter-Turm ins Wasser zu springen, nicht ernst nehmen.",
       "n": "AlienPromptText2"
     },
     {

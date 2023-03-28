@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich könnte einen schläfrigen Bären in einem Ringkampf besiegen.",
+      "v": "Ich könnte einen müden Bären in einem Ringkampf besiegen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich könnte einen schläfrigen Bären in einem Ringkampf besiegen.",
+      "s": "Ich könnte einen müden Bären in einem Ringkampf besiegen.",
       "t": "A",
-      "v": "832054_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Tiere wie ich",
+      "v": "Ich mache viel Sport.",
       "n": "AlienPromptText0"
     },
     {

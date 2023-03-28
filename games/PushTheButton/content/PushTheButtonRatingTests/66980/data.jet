@@ -8,7 +8,7 @@
     {
       "s": "Ich bin ein Alien und ihr werdet uns niemals alle fangen! Ha Ha Ha!!!",
       "t": "A",
-      "v": "890516_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Mir ist lieber heiß als kalt.",
+      "v": "Mir ist lieber zu heiß als zu kalt.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mir ist es lieber, kalt zu sein, statt heiß.",
+      "v": "Mir ist lieber zu kalt als zu heiß.",
       "n": "AlienPromptText2"
     },
     {

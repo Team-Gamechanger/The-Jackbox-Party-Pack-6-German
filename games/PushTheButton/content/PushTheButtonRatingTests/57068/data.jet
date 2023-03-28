@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich könnte Serena Williams in einem Tennisspiel schlagen.",
+      "v": "Ich könnte Boris Becker in einem Tennisspiel schlagen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich könnte Serena Williams in einem Tennisspiel schlagen.",
+      "s": "Ich könnte Boris Becker in einem Tennisspiel schlagen.",
       "t": "A",
-      "v": "820249_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich kann mein Tischtennisspiel beginnen.",
+      "v": "Ich kann sehr gut Tischtennis spielen.",
       "n": "AlienPromptText2"
     },
     {

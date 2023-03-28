@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich weiß genau, dass Spielzeuge nachts zum Leben erwachen und deine Wange streicheln, während du schläfst.",
+      "v": "Ich weiß genau, dass Spielzeuge nachts zum Leben erwachen und dein Gesicht streicheln, während du schläfst.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich weiß genau, dass Spielzeuge nachts zum Leben erwachen und deine Wange streicheln, während du schläfst.",
+      "s": "Ich weiß genau, dass Spielzeuge nachts zum Leben erwachen und dein Gesicht streicheln, während du schläfst.",
       "t": "A",
-      "v": "890492_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Ich könnte eine kaputte Waschmaschine reparieren.",
       "t": "A",
-      "v": "821522_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich könnte einen Ersatzreifen wechseln.",
+      "v": "Ich könnte einen Reifen wechseln.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich bin gut in Kunst und Handwerk.",
+      "v": "Ich bin handwerklich begabt.",
       "n": "AlienPromptText2"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Niemand sollte seinen Geburtstag nach dem 17. Lebensmonat anerkennen.",
+      "v": "Niemand sollte nach dem 17. Lebensjahr eine Geburtstagsparty schmeißen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Niemand sollte seinen Geburtstag nach dem 17. Lebensmonat anerkennen.",
+      "s": "Niemand sollte nach dem 17. Lebensjahr eine Geburtstagsparty schmeißen.",
       "t": "A",
-      "v": "832030_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Niemand sollte nach dem 22. Lebensjahr eine Geburtstagsparty schmeißen",
+      "v": "Niemand sollte nach dem 22. Lebensjahr eine Geburtstagsparty schmeißen.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Niemand sollte nach dem 25. Lebensjahr eine Geburtstagsparty schmeißen",
+      "v": "Niemand sollte nach dem 25. Lebensjahr eine Geburtstagsparty schmeißen.",
       "n": "AlienPromptText2"
     },
     {

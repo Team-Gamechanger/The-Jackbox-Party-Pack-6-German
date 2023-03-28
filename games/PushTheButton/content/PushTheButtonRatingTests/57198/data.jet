@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich kann eine Meile in unter 6 Minuten laufen",
+      "v": "Ich könnte einen Kilometer in unter 4 Minuten laufen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich könnte eine Meile in unter 6 Minuten laufen",
+      "s": "Ich könnte einen Kilometer in unter 4 Minuten laufen.",
       "t": "A",
-      "v": "823869_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich kann 68 Kilogramm auf der Bank drücken.",
+      "v": "Ich kann 65 Kilogramm auf der Bank drücken.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich kann einen Slam Dunk machen.",
+      "v": "Ich kann einen Salto machen.",
       "n": "AlienPromptText2"
     },
     {

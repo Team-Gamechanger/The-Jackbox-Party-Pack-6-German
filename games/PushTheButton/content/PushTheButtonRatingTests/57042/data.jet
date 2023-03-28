@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Du musst dir die Hände waschen, nachdem du die Toilette benutzt hast.",
+      "v": "Man muss sich die Hände waschen, nachdem man die Toilette benutzt hat.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Du musst dir die Hände waschen, nachdem du die Toilette benutzt hast.",
+      "s": "Man muss sich die Hände waschen, nachdem man die Toilette benutzt hat.",
       "t": "A",
-      "v": "819771_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich muss einen Hund streicheln, wenn er sich mir nähert.",
+      "v": "Ich muss Hunde streicheln, wenn ich sie sehe.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Du musst deine Zähne dreimal am Tag putzen.",
+      "v": "Ich putze meine Zähne drei Mal am Tag.",
       "n": "AlienPromptText1"
     },
     {

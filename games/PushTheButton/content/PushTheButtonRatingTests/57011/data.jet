@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich bin besessen von der Politik.",
+      "v": "Ich interessiere mich extrem für Politik.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich bin besessen von der Politik.",
+      "s": "Ich interessiere mich extrem für Politik.",
       "t": "A",
-      "v": "819047_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Ich rufe an in/Ich schreibe Radiosendungen",
+      "v": "Ich rufe in Radiosendungen an.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich gerate regelmäßig in Kämpfe in den sozialen Medien",
+      "v": "Ich gerate regelmäßig in Auseinandersetzungen in den sozialen Medien.",
       "n": "AlienPromptText2"
     },
     {

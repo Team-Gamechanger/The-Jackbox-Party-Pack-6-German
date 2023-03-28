@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Baseball würde mehr Spaß machen, wenn der Pitcher “Tschu-tschu!” schreien würde, wenn er einen Fastball wirft.",
+      "v": "Fußball würde mehr Spaß machen, wenn es kein Abseits geben würde.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Baseball würde mehr Spaß machen, wenn der Pitcher “Tschu-tschu!” schreien würde, wenn er einen Fastball wirft.",
+      "s": "Fußball würde mehr Spaß machen, wenn es kein Abseits geben würde.",
       "t": "A",
-      "v": "834975_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Es sollte einen nationalen Welpentag geben, an dem wir uns den Tag frei nehmen, um Welpen zu würdigen.",
+      "v": "Es sollte einen nationalen Welpentag geben, an dem wir alle frei haben, um Welpen zu würdigen.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Baseball ist langweilig.",
+      "v": "Fußball ist langweilig.",
       "n": "AlienPromptText2"
     },
     {

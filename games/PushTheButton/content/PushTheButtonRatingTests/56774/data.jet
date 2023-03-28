@@ -8,7 +8,7 @@
     {
       "s": "Ich wünschte, ich würde mehr Bücher lesen.",
       "t": "A",
-      "v": "814030_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Es ist schwer, ein Buch zu beenden, das ich angefangen habe zu lesen.",
+      "v": "Mir fällt es schwer, ein Buch zu beenden, das ich angefangen habe zu lesen.",
       "n": "AlienPromptText2"
     },
     {

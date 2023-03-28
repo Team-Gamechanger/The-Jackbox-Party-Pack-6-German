@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Abstimmen ist wichtig",
+      "v": "Wählen ist wichtig.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Abstimmen ist wichtig.",
+      "s": "Wählen ist wichtig.",
       "t": "A",
-      "v": "890384_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

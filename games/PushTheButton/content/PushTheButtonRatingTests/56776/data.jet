@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich habe einen erstaunlichen Sinn für Mode.",
+      "v": "Ich habe einen erstaunlich guten Sinn für Mode.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich habe einen erstaunlichen Sinn für Mode.",
+      "s": "Ich habe einen erstaunlich guten Sinn für Mode.",
       "t": "A",
-      "v": "814054_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich besitze viele Kleidungsstücke.",
+      "v": "Ich besitze viel Kleidung.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich brauche nur ein gutes Paar Jeans",
+      "v": "Ich brauche nur ein gutes Paar Jeans.",
       "n": "AlienPromptText2"
     },
     {

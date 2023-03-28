@@ -8,7 +8,7 @@
     {
       "s": "Ein Fremder in einem Laden hat 1 Euro zu wenig, um Windeln zu bezahlen. Du gibst ihm...",
       "t": "A",
-      "v": "835119_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

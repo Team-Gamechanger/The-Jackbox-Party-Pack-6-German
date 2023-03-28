@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Du wirst mich nie in den sozialen Medien finden.",
+      "v": "Man wird mich nie in den sozialen Medien finden.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Du wirst mich nie in den sozialen Medien finden.",
+      "s": "Man wird mich nie in den sozialen Medien finden.",
       "t": "A",
-      "v": "818641_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

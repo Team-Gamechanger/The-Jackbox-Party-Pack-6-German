@@ -8,7 +8,7 @@
     {
       "s": "Kuchen ist so viel besser als Torte.",
       "t": "A",
-      "v": "822236_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Das Dessert ist der beste Teil einer Mahlzeit.",
+      "v": "Der Nachtisch ist der beste Teil einer Mahlzeit.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich bin ein kleiner Feinschmecker.",
+      "v": "Ich bin ein echter Feinschmecker.",
       "n": "AlienPromptText2"
     },
     {

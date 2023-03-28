@@ -8,7 +8,7 @@
     {
       "s": "11-Jährige brauchen keinen Babysitter.",
       "t": "A",
-      "v": "890288_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Die meisten Eltern sind zu freizügig.",
+      "v": "Die meisten Eltern kümmern sich nicht genug um ihre Kinder.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich wäre ein großartiger Elternteil.",
+      "v": "Ich wäre ein großartiges Elternteil.",
       "n": "AlienPromptText1"
     },
     {

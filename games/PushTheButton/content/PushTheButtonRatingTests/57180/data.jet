@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "NIEMAND sieht in einem Catsuit besser aus als ich.",
+      "v": "NIEMAND sieht in einem Katzenkostüm besser aus als ich.",
       "n": "HumanPromptText"
     },
     {
-      "s": "NIEMAND sieht in einem Catsuit besser aus als ich.",
+      "s": "NIEMAND sieht in einem Katzenkostüm besser aus als ich.",
       "t": "A",
-      "v": "823389_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich hasse Kokosnuss als Eiscreme",
+      "v": "Ich hasse Kokosnuss-Eiscreme",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich werde nie pünktlich sein.",
+      "v": "Ich bin nie pünktlich.",
       "n": "AlienPromptText1"
     },
     {

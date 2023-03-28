@@ -8,7 +8,7 @@
     {
       "s": "Landwirte sollten ihre Tiere bezahlen müssen.",
       "t": "A",
-      "v": "818769_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Du solltest freundlich zu Tieren sein",
+      "v": "Alle Menschen sollten vegan leben.",
       "n": "AlienPromptText2"
     },
     {

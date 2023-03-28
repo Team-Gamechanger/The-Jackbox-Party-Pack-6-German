@@ -8,7 +8,7 @@
     {
       "s": "Dein Kind wünscht sich einen Pogo-Stick. Je teurer sie sind, desto sicherer sind sie. Du kaufst den einen, der... kostet",
       "t": "A",
-      "v": "825330_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

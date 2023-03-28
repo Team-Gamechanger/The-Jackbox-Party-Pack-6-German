@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich kann mich nicht ohne Emojis ausdrücken.",
+      "v": "Ich schreibe kaum Nachrichten ohne Emojis.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich kann mich nicht ohne Emojis ausdrücken.",
+      "s": "Ich schreibe kaum Nachrichten ohne Emojis.",
       "t": "A",
-      "v": "819683_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich schreibe lieber SMS als anzurufen.",
+      "v": "Ich schreibe lieber Nachrichten als anzurufen.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich verwende beim Schreiben von Texten Satzzeichen",
+      "v": "Ich achte beim schreiben von Kurznachrichten auf korrekte Zeichensetzung.",
       "n": "AlienPromptText1"
     },
     {

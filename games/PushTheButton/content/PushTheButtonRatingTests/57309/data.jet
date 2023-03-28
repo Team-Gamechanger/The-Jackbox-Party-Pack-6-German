@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Unterwäsche ist doof.",
+      "v": "Ich mag keine Unterwäsche.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Unterwäsche ist doof.",
+      "s": "Ich mag keine Unterwäsche.",
       "t": "A",
-      "v": "826933_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Cargo-Shorts sind hässlich.",
+      "v": "Ich trage keine kurzen Hosen.",
       "n": "AlienPromptText2"
     },
     {

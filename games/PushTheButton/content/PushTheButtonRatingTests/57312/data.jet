@@ -8,7 +8,7 @@
     {
       "s": "Garfield ist erotisch.",
       "t": "A",
-      "v": "826983_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Ich habe mich zu einer Zeichentrickfigur hingezogen gefühlt.",
+      "v": "Ich habe mich schon mal zu einer Zeichentrickfigur hingezogen gefühlt.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich habe mit jemandem in einem Halloween-Kostüm geknutscht.",
+      "v": "Ich habe schon mal mit jemandem in einem Kostüm geknutscht.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der Mond ist erregend",
+      "v": "Der Mond zieht mich magisch an.",
       "n": "AlienPromptText2"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Ich kenne durchaus den Unterschied zwischen einem Krokodil und einem Alligator.",
       "t": "A",
-      "v": "834386_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Es muss einen Live-Action <i>Darkwing Duck</i> Film geben.",
+      "v": "Es muss einen Live-Action <i>Minions</i> Film geben.",
       "n": "AlienPromptText2"
     },
     {

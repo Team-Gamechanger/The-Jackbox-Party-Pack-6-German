@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich könnte einen Toyota Prius ziemlich leicht über meinen Kopf heben.",
+      "v": "Ich könnte einen VW Golf ziemlich leicht über meinen Kopf heben.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich könnte einen Toyota Prius ziemlich leicht über meinen Kopf heben.",
+      "s": "Ich könnte einen VW Golf ziemlich leicht über meinen Kopf heben.",
       "t": "A",
-      "v": "820095_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

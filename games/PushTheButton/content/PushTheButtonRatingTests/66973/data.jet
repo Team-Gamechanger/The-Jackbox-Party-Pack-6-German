@@ -8,7 +8,7 @@
     {
       "s": "Ich wurde von Pinguinen aufgezogen. Mein Name ist Squaaaaaaaaaaawk.",
       "t": "A",
-      "v": "890432_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich bevorzuge es, an Samstagen zu arbeiten.",
+      "v": "Ich mag es, an Samstagen zu arbeiten.",
       "n": "AlienPromptText0"
     },
     {

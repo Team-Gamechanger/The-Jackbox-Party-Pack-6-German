@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "<i>Frasier</i> ist die beste Show aller Zeiten.",
+      "v": "<i>South Park</i> ist die beste Show aller Zeiten.",
       "n": "HumanPromptText"
     },
     {
-      "s": "<i>Frasier</i> ist die beste Show aller Zeiten.",
+      "s": "<i>South Park</i> ist die beste Show aller Zeiten.",
       "t": "A",
-      "v": "832078_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "<i>Cheers</i> war so eine gute Show.",
+      "v": "<i>Family Guy</i> ist so eine gute Show.",
       "n": "AlienPromptText0"
     },
     {

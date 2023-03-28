@@ -8,7 +8,7 @@
     {
       "s": "Ich kann mit bis zu sechs Kettensägen jonglieren, kein Problem.",
       "t": "A",
-      "v": "834362_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich amüsiere mich.",
+      "v": "Ich habe gerade Spaß.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich mag mindestens zwei Personen in diesem Raum.",
+      "v": "Ich mag mindestens zwei Personen in diesem Spiel.",
       "n": "AlienPromptText1"
     },
     {

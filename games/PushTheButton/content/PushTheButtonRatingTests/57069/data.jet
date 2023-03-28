@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Taxidermie (Haltbarmachung von Tierkörpern) ist nicht gruselig.",
+      "v": "Ich finde es unproblematisch, Tiere auszustopfen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Taxidermie (Haltbarmachung von Tierkörpern) ist nicht gruselig.",
+      "s": "Ich finde es unproblematisch, Tiere auszustopfen.",
       "t": "A",
-      "v": "820281_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

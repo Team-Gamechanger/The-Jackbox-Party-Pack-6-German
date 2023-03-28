@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Es ist okay, eine Notlüge zu erzählen.",
+      "v": "Es ist okay, im Notfall zu lügen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Es ist okay, eine Notlüge zu erzählen.",
+      "s": "Es ist okay, im Notfall zu lügen.",
       "t": "A",
-      "v": "818866_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich liebe, liebe, liebe <i>Der König der Löwen</i>.",
+      "v": "Ich liebe <i>Der König der Löwen</i> über alles.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich liebe, liebe, liebe <i>Der König der Löwen</i>.",
+      "s": "Ich liebe <i>Der König der Löwen</i> über alles.",
       "t": "A",
-      "v": "805982_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich liebe Disney-Filme",
+      "v": "Ich liebe Disney-Filme.",
       "n": "AlienPromptText0"
     },
     {

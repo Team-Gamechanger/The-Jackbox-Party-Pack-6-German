@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Spaghetti sind das beste Essen, ohne Zweifel.",
+      "v": "Spaghetti sind ohne Zweifel das beste Essen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Spaghetti sind das beste Essen, ohne Zweifel.",
+      "s": "Spaghetti sind ohne Zweifel das beste Essen.",
       "t": "A",
-      "v": "822140_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Gegrillter Käse sind die besten Sandwiches, ohne Frage.",
+      "v": "Es gibt nichts besseres als gegrillten Käse auf Toast.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Pizza ist das beste Essen, zweifellos.",
+      "v": "Pizza ist ohne Zweifel das beste Essen.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Steak sollte nicht gut durchgebraten werden.",
+      "v": "Suppe schmeckt mir kalt am besten.",
       "n": "AlienPromptText2"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Raisin Bran ist eindeutig das beste Müsli.",
+      "v": "Rosinen im Müsli sind ein Muss.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Raisin Bran ist eindeutig das beste Müsli.",
+      "s": "Rosinen im Müsli sind ein Muss.",
       "t": "A",
-      "v": "832202_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Es ist besser, heiß als kalt zu sein.",
+      "v": "Mir ist es lieber, wenn es zu heiß ist, anstatt zu kalt.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Es ist besser, heiß als kalt zu sein.",
+      "s": "Mir ist es lieber, wenn es zu heiß ist, anstatt zu kalt.",
       "t": "A",
-      "v": "832042_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "t": "S",
-      "v": "Ich ziehe Shorts einer Hose vor.",
+      "v": "Wenn es sich anbietet, trage ich vorzugsweise kurze Hosen.",
       "n": "AlienPromptText1"
     },
     {

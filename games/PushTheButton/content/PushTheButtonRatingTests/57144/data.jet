@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich weine mindestens einmal pro Woche.",
+      "v": "Ich weine mindestens einmal pro Woche",
       "n": "HumanPromptText"
     },
     {
       "s": "Ich weine mindestens einmal pro Woche",
       "t": "A",
-      "v": "822076_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Ich bin in Kontakt mit meinen Gefühlen.",
+      "v": "Ich habe meine Gefühle nicht unter Kontrolle.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich weine nicht...niemals.",
+      "v": "Ich weine nie.",
       "n": "AlienPromptText2"
     },
     {

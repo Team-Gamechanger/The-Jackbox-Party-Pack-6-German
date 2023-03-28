@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ouija-Bretter können mit Geistern kommunizieren.",
+      "v": "Mit Glaskugeln kann man Einblicke in seine Zukunft bekommen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ouija-Bretter können mit Geistern kommunizieren.",
+      "s": "Mit Glaskugeln kann man Einblicke in seine Zukunft bekommen.",
       "t": "A",
-      "v": "890228_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Bei Wahlen neige ich dazu, für Parteien zu stimmen, die vorne liegen.",
       "t": "A",
-      "v": "813982_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Ich ziehe Strände den Bergen vor.",
+      "v": "Ich mag Strände lieber als Berge.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mord ist schlecht.",
+      "v": "Ich bin gegen Mord.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich hasse Politik",
+      "v": "Ich hasse Politik.",
       "n": "AlienPromptText2"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Ich würde gerne in einem Wohnmobil leben.",
       "t": "A",
-      "v": "818834_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich liebe Camping",
+      "v": "Ich liebe Camping.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich möchte die Welt sehen",
+      "v": "Ich möchte die Welt sehen.",
       "n": "AlienPromptText2"
     },
     {

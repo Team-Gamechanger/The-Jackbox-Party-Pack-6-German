@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Mond ist erregend.",
+      "v": "Der Mond zieht mich magisch an.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Mond ist erregend.",
+      "s": "Der Mond zieht mich magisch an.",
       "t": "A",
-      "v": "818613_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

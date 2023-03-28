@@ -8,7 +8,7 @@
     {
       "s": "Feuerwerkskörper sind blöd.",
       "t": "A",
-      "v": "823377_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich bin ein Müllmensch.",
+      "v": "Ich bin sehr unordentlich.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Soda ist besser als Wasser.",
+      "v": "Softdrinks sind besser als Wasser.",
       "n": "AlienPromptText1"
     },
     {

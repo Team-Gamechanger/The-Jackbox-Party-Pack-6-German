@@ -8,7 +8,7 @@
     {
       "s": "Du willst während der Geburt Ermutigung geben. Das Beste, was du sagen kannst, ist:...",
       "t": "A",
-      "v": "826476_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

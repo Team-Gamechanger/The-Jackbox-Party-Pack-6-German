@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die Kardashians sind amerikanisches Kulturgut.",
+      "v": "Das Dschungelcamp ist deutsches Kulturgut.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die Kardashians sind amerikanisches Kulturgut.",
+      "s": "Das Dschungelcamp ist deutsches Kulturgut.",
       "t": "A",
-      "v": "832066_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich liebe <i>The Real Housewives</i>.",
+      "v": "Ich liebe <i>Frauentausch</i>.",
       "n": "AlienPromptText0"
     },
     {

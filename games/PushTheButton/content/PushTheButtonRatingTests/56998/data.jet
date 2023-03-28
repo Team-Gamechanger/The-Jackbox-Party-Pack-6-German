@@ -8,7 +8,7 @@
     {
       "s": "Ich würde gerne im Ausland leben.",
       "t": "A",
-      "v": "818781_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "t": "S",
-      "v": "Ich möchte umziehen",
+      "v": "Ich möchte umziehen.",
       "n": "AlienPromptText1"
     },
     {

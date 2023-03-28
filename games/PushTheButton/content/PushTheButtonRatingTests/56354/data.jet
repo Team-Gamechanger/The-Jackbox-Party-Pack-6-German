@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde eine Tüte Glasscherben für 11 Euro essen.",
+      "v": "Ich würde eine kleine Tüte Glasperlen für 11 Euro essen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich würde eine Tüte Glasscherben für 11 Euro essen.",
+      "s": "Ich würde eine kleine Tüte Glasperlen für 11 Euro essen.",
       "t": "A",
-      "v": "806126_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Ich bin in der Regel von den letzten Episoden von Fernsehsendungen enttäuscht.",
+      "v": "Ich bin in der Regel von den letzten Folgen von Fernsehsendungen enttäuscht.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich könnte ein Lagerfeuer entfachen.",
+      "v": "Ich könnte alleine ein Lagerfeuer entfachen.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der Strand wird überbewertet.",
+      "v": "Strände werden überbewertet.",
       "n": "AlienPromptText2"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Ich bin gerade hungrig.",
       "t": "A",
-      "v": "818934_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich bin ein “Feinschmecker.”",
+      "v": "Ich bin ein echter Feinschmecker.",
       "n": "AlienPromptText2"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Drei Kandidaten stehen bei der Bundestagswahl zur Auswahl. Du stimmst für den Kandidaten, der einst verurteilt wurde, wegen:...",
       "t": "A",
-      "v": "833466_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

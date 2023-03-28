@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich habe einmal zu 100% einen Vampir gesehen.",
+      "v": "Ich bin mir zu 100% sicher, mal einen Vampir gesehen zu haben.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich habe einmal zu 100 % einen Vampir gesehen.",
+      "s": "Ich bin mir zu 100% sicher, mal einen Vampir gesehen zu haben.",
       "t": "A",
-      "v": "812930_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Außerirdisches Leben existiert.",
+      "v": "Ich glaube an außerirdisches Leben.",
       "n": "AlienPromptText2"
     },
     {

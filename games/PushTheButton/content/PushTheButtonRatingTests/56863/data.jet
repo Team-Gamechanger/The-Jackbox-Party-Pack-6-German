@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich möchte an einem Halbmarathon teilnehmen.",
+      "v": "Ich möchte an einem Marathon teilnehmen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich möchte an einem Halbmarathon teilnehmen.",
+      "s": "Ich möchte an einem Marathon teilnehmen.",
       "t": "A",
-      "v": "815442_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich möchte an einem Marathon teilnehmen.",
+      "v": "Ich fahre gerne Fahrrad.",
       "n": "AlienPromptText0"
     },
     {

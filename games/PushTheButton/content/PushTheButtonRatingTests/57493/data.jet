@@ -8,7 +8,7 @@
     {
       "s": "Die Beatles sind die größte Rockband aller Zeiten.",
       "t": "A",
-      "v": "831934_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Prince ist der größte Rockmusiker aller Zeiten.",
+      "v": "Queen ist der größte Rockband aller Zeiten.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Kanye West ist der größte Performer aller Zeiten",
+      "v": "Udo Lindenberg ist der größte Performer aller Zeiten.",
       "n": "AlienPromptText2"
     },
     {

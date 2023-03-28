@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich habe schon mal darüber nachgedacht, wie gut ausgestattet Frankensteins Monster ist.",
+      "v": "Ich habe schon mal darüber nachgedacht, wie gut gekleidet Frankenstein ist.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich habe schon mal darüber nachgedacht, wie gut ausgestattet Frankensteins Monster ist.",
+      "s": "Ich habe schon mal darüber nachgedacht, wie gut gekleidet Frankenstein ist.",
       "t": "A",
-      "v": "820281_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Ich bevorzuge echte gegenüber gefälschten Weihnachtsbäumen.",
+      "v": "Ich bevorzuge echte Weihnachtsbäume gegenüber künstlichen.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Traube ist der beste Popsicle-Geschmack (Eis).",
+      "v": "Kirsche ist der beste Wassereis-Geschmack.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich kann Mexiko auf einer Karte finden.",
+      "v": "Ich weiß, wo sich Mexiko auf einer Weltkarte befindet.",
       "n": "AlienPromptText2"
     },
     {

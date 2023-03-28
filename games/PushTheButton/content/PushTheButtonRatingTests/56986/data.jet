@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich hätte Abschiedsredner werden können, wenn ich mich mehr angestrengt hätte.",
+      "v": "Ich hätte in der Kirche arbeiten können, wenn ich mich mehr angestrengt hätte.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich hätte Abschiedsredner werden können, wenn ich mich mehr angestrengt hätte.",
+      "s": "Ich hätte in der Kirche arbeiten können, wenn ich mich mehr angestrengt hätte.",
       "t": "A",
-      "v": "818524_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Schule ist Zeitverschwendung",
+      "v": "Schule ist Zeitverschwendung.",
       "n": "AlienPromptText2"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Speck ist furchtbar.",
       "t": "A",
-      "v": "820107_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,17 +33,17 @@
     },
     {
       "t": "S",
-      "v": "Es sollte einen nationalen Welpentag geben, an dem wir uns den Tag frei nehmen, um Welpen zu würdigen.",
+      "v": "Es sollte einen nationalen Welpentag geben, an dem wir alle frei haben, um Welpen zu würdigen.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Baseball würde mehr Spaß machen, wenn der Pitcher “Tschu-tschu!” schreien würde, wenn er einen Fastball wirft.",
+      "v": "Fußball würde mehr Spaß machen, wenn es kein Abseits geben würde.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich kenne die meisten Wörter zu “All Star” von Smash Mouth.",
+      "v": "Ich kenne den Liedtext zu “All Star” von Smash Mouth.",
       "n": "AlienPromptText2"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Vogelbeobachtung ist meine Leidenschaft.",
+      "v": "Ich liebe es, Vögel zu beobachten.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Vogelbeobachtung ist meine Leidenschaft.",
+      "s": "Ich liebe es, Vögel zu beobachten.",
       "t": "A",
-      "v": "832154_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Ich bin ein Nerd für die Natur",
+      "v": "Ich bin ein Natur-Freak.",
       "n": "AlienPromptText0"
     },
     {

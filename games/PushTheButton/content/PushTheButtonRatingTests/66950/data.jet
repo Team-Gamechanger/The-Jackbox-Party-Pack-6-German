@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ladendiebstahl ist ein Verbrechen ohne Opfer.",
+      "v": "Ladendiebstahl ist ein Verbrechen, bei dem niemand zu Schaden kommt.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ladendiebstahl ist ein Verbrechen ohne Opfer.",
+      "s": "Ladendiebstahl ist ein Verbrechen, bei dem niemand zu Schaden kommt.",
       "t": "A",
-      "v": "890156_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

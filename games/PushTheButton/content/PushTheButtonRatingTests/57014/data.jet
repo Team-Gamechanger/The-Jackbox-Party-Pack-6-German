@@ -8,7 +8,7 @@
     {
       "s": "Kurze Haare sind die besten Haare.",
       "t": "A",
-      "v": "819083_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "t": "S",
-      "v": "Ich gebe viel für meine Haare aus.",
+      "v": "Ich gebe viel Geld für meine Haare aus.",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich pinkle unter der Dusche",
+      "v": "Ich pinkle unter der Dusche.",
       "n": "AlienPromptText1"
     },
     {

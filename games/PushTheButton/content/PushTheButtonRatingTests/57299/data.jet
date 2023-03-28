@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich kann eine Geisterschote essen, ohne zu schwitzen oder zu weinen.",
+      "v": "Ich kann eine Chillischote essen, ohne zu schwitzen oder zu weinen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich kann eine Geisterschote essen, ohne zu schwitzen oder zu weinen.",
+      "s": "Ich kann eine Chillischote essen, ohne zu schwitzen oder zu weinen.",
       "t": "A",
-      "v": "826685_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

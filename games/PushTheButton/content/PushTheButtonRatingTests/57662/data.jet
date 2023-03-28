@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das beste Bier kommt aus Kanada.",
+      "v": "Das beste Bier kommt aus dem Ausland.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das beste Bier kommt aus Kanada.",
+      "s": "Das beste Bier kommt aus dem Ausland.",
       "t": "A",
-      "v": "834374_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "t": "S",
-      "v": "Das beste Bier kommt aus den Vereinigten Staaten.",
+      "v": "Das beste Bier kommt aus Deutschland.",
       "n": "AlienPromptText0"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Kanada ist ein sehr angenehmes Land.",
+      "v": "Österreich ist ein sehr angenehmes Land.",
       "n": "AlienPromptText2"
     },
     {

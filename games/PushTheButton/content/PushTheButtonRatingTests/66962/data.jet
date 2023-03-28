@@ -8,7 +8,7 @@
     {
       "s": "<i>Jurassic Park</i> ist ein schlechter Film.",
       "t": "A",
-      "v": "890300_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Wir könnten wahrscheinlich die Dinosaurier zurückbringen.",
+      "v": "Wir könnten wahrscheinlich Dinosaurier züchten.",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Online-Piraterie ist ein schreckliches Verbrechen.",
+      "v": "Online-Piraterie / Raubkopien ist ein schreckliches Verbrechen.",
       "n": "AlienPromptText2"
     },
     {

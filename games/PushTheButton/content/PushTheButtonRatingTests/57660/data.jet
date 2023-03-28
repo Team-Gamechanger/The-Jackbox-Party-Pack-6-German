@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich bin so bereit für selbstfahrende Autos.",
+      "v": "Ich freue mich riesig auf selbstfahrende Autos.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich bin so bereit für selbstfahrende Autos",
+      "s": "Ich freue mich riesig auf selbstfahrende Autos.",
       "t": "A",
-      "v": "834350_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Podcasts sind besser als Musik.",
+      "v": "Podcasts sind besser als Musik hören.",
       "n": "AlienPromptText2"
     },
     {

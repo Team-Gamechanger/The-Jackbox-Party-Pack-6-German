@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich wäre ein großartiger Präsident.",
+      "v": "Ich wäre ein großartiger Bundeskanzler.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich wäre ein großartiger Präsident.",
+      "s": "Ich wäre ein großartiger Bundeskanzler.",
       "t": "A",
-      "v": "818910_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

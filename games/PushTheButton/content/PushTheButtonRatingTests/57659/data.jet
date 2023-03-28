@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde lieber als Katze statt als Hund reinkarniert werden.",
+      "v": "Ich würde lieber als Katze statt als Hund wiedergeboren werden.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich würde lieber als Katze statt als Hund reinkarniert werden.",
+      "s": "Ich würde lieber als Katze statt als Hund wiedergeboren werden.",
       "t": "A",
-      "v": "834338_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

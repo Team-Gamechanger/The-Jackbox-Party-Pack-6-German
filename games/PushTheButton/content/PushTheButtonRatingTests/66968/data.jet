@@ -8,7 +8,7 @@
     {
       "s": "Ich liebe das Geräusch von Fingernägeln, die über eine Kreidetafel kratzen.",
       "t": "A",
-      "v": "890372_2",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "t": "S",
-      "v": "Ich mag Marching-Band-Musik",
+      "v": "Ich mag Militär-Musik",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich könnte das Getriebe eines Autos reparieren.",
+      "v": "Ich könnte den Motor eines Autos reparieren.",
       "n": "AlienPromptText2"
     },
     {

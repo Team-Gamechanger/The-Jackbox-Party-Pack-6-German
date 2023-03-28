@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich kann keinen Koriander essen.",
+      "v": "Ich kann keinen Tintenfisch essen.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich kann keinen Koriander essen.",
+      "s": "Ich kann keinen Tintenfisch essen.",
       "t": "A",
-      "v": "818979_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Spargel lässt mein Pipi riechen.",
+      "v": "Durch Spargel stinkt mein Urin.",
       "n": "AlienPromptText2"
     },
     {

@@ -8,7 +8,7 @@
     {
       "s": "Ich liebe Sushi.",
       "t": "A",
-      "v": "819585_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ich bin meistens Vegetarier",
+      "v": "Ich bin ernähre mich gerne vegan.",
       "n": "AlienPromptText2"
     },
     {

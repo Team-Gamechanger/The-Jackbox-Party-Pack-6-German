@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Valentinstag ist Betrug.",
+      "v": "Der Valentinstag ist nur eine Masche.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Valentinstag ist Betrug.",
+      "s": "Der Valentinstag ist nur eine Masche.",
       "t": "A",
-      "v": "832166_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

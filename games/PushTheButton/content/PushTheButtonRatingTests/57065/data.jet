@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich fürchte mich vor Robotern.",
+      "v": "Ich habe Angst vor Robotern.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich fürchte mich vor Robotern.",
+      "s": "Ich habe Angst vor Robotern.",
       "t": "A",
-      "v": "820175_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Es wird “jif ausgesprochen, ” nicht “gif.”",
+      "v": "Es heißt “die Nutella”, nicht “das Nutella”.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Es wird “jif ausgesprochen, ” nicht “gif.”",
+      "s": "Es heißt “die Nutella”, nicht “das Nutella”.",
       "t": "A",
-      "v": "823339_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "t": "S",
-      "v": "Ketchup ist gut auf Hot Dogs.",
+      "v": "Auf Hot Dogs MUSS Ketchup.",
       "n": "AlienPromptText2"
     },
     {

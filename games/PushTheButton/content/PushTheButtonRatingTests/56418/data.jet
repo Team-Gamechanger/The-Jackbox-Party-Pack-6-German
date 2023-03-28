@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich habe eine Menge sexy Zeichnungen von mir als Halbotter-Person gemacht und jetzt kann ich sie nicht finden und habe Angst.",
+      "v": "Ich habe eine Menge sexy Zeichnungen von mir gemacht und jetzt kann ich sie nicht finden.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich habe eine Menge sexy Zeichnungen von mir als Halbotter-Person gemacht und jetzt kann ich sie nicht finden und habe Angst.",
+      "s": "Ich habe eine Menge sexy Zeichnungen von mir gemacht und jetzt kann ich sie nicht finden.",
       "t": "A",
-      "v": "807172_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "t": "S",
-      "v": "Ich denke, Ehrlichkeit ist die beste Strategie.",
+      "v": "Ich denke, Ehrlichkeit ist am Wichtigsten.",
       "n": "AlienPromptText1"
     },
     {
