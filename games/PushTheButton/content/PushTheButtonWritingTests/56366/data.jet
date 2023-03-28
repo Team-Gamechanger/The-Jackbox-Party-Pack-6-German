@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eines der besten Geschenke, die ich je bekommen habe, war ...",
+      "v": "Eines der besten Geschenke, die ich je bekommen habe, war...",
       "n": "HumanPromptText"
     },
     {
       "s": "Eines der besten Geschenke, die ich je bekommen habe, war...",
       "t": "A",
-      "v": "806274_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

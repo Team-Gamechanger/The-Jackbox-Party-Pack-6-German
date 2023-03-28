@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “inspirierend höre,” denke ich ...",
+      "v": "Wenn ich den Begriff “inspirierend” höre, denke ich ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich den Begriff “inspirierend höre,” denke ich ...",
+      "s": "Wenn ich den Begriff “inspirierend” höre, denke ich ...",
       "t": "A",
-      "v": "834831_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -98,22 +98,22 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Führung höre,” denke ich ...",
+      "v": "Wenn ich das Wort “Führung” höre, denke ich ...",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Held höre,” denke ich...",
+      "v": "Wenn ich das Wort “Held” höre, denke ich...",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Wunder höre,” denke ich ...",
+      "v": "Wenn ich das Wort “Wunder” höre, denke ich ...",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “igitt höre,” denke ich...",
+      "v": "Wenn ich das Wort “igitt” höre, denke ich...",
       "n": "AlienPromptText3"
     },
     {

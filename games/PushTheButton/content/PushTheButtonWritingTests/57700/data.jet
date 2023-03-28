@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich hasse es, für ... einkaufen zu müssen",
+      "v": "Ich hasse es, hierfür einkaufen zu müssen...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich hasse es, für ... einkaufen zu müssen",
+      "s": "Ich hasse es, hierfür einkaufen zu müssen...",
       "t": "A",
-      "v": "834963_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

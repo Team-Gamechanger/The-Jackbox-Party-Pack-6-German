@@ -8,7 +8,7 @@
     {
       "s": "Das Lied, das bei meiner Beerdigung gespielt werden soll, ist ...",
       "t": "A",
-      "v": "803399_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

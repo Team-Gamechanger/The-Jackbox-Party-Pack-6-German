@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der letzte Film, bei dem ich geweint habe, war ...",
+      "v": "Der letzte Film, bei dem ich geweint habe, war...",
       "n": "HumanPromptText"
     },
     {
       "s": "Der letzte Film, bei dem ich geweint habe, war...",
       "t": "A",
-      "v": "806453_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

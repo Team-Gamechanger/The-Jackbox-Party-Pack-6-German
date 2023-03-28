@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein liebster Gruselfilm ist ...",
+      "v": "Mein liebster Gruselfilm ist...",
       "n": "HumanPromptText"
     },
     {
       "s": "Mein liebster Gruselfilm ist...",
       "t": "A",
-      "v": "822504_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

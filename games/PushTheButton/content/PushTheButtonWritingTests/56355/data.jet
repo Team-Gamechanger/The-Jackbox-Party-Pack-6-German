@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich mir ein Tattoo stechen lassen müsste, würde ich mir ...",
+      "v": "Wenn ich mir ein Tattoo stechen lassen müsste, wäre es...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich mir ein Tattoo stechen lassen müsste, würde ich mir ...",
+      "s": "Wenn ich mir ein Tattoo stechen lassen müsste, wäre es...",
       "t": "A",
-      "v": "806138_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

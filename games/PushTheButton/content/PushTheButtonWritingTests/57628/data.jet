@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich verbringe die meiste Zeit meiner Freizeit damit, dies zu tun ...",
+      "v": "Ich verbringe die meiste Zeit meiner Freizeit damit, dies zu tun...",
       "n": "HumanPromptText"
     },
     {
       "s": "Ich verbringe die meiste Zeit meiner Freizeit damit, dies zu tun...",
       "t": "A",
-      "v": "833708_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

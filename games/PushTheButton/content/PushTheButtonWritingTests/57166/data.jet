@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der letzte Film, den ich gesehen habe, war ...",
+      "v": "Der letzte Film, den ich gesehen habe, war...",
       "n": "HumanPromptText"
     },
     {
       "s": "Der letzte Film, den ich gesehen habe, war...",
       "t": "A",
-      "v": "822516_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

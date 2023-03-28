@@ -8,7 +8,7 @@
     {
       "s": "Ein Buch, das ich in der Schule gelesen habe, war ...",
       "t": "A",
-      "v": "806246_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

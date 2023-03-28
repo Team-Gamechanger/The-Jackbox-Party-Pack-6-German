@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich mag den Geruch von ...",
+      "v": "Ich mag wirklich den Geruch von ...",
       "n": "HumanPromptText"
     },
     {
       "s": "Ich mag wirklich den Geruch von ...",
       "t": "A",
-      "v": "890120_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

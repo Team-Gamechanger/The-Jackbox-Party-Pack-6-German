@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich nicht ausstehen kann, ist ...",
+      "v": "Eine Berühmtheit, die ich nicht ausstehen kann, ist...",
       "n": "HumanPromptText"
     },
     {
       "s": "Eine Berühmtheit, die ich nicht ausstehen kann, ist...",
       "t": "A",
-      "v": "831150_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

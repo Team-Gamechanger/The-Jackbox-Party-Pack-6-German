@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das schlimmste Lied, das einem im Kopf hängen bleibt, ist ...",
+      "v": "Das schlimmste Lied, das in meinem Kopf hängen bleibt, ist ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das schlimmste Lied, das einem im Kopf hängen bleibt, ist ...",
+      "s": "Das schlimmste Lied, das in meinem Kopf hängen bleibt, ist ...",
       "t": "A",
-      "v": "833744_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

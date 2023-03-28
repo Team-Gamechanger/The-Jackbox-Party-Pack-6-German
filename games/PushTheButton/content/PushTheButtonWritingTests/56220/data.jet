@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich bin froh, dass ich endlich meine Angst vor ... überwunden habe",
+      "v": "Ich bin froh, dass ich endlich meine Angst vor folgendem überwunden habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich bin froh, dass ich endlich meine Angst vor ... überwunden habe",
+      "s": "Ich bin froh, dass ich endlich meine Angst vor folgendem überwunden habe:",
       "t": "A",
-      "v": "803791_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

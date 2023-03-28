@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “magischer Zauberstab höre,” denke ich an...",
+      "v": "Wenn ich den Begriff “magischer Zauberstab” höre, denke ich an...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich den Begriff “magischer Zauberstab höre,” denke ich an...",
+      "s": "Wenn ich den Begriff “magischer Zauberstab” höre, denke ich an...",
       "t": "A",
-      "v": "834687_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -98,22 +98,22 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Magisch höre,” denke ich an...",
+      "v": "Wenn ich das Wort “Magisch” höre, denke ich an...",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich den Namen “Harry Potter höre,” denke ich an...",
+      "v": "Wenn ich den Namen “Harry Potter” höre, denke ich an...",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Zauberspruch höre,” denke ich an ...",
+      "v": "Wenn ich das Wort “Zauberspruch” höre, denke ich an ...",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “magischer Zauberspruch höre,” denke ich an...",
+      "v": "Wenn ich den Begriff “magischer Zauberspruch” höre, denke ich an...",
       "n": "AlienPromptText3"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Wissenschaft höre,” denke ich an ...",
+      "v": "Wenn ich das Wort “Wissenschaft” höre, denke ich an ...",
       "n": "AlienPromptText5"
     },
     {

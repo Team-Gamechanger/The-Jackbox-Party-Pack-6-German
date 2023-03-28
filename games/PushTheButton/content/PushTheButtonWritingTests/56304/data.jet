@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Lied, zu dem ich alle Wörter kenne, ist ...",
+      "v": "Das Lied, zu dem ich den ganzen Text kenne, ist ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Lied, zu dem ich alle Wörter kenne, ist ...",
+      "s": "Das Lied, zu dem ich den ganzen Text kenne, ist ...",
       "t": "A",
-      "v": "805397_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Meine zwei Lieblingsmenschen sind ...",
+      "v": "Meine zwei Lieblingsmenschen sind...",
       "n": "HumanPromptText"
     },
     {
       "s": "Meine zwei Lieblingsmenschen sind...",
       "t": "A",
-      "v": "834723_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

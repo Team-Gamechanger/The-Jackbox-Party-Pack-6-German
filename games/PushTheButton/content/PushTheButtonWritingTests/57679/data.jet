@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, von denen ich mir wünsche, dass sie zusammenkommen, sind ...",
+      "v": "Zwei Berühmtheiten, von denen ich mir wünsche, dass sie zusammenkommen, sind...",
       "n": "HumanPromptText"
     },
     {
       "s": "Zwei Berühmtheiten, von denen ich mir wünsche, dass sie zusammenkommen, sind...",
       "t": "A",
-      "v": "834711_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

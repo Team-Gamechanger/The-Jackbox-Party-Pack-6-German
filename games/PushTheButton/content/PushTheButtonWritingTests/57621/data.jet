@@ -8,7 +8,7 @@
     {
       "s": "Der Schauspieler oder die Schauspielerin, die mich in einem Film spielen soll, ist ...",
       "t": "A",
-      "v": "833624_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

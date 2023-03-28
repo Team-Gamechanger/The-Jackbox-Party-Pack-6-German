@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblings-Disney-Film ist...",
+      "v": "Mein Lieblings-Disney-Film ist ...",
       "n": "HumanPromptText"
     },
     {
       "s": "Mein Lieblings-Disney-Film ist ...",
       "t": "A",
-      "v": "833134_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

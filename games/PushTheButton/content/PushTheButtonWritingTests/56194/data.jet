@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein liebster fiktiver Ort ist ...",
+      "v": "Mein liebster fiktionaler Ort ist ...",
       "n": "HumanPromptText"
     },
     {
       "s": "Mein liebster fiktionaler Ort ist ...",
       "t": "A",
-      "v": "803387_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

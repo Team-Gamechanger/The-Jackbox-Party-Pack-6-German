@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das coolste Ding, mit dem ich je ein Selfie gemacht habe, ist ...",
+      "v": "Die coolste Sache, mit der ich je ein Selfie gemacht habe, ist ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das coolste Ding, mit dem ich je ein Selfie gemacht habe, ist ...",
+      "s": "Die coolste Sache, mit der ich je ein Selfie gemacht habe, ist ...",
       "t": "A",
-      "v": "833768_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

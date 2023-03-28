@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Als ich ein Kind war, wollte ich aufwachsen, um ein/e ... zu werden",
+      "v": "Als ich ein Kind war, wollte ich folgendes werden, wenn ich groß bin...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Als ich ein Kind war, wollte ich aufwachsen, um ein/e ... zu werden",
+      "s": "Als ich ein Kind war, wollte ich folgendes werden, wenn ich groß bin...",
       "t": "A",
-      "v": "803459_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

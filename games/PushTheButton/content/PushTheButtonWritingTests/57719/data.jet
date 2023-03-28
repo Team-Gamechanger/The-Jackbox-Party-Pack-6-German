@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die glücklichste Zeit in meinem Leben war ...",
+      "v": "Die glücklichste Zeit in meinem Leben war...",
       "n": "HumanPromptText"
     },
     {
       "s": "Die glücklichste Zeit in meinem Leben war...",
       "t": "A",
-      "v": "835233_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

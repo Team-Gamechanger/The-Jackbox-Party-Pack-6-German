@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die ältere Menschen mögen, sind ...",
+      "v": "Zwei ältere Berühmtheiten, die ich mag, sind ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Zwei Berühmtheiten, die ältere Menschen mögen, sind ...",
+      "s": "Zwei ältere Berühmtheiten, die ich mag, sind ...",
       "t": "A",
-      "v": "834807_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

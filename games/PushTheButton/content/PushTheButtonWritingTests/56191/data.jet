@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Film über mein Leben würde ... heißen",
+      "v": "Der Name des Films über mein Leben wäre...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Film über mein Leben würde ... heißen",
+      "s": "Der Name des Films über mein Leben wäre...",
       "t": "A",
-      "v": "803351_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

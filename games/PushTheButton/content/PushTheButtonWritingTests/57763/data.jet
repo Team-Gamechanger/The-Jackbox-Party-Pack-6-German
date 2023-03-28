@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde das Wort “entzückend” verwenden, um zu beschreiben ...",
+      "v": "Ich würde das Wort “entzückend” verwenden, um zu beschreiben...",
       "n": "HumanPromptText"
     },
     {
       "s": "Ich würde das Wort “entzückend” verwenden, um zu beschreiben...",
       "t": "A",
-      "v": "836645_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

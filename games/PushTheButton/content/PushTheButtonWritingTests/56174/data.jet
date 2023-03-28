@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Tier, das ich schon immer mal streicheln wollte, ist ein/e ...",
+      "v": "Das Tier, das ich schon immer mal streicheln wollte, ist ein/e...",
       "n": "HumanPromptText"
     },
     {
       "s": "Das Tier, das ich schon immer mal streicheln wollte, ist ein/e...",
       "t": "A",
-      "v": "803057_0",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

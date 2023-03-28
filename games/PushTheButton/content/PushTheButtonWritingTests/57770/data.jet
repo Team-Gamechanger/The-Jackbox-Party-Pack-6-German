@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der beste Film, den man in seinem Ehegelübde zitieren sollten, wäre ...",
+      "v": "Der beste Film, den man in seinem Ehegelübde zitieren sollte, wäre ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der beste Film, den man in seinem Ehegelübde zitieren sollten, wäre ...",
+      "s": "Der beste Film, den man in seinem Ehegelübde zitieren sollte, wäre ...",
       "t": "A",
-      "v": "836729_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

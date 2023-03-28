@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Held ist...",
+      "v": "Mein Held ist ...",
       "n": "HumanPromptText"
     },
     {
       "s": "Mein Held ist ...",
       "t": "A",
-      "v": "889904_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

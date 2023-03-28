@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich kaufe meistens bei ... ein",
+      "v": "Der Laden, in dem ich meistens einkaufe, ist...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich kaufe meistens bei ... ein",
+      "s": "Der Laden, in dem ich meistens einkaufe, ist...",
       "t": "A",
-      "v": "831010_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

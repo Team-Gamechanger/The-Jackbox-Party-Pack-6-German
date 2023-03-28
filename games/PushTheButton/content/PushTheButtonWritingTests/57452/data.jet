@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der schlimmste Geruch der Welt müsste ... sein",
+      "v": "Der schlimmste Geruch der Welt ist...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der schlimmste Geruch der Welt müsste ... sein",
+      "s": "Der schlimmste Geruch der Welt ist...",
       "t": "A",
-      "v": "831090_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

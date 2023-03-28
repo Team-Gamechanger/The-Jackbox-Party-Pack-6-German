@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein gutes Geschenk für einen Hochschulabsolventen wäre ...",
+      "v": "Ein gutes Geschenk für einen Hochschulabsolventen wäre...",
       "n": "HumanPromptText"
     },
     {
       "s": "Ein gutes Geschenk für einen Hochschulabsolventen wäre...",
       "t": "A",
-      "v": "836801_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

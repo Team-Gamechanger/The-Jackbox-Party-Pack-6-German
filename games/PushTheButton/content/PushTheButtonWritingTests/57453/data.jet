@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Film, der zu einem Broadway-Stück gemacht werden sollte, ist ...",
+      "v": "Ein Film, der zu einem Musical gemacht werden sollte, ist ...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Film, der zu einem Broadway-Stück gemacht werden sollte, ist ...",
+      "s": "Ein Film, der zu einem Musical gemacht werden sollte, ist ...",
       "t": "A",
-      "v": "831102_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

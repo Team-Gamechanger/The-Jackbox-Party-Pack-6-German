@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet bin, ist ...",
+      "v": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre, ist ...",
       "n": "HumanPromptText"
     },
     {
       "s": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre, ist ...",
       "t": "A",
-      "v": "836753_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

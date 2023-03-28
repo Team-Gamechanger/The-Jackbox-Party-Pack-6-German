@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste, würde ich ... sagen",
+      "v": "Wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste, würde ich sagen...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste, würde ich ... sagen",
+      "s": "Wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste, würde ich sagen...",
       "t": "A",
-      "v": "836789_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

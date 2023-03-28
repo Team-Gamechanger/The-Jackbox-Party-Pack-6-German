@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich an meine Heimatstadt denke, denke ich an ...",
+      "v": "Wenn ich an meine Heimatstadt denke, denke ich an...",
       "n": "HumanPromptText"
     },
     {
       "s": "Wenn ich an meine Heimatstadt denke, denke ich an...",
       "t": "A",
-      "v": "890048_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

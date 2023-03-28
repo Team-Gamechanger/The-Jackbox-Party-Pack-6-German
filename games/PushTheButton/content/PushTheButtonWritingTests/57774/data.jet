@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte, würde ich ... wählen",
+      "v": "Wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte, würde ich folgendes wählen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte, würde ich ... wählen",
+      "s": "Wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte, würde ich folgendes wählen:",
       "t": "A",
-      "v": "836777_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {

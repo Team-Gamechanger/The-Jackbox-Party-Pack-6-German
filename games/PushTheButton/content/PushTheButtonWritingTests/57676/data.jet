@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “Arschritze höre,” denke ich an...",
+      "v": "Wenn ich den Begriff “Arschritze” höre, denke ich an...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich den Begriff “Arschritze höre,” denke ich an...",
+      "s": "Wenn ich den Begriff “Arschritze” höre, denke ich an...",
       "t": "A",
-      "v": "834675_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
@@ -103,17 +103,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “Arschbacke höre,” denke ich an...",
+      "v": "Wenn ich den Begriff “Arschbacke” höre, denke ich an...",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “schönes Lächeln höre,” denke ich an ...",
+      "v": "Wenn ich den Begriff “schönes Lächeln” höre, denke ich an ...",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Romantik höre,” denke ich an...",
+      "v": "Wenn ich das Wort “Romantik” höre, denke ich an...",
       "n": "AlienPromptText3"
     },
     {

@@ -2,13 +2,13 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich das Wort “lame höre,” denke ich an...",
+      "v": "Wenn ich das Wort “lame” höre, denke ich an...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich das Wort “lame höre,” denke ich an...",
+      "s": "Wenn ich das Wort “lame” höre, denke ich an...",
       "t": "A",
-      "v": "834699_1",
+      "v": "prompt",
       "n": "HumanPromptAudio"
     },
     {
