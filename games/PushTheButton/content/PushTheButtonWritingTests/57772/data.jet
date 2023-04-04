@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre, ist ...",
+      "v": "Das ist der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre, ist ...",
+      "s": "Das ist der Prominente, mit dem ich wahrscheinlich am besten befreundet wäre:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Der Promi, der im echten Leben wahrscheinlich nett ist, ist ...",
+      "v": "Das ist ein Promi, der im echten Leben wahrscheinlich nett ist:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine unterschätzte Berühmtheit ist ...",
+      "v": "Das ist ein unterschätzter Prominenter:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine altbekannte Berühmtheit ist ...",
+      "v": "Das ist ein altbekannter Promi:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der beste Ort, um mit jemandem Schluss zu machen, ist ...",
+      "v": "Das ist der beste Ort, um mit jemandem Schluss zu machen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der beste Ort, um mit jemandem Schluss zu machen, ist ...",
+      "s": "Das ist der beste Ort, um mit jemandem Schluss zu machen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ein guter Ort für ein erstes Date ist...",
+      "v": "Das ist ein guter Ort für ein erstes Date:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein guter Ort, um deinen Seelenverwandten zu treffen, ist ...",
+      "v": "Das ist ein guter Ort, um meinen Seelenverwandten zu treffen:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der letzte Ort, an dem du ein Souvenir gekauft hast, war ...",
+      "v": "Das ist der letzte Ort, an dem ich ein Souvenir gekauft habe:",
       "n": "AlienPromptText2"
     },
     {

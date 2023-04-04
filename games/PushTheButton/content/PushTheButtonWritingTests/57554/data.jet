@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Getränk, bei dem ich mich wie ein Erwachsener fühle, ist ...",
+      "v": "Das ist ein Getränk, bei dem ich mich wie ein Erwachsener fühle:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Getränk, bei dem ich mich wie ein Erwachsener fühle, ist ...",
+      "s": "Das ist ein Getränk, bei dem ich mich wie ein Erwachsener fühle:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein alkoholisches Lieblingsgetränk ist ...",
+      "v": "Das ist mein alkoholisches Lieblingsgetränk:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsgetränk ist ...",
+      "v": "Das ist mein Lieblingsgetränk:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Getränk, das ich nicht vertrage, ist ...",
+      "v": "Das ist ein Getränk, das ich nicht vertrage:",
       "n": "AlienPromptText2"
     },
     {

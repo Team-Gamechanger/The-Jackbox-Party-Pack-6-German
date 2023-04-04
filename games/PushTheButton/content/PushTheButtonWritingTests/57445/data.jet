@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsvideospiel ist ...",
+      "v": "Das ist mein Lieblingsvideospiel:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsvideospiel ist ...",
+      "s": "Das ist mein Lieblingsvideospiel:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ein Videospiel, das ich früher liebte, ist ...",
+      "v": "Das ist ein Videospiel, das ich früher liebte:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das härteste Videospiel ist ...",
+      "v": "Das ist das schwerste Videospiel:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsvideospiel in der Kindheit war ...",
+      "v": "Das war in der Kindheit mein Lieblingsvideospiel:",
       "n": "AlienPromptText2"
     },
     {

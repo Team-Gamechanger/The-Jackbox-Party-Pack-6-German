@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Traumjob wäre ...",
+      "v": "Das wäre mein Traumjob:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Traumjob wäre ...",
+      "s": "Das wäre mein Traumjob:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Der Beruf, den ich wollte, als ich erwachsen war, war ...",
+      "v": "Das ist ein Beruf, den ich machen wollte, als ich erwachsen war:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Job, den ich mit schwerer Arbeit verbinde, ist ...",
+      "v": "Das ist ein Job, den ich mit schwerer Arbeit verbinde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Job, der einschüchternd klingt, ist ...",
+      "v": "Das ist ein Job, der einschüchternd klingt:",
       "n": "AlienPromptText2"
     },
     {

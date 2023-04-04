@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die schlimmste Textnachricht, die man spät in der Nacht erhält, wäre...",
+      "v": "Das wäre die schlimmste Textnachricht, die man spät in der Nacht erhalten könnte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die schlimmste Textnachricht, die man spät in der Nacht erhält, wäre...",
+      "s": "Das wäre die schlimmste Textnachricht, die man spät in der Nacht erhalten könnte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine schreckliche Sache, die man sagt, wenn man jemanden abserviert, ist ...",
+      "v": "Das ist eine schreckliche Sache, die man sagen kann, wenn man jemanden entlässt:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine schreckliche SMS von deiner Mutter wäre ...",
+      "v": "Das wäre eine schreckliche SMS von meiner Mutter:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine schreckliche Sache, die auf einem Autoaufkleber stehen sollte, wäre ...",
+      "v": "Das wäre eine schreckliche Sache, die auf einem Autoaufkleber stehen sollte:",
       "n": "AlienPromptText2"
     },
     {

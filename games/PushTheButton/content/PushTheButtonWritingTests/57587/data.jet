@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine Sportart, die ich früher gemacht habe, ist ...",
+      "v": "Das ist eine Sportart, die ich früher gemacht habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eine Sportart, die ich früher gemacht habe, ist ...",
+      "s": "Das ist eine Sportart, die ich früher gemacht habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssport, den ich live sehe, ist ...",
+      "v": "Das ist mein Lieblingssport, den ich gerne live sehe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der beste Sport, den man beim Mittagsschlaf betreiben sollte, ist ...",
+      "v": "Das ist der beste Sport, den man beim Mittagsschlaf betreiben sollte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Sportart, die ich meine Kinder nicht machen lassen würde, ist ...",
+      "v": "Das ist eine Sportart, die ich meine Kinder nicht machen lassen würde:",
       "n": "AlienPromptText2"
     },
     {

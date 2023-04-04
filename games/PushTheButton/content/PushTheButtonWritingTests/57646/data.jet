@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die Leute beschweren sich zu sehr über...",
+      "v": "Darüber beschweren sich die Leute zu sehr:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die Leute beschweren sich zu sehr über...",
+      "s": "Darüber beschweren sich die Leute zu sehr:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein größtes Lieblingsärgernis ist ...",
+      "v": "Das ist mein größtes Lieblingsärgernis:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Es gibt wichtigere Dinge, um die man sich kümmern muss, als ...",
+      "v": "Das ist etwas, um das man sich nicht kümmern sollte: ",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Nachricht, von der ich nicht mehr hören will, ist ...",
+      "v": "Das ist eine Nachricht, die ich nicht mehr hören will:",
       "n": "AlienPromptText2"
     },
     {

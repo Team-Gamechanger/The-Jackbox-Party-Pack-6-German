@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die perfekte Zeit für ein Nickerchen ist ...",
+      "v": "Das ist die perfekte Zeit für ein Nickerchen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die perfekte Zeit für ein Nickerchen ist ...",
+      "s": "Das ist die perfekte Zeit für ein Nickerchen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Nach dem Aufwachen am Morgen bleibe ich mindestens für ... im Bett",
+      "v": "So lange bleibe ich jeden Morgen nach dem Aufwachen noch im Bett:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die perfekte Zeit, um zu kacken, ist ...",
+      "v": "Das ist die perfekte Zeit, um zu kacken:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich schaue keine Filme, die länger sind als ...",
+      "v": "Das ist die Zeit, ab der Filme zu lang sind:",
       "n": "AlienPromptText2"
     },
     {

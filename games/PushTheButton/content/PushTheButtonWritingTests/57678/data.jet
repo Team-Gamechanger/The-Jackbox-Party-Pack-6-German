@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich das Wort “lame” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich das Wort “lame” höre:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich das Wort “lame” höre, denke ich an...",
+      "s": "Daran denke ich, wenn ich das Wort “lame” höre:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Langweiligste, was mir einfällt, ist ...",
+      "v": "Das ist das Langweiligste, was mir einfällt:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine lästige Tätigkeit, die ich tun muss, ist ...",
+      "v": "Das ist eine lästige Tätigkeit, die ich tun muss:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Uncoolste, was ich mag, ist ...",
+      "v": "Das ist das Uncoolste, was ich mag:",
       "n": "AlienPromptText2"
     },
     {

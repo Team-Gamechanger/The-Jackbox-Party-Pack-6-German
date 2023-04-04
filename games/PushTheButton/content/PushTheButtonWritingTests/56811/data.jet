@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsfrühstücksessen ist ...",
+      "v": "Das ist mein Lieblingsfrühstücksessen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsfrühstücksessen ist ...",
+      "s": "Das ist mein Lieblingsfrühstücksessen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmüsli ist ...",
+      "v": "Das ist mein Lieblingsmüsli:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Frühstücksmüsli mit dem besten Maskottchen ist ...",
+      "v": "Das ist das Frühstücksmüsli mit dem besten Maskottchen:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das ekligste Ding in deinem Kühlschrank ist ...",
+      "v": "Das ist das ekligste Ding in meinem Kühlschrank:",
       "n": "AlienPromptText2"
     },
     {

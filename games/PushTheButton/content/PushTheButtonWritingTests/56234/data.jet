@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein lustiger Lieblingsfilm ist...",
+      "v": "Das ist mein Lieblings-Comedy-Film:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein lustiger Lieblingsfilm ist...",
+      "s": "Das ist mein Lieblings-Comedy-Film:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Pixar-Film ist ...",
+      "v": "Das ist mein Lieblings-Pixar-Film:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der traurigste Film, den ich je gesehen habe, war...",
+      "v": "Das ist der traurigste Film, den ich je gesehen habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-YouTube-Video ist...",
+      "v": "Das ist mein Lieblings-YouTube-Video:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich früher lustig fand, ist ...",
+      "v": "Das ist ein Film, den ich früher lustig fand:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsfernsehsendung ist ...",
+      "v": "Das ist meine Lieblingsfernsehsendung:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbuch ist ...",
+      "v": "Das ist mein Lieblingsbuch:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm mit einem Hund darin ist ...",
+      "v": "Das ist mein Lieblingsfilm mit einem Hund:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Film, der mich als Kind aufgeregt hat, war ...",
+      "v": "Das war ein Film, der mich als Kind aufgeregt hat:",
       "n": "AlienPromptText7"
     }
   ]

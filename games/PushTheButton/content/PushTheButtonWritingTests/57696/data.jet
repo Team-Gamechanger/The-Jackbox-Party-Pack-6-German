@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich an den Strand denke, denke ich an...",
+      "v": "Daran denke ich auch, wenn ich an den Strand denke:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich an den Strand denke, denke ich an...",
+      "s": "Daran denke ich auch, wenn ich an den Strand denke:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an den Ozean denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an den Ozean denke:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich an ein Schwimmbad denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an ein Schwimmbad denke:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich an den Sommer denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an den Sommer denke:",
       "n": "AlienPromptText2"
     },
     {

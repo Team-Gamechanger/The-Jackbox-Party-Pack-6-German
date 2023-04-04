@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der schlimmste Geruch der Welt ist...",
+      "v": "Das ist der schlimmste Geruch der Welt:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der schlimmste Geruch der Welt ist...",
+      "s": "Das ist der schlimmste Geruch der Welt:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das am schlechtesten riechende Lebensmittel ist ...",
+      "v": "Das ist das am schlechtesten riechende Lebensmittel:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Geruch, den ich nicht ausstehen kann, ist ...",
+      "v": "Das ist ein Geruch, den ich nicht ausstehen kann:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der Name von jemandem in diesem Raum ist ...",
+      "v": "Das ist der Name von jemandem in diesem Raum:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Dümmste, wovor ich Angst habe, ist...",
+      "v": "Das ist das Dümmste, wovor ich Angst habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Dümmste, wovor ich Angst habe, ist...",
+      "s": "Das ist das Dümmste, wovor ich Angst habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Als ich ein Kind war, hatte ich Angst vor ...",
+      "v": "Davor hatte ich Angst, als ich ein Kind war:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich verstehe nicht, warum sich die Leute Sorgen machen über...",
+      "v": "Ich verstehe nicht, warum sich Leute darüber Sorgen machen:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das perfekte Geschenk zum Valentinstag ist ...",
+      "v": "Das ist das perfekte Geschenk zum Valentinstag:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Das letzte, was ich impulsiv gekauft habe, war ...",
+      "v": "Das ist das letzte, was ich impulsiv gekauft habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das gruseligste Tier ist....",
+      "v": "Das ist das gruseligste Tier:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das mythische Monster, von dem ich wünschte, es wäre echt, ist ...",
+      "v": "Das ist das mythische Monster, von dem ich wünschte, es wäre echt:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das gruseligste Filmmonster ist ...",
+      "v": "Das ist das gruseligste Filmmonster:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das coolste Tier im Zoo ist ...",
+      "v": "Das ist das coolste Tier im Zoo:",
       "n": "AlienPromptText7"
     }
   ]

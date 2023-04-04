@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm aus den 1980er Jahren ist...",
+      "v": "Das ist mein Lieblingsfilm aus den 1980er-Jahren:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsfilm aus den 1980er Jahren ist...",
+      "s": "Das ist mein Lieblingsfilm aus den 1980er-Jahren:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein alter Lieblingsfilm ist ...",
+      "v": "Das ist mein alter Lieblingsfilm:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Film-Franchise, dessen ich überdrüssig bin, ist ...",
+      "v": "Das ist ein Film-Franchise, das ich verabscheue:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Mein alter Lieblingsfilm ist ...",
+      "v": "Das ist mein alter Lieblingsfilm:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Film, der mir Angst machte, war ...",
+      "v": "Das ist ein Film, der mir Angst gemacht hat:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich als Kind nicht sehen durfte, war...",
+      "v": "Das ist ein Film, den ich als Kind nicht sehen durfte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, die ich wahrscheinlich persönlich hassen würde, ist ....",
+      "v": "Das ist eine historische Figur, die ich wahrscheinlich persönlich hassen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, von der ich genug gehört habe, ist ...",
+      "v": "Das ist eine Berühmtheit, von der ich andauernd höre:",
       "n": "AlienPromptText7"
     }
   ]

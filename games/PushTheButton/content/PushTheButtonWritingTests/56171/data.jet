@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein romantisches Lieblingslied ist ...",
+      "v": "Das ist mein romantisches Lieblingslied:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein romantisches Lieblingslied ist ...",
+      "s": "Das ist mein romantisches Lieblingslied:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsverführungssong ist ...",
+      "v": "Das ist mein Lieblingsverführungssong:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein tolles langsames Lied ist ...",
+      "v": "Das ist ein tolles langsames Lied:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein gutes Lied für den ersten Hochzeitstanz ist ...",
+      "v": "Das ist ein gutes Lied für den ersten Hochzeitstanz:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Das nervigste Kinderlied ist ...",
+      "v": "Das ist das nervigste Kinderlied:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das mir im Kopf geblieben ist, ist...",
+      "v": "Das ist ein Lied, das mir im Kopf geblieben ist:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das bei meiner Beerdigung gespielt werden soll, ist ...",
+      "v": "Das ist ein Lied, das bei meiner Beerdigung gespielt werden soll:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das nervigste Geräusch ist ...",
+      "v": "Das ist das nervigste Geräusch:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das mich gruselt, ist ...",
+      "v": "Das ist ein Lied, das mich gruselt:",
       "n": "AlienPromptText7"
     }
   ]

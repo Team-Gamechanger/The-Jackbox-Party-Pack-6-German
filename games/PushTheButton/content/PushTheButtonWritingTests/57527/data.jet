@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Etwas, für das ich zu nervös war, um es zu versuchen, ist...",
+      "v": "Das ist etwas, für das ich zu nervös war, um es zu versuchen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Etwas, für das ich zu nervös war, um es zu versuchen, ist...",
+      "s": "Das ist etwas, für das ich zu nervös war, um es zu versuchen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ich bin zu ängstlich, um ... zu versuchen",
+      "v": "Dafür bin ich zu ängstlich, um es zu versuchen:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine Fähigkeit, die ich lernen wollte, ist ...",
+      "v": "Das ist eine Fähigkeit, die ich unbedingt lernen will:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich jeden Tag tun muss, ist ...",
+      "v": "Das ist etwas, das ich jeden Tag machen muss:",
       "n": "AlienPromptText2"
     },
     {

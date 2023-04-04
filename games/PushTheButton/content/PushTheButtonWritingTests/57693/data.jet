@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “köstlich” benutzen, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “köstlich” beschreiben:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich würde wahrscheinlich das Wort “köstlich” benutzen, um zu beschreiben...",
+      "s": "Das würde ich wahrscheinlich mit dem Wort “köstlich” beschreiben:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “delikat” benutzen, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “delikat” beschreiben:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “lecker” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “lecker” beschreiben:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “selbstgemacht” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “selbstgemacht” beschreiben:",
       "n": "AlienPromptText2"
     },
     {

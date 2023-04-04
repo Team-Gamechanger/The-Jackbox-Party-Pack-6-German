@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich an meine Heimatstadt denke, denke ich an...",
+      "v": "Daran denke ich, wenn ich an meine Heimatstadt denke:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich an meine Heimatstadt denke, denke ich an...",
+      "s": "Daran denke ich, wenn ich an meine Heimatstadt denke:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an Kleinstädte denke, denke ich an ...",
+      "v": "Daran denke ich, wenn ich an Kleinstädte denke:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich an die Schule denke, denke ich an ...",
+      "v": "Daran denke ich, wenn ich an die Schule denke:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich an meine Kindheit denke, denke ich an ...",
+      "v": "Daran denke ich, wenn ich an meine Kindheit denke:",
       "n": "AlienPromptText2"
     },
     {

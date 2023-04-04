@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich hätte lieber einen kleineren ...",
+      "v": "Ich wünschte, das hier von mir wäre kleiner:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich hätte lieber einen kleineren ...",
+      "s": "Ich wünschte, das hier von mir wäre kleiner:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die größte Sache, die ich besitze, ist ...",
+      "v": "Das ist die größte Sache, die ich besitze:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Teuerste, was ich besitze, ist ...",
+      "v": "Das ist das Teuerste, was ich besitze:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Gerät in meiner Küche ist ...",
+      "v": "Das ist ein Gerät in meiner Küche:",
       "n": "AlienPromptText2"
     },
     {

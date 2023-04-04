@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein alkoholisches Lieblingsgetränk ist ...",
+      "v": "Das ist mein alkoholisches Lieblingsgetränk:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein alkoholisches Lieblingsgetränk ist ...",
+      "s": "Das ist mein alkoholisches Lieblingsgetränk:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein saisonales Lieblingsgetränk ist ...",
+      "v": "Das ist mein saisonales Lieblingsgetränk:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Letzte, was du trinken willst, wenn es heiß ist, ist ...",
+      "v": "Das will ich nicht trinken, wenn es heiß ist:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Schlimmste, was man auf sich tropfen lassen kann, ist ...",
+      "v": "Das Schlimmste, was man auf sich tropfen lassen kann, ist:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Der ausgefallenste Cocktail, den ich je getrunken habe, war ...",
+      "v": "Das ist der ausgefallenste Cocktail, den ich je getrunken habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der beste Alkohol zum Trinken als Shot ist ...",
+      "v": "Das ist der beste Alkohol, den man als Shot trinken kann:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der beste Alkohol, den man auf Partys serviert, ist ...",
+      "v": "Das ist der beste Alkohol, den man auf einer Party servieren kann:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die beste Limonade ist ...",
+      "v": "Das ist die beste Limonade:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der ausgefallenste Cocktail, den ich je getrunken habe, war ...",
+      "v": "Das ist der exotischste Cocktail, den ich je getrunken habe:",
       "n": "AlienPromptText7"
     }
   ]

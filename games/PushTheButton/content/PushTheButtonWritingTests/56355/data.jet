@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich mir ein Tattoo stechen lassen müsste, wäre es...",
+      "v": "Wenn ich mir ein Tattoo stechen lassen müsste, wäre das hier das Motiv:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich mir ein Tattoo stechen lassen müsste, wäre es...",
+      "s": "Wenn ich mir ein Tattoo stechen lassen müsste, wäre das hier das Motiv:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Letzte, was ich gegessen habe, war ...",
+      "v": "Das war das Letzte, was ich gegessen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+      "v": "Das ist meine Lieblings-Zeichentrickfigur:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Unheimlichste, was man im Dunkeln sehen kann, wäre ...",
+      "v": "Das wäre das Unheimlichste, was man im Dunkeln sehen kann:",
       "n": "AlienPromptText2"
     },
     {

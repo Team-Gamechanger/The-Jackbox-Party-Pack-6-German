@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein gutes Geschenk für einen Hochschulabsolventen wäre...",
+      "v": "Das wäre ein gutes Geschenk für einen Hochschulabsolventen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein gutes Geschenk für einen Hochschulabsolventen wäre...",
+      "s": "Das wäre ein gutes Geschenk für einen Hochschulabsolventen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ein gutes Geschenk für einen Teenager wäre ...",
+      "v": "Das wäre ein gutes Geschenk für einen Teenager:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein gutes Geschenk für eine Hauseinweihung wäre ...",
+      "v": "Das wäre ein gutes Geschenk für eine Hauseinweihung:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das letzte, was du gekauft hast, war ...",
+      "v": "Das war das letzte, was ich gekauft habe:",
       "n": "AlienPromptText2"
     },
     {

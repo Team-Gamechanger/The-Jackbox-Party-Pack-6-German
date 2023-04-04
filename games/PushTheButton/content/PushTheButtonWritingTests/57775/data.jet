@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste, würde ich sagen...",
+      "v": "Das würde ich sagen, wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste, würde ich sagen...",
+      "s": "Das würde ich sagen, wenn ich jedes Mal, wenn ich einen Raum betrete, einen Spruch sagen müsste:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das man beim Sprung in einen Pool schreien könnte, ist ...",
+      "v": "Das ist etwas, das man bei einem Sprung in einen Pool schreien könnte:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Etwas, das man schreien könnte, um einen Boxer zu inspirieren, wäre ...",
+      "v": "Das ist etwas, das man schreien könnte, um einen Boxer zu inspirieren:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Etwas, das man einem bösen Hund zurufen könnte, wäre ...",
+      "v": "Das ist etwas, das man einem bösen Hund zurufen könnte:",
       "n": "AlienPromptText2"
     },
     {

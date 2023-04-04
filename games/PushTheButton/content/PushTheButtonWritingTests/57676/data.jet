@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “Arschritze” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich den Begriff “Arschritze” höre:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich den Begriff “Arschritze” höre, denke ich an...",
+      "s": "Daran denke ich, wenn ich den Begriff “Arschritze” höre:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Einen Servicetechniker, den ich eventuell anrufen muss, ist ...",
+      "v": "So ist der Servicetechniker, den ich eventuell anrufen muss:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “Arschbacke” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich den Begriff “Arschbacke” höre:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “schönes Lächeln” höre, denke ich an ...",
+      "v": "Daran denke ich, wenn ich den Begriff “schönes Lächeln” höre:",
       "n": "AlienPromptText2"
     },
     {

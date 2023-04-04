@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich an den Herbst denke, denke ich an...",
+      "v": "Daran denke ich auch, wenn ich an den Herbst denke:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich an den Herbst denke, denke ich an...",
+      "s": "Daran denke ich auch, wenn ich an den Herbst denke:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an den Winter denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an den Winter denke:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Halloween denke, denke ich an ...",
+      "v": "Daran denke ich, wenn ich an Halloween denke:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Erntedank denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Erntedankfest denke:",
       "n": "AlienPromptText2"
     },
     {

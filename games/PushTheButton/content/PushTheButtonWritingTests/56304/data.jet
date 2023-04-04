@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Lied, zu dem ich den ganzen Text kenne, ist ...",
+      "v": "Das ist ein Lied, zu dem ich den ganzen Text kenne:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Lied, zu dem ich den ganzen Text kenne, ist ...",
+      "s": "Das ist ein Lied, zu dem ich den ganzen Text kenne:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Ein tolles Lied zum langsamen Tanzen ist ...",
+      "v": "Das ist ein tolles Lied zum langsamen Tanzen:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das nervigste Lied ist im Moment ...",
+      "v": "Das ist im Moment das nervigste Lied:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das letzte Lied, das ich im Radio gehört habe, ist ...",
+      "v": "Das ist das letzte Lied, das ich im Radio gehört habe:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-TV-Serien-Titelsong ist ...",
+      "v": "Das ist mein Lieblings-TV-Serien-Titelsong:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingslied aus einem Musical ist ...",
+      "v": "Das ist mein Lieblingslied aus einem Musical:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Karaoke-Song ist ...",
+      "v": "Das ist mein Lieblings-Karaoke-Song:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das für mich keinen Sinn ergibt, ist ...",
+      "v": "Das ist ein Lied, das für mich keinen Sinn ergibt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das beste Lied für einen Horrorfilm ist ...",
+      "v": "Das ist das beste Lied für einen Horrorfilm:",
       "n": "AlienPromptText7"
     }
   ]

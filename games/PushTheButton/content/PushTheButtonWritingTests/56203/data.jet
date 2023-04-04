@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Land, über das ich gerne mehr erfahren würde, ist ...",
+      "v": "Das ist ein Land, über das ich gerne mehr erfahren würde:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Land, über das ich gerne mehr erfahren würde, ist ...",
+      "s": "Das ist ein Land, über das ich gerne mehr erfahren würde:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Ein Land, das mit “I” beginnt, ist ...",
+      "v": "Das ist ein Land, das mit “I” beginnt:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Land, das ich wahrscheinlich nicht auf einer Landkarte finden kann, ist ...",
+      "v": "Das ist ein Land, das ich wahrscheinlich nicht auf einer Landkarte finden kann:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das letzte Land, über das ich in den Nachrichten gelesen habe, war ...",
+      "v": "Das ist das letzte Land, über das ich in den Nachrichten gelesen habe:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Das Land, das ich am liebsten besuchen würde, ist ...",
+      "v": "Das ist das Land, das ich am liebsten besuchen würde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Land, das ich am wenigsten besuchen möchte, ist ...",
+      "v": "Das ist das Land, das ich am wenigsten besuchen möchte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Land mit den schönsten Naturdenkmälern ist ...",
+      "v": "Das ist das Land mit den schönsten Naturdenkmälern:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Meine alte Lieblings-Disney-Figur ist ...",
+      "v": "Das ist meine alte Lieblings-Disney-Figur:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssuperheld ist ...",
+      "v": "Das ist mein Lieblingssuperheld:",
       "n": "AlienPromptText7"
     }
   ]

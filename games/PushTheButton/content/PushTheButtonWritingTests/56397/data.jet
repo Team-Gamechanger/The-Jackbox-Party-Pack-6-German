@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Meine Lieblings-Disney-Figur ist ...",
+      "v": "Das ist meine Lieblings-Disney-Figur:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Meine Lieblings-Disney-Figur ist ...",
+      "s": "Das ist meine Lieblings-Disney-Figur:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die Disney-Figur, mit der ich mich identifiziere, ist ...",
+      "v": "Das ist eine Disney-Figur, mit der ich mich identifiziere:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Disney-Film ist ...",
+      "v": "Das ist mein Lieblings-Disney-Film:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+      "v": "Das ist meine Lieblings-Zeichentrickfigur:",
       "n": "AlienPromptText2"
     },
     {

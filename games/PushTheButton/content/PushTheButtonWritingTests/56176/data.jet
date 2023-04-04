@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der schaurigste Film ist ...",
+      "v": "Das ist der schaurigste Film:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der schaurigste Film ist ...",
+      "s": "Das ist der schaurigste Film:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Der gruseligste Film ist ...",
+      "v": "Das ist der gruseligste Film:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Film, bei dem ich ausgeflippt bin, war ...",
+      "v": "Das war ein Film, bei dem ich ausgeflippt bin:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmonsterfilm ist ...",
+      "v": "Das ist mein Lieblingsmonsterfilm:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm über Geister ist ...",
+      "v": "Das ist mein Lieblingsfilm über Geister:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Pixar-Film ist ...",
+      "v": "Das ist mein Lieblings-Pixar-Film:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Actionfilm ist ...",
+      "v": "Das ist mein Lieblings-Actionfilm:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das letzte Mal, als ich in ein Kino ging, sah ich ...",
+      "v": "Das ist der Film, den ich das letzte Mal, als ich in ein Kino ging, gesehen habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Film, den Kinder niemals sehen sollten, ist ...",
+      "v": "Das ist ein Film, den Kinder niemals sehen sollten:",
       "n": "AlienPromptText7"
     }
   ]

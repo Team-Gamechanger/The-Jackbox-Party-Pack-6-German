@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich hasse es, hierfür einkaufen zu müssen...",
+      "v": "Ich hasse es, das einkaufen zu müssen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich hasse es, hierfür einkaufen zu müssen...",
+      "s": "Ich hasse es, das einkaufen zu müssen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Sache, die ich nicht gerne kaufe, ist ...",
+      "v": "Das ist eine Sache, die ich nicht gerne kaufe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Etwas, das beim Einkaufen einschüchternd wirkt, ist ...",
+      "v": "Das ist etwas, das einschüchternd wirkt, wenn man es einkaufen muss:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich 10.000 $ hätte, würde ich ... kaufen",
+      "v": "Das ist etwas, was ich kaufen würde, wenn ich 10.000 € hätte:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Lied, das bei meiner Beerdigung gespielt werden soll, ist ...",
+      "v": "Das ist das Lied, das bei meiner Beerdigung gespielt werden soll:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Lied, das bei meiner Beerdigung gespielt werden soll, ist ...",
+      "s": "Das ist das Lied, das bei meiner Beerdigung gespielt werden soll:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Ein Lied, das auf meiner Hochzeit gespielt werden muss, ist ...",
+      "v": "Das ist ein Lied, das auf meiner Hochzeit gespielt werden muss:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Einer meiner bevorzugten Karaoke-Songs ist ...",
+      "v": "Das ist einer meiner bevorzugten Karaoke-Songs:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Lied, zu dem ich alle Wörter kenne, ist ...",
+      "v": "Das ist ein Lied, zu dem ich alle Wörter kenne:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Das nervigste Lied, das einem im Kopf hängen bleibt, ist ...",
+      "v": "Das ist das nervigste Lied, das mir im Kopf hängen bleibt:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-TV-Serien-Titelsong ist ...",
+      "v": "Das ist mein ein Lieblings-TV-Serien-Titelsong:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingslied aus einem Film ist ...",
+      "v": "Das ist mein Lieblingslied aus einem Film:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das mich gruselt, ist ...",
+      "v": "Das ist ein Lied, das mich gruselt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das nicht für Kinder geeignet ist, ist ...",
+      "v": "Das ist ein Lied, das nicht für Kinder geeignet ist:",
       "n": "AlienPromptText7"
     }
   ]

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsgemüse ist ...",
+      "v": "Das ist mein Lieblingsgemüse:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsgemüse ist ...",
+      "s": "Das ist mein Lieblingsgemüse:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsessen ist ...",
+      "v": "Das ist mein Lieblingsessen:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Salatzutat ist ...",
+      "v": "Das ist meine Lieblings-Salatzutat:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingspflanze ist ...",
+      "v": "Das ist meine Lieblingspflanze:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Gemüse, das ich als Kind nie essen konnte, ist ...",
+      "v": "Das ist ein Gemüse, das ich als Kind nie essen konnte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das am lustigsten aussehende Gemüse ist ...",
+      "v": "Das ist das am lustigsten aussehende Gemüse:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Gemüse, das ich gerne in meinem Garten anbauen würde, ist ...",
+      "v": "Das ist ein Gemüse, das ich gerne in meinem Garten anbauen würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das für mich keinen Sinn ergibt, ist ...",
+      "v": "Das ist ein Lied, das für mich keinen Sinn ergibt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das beste Lied für einen Horrorfilm ist ...",
+      "v": "Das ist das beste Lied für einen Horrorfilm:",
       "n": "AlienPromptText7"
     }
   ]

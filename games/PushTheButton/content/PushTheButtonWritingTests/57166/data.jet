@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der letzte Film, den ich gesehen habe, war...",
+      "v": "Das war der letzte Film, den ich gesehen habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der letzte Film, den ich gesehen habe, war...",
+      "s": "Das war der letzte Film, den ich gesehen habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Der letzte Gruselfilm, den ich gesehen habe, war ...",
+      "v": "Das war der letzte Gruselfilm, den ich gesehen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Film, an dem ich kein Interesse habe, ist ...",
+      "v": "Das ist ein Film, an dem ich kein Interesse habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine coole Sache, die ich online gesehen habe, war ...",
+      "v": "Das war ein cooles Video, das ich online gesehen habe:",
       "n": "AlienPromptText2"
     },
     {

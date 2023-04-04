@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das gruseligste Tier ist ...",
+      "v": "Das ist das gruseligste Tier:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das gruseligste Tier ist ...",
+      "s": "Das ist das gruseligste Tier:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Das tödlichste Tier ist ein/e ...",
+      "v": "Das ist das tödlichste Tier:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das beste Tier im Zoo ist ein/e ...",
+      "v": "Das ist das beste Tier im Zoo:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein erstes Haustier war ein/e ...",
+      "v": "Das war mein erstes Haustier:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Tier, als das ich mich zu Halloween verkleiden möchte, ist ein/e ...",
+      "v": "Das ist ein Tier, als das ich mich zu Halloween verkleiden würde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Tier, das ein einschüchterndes Mannschaftsmaskottchen abgeben würde, ist ein/e ...",
+      "v": "Das ist ein Tier, das ein einschüchterndes Mannschaftsmaskottchen abgeben würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Tier, das einen guten Horrorfilm-Bösewicht abgeben würde, ist ein/e ...",
+      "v": "Das ist ein Tier, das einen guten Horrorfilm-Bösewicht abgeben würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das schrecklichste Filmmonster ist ...",
+      "v": "Das ist das schrecklichste Filmmonster:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier ist ...",
+      "v": "Das ist mein Lieblingstier:",
       "n": "AlienPromptText7"
     }
   ]

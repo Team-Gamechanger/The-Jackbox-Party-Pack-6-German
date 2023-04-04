@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zwei historische Figuren, die ich gerne als Leibwächter hätte, sind ...",
+      "v": "Das sind zwei historische Figuren, die ich gerne als Leibwächter hätte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Zwei historische Figuren, die ich gerne als Leibwächter hätte, sind ...",
+      "s": "Das sind zwei historische Figuren, die ich gerne als Leibwächter hätte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Zwei historische Figuren, vor denen ich nach einem Treffen wahrscheinlich den Respekt verliere, sind ...",
+      "v": "Das sind zwei historische Figuren, von denen ich nach einem Treffen wahrscheinlich den Respekt verlieren würde:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Zwei historische Figuren, die ich wahrscheinlich im Armdrücken schlagen könnte, sind ...",
+      "v": "Das sind zwei historische Figuren, die ich wahrscheinlich im Armdrücken schlagen könnte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die zusammenkommen sollten, sind ...",
+      "v": "Das sind zwei Prominente, die unbedingt zusammenkommen sollten:",
       "n": "AlienPromptText2"
     },
     {

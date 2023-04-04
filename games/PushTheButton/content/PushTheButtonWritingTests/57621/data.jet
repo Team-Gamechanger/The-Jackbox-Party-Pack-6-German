@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Schauspieler oder die Schauspielerin, die mich in einem Film spielen soll, ist ...",
+      "v": "Das ist der Schauspieler oder die Schauspielerin, die mich in einem Film spielen soll:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Schauspieler oder die Schauspielerin, die mich in einem Film spielen soll, ist ...",
+      "s": "Das ist der Schauspieler oder die Schauspielerin, die mich in einem Film spielen soll:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsschauspieler oder meine Lieblingsschauspielerin ist ...",
+      "v": "Das ist mein Lieblingsschauspieler oder meine Lieblingsschauspielerin:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine überschätzte Berühmtheit ist ...",
+      "v": "Das ist eine überschätzte Berühmtheit:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich attraktiv finde, ist ...",
+      "v": "Das ist ein Promi, den ich attraktiv finde:",
       "n": "AlienPromptText2"
     },
     {

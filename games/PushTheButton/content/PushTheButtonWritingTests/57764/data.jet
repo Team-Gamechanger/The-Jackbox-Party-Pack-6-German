@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Beruf, den ich gerne einmal ausprobieren würde, ist ...",
+      "v": "Das ist ein Beruf, den ich gerne einmal ausprobieren würde:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Beruf, den ich gerne einmal ausprobieren würde, ist ...",
+      "s": "Das ist ein Beruf, den ich gerne einmal ausprobieren würde:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Traumjob ist ...",
+      "v": "Das ist mein Traumjob:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein wirklich gefährlicher Job ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich ein wirklich gefährlicher Job:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Job, den es wahrscheinlich nicht mehr gibt, ist ...",
+      "v": "Das ist ein Job, den es wahrscheinlich nicht mehr gibt:",
       "n": "AlienPromptText2"
     },
     {

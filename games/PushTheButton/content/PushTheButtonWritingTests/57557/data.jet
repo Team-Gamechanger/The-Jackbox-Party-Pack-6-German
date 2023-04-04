@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Etwas, das ich im Moment speziell trage, ist ...",
+      "v": "Das ist ein Accessoire, das ich im Moment gerne trage:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Etwas, das ich im Moment speziell trage, ist ...",
+      "s": "Das ist ein Accessoire, das ich im Moment gerne trage:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ein Geschenk zum Valentinstag, das ich schon einmal gekauft habe, ist ...",
+      "v": "Das ist ein Geschenk zum Valentinstag, das ich für jemanden schon einmal gekauft habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich nur zu besonderen Anlässen trage, ist ...",
+      "v": "Das ist etwas, das ich nur zu besonderen Anlässen trage:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das schlechteste Tier für ein Haustier ist ...",
+      "v": "Das ist das schlechteste Tier, das man als Haustier haben kann:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Land, das ich besuchen möchte, ist ...",
+      "v": "Das ist ein Land, das ich besuchen möchte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Land, das ich besuchen möchte, ist ...",
+      "s": "Das ist ein Land, das ich besuchen möchte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Das nächstgelegene Land ist ...",
+      "v": "Das ist das zu mir nächstgelegene Land:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein fiktiver Lieblingsort ist ...",
+      "v": "Das ist mein fiktiver Lieblingsort:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Sehenswürdigkeit, die ich sehen möchte, ist ...",
+      "v": "Das ist eine Sehenswürdigkeit, die ich sehen möchte:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich besuchen möchte, ist ...",
+      "v": "Das ist eine Stadt, die ich gerne besuchen möchte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Land mit den schönsten Naturdenkmälern ist ...",
+      "v": "Das ist das Land mit den schönsten Naturdenkmälern:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der Name eines Landes, das ich nie buchstabieren kann: ....",
+      "v": "Das ist der Name eines Landes, das ich nie buchstabieren kann:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein fiktiver Lieblingsort ist ...",
+      "v": "Das ist mein fiktiver Lieblingsort:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der Name meines Heimatortes ist ...",
+      "v": "Das ist der Name meines Heimatortes:",
       "n": "AlienPromptText7"
     }
   ]

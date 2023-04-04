@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine gute Frage für ein Vorstellungsgespräch ist ...",
+      "v": "Das ist eine gute Frage für ein Vorstellungsgespräch:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eine gute Frage für ein Vorstellungsgespräch ist ...",
+      "s": "Das ist eine gute Frage für ein Vorstellungsgespräch:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Frage, die mich nachts wach hält, ist ...",
+      "v": "Das ist eine Frage, die mich nachts wach hält:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine Frage, die du als Anmachspruch verwenden könntest, ist ...",
+      "v": "Das ist eine Frage, die ich als Anmachspruch verwenden könnte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Frage, die dir dein Arzt stellen könnte, ist ...",
+      "v": "Das ist eine Frage, die mein Arzt mir stellen könnte:",
       "n": "AlienPromptText2"
     },
     {
@@ -128,12 +128,12 @@
     },
     {
       "t": "S",
-      "v": "Ein Lied, das für mich keinen Sinn ergibt, ist ...",
+      "v": "Das ist ein Lied, das für mich keinen Sinn ergibt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das beste Lied für einen Horrorfilm ist ...",
+      "v": "Das ist das beste Lied für einen Horrorfilm:",
       "n": "AlienPromptText7"
     }
   ]

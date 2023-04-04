@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die mich nerven, sind ...",
+      "v": "Das sind zwei Berühmtheiten, die mich nerven:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Zwei Berühmtheiten, die mich nerven, sind ...",
+      "s": "Das sind zwei Berühmtheiten, die mich nerven:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, von denen ich mir wünsche, dass sie zusammenkommen, sind ...",
+      "v": "Das sind zwei Prominente, von denen ich mir wünsche, dass sie zusammenkommen:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Zwei meiner Lieblingsnamen für ein Kind wären ...",
+      "v": "Das sind zwei meiner Lieblingsnamen für ein Kind:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die mich nervt, ist ...",
+      "v": "Das ist ein Promi, der mich nervt:",
       "n": "AlienPromptText2"
     },
     {

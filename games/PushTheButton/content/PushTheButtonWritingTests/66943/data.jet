@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein fiktives Fahrzeug, das ich gerne fahren würde, ist ...",
+      "v": "Das ist ein fiktives Fahrzeug, das ich gerne fahren würde:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein fiktives Fahrzeug, das ich gerne fahren würde, ist ...",
+      "s": "Das ist ein fiktives Fahrzeug, das ich gerne fahren würde:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein liebstes fiktionales Fahrzeug ist ...",
+      "v": "Das ist mein liebstes fiktionales Fahrzeug:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein liebstes fiktionales Raumschiff ist ...",
+      "v": "Das ist mein liebstes fiktionales Raumschiff:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein fiktives Lieblingsauto ist ...",
+      "v": "Das ist mein fiktives Lieblingsauto:",
       "n": "AlienPromptText2"
     },
     {

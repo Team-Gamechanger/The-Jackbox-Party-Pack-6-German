@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsgetränk ist ...",
+      "v": "Das ist mein Lieblingsgetränk:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsgetränk ist ...",
+      "s": "Das ist mein Lieblingsgetränk:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein alkoholisches Lieblingsgetränk ist ...",
+      "v": "Das ist mein alkoholisches Lieblingsgetränk:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Verrückteste, womit man ein Schwimmbad füllen kann, ist ...",
+      "v": "Das wäre das Verrückteste, womit man ein Schwimmbad füllen könnte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsgetränk ist ...",
+      "v": "Das ist meine Lieblingsflüssigkeit:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Wenn mir heiß ist, ist das erfrischendste Getränk ...",
+      "v": "Dieses Getränk trinke ich gerne, wenn es heiß ist:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsheißgetränk ist ...",
+      "v": "Das ist mein Lieblingsheißgetränk:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das schlimmste Getränk, das man auf sich selbst verschütten kann, ist ...",
+      "v": "Das ist das schlimmste Getränk, das man auf sich selbst verschütten könnte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die beste Limonade ist ...",
+      "v": "Das ist die beste Limonade:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der ausgefallenste Cocktail, den ich je getrunken habe, war ...",
+      "v": "Das ist der exotischste Cocktail, den ich je getrunken habe:",
       "n": "AlienPromptText7"
     }
   ]

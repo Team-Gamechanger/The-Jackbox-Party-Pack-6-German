@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Held ist ...",
+      "v": "Das ist mein Held:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Held ist ...",
+      "s": "Das ist mein Held:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssuperheld ist ...",
+      "v": "Das ist mein Lieblingssuperheld:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssportler ist ...",
+      "v": "Das ist mein Lieblingssportler:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Jemand, den ich attraktiv finde, ist ...",
+      "v": "Das ist jemand, den ich attraktiv finde:",
       "n": "AlienPromptText2"
     },
     {

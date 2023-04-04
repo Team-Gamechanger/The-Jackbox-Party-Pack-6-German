@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der letzte Film, bei dem ich geweint habe, war...",
+      "v": "Das war der letzte Film, bei dem ich geweint habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der letzte Film, bei dem ich geweint habe, war...",
+      "s": "Das war der letzte Film, bei dem ich geweint habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die letzte romantische Komödie, die ich gesehen habe, war ...",
+      "v": "Das war die letzte romantische Komödie, die ich gesehen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der letzte Pixar-Film, den ich gesehen habe, war ...",
+      "v": "Das war der letzte Pixar-Film, den ich gesehen habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der letzte Film, den ich gesehen habe, war ...",
+      "v": "Das war der letzte Film, den ich gesehen habe:",
       "n": "AlienPromptText2"
     },
     {

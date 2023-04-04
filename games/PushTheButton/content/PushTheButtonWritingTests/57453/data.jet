@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Film, der zu einem Musical gemacht werden sollte, ist ...",
+      "v": "Das ist ein Film, der zu einem Musical gemacht werden sollte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Film, der zu einem Musical gemacht werden sollte, ist ...",
+      "s": "Das ist ein Film, der zu einem Musical gemacht werden sollte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm als Kind war ...",
+      "v": "Das war mein Lieblingsfilm als Kind:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein unterschätzter Film ist ...",
+      "v": "Das ist ein unterschätzter Film:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Actionfilm ist ...",
+      "v": "Das ist mein Lieblings-Actionfilm:",
       "n": "AlienPromptText2"
     },
     {

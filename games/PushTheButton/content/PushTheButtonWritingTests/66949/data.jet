@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsessen ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich mein Lieblingsessen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsessen ist wahrscheinlich ...",
+      "s": "Das ist wahrscheinlich mein Lieblingsessen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein würziges Lieblingsessen ist ...",
+      "v": "Das ist mein würziges Lieblingsessen:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Fastfood ist ...",
+      "v": "Das ist mein Lieblings-Fastfood:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das letzte, was ich zum Abendessen aß, war ...",
+      "v": "Das war letzte, was ich zum Abendessen gegessen habe:",
       "n": "AlienPromptText2"
     },
     {

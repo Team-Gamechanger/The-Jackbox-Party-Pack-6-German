@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der beste 90er Film ist...",
+      "v": "Das ist der beste 90er-Film:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der beste 90er Film ist...",
+      "s": "Das ist der beste 90er-Film:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Der beste Jim Carrey-Film ist ...",
+      "v": "Das ist der beste Til Schweiger-Film:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der lustigste Film ist ...",
+      "v": "Das ist der lustigste Film:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der beste Disney-Animationsfilm ist ...",
+      "v": "Das ist der beste Disney-Animationsfilm:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Der erste Film, den ich im Kino sah, war ...",
+      "v": "Das ist der erste Film, den ich im Kino gesehen habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der beste Julia Roberts-Film ist ...",
+      "v": "Der beste [Julia Roberts]-Film ist ...",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der beste Film aus den 1980ern ist...",
+      "v": "Das ist der beste Film aus den 1980ern:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Film, der mir Angst machte, war ...",
+      "v": "Das ist ein Film, der mir Angst gemacht hat:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Superheldenfilm ist ...",
+      "v": "Das ist mein Lieblings-Superheldenfilm:",
       "n": "AlienPromptText7"
     }
   ]

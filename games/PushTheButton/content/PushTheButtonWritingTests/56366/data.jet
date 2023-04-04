@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eines der besten Geschenke, die ich je bekommen habe, war...",
+      "v": "Das war eines der besten Geschenke, die ich je bekommen habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eines der besten Geschenke, die ich je bekommen habe, war...",
+      "s": "Das war eines der besten Geschenke, die ich je bekommen habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingskleidungsstück ist mein ...",
+      "v": "Das ist mein Lieblingskleidungsstück:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das beste Geschenk, das ich je jemandem gemacht habe, war...",
+      "v": "Das war das beste Geschenk, das ich je jemandem gemacht habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Geschenk, das ich nie benutze, ist ...",
+      "v": "Das ist ein Geschenk, das ich nie benutzt habe:",
       "n": "AlienPromptText2"
     },
     {

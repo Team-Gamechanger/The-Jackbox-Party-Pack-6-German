@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Einzigartigste, was ich sammle, ist ...",
+      "v": "Das ist das Einzigartigste, was ich sammle:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Einzigartigste, was ich sammle, ist ...",
+      "s": "Das ist das Einzigartigste, was ich sammle:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,12 +98,12 @@
     },
     {
       "t": "S",
-      "v": "Ich bin fasziniert von Menschen, die ... sammeln",
+      "v": "Ich bin von Menschen fasziniert, die das hier sammeln:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine Sache, von der ich viel zu viel habe, ist ...",
+      "v": "Das ist eine Sache, von der ich viel zu viel habe:",
       "n": "AlienPromptText1"
     },
     {

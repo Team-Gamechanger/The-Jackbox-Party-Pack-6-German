@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Am besten dippt man Pommes Frites in ...",
+      "v": "Das ist der beste Dip für Pommes Frites:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Am besten dippt man Pommes Frites in ...",
+      "s": "Das ist der beste Dip für Pommes Frites:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Am besten dippt man einen Kartoffelchip in ...",
+      "v": "Das ist der beste Dip für Kartoffelchips:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Beste, was man auf einen Hotdog tun kann, ist ...",
+      "v": "Das ist das Beste, was man auf einen Hotdog tun kann:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das ekligste Ding in deinem Kühlschrank ist ...",
+      "v": "Das ist das ekligste Ding in meinem Kühlschrank:",
       "n": "AlienPromptText2"
     },
     {

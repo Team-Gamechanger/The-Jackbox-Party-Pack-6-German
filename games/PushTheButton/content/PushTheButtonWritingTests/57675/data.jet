@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “Komaglotzen” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich den Begriff “Komaglotzen“ höre:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich den Begriff “Komaglotzen” höre, denke ich an...",
+      "s": "Daran denke ich, wenn ich den Begriff “Komaglotzen“ höre:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die letzte Sendung, die ich online gesehen habe, war ...",
+      "v": "Das war die letzte Sendung, die ich online gesehen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine Sendung, bei der ich weit im Rückstand bin, ist ...",
+      "v": "Das ist eine Sendung, bei der ich weit hinterher bin:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “Netflix & Chill” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich den Begriff “Netflix & Chill” höre:",
       "n": "AlienPromptText2"
     },
     {

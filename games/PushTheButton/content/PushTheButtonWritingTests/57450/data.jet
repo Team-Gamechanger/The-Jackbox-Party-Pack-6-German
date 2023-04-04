@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Coolste, was ich letztes Wochenende gemacht habe, war ...",
+      "v": "Das war das Coolste, was ich letztes Wochenende gemacht habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Coolste, was ich letztes Wochenende gemacht habe, war ...",
+      "s": "Das war das Coolste, was ich letztes Wochenende gemacht habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Coolste, was ich letzte Woche gemacht habe, war ...",
+      "v": "Das ist das Coolste, was ich letzte Woche gemacht habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Dümmste, was ich getan habe, als ich jünger war, war ...",
+      "v": "Das war das Dümmste, was ich getan habe, als ich jünger war:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Coolste, was ich je jemanden habe machen sehen, war ...",
+      "v": "Das war das Coolste, was ich je jemanden habe machen sehen:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein liebster fiktionaler Ort ist ...",
+      "v": "Das ist mein liebster fiktionaler Ort:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein liebster fiktionaler Ort ist ...",
+      "s": "Das ist mein liebster fiktionaler Ort:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Animationsfilm spielt in....",
+      "v": "Das ist der Ort, in dem mein Lieblings-Animationsfilm spielt:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Ort, der nett zu sein scheint, aber wahrscheinlich nicht toll ist, ist ...",
+      "v": "Das ist ein Ort, der nett zu sein scheint, aber wahrscheinlich nicht toll ist:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsvideospiel findet statt in...",
+      "v": "Das ist der Ort, in dem mein Lieblingsvideospiel stattfindet:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Der Name meines Heimatortes ist ...",
+      "v": "Das ist der Name meines Heimatortes:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Die letzte Stadt, die ich besucht habe, war ...",
+      "v": "Das war die letzte Stadt, die ich besucht habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Die am schlechtesten zu fahrende Stadt ist ...",
+      "v": "Das ist die Stadt, in der man am schlechtesten fahren kann:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein fiktiver Lieblingsort ist ...",
+      "v": "Das ist mein fiktiver Lieblingsort:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der Name meines Heimatortes ist ...",
+      "v": "Das ist der Name meines Heimatortes:",
       "n": "AlienPromptText7"
     }
   ]

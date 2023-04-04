@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “igitt” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “igitt” beschreiben:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich würde wahrscheinlich das Wort “igitt” verwenden, um zu beschreiben...",
+      "s": "Das würde ich wahrscheinlich mit dem Wort “igitt” beschreiben:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich den Begriff “nein danke” in Bezug auf ... verwenden",
+      "v": "Darauf würde ich wahrscheinlich “nein danke” antworten:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “grob” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “grob” beschreiben:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “stinkend” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “stinkend” beschreiben:",
       "n": "AlienPromptText2"
     },
     {

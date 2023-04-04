@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich einen Roboter hätte, würde ich ihn benutzen, für...",
+      "v": "Dafür würde ich einen Roboter benutzen, wenn ich einen hätte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich einen Roboter hätte, würde ich ihn benutzen, für...",
+      "s": "Dafür würde ich einen Roboter benutzen, wenn ich einen hätte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Meine unbeliebteste Hausarbeit ist ...",
+      "v": "Das ist die nervigste Hausarbeit:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der schlimmste Teil meines Jobs ist ...",
+      "v": "Das ist der schlimmste Teil meines Jobs:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich tun würde, wenn ich Präsident wäre, ist...",
+      "v": "Das ist das erste, was ich tun würde, wenn ich Kanzler wäre:",
       "n": "AlienPromptText2"
     },
     {

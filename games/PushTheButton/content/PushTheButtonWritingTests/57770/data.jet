@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der beste Film, den man in seinem Ehegelübde zitieren sollte, wäre ...",
+      "v": "Das ist der beste Film, den man bei seiner Trauung zitieren sollte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der beste Film, den man in seinem Ehegelübde zitieren sollte, wäre ...",
+      "s": "Das ist der beste Film, den man bei seiner Trauung zitieren sollte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich als Kind verstörend fand, war ...",
+      "v": "Das war ein Film, den ich als Kind verstörend fand:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich als Kind nicht sehen durfte, war ...",
+      "v": "Das ist ein Film, den ich als Kind nicht sehen durfte",
       "n": "AlienPromptText2"
     },
     {

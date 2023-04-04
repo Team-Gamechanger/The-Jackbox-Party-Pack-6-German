@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich eine Superkraft haben könnte, wäre es ...",
+      "v": "Das ist eine Superkraft, die ich gerne hätte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich eine Superkraft haben könnte, wäre es ...",
+      "s": "Das ist eine Superkraft, die ich gerne hätte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Fähigkeit, über die ich in einem Lebenslauf gelogen habe, ist ...",
+      "v": "Das ist eine Fähigkeit, über die ich in einem Lebenslauf gelogen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Du willst jemanden heiraten, der ...",
+      "v": "Ich will jemanden unbedingt heiraten, der das hier kann:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Die eine Fähigkeit, von der du wünschst, du hättest sie in jüngeren Jahren gelernt, ist ...",
+      "v": "Das ist die eine Fähigkeit, von der ich mir wünsche, ich hätte sie in jungen Jahren gelernt:",
       "n": "AlienPromptText2"
     },
     {

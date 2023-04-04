@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein gutes Lied für den ersten Tanz bei einer Hochzeit wäre ...",
+      "v": "Das ist ein gutes Lied für den ersten Tanz bei einer Hochzeit:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein gutes Lied für den ersten Tanz bei einer Hochzeit wäre ...",
+      "s": "Das ist ein gutes Lied für den ersten Tanz bei einer Hochzeit:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Der schlechteste Song zum Strippen ist ...",
+      "v": "Das ist der schlechteste Song zum Strippen:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der beste TV-Titelsong ist ...",
+      "v": "Das ist der beste TV-Titelsong:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Lied, zu dem ich alle Wörter kenne, ist ...",
+      "v": "Das ist ein Lied, zu dem ich alle Wörter kenne:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das auf meinem Abi-Abschlussball gespielt wurde, ist ...",
+      "v": "Das ist ein Lied, das auf meinem Abi-Abschlussball gespielt wurde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein tolles Lied zum Tanzen ist ...",
+      "v": "Das ist ein tolles Lied zum Tanzen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein toller Slow-Dance-Song ist ...",
+      "v": "Das ist ein toller Slow-Dance-Song:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das schlimmste Geräusch der Welt ist ...",
+      "v": "Das ist das schlimmste Geräusch der Welt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das schlimmste Lied, das einem im Kopf hängen bleibt, ist ...",
+      "v": "Das ist das schlimmste Lied, das einem im Kopf hängen bleibt:",
       "n": "AlienPromptText7"
     }
   ]

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die glücklichste Zeit in meinem Leben war...",
+      "v": "Das war die glücklichste Zeit in meinem Leben:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die glücklichste Zeit in meinem Leben war...",
+      "s": "Das war die glücklichste Zeit in meinem Leben:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die einfachste Zeit in meinem Leben war ...",
+      "v": "Das war die einfachste Zeit in meinem Leben:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die einsamste Zeit in meinem Leben war ...",
+      "v": "Das war die einsamste Zeit in meinem Leben:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das schlimmste Jahr in der amerikanischen Geschichte war ...",
+      "v": "Das war das schlimmste Jahr in der deutschen Geschichte:",
       "n": "AlienPromptText2"
     },
     {

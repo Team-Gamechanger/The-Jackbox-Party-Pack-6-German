@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das gruseligste Filmmonster ist ...",
+      "v": "Das ist das gruseligste Filmmonster:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das gruseligste Filmmonster ist ...",
+      "s": "Das ist das gruseligste Filmmonster:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das gruseligste Filmmonster ist ...",
+      "v": "Das ist das gruseligste Filmmonster:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingscharakter aus der <i>Sesamstraße</i> ist ...",
+      "v": "Das ist mein Lieblingscharakter aus der <i>Sesamstraße</i>:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsfilmfigur ist ...",
+      "v": "Das ist meine Lieblingsfilmfigur:",
       "n": "AlienPromptText2"
     },
     {

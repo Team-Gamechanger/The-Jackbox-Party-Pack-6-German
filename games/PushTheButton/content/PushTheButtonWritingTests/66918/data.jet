@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Alter, als ich meinen ersten Drink hatte, war ...",
+      "v": "Das ist das Alter, in dem ich meinen ersten Drink hatte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Alter, als ich meinen ersten Drink hatte, war ...",
+      "s": "Das ist das Alter, in dem ich meinen ersten Drink hatte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Alter, in dem ich meinen ersten Kuss hatte, war ...",
+      "v": "Das war das Alter, in dem ich meinen ersten Kuss hatte:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Alter, in dem ich mich endlich wie ein Erwachsener fühlte, war ...",
+      "v": "Das war das Alter, in dem ich mich endlich wie ein Erwachsener fühlte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Alter, in dem ich mit dem Fahren begonnen habe, war ...",
+      "v": "Das war das Alter, in dem ich mit dem Fahren begonnen habe:",
       "n": "AlienPromptText2"
     },
     {

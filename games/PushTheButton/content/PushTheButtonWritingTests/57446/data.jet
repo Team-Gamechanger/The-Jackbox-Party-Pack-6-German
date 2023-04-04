@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Laden, in dem ich meistens einkaufe, ist...",
+      "v": "Das ist der Laden, in dem ich meistens einkaufe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Laden, in dem ich meistens einkaufe, ist...",
+      "s": "Das ist der Laden, in dem ich meistens einkaufe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Geschäft, in dem ich am meisten Geld ausgebe, ist ...",
+      "v": "Das ist das Geschäft, in dem ich das meiste Geld ausgebe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der Laden, in den ich gerne gehe, auch wenn ich nichts kaufe, ist ...",
+      "v": "Das ist der Laden, in den ich gerne gehe, auch wenn ich nichts kaufe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der Laden, den ich zu vermeiden versuche, ist ...",
+      "v": "Das ist der Laden, den ich zu vermeiden versuche:",
       "n": "AlienPromptText2"
     },
     {

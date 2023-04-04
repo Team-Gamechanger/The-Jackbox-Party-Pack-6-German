@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Zeitraum mit den coolsten Klamotten war ...",
+      "v": "Das war das Jahrzehnt mit den coolsten Klamotten:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Zeitraum mit den coolsten Klamotten war ...",
+      "s": "Das war das Jahrzehnt mit den coolsten Klamotten:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die Zeitspanne mit der besten Musik war ...",
+      "v": "Das war das Jahrzehnt mit der besten Musik:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der Zeitraum, den ich mit der Technik erobern würde, wäre ...",
+      "v": "Das ist das Jahrzehnt, das ich mit Technik erobern würde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Jahrzehnt, in dem ich geboren wurde, war ...",
+      "v": "Das ist das Jahrzehnt, in dem ich geboren wurde:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Gericht, das ich gut genug kochen kann, um es Gästen zu servieren, ist ...",
+      "v": "Das ist ein Gericht, das ich gut genug kochen kann, um es Gästen zu servieren:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Gericht, das ich gut genug kochen kann, um es Gästen zu servieren, ist ...",
+      "s": "Das ist ein Gericht, das ich gut genug kochen kann, um es Gästen zu servieren:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfrühstücksessen ist ...",
+      "v": "Das ist mein Lieblingsfrühstück:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich schon immer mal loswerden wollte, ist ...",
+      "v": "Das ist etwas, das ich schon immer mal wegwerfen wollte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der schlimmste Geruch in meinem Haus kommt von ...",
+      "v": "Davon kommt der schlimmste Geruch in meinem Haus:",
       "n": "AlienPromptText2"
     },
     {

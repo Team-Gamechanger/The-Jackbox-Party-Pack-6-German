@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der beste Rat, den du deinem zehnjährigen Ich geben könntest, ist ...",
+      "v": "Das ist der beste Rat, den ich meinem zehnjährigen Ich geben könnte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der beste Rat, den du deinem zehnjährigen Ich geben könntest, ist ...",
+      "s": "Das ist der beste Rat, den ich meinem zehnjährigen Ich geben könnte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das man zu einem bösen Hund sagen könnte, ist ...",
+      "v": "Das ist etwas, das man zu einem bösen Hund sagen könnte:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Schritt 1 beim Überleben einer Zombie-Apokalypse ist...",
+      "v": "Das ist der erste Schritt beim Überleben einer Zombie-Apokalypse:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Etwas, das dir deine Großmutter erzählt hat, ist ...",
+      "v": "Das ist etwas, das mir meine Großmutter erzählt hat:",
       "n": "AlienPromptText2"
     },
     {

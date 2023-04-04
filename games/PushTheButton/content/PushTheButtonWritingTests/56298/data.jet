@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine gute Aktivität für ein erstes Date wäre ...",
+      "v": "Das würde ich beim ersten Date machen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eine gute Aktivität für ein erstes Date wäre ...",
+      "s": "Das würde ich beim ersten Date machen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Eine Modeerscheinung, die man einfach nicht versteht, ist ...",
+      "v": "Das ist eine Modeerscheinung, die ich einfach nicht verstehe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das erste, was du tust, wenn du auf einer einsamen Insel gestrandet bist, ist ...",
+      "v": "Das ist das erste, was ich mache, wenn ich auf einer einsamen Insel gestrandet bin:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das nächste, was wir wahrscheinlich Roboter machen lassen werden, ist ...",
+      "v": "Das ist das nächste, was wir wahrscheinlich Roboter machen lassen werden:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Die beste Art, einen Samstagabend zu verbringen, ist ...",
+      "v": "Das ist die beste Art, einen Samstagabend zu verbringen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Die Aktivität, die ich bei meinem letzten Date gemacht habe, war ...",
+      "v": "Das war eine Aktivität, die ich bei meinem letzten Date gemacht habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein tolles Hobby ist ...",
+      "v": "Das ist ein tolles Hobby:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine Art, wie ich mich kürzlich selbst verletzte, war, indem ich ...",
+      "v": "Das ist eine Art, wie ich mich kürzlich selbst verletzt habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich gerne alleine mache, ist ...",
+      "v": "Das ist etwas, das ich gerne alleine mache:",
       "n": "AlienPromptText7"
     }
   ]

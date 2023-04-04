@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Meine Lieblingsaktivität im Winter ist ...",
+      "v": "Das ist meine Lieblingsaktivität im Winter:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Meine Lieblingsaktivität im Winter ist ...",
+      "s": "Das ist meine Lieblingsaktivität im Winter:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Im Winter mag ich ...",
+      "v": "Das mag ich im Winter:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsaktivität im Herbst ist ...",
+      "v": "Das ist meine Lieblingsaktivität im Herbst:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn es kalt ist, mag ich...",
+      "v": "Das mache ich gerne, wenn es kalt ist:",
       "n": "AlienPromptText2"
     },
     {

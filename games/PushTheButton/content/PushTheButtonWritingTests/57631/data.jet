@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das schlimmste Lied, das in meinem Kopf hängen bleibt, ist ...",
+      "v": "Das ist das schlimmste Lied, das manchmal in meinem Kopf hängen bleibt:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das schlimmste Lied, das in meinem Kopf hängen bleibt, ist ...",
+      "s": "Das ist das schlimmste Lied, das manchmal in meinem Kopf hängen bleibt:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ein wirklich nerviges Lied ist ...",
+      "v": "Das ist ein wirklich nerviges Lied:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der beste TV-Titelsong ist ...",
+      "v": "Das ist der beste TV-Titelsong:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das nervigste Geräusch ist ...",
+      "v": "Das ist das nervigste Geräusch:",
       "n": "AlienPromptText2"
     },
     {

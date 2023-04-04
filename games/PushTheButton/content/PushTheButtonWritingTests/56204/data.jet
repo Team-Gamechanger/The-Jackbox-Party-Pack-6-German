@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Meine Guilty-Pleasure-Fernsehsendung ist...",
+      "v": "Das ist meine Guilty-Pleasure-Fernsehsendung:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Meine Guilty-Pleasure-Fernsehsendung ist...",
+      "s": "Das ist meine Guilty-Pleasure-Fernsehsendung:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Kinder-Cartoon ist ...",
+      "v": "Das ist mein Lieblings-Kinder-Cartoon:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine Fernsehsendung, die man zurückbringen sollte, ist ...",
+      "v": "Das ist eine Fernsehsendung, die man zurückbringen sollte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Die intelligenteste Sendung im Fernsehen ist ...",
+      "v": "Das ist die intelligenteste Sendung im Fernsehen:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Die beste Reality-Show ist ...",
+      "v": "Das ist die beste Reality-Show:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Die Fernsehsendung mit der attraktivsten Besetzung ist ...",
+      "v": "Das ist die Fernsehsendung mit der attraktivsten Besetzung:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Die am meisten überschätzte Fernsehsendung ist ...",
+      "v": "Das ist die am meisten überschätzte Fernsehsendung:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die intensivste Fernsehsendung ist/war ...",
+      "v": "Das ist/war die intensivste Fernsehsendung:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die Fernsehsendung mit einem tollen Titelsong ist ...",
+      "v": "Das ist eine Fernsehsendung mit einem tollen Titelsong:",
       "n": "AlienPromptText7"
     }
   ]

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Erdnuss” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich das Wort “Erdnuss” höre:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich das Wort “Erdnuss” höre, denke ich an...",
+      "s": "Daran denke ich, wenn ich das Wort “Erdnuss” höre:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Depp” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich das Wort “Depp” höre:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “albern” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich das Wort “albern” höre:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Blödmann” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich das Wort “Blödmann” höre:",
       "n": "AlienPromptText2"
     },
     {

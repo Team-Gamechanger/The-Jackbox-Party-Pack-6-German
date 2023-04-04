@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Etwas, worin ich insgeheim wirklich gut bin, ist ...",
+      "v": "Das ist etwas, worin ich insgeheim wirklich gut bin:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Etwas, worin ich insgeheim wirklich gut bin, ist ...",
+      "s": "Das ist etwas, worin ich insgeheim wirklich gut bin:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Hobby, das ich wirklich genieße, ist ...",
+      "v": "Das ist ein Hobby, das ich wirklich mag:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Etwas, worin ich insgeheim wirklich schlecht bin, ist ...",
+      "v": "Das ist etwas, worin ich insgeheim wirklich schlecht bin:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich eine Superkraft hätte, dann wäre es ...",
+      "v": "Das ist eine Superkraft, die ich gerne hätte:",
       "n": "AlienPromptText2"
     },
     {

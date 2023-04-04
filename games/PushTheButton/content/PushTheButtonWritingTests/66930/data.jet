@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein süßer Name für ein Baby wäre...",
+      "v": "Das wäre ein süßer Name für ein Baby:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein süßer Name für ein Baby wäre...",
+      "s": "Das wäre ein süßer Name für ein Baby:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein zweiter Vorname ist ...",
+      "v": "Das ist mein zweiter Vorname:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein süßer Name für einen Welpen wäre ...",
+      "v": "Das wäre ein süßer Name für einen Welpen:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der aktuelle US-Präsident ist ...",
+      "v": "Das ist der aktuelle Bundeskanzler:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Tier, das einen schlechten Ruf hat, ist ein/e ...",
+      "v": "Das ist ein Tier, das einen schlechten Ruf hat:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Tier, das einen schlechten Ruf hat, ist ein/e ...",
+      "s": "Das ist ein Tier, das einen schlechten Ruf hat:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Das furchterregendste Tier ist ein/e ...",
+      "v": "Das ist das furchterregendste Tier:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Tier, das ein schreckliches Haustier abgeben würde, ist ein/e ...",
+      "v": "Das ist ein Tier, das ein schreckliches Haustier abgeben würde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier im Zoo ist ein/e ...",
+      "v": "Das ist mein Lieblingstier im Zoo:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Tier, von dem ich mir ein Tattoo stechen lassen würde, ist ein/e ...",
+      "v": "Das ist ein Tier, von dem ich mir ein Tattoo stechen lassen würde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Tier, als das ich mich zu Halloween verkleiden möchte, ist ein/e ...",
+      "v": "Das ist ein Tier, als das ich mich zu Halloween verkleiden würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Tier, das ein tolles Maskottchen für eine Sportmannschaft abgeben würde, ist ...",
+      "v": "Das ist ein Tier, das ein tolles Maskottchen für eine Sportmannschaft abgeben würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die intensivste Fernsehsendung ist/war ...",
+      "v": "Das ist/war die intensivste Fernsehsendung:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die Fernsehsendung mit einem tollen Titelsong ist ...",
+      "v": "Das ist eine Fernsehsendung mit einem tollen Titelsong:",
       "n": "AlienPromptText7"
     }
   ]

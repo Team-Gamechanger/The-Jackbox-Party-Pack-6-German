@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte, würde ich folgendes wählen:",
+      "v": "Das würde ich wählen, wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte, würde ich folgendes wählen:",
+      "s": "Das würde ich wählen, wenn ich ein Jahr lang bei jeder Mahlzeit nur ein Gericht essen könnte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das letzte, was ich gegessen habe, war ...",
+      "v": "Das war das letzte, was ich gegessen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Essen, das ich mit Hochzeiten verbinde, ist ...",
+      "v": "Das ist ein Essen, das ich mit Hochzeiten verbinde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Lebensmittel, das ich mit krank sein verbinde, ist ...",
+      "v": "Das ist ein Lebensmittel, das ich mit krank sein verbinde:",
       "n": "AlienPromptText2"
     },
     {

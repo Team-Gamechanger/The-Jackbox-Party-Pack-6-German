@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Wenn ich den Begriff “inspirierend” höre, denke ich ...",
+      "v": "Daran denke ich, wenn ich den Begriff “inspirierend” höre:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Wenn ich den Begriff “inspirierend” höre, denke ich ...",
+      "s": "Daran denke ich, wenn ich den Begriff “inspirierend” höre:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Führung” höre, denke ich ...",
+      "v": "Daran denke ich, wenn ich den Begriff “Führung” höre:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Held” höre, denke ich...",
+      "v": "Daran denke ich, wenn ich das Wort “Held” höre:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Wunder” höre, denke ich ...",
+      "v": "Daran denke ich, wenn ich das Wort “Wunder” höre:",
       "n": "AlienPromptText2"
     },
     {

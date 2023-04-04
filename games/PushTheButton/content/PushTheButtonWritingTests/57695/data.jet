@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “abstoßend” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “abstoßend” beschreiben:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich würde wahrscheinlich das Wort “abstoßend” verwenden, um zu beschreiben...",
+      "s": "Das würde ich wahrscheinlich mit dem Wort “abstoßend” beschreiben:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “fies” benutzen, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “fies” beschreiben:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “ekelhaft” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “ekelhaft” beschreiben:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “geschmacklos” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “geschmacklos” beschreiben:",
       "n": "AlienPromptText2"
     },
     {

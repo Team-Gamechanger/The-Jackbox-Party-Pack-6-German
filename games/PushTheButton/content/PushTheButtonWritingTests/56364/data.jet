@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Buch, das ich in der Schule gelesen habe, war ...",
+      "v": "Das war ein Buch, das ich in der Schule gelesen habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Buch, das ich in der Schule gelesen habe, war ...",
+      "s": "Das war ein Buch, das ich in der Schule gelesen habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das letzte Buch, das ich gelesen habe, war ...",
+      "v": "Das war das letzte Buch, das ich gelesen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das längste Buch, das ich je gelesen habe, war ...",
+      "v": "Das war das längste Buch, das ich je gelesen habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das langweiligste Buch ist ...",
+      "v": "Das ist das langweiligste Buch:",
       "n": "AlienPromptText2"
     },
     {

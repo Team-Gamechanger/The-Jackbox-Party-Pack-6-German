@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das letzte Buch, das ich gelesen habe, handelte von ...",
+      "v": "Davon handelte das letzte Buch, das ich gelesen habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das letzte Buch, das ich gelesen habe, handelte von ...",
+      "s": "Davon handelte das letzte Buch, das ich gelesen habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Der letzte Film, den ich gesehen habe, handelte von ...",
+      "v": "Davon handelte der letzte Film, den ich gesehen habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das letzte tolle Essen, das ich hatte, war ...",
+      "v": "Das ist das letzte tolle Essen, das ich hatte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ich hasse Filme, die nichts anderes sind als ...",
+      "v": "Das hier sollte in Filmen überhaupt nicht vorkommen:",
       "n": "AlienPromptText2"
     },
     {

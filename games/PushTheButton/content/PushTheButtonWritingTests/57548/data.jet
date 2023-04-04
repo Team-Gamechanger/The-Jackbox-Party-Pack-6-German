@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Beste an der Schule ist...",
+      "v": "Das ist das Beste an der Schule:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Beste an der Schule ist...",
+      "s": "Das ist das Beste an der Schule:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Beste am Kindergarten ist ...",
+      "v": "Das  ist das Beste am Kindergarten:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Beste daran, 21 zu sein, ist ...",
+      "v": "Das ist das Beste daran, 21 Jahre alt zu sein:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das Beste an der Grundschule ist ...",
+      "v": "Das ist das Beste an der Grundschule:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine Stadt, in der ich gerne leben würde, ist ...",
+      "v": "Das ist eine Stadt, in der ich gerne leben würde:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eine Stadt, in der ich gerne leben würde, ist ...",
+      "s": "Das ist eine Stadt, in der ich gerne leben würde:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Die größte Stadt, die ich je besucht habe, ist ...",
+      "v": "Das ist die größte Stadt, die ich je besucht habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die am weitesten entfernte Stadt, die ich besucht habe, ist ...",
+      "v": "Das ist die am weitesten entfernte Stadt, die ich je besucht habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Die Stadt, die ich gerne besuchen würde, ist ...",
+      "v": "Das ist die Stadt, die ich gerne besuchen würde:",
       "n": "AlienPromptText2"
     },
     {

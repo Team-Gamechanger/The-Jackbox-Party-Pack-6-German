@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zwei ältere Berühmtheiten, die ich mag, sind ...",
+      "v": "Das sind zwei ältere Berühmtheiten, die ich mag:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Zwei ältere Berühmtheiten, die ich mag, sind ...",
+      "s": "Das sind zwei ältere Berühmtheiten, die ich mag:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, mit denen ich gerne abhänge, sind ...",
+      "v": "Das sind zwei Prominente, mit denen ich gerne abhängen würde:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die ich erstaunlich finde, sind ...",
+      "v": "Das sind zwei Berühmtheiten, die ich erstaunlich finde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, von denen ich ständig höre, sind ...",
+      "v": "Das sind zwei Prominente, von denen ich ständig höre:",
       "n": "AlienPromptText2"
     },
     {

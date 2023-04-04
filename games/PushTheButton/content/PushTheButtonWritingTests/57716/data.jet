@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Etwas, das ich an mir mag, ist ...",
+      "v": "Das mag ich an mir:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Etwas, das ich an mir mag, ist ...",
+      "s": "Das mag ich an mir:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Eigenschaft, die ich an anderen Menschen bewundere, ist ...",
+      "v": "Das ist eine Eigenschaft, die ich an anderen Menschen bewundere:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die Eigenschaft, die mir hilft, im Leben erfolgreich zu sein, ist ...",
+      "v": "Das ist eine Eigenschaft, die mir hilft, im Leben erfolgreich zu sein:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Etwas, von dem ich wünschte, ich könnte es an mir ändern, ist ...",
+      "v": "Das ist etwas, von dem ich wünschte, ich könnte es an mir ändern:",
       "n": "AlienPromptText2"
     },
     {

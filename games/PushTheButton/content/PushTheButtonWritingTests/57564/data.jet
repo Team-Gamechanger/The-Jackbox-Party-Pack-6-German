@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingssport, den ich mir anschaue, ist ...",
+      "v": "Das ist mein Lieblingssport, den ich mir anschaue:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingssport, den ich mir anschaue, ist ...",
+      "s": "Das ist mein Lieblingssport, den ich mir anschaue:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Sportart, die ich früher gespielt habe, ist ...",
+      "v": "Das ist eine Sportart, die ich früher gespielt habe:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine Sportart, die im Fernsehen besser ist, ist ...",
+      "v": "Das ist eine Sportart, die im Fernsehen besser ist:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Sportart, zu der ich einfach keinen Zugang finde, ist ...",
+      "v": "Das ist eine Sportart, die mich absolut nicht interessiert:",
       "n": "AlienPromptText2"
     },
     {

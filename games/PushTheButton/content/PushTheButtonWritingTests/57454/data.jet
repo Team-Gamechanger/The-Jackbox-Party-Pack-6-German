@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der eine Modetrend, mit dem ich nie etwas anfangen konnte, war...",
+      "v": "Das ist ein Modetrend, mit dem ich nie etwas anfangen konnte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der eine Modetrend, mit dem ich nie etwas anfangen konnte, war...",
+      "s": "Das ist ein Modetrend, mit dem ich nie etwas anfangen konnte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Einem Trend, dem ich verfallen bin, war...",
+      "v": "Das war ein Trend, dem ich verfallen bin:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der Modetrend, von dem ich mir wünsche, dass er zurückkommt, ist...",
+      "v": "Das war der Modetrend, von dem ich mir wünsche, dass er zurückkommt:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Wenn ich an die 1990er Jahre denke, denke ich an...",
+      "v": "Wenn ich an die 1990er-Jahre denke, denke ich an das hier:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Der Name des Films über mein Leben wäre...",
+      "v": "Das wäre der Name des Films über mein Leben:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Der Name des Films über mein Leben wäre...",
+      "s": "Das wäre der Name des Films über mein Leben:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Die drei Worte, mit denen man mich beschreiben würde, sind ...",
+      "v": "Das sind die drei Worte, mit denen man mich beschreiben würde:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Meine drei Lieblingswörter sind ...",
+      "v": "Das sind meine drei Lieblingswörter sind ...",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der Titel meines angesagten Albums wäre: ....",
+      "v": "Das wäre der Titel meines angesagten Albums:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Meine ideale Berufsbezeichnung wäre ...",
+      "v": "Das wäre meine ideale Berufsbezeichnung:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine schlimmste Angewohnheit ist....",
+      "v": "Das ist meine schlimmste Angewohnheit:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der Titel eines Horrorfilms über mein Leben würde ... lauten",
+      "v": "Das wäre der Titel eines Horrorfilms über mein Leben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das letzte, was du online bestellt hast, war ...",
+      "v": "Das war das letzte, das ich online bestellt habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Beste, was man am Ende eines stressigen Tages essen kann, ist ...",
+      "v": "Das ist das Beste, was man am Ende eines stressigen Tages essen kann:",
       "n": "AlienPromptText7"
     }
   ]

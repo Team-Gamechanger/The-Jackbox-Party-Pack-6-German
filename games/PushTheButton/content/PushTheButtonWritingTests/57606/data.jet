@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Beste, was man am Ende eines stressigen Tages essen kann, ist...",
+      "v": "Das ist das Beste, was man am Ende eines stressigen Tages essen kann:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Beste, was man am Ende eines stressigen Tages essen kann, ist...",
+      "s": "Das ist das Beste, was man am Ende eines stressigen Tages essen kann:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssnack ist ...",
+      "v": "Das ist mein Lieblingssnack:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Mein liebstes Comfort-Food ist...",
+      "v": "Das ist mein liebstes Comfort-Food:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Meine Vorstellung von einer teuren Mahlzeit ist...",
+      "v": "Das ist meine Vorstellung von einer teuren Mahlzeit:",
       "n": "AlienPromptText2"
     },
     {

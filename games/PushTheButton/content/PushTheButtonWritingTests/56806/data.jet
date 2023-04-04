@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Geburtstagsfeier-Thema, das ich als Kind hatte, war ...",
+      "v": "Das war ein Geburtstagsfeier-Thema, das ich als Kind hatte:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Geburtstagsfeier-Thema, das ich als Kind hatte, war ...",
+      "s": "Das war ein Geburtstagsfeier-Thema, das ich als Kind hatte:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+      "v": "Das ist meine Lieblings-Zeichentrickfigur:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsfernsehsendung ist ...",
+      "v": "Das ist meine Lieblingsfernsehsendung:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein gutes Thema für den Abi-Abschlussball ist ...",
+      "v": "Das ist ein gutes Thema für den Abi-Abschlussball:",
       "n": "AlienPromptText2"
     },
     {

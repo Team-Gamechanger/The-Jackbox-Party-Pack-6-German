@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Als ich ein Kind war, wollte ich folgendes werden, wenn ich groß bin...",
+      "v": "Das wollte ich als Kind werden, wenn ich groß bin:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Als ich ein Kind war, wollte ich folgendes werden, wenn ich groß bin...",
+      "s": "Das wollte ich als Kind werden, wenn ich groß bin:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Ein wirklich cooler Beruf wäre ein/e ...",
+      "v": "Das wäre ein wirklich cooler Beruf:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein gefährlicher Beruf ist wahrscheinlich ein/e ...",
+      "v": "Das ist wahrscheinlich ein gefährlicher Beruf:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Die schlimmste Person, mit der man in einem Aufzug stecken bleibt, ist ein/e ...",
+      "v": "Das wäre die schlimmste Person, mit der man in einem Aufzug stecken bleiben könnte:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Das Unheimlichste, was man in einer dunklen Gasse treffen kann, ist ein....",
+      "v": "Das wäre das Unheimlichste, was ich in einer dunklen Gasse treffen könnte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Beruf, den es nicht mehr gibt, ist ein/e ...",
+      "v": "Das ist ein Beruf, den es nicht mehr gibt:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein verrücktes Halloween-Kostüm wäre ein sexy...",
+      "v": "Das wäre ein verrücktes, aber sexy Halloween-Kostüm:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das mich gruselt, ist ...",
+      "v": "Das ist ein Lied, das mich gruselt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das nicht für Kinder geeignet ist, ist ...",
+      "v": "Das ist ein Lied, das nicht für Kinder geeignet ist:",
       "n": "AlienPromptText7"
     }
   ]

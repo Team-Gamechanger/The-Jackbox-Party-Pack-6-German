@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ein Buch, das mein Leben verändert hat, ist ...",
+      "v": "Das ist ein Buch, das mein Leben verändert hat:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ein Buch, das mein Leben verändert hat, ist ...",
+      "s": "Das ist ein Buch, das mein Leben verändert hat:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbuch als Kind war ...",
+      "v": "Das war mein Lieblingsbuch als Kind:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das letzte Buch, das ich gelesen habe, war ...",
+      "v": "Das war letzte Buch, das ich gelesen habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das längste Buch, das ich je gelesen habe, war ...",
+      "v": "Das war das längste Buch, das ich je gelesen habe:",
       "n": "AlienPromptText2"
     },
     {

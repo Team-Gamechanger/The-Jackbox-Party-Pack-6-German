@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die App, die ich am häufigsten auf meinem Handy verwende, ist ...",
+      "v": "Das ist die App, die ich am häufigsten auf meinem Handy verwende:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die App, die ich am häufigsten auf meinem Handy verwende, ist ...",
+      "s": "Das ist die App, die ich am häufigsten auf meinem Handy verwende:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-App auf meinem Handy ist ...",
+      "v": "Das ist meine Lieblings-App auf meinem Handy;",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die App, die wahrscheinlich am meisten über mich weiß, ist ...",
+      "v": "Das ist die App, die wahrscheinlich am meisten über mich weiß:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine App, die ich vergessen habe, von meinem Handy zu löschen, ist ...",
+      "v": "Das ist eine App, die ich vergessen habe, von meinem Handy zu löschen:",
       "n": "AlienPromptText2"
     },
     {

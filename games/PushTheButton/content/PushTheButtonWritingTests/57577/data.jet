@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine historische Figur, die ich gerne heiraten würde, ist ...",
+      "v": "Das ist eine historische Figur, die ich gerne heiraten würde:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eine historische Figur, die ich gerne heiraten würde, ist ...",
+      "s": "Das ist eine historische Figur, die ich gerne heiraten würde:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, an der ich interessiert bin, ist ...",
+      "v": "Das ist eine historische Figur, an der ich interessiert bin:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, von der ich genug gehört habe, ist ...",
+      "v": "Das ist eine historische Figur, von der ich genug gehört habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Jemand aus den 1800er Jahren ist ...",
+      "v": "Das ist jemand aus den 1800er-Jahren:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich nicht ausstehen kann, ist...",
+      "v": "Das ist eine Berühmtheit, die ich nicht ausstehen kann:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Eine Berühmtheit, die ich nicht ausstehen kann, ist...",
+      "s": "Das ist eine Berühmtheit, die ich nicht ausstehen kann:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, von der ich ständig höre, ist ...",
+      "v": "Das ist eine Berühmtheit, von der ich ständig höre:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Eine minderjährige Berühmtheit, die ich gerne treffen würde, ist ...",
+      "v": "Das ist eine minderjährige Berühmtheit, die ich gerne treffen würde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich attraktiv finde, ist ...",
+      "v": "Das ist ein Promi, den ich attraktiv finde, ist ...",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein ideales Urlaubsziel ist ...",
+      "v": "Das ist mein liebstes Urlaubsziel:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein ideales Urlaubsziel ist ...",
+      "s": "Das ist mein liebstes Urlaubsziel:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Ein Land, in dem ich noch nie war, ist ...",
+      "v": "Das ist ein Land, in dem ich noch nie war:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Der schlimmste Ort, an dem man festsitzt, wäre ...",
+      "v": "Das wäre der schlimmste Ort, an dem man festsitzen könnte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der wahrscheinlichste Ort, an dem ich eine/n Ex treffen würde, ist ...",
+      "v": "Das wäre der wahrscheinlichste Ort, an dem ich eine/n Ex treffen würde:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Das Land mit den schönsten Naturdenkmälern ist ...",
+      "v": "Das ist das Land mit den schönsten Naturdenkmälern:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Die Stadt mit der schönsten Architektur ist ...",
+      "v": "Das ist die Stadt mit der schönsten Architektur:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, über die sich alle lustig machen, ist ...",
+      "v": "Das ist eine Stadt, über die sich alle lustig machen:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein fiktiver Lieblingsort ist ...",
+      "v": "Das ist mein fiktiver Lieblingsort:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der Name meines Heimatortes ist ...",
+      "v": "Das ist der Name meines Heimatortes:",
       "n": "AlienPromptText7"
     }
   ]

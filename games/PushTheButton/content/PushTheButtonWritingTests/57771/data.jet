@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Mein Lieblingsfilmzitat ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich mein Lieblingsfilmzitat:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Mein Lieblingsfilmzitat ist wahrscheinlich ...",
+      "s": "Das ist wahrscheinlich mein Lieblingsfilmzitat:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Ein bekanntes Filmzitat ist ...",
+      "v": "Das ist ein bekanntes Filmzitat:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Etwas, das man einem bösen Hund zurufen könnte, ist ...",
+      "v": "Das ist etwas, das man einem bösen Hund zurufen könnte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Zitat aus einem Film, das ich immer wieder höre, ist ...",
+      "v": "Das ist ein Zitat aus einem Film, das ich immer wieder höre",
       "n": "AlienPromptText2"
     },
     {

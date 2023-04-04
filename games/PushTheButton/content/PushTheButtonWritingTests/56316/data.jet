@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Die beste Epoche für eine Zeitreise wäre ...",
+      "v": "Das wäre die beste Epoche für eine Zeitreise:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Die beste Epoche für eine Zeitreise wäre ...",
+      "s": "Das wäre die beste Epoche für eine Zeitreise:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das Jahrzehnt, in dem ich geboren wurde, war das ...",
+      "v": "Das ist das Jahrzehnt, in dem ich geboren wurde:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Das Jahrzehnt, das es wahrscheinlich am schlimmsten hatte, war ...",
+      "v": "Das ist das Jahrzehnt, das es wahrscheinlich am schlimmsten hatte:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Der Zeitraum mit den coolsten Klamotten war ...",
+      "v": "Das war der Zeitraum mit den coolsten Klamotten:",
       "n": "AlienPromptText2"
     },
     {

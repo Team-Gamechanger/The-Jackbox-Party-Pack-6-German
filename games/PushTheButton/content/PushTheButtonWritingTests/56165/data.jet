@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich wünschte, mein Spitzname wäre ...",
+      "v": "Ich wünschte, das wäre mein Spitzname:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich wünschte, mein Spitzname wäre ...",
+      "s": "Ich wünschte, das wäre mein Spitzname:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Die beste alte Fernsehsendung war ...",
+      "v": "Das ist die beste alte Fernsehsendung:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Ort, den ich gerne besuchen würde, ist ...",
+      "v": "Das ist ein Ort, den ich gerne besuchen würde:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Mein schlechtes Gewissen Essen ist...",
+      "v": "Das ist eine Mahlzeit, die ich nur mit schlechtem Gewissen essen kann:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Spitzname, den ich früher hatte, war ...",
+      "v": "Das ist ein Spitzname, den ich früher hatte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich in The Mob (Hard-Rock Band) wäre, würden sie mich ... nennen",
+      "v": "So würde ich genannt werden, wenn ich in einer Hard-Rock-Band spielen würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich ein Hip-Hop-Künstler wäre, würde man mich ...",
+      "v": "Das wäre mein Künstlername, wenn ich ein Hip-Hop-Musiker wäre:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, die ich wahrscheinlich persönlich hassen würde, ist ....",
+      "v": "Das ist eine historische Figur, die ich wahrscheinlich persönlich hassen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, von der ich genug gehört habe, ist ...",
+      "v": "Das ist eine Berühmtheit, von der ich andauernd höre:",
       "n": "AlienPromptText7"
     }
   ]

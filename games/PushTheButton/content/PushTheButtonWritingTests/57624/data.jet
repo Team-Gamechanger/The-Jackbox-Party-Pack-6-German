@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Beeindruckendste, was ich je repariert habe, war ein/e...",
+      "v": "Das ist das Beeindruckendste, was ich je repariert habe:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Beeindruckendste, was ich je repariert habe, war ein/e...",
+      "s": "Das ist das Beeindruckendste, was ich je repariert habe:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Das coolste Stück Technik in meinem Haus ist ...",
+      "v": "Das ist das coolste Stück Technik in meinem Haus:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die eine Sache, die ich kaputt gemacht habe, die mich traurig gemacht hat, war ...",
+      "v": "Das ist eine eine Sache, die ich kaputt gemacht habe und mich traurig gemacht hat:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das coolste Tier, das ich je aus der Nähe gesehen habe, ist ein/e ...",
+      "v": "Das ist dascoolste Tier, das ich je aus der Nähe gesehen habe:",
       "n": "AlienPromptText2"
     },
     {

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Meine nervigste Angewohnheit ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich meine nervigste Angewohnheit:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Meine nervigste Angewohnheit ist wahrscheinlich ...",
+      "s": "Das ist wahrscheinlich meine nervigste Angewohnheit:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Eine Angewohnheit, die mich nervt, ist ...",
+      "v": "Das ist eine Angewohnheit, die mich nervt:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Die Kleinigkeit, die verboten werden muss, ist ...",
+      "v": "Das ist eine Kleinigkeit, die unbedingt verboten werden muss:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Ein Modetrend, mit dem ich nie etwas anfangen konnte, ist ...",
+      "v": "Das ist ein Modetrend, mit dem ich nie etwas anfangen konnte:",
       "n": "AlienPromptText2"
     },
     {

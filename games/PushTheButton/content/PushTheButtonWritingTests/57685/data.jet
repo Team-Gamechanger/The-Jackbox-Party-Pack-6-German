@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die ich gerne in einem Wissenschaftler verschmelzen sehen würde, sind ...",
+      "v": "Das sind zwei Berühmtheiten, die ich gerne in einem Wissenschaftler verschmelzen sehen würde:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Zwei Berühmtheiten, die ich gerne in einem Wissenschaftler verschmelzen sehen würde, sind ...",
+      "s": "Das sind zwei Berühmtheiten, die ich gerne in einem Wissenschaftler verschmelzen sehen würde:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,17 +98,17 @@
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die ich gerne zusammen sehen würde, sind ...",
+      "v": "Das sind zwei Prominente, die ich gerne zusammen sehen würde:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, von denen ich genug gehört habe, sind...",
+      "v": "Das sind zwei Berühmtheiten, von denen ich genug gehört habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Zwei Prominente, die ich gerne als Freunde habe, sind ...",
+      "v": "Das sind zwei Prominente, die ich gerne als Freunde hätte:",
       "n": "AlienPromptText2"
     },
     {

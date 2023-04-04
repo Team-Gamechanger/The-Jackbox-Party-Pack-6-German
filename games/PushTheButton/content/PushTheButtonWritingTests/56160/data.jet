@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das Schlimmste, was ich je für einen Job tragen musste, war...",
+      "v": "Das ist das schlimmste Kleidungsstück, das ich mal für einen Job tragen musste:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das Schlimmste, was ich je für einen Job tragen musste, war...",
+      "s": "Das ist das schlimmste Kleidungsstück, das ich mal für einen Job tragen musste:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -98,42 +98,42 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das ich nie wieder tragen werde, ist...",
+      "v": "Das ist ein Kleidungsstück, das ich nie (wieder) tragen werde:",
       "n": "AlienPromptText0"
     },
     {
       "t": "S",
-      "v": "Ein Kleidungsstück, das ich einmal jemandem gekauft habe, war ...",
+      "v": "Das ist ein Kleidungsstück, das ich schon mal für jemand anderen gekauft habe:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Etwas, das man für ein Pferd kaufen könnte, ist ...",
+      "v": "Das wäre ein Stück Ausrüstung, das man einem Pferd kaufen könnte:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ich würde mich nie dabei erwischen lassen, dass ich...",
+      "v": "Dieses Kleidungsstück halte ich für überbewertet:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Die schlechteste Kleiderordnung würde ... erfordern",
+      "v": "Das hier würde eine schlimme Kleiderordnung erfordern:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Verrückteste, was ich auf einer Arbeitsparty trug, war ...",
+      "v": "Das ist das schlimmste Kleidungsstück, dass ich mal auf einer Party getragen habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das Coolste, was ich in einem Museum gesehen habe, ist ...",
+      "v": "Das ist das coolste Ausstellungsstück, das ich mal in einem Museum gesehen habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich auf dem Dachboden meiner Großeltern zu finden erwarte, ist ...",
+      "v": "Das hier wäre etwas, bei dem ich erwarten würde, dass es bei meinen Großeltern auf dem Dachboden zu finden wäre:",
       "n": "AlienPromptText7"
     }
   ]
