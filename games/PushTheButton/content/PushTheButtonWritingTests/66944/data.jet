@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Halloweenkostüm war ...",
+      "v": "Das war mein Lieblings-Halloweenkostüm:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich einen kleinen Jungen hätte, würde ich ihn ... nennen",
+      "v": "So würde ich meinen kleinen Sohn nennen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingspromi ist ...",
+      "v": "Das ist mein Lieblingspromi:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich an alte Zeiten denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an alte Zeiten denke:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Science Fiction denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Science Fiction denke:",
       "n": "AlienPromptText7"
     }
   ]

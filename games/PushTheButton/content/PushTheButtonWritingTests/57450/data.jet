@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das ich die letzten Wochenenden getan habe, ist ...",
+      "v": "Das habe ich die letzten Wochenenden getan:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsaktivität bei einem ersten Date ist ...",
+      "v": "Das ist meine Lieblingsaktivität bei einem ersten Date:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Aktivität, die illegal sein sollte, ist....",
+      "v": "Das ist etwas, das illegal sein sollte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das letzte Buch, das ich las, handelte von jemandem, der ...",
+      "v": "Davon handelte das letzte Buch, das ich gelesen habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der beste Teil meines letzten Urlaubs war, als ich ...",
+      "v": "Das war der beste Teil meines letzten Urlaubs:",
       "n": "AlienPromptText7"
     }
   ]

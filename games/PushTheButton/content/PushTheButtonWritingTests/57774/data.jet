@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas in meinem Kühlschrank ist gerade ...",
+      "v": "Das ist gerade etwas in meinem Kühlschrank:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich in Restaurants immer bestelle, ist ...",
+      "v": "Das ist etwas, das ich in Restaurants immer bestelle:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Gestern zum Mittagessen aß ich ...",
+      "v": "Das habe ich gestern zum Mittag gegessen:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Lebensmittel, das meiner Meinung nach stark überschätzt wird, ist ...",
+      "v": "Das ist ein Lebensmittel, das meiner Meinung nach stark überschätzt wird:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Lebensmittel, dessen Geschmack oder Geruch ich nicht vertrage, ist ...",
+      "v": "Das ist ein Lebensmittel, dessen Geschmack oder Geruch ich nicht ertrage:",
       "n": "AlienPromptText7"
     }
   ]

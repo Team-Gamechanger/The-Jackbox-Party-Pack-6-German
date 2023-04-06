@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Meine historische Lieblingsfigur ist ...",
+      "v": "Das ist meine historische Lieblingsfigur:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Jemand, der mich nervt, ist ...",
+      "v": "Das ist jemand, der mich nervt:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+      "v": "Das ist meine Lieblings-Zeichentrickfigur:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilmmonster ist ...",
+      "v": "Das ist mein Lieblingsfilmmonster:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein schlechter Name für ein Baby wäre ...",
+      "v": "Das wäre ein schlechter Name für ein Baby:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Kinderfilmfigur ist ...",
+      "v": "Das ist meine Lieblings-Kinderfilmfigur:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der beste Disney-Bösewicht ist ...",
+      "v": "Das ist der beste Disney-Bösewicht:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich nach Disneyland fahre, möchte ich ein Foto von ...",
+      "v": "Davon möchte ich ein Foto machen, wenn ich ins Disneyland fahre:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, für die ich mich nicht mehr interessiere, ist ...",
+      "v": "Das ist ein Prominenter, für den ich mich nicht mehr interessiere:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Prominenter, der mich nervt, ist ...",
+      "v": "Das ist ein Prominenter, der mich nervt:",
       "n": "AlienPromptText7"
     }
   ]

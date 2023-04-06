@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich noch nie besucht habe, ist ...",
+      "v": "Das ist eine Stadt, die ich noch nie besucht habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine tolle Urlaubsstadt ist ...",
+      "v": "Das ist eine tolle Urlaubsstadt:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich nie besuchen möchte, ist ...",
+      "v": "Das ist eine Stadt, die ich nie besuchen möchte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die meiner Meinung nach überschätzt wird, ist ...",
+      "v": "Das ist eine Stadt, die meiner Meinung nach überschätzt wird:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die Stadt mit den besten Museen ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich die Stadt mit den besten Museen:",
       "n": "AlienPromptText7"
     }
   ]

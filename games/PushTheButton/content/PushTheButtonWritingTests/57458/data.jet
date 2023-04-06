@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich morgens aufwache, ist das erste, was ich tue, ...",
+      "v": "Das ist das erste, was ich mache, wenn ich morgens aufwache:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Angewohnheit, die mein Kollege hat, ist ...",
+      "v": "Das ist eine Angewohnheit, die mein Kollege hat:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Verhalten, das ich in öffentlichen Verkehrsmitteln immer sehe, ist ...",
+      "v": "Das ist etwas Nerviges, das ich in öffentlichen Verkehrsmitteln immer sehe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Sie sollten verbieten ...",
+      "v": "Das sollte unbedingt verboten werden:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingshobby ist ...",
+      "v": "Das ist mein Lieblingshobby:",
       "n": "AlienPromptText7"
     }
   ]

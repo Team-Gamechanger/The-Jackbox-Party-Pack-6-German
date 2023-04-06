@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsessen wäre ...",
+      "v": "Das wäre ein Lieblingsessen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Meerestier ist ...",
+      "v": "Das ist mein Lieblings-Meerestier:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der schlimmste Geruch der Welt ist...",
+      "v": "Das ist der schlimmste Geruch der Welt:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein ungesundes Lieblingsgericht ist...",
+      "v": "Das ist mein ungesundes Lieblingsgericht:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Beste, was man kalt essen kann, ist ...",
+      "v": "Das ist das Beste, was man kalt essen kann:",
       "n": "AlienPromptText7"
     }
   ]

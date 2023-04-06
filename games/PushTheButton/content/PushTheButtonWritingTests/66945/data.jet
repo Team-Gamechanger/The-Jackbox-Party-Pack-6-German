@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich wünschte, das hier von mir wäre größer:",
+      "v": "Ich wünschte, das hier wäre größer:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich wünschte, das hier von mir wäre größer:",
+      "s": "Ich wünschte, das hier wäre größer:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das ich kürzlich weggeworfen habe, ist ...",
+      "v": "Das ist etwas, das ich kürzlich weggeworfen habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Körperteil, über das ich nichts weiß, ist ...",
+      "v": "Das ist ein Körperteil, über das ich nichts weiß:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Peinlichste, was ich gekauft habe, ist...",
+      "v": "Das ist das Peinlichste, was ich je gekauft habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “ekelhaft” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “ekelhaft” beschreiben:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “entzückend” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “entzückend” beschreiben:",
       "n": "AlienPromptText7"
     }
   ]

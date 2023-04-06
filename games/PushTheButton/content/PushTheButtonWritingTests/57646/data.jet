@@ -98,7 +98,7 @@
     },
     {
       "t": "S",
-      "v": "Das ist mein größtes Lieblingsärgernis:",
+      "v": "Das ist etwas, worüber ich mich sehr oft ärgere:",
       "n": "AlienPromptText0"
     },
     {
@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine Sache, für die es sich zu sterben lohnt, ist...",
+      "v": "Das ist eine Sache, für die es sich zu sterben lohnt:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingspromi ist ...",
+      "v": "Das ist mein Lieblingspromi:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der letzte Streit, in den ich geriet, drehte sich um ...",
+      "v": "Darum drehte sich der letzte Streit, in den ich reingeraten bin::",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Etwas, das mir sehr am Herzen liegt, ist ...",
+      "v": "Das ist etwas, das mir sehr am Herzen liegt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich nicht ausstehen kann, ist ...",
+      "v": "Das ist ein Prominenter, den ich nicht ausstehen kann:",
       "n": "AlienPromptText7"
     }
   ]

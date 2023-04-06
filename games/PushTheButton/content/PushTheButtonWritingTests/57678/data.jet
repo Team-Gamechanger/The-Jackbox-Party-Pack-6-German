@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “peinlich höre,” denke ich an ...",
+      "v": "Daran denke ich, wenn ich das Wort “peinlich” höre:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Serie, die alle liebten, mich aber nicht interessierte, war...",
+      "v": "Das ist eine Serie, die alle lieben, die mich aber nicht interessiert:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmusikkünstler ist ...",
+      "v": "Das ist mein Lieblingsmusikkünstler:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die coolste Art, 10.000 Euro zu verjubeln, ist ...",
+      "v": "Das ist die coolste Art, 10.000 Euro loszuwerden:",
       "n": "AlienPromptText7"
     }
   ]

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Davon mag ich wirklich den Geruch:",
+      "v": "Davon mag ich den Geruch wirklich:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Davon mag ich wirklich den Geruch:",
+      "s": "Davon mag ich den Geruch wirklich:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsgetränk ist ...",
+      "v": "Das ist mein Lieblingsgetränk:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das letzte Geschenk, das ich für jemanden gekauft habe, ist ...",
+      "v": "Das ist das letzte Geschenk, das ich für jemanden gekauft habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der letzte Ort, an dem ich im Urlaub war, war ...",
+      "v": "Das war der letzte Ort, an dem ich im Urlaub war:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das gruseligste Tier wäre ...",
+      "v": "Das ist das gruseligste Tier:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, das man in einem Horrorfilm sieht, ist ...",
+      "v": "Das ist etwas, das man in einem Horrorfilm sehen kann:",
       "n": "AlienPromptText7"
     }
   ]

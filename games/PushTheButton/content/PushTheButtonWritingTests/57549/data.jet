@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das ich gerne mache, wenn ich alleine bin, ist ...",
+      "v": "Das ist etwas, das ich gerne mache, wenn ich alleine bin:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingshobby ist ...",
+      "v": "Das ist mein Lieblingshobby:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich entspanne gerne bei ...",
+      "v": "Das hier zu machen entspannt mich:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich im Lotto gewinne, verbringe ich die meiste Zeit...",
+      "v": "Damit würde ich die meiste Zeit verbringen, wenn ich im Lotto gewinnen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Aktivität, auf die ich zurückkommen muss, ist ...",
+      "v": "Das ist eine Aktivität, die ich unbedingt nochmal machen muss:",
       "n": "AlienPromptText7"
     }
   ]

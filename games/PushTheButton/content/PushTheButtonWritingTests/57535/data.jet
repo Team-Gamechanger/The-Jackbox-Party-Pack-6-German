@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein seltsames Talent, das ich habe, ist ...",
+      "v": "Das ist ein seltsames Talent, das ich habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Talent, das ich gerne hätte, ist ...",
+      "v": "Das ist ein Talent, das ich gerne hätte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich Millionär wäre, würde ich jedes Wochenende damit verbringen, dies zu tun...",
+      "v": "Das würde ich jedes Wochenende machen, wenn ich ein Millionär wäre:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich einen Roboter hätte, würde ich ihn benutzen für...",
+      "v": "Dafür würde ich einen Roboter benutzen, wenn ich einen hätte:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich früher konnte, als ich jünger war, war ...",
+      "v": "Das ist etwas, das ich gut konnte, als ich jünger war:",
       "n": "AlienPromptText7"
     }
   ]

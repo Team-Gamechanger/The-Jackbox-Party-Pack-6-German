@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein historischer Moment, an dem ich super-interessiert bin, ist ...",
+      "v": "Das ist ein historischer Moment, an dem ich wirklich interessiert bin:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Disney-Figur ist ...",
+      "v": "Das ist meine Lieblings-Disney-Figur:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Kindersendung war einmal ...",
+      "v": "Das war einmal meine Lieblings-Kindersendung:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsfernsehserie als Teenager war ...",
+      "v": "Das war meine Lieblingsfernsehserie als Teenager:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm, als ich ein Teenager war, war ...",
+      "v": "Das war mein Lieblingsfilm, als ich ein Teenager war:",
       "n": "AlienPromptText7"
     }
   ]

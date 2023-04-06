@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Die letzte Website, von der ich ein Geschenk gekauft habe, war ...",
+      "v": "Das war die letzte Website, von der ich ein Geschenk gekauft habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine von mir häufig besuchte Shopping-Website ist ...",
+      "v": "Das ist eine von mir häufig besuchte Shopping-Website:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein bevorzugtes Bekleidungsgeschäft ist ...",
+      "v": "Das ist mein bevorzugtes Bekleidungsgeschäft:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der beste Ort, um etwas für diesen besonderen Menschen zu kaufen, ist ...",
+      "v": "Das ist der beste Ort, um etwas für besondere Menschen zu kaufen:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Geschäft, das überwältigend scheint, ist ...",
+      "v": "Das ist ein Geschäft, das überwältigend scheint:",
       "n": "AlienPromptText7"
     }
   ]

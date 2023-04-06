@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an Grillen denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Grillen denke:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich an den Strand denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an den Strand denke:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Bäume denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Bäume denke:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Kürbisse denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Kürbisse denke:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Dating-Apps denke, denke ich an...",
+      "v": "Daran denke ich auch, wenn ich an Dating-Apps denke:",
       "n": "AlienPromptText7"
     }
   ]

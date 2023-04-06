@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein persönliches Motto wäre ...",
+      "v": "Das wäre mein persönliches Motto:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein nerviger Werbeslogan ist ...",
+      "v": "Das ist ein nerviger Werbeslogan:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine schreckliche Sache von deinem Chef zu hören, wäre ...",
+      "v": "Das wäre eine schreckliche Sache, die dein Chef sagen könnte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier ist ...",
+      "v": "Das ist mein Lieblingstier:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmusiker ist ...",
+      "v": "Das ist mein Lieblingsmusiker:",
       "n": "AlienPromptText7"
     }
   ]

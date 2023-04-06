@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, von denen ich ständig zu hören scheine, sind ...",
+      "v": "Das sind zwei Berühmtheiten, von denen ich ständig zu hören scheine:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die viele Preise gewonnen haben, sind ...",
+      "v": "Das sind zwei Prominente, die viele Preise gewonnen haben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die zusammen große Filme machen, sind ...",
+      "v": "Das sind zwei Prominente, die zusammen beliebte Filme machen:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Zwei Musiker, die ich gerne im Konzert sehen würde, sind ...",
+      "v": "Das sind zwei Musiker, die ich gerne live im Konzert sehen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Zwei fiktive Charaktere, die ich gerne kämpfen sehen würde, sind ...",
+      "v": "Das sind zwei fiktive Charaktere, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText7"
     }
   ]

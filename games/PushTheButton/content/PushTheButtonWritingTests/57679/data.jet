@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Meine zwei Lieblingsmenschen sind ...",
+      "v": "Das sind meine zwei Lieblingsmenschen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die ich hasse, sind ...",
+      "v": "Das sind zwei Prominente, die ich hasse:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die ich gerne kämpfen sehen würde, sind...",
+      "v": "Das sind zwei Berühmtheiten, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Zwei fiktive Charaktere, die ich gerne kämpfen sehen würde, sind ...",
+      "v": "Das sind zwei fiktive Charaktere, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die zwei Superhelden, die ich gerne heiraten sehen würde, sind ...",
+      "v": "Das sind zwei Superhelden, die ich gerne heiraten sehen würde:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Das Ekelhafteste in meinem Kühlschrank ist im Moment ...",
+      "v": "Das ist im Moment das Ekelhafteste in meinem Kühlschrank:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine alte Lieblingsfernsehserie ist ...",
+      "v": "Das ist meine alte Lieblingsfernsehserie:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfrühstücksessen ist ...",
+      "v": "Das ist mein Lieblingsfrühstück:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsdessert ist ...",
+      "v": "Das ist mein Lieblingsdessert:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsgetränk ist ...",
+      "v": "Das ist mein Lieblingsgetränk:",
       "n": "AlienPromptText7"
     }
   ]

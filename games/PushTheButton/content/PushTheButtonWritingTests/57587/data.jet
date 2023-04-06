@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingshobby ist ...",
+      "v": "Das ist mein Lieblingshobby:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Deine Überlebensfähigkeit in den Hunger Games wäre ...",
+      "v": "Das wäre meine Spezialfähigkeit, wenn ich eine hätte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der beste Sport, den man im Fernsehen sehen kann, ist ...",
+      "v": "Das ist der beste Sport, den man im Fernsehen sehen kann:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der dümmste Sport ist einfach ...",
+      "v": "Das ist einfach der dümmste Sport:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbrettspiel ist ...",
+      "v": "Das ist mein Lieblingsbrettspiel:",
       "n": "AlienPromptText7"
     }
   ]

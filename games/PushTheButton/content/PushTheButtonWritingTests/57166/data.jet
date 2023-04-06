@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich noch sehen möchte, ist ...",
+      "v": "Das ist ein Film, den ich noch sehen möchte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Film, der mir Angst gemacht hat, ist ...",
+      "v": "Das ist ein Film, der mir Angst gemacht hat:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich jederzeit und überall ansehen werde, ist ...",
+      "v": "Das ist ein Film, den ich jederzeit und überall ansehen würde, wenn ich könnte:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der letzte neue Film, den ich gesehen habe, war ...",
+      "v": "Das war der letzte neue Film, den ich gesehen habe:",
       "n": "AlienPromptText7"
     }
   ]

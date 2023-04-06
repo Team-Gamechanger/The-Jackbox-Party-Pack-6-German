@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich das Wort “Romantik” höre, denke ich an...",
+      "v": "Daran denke ich, wenn ich das Wort “Romantik” höre:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Fernsehsendung, die ich einfach nicht verstehe, ist ...",
+      "v": "Das ist eine Fernsehsendung, die ich einfach nicht verstehe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Grund, warum man ein Fernglas besitzen könnte, ist ...",
+      "v": "Das ist ein Grund, warum ich ein Fernglas bräuchte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Etwas, das man in einem Natursonderheft sehen könnte, ist ...",
+      "v": "Das ist etwas, das man in einer Naturzeitschrift sehen könnte:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, das man an einem Date-Abend tun könnte, ist ...",
+      "v": "Das ist etwas, das man an einem Date-Abend tun könnte:",
       "n": "AlienPromptText7"
     }
   ]

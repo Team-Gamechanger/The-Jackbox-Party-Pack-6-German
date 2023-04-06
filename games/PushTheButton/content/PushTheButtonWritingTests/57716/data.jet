@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das mich an mir selbst stört, ist ...",
+      "v": "Das ist etwas, das mich an mir selbst stört:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Etwas, das mich an mir selbst abstößt, ist ...",
+      "v": "Das ist etwas, das mich an mir abstoßend finde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Meine beste Eigenschaft ist ...",
+      "v": "Das ist meine beste Eigenschaft:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine Charaktereigenschaft, an der ich arbeiten muss, ist ...",
+      "v": "Das ist eine Charaktereigenschaft, an der ich definitiv arbeiten muss:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Peinlichste, was ich je gekauft habe, war...",
+      "v": "Das war das Peinlichste, was ich je gekauft habe:",
       "n": "AlienPromptText7"
     }
   ]

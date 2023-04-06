@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine alte Berühmtheit, die ich sehr mag, ist ...",
+      "v": "Das ist eine alte Berühmtheit, die ich sehr mag:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich zu oft gemacht habe, als ich jünger war, war ...",
+      "v": "Das war etwas, das ich zu oft gemacht habe, als ich jünger war:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der beste Sport ist einfach ...",
+      "v": "Das ist der beste Sport:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die beste Art, sich nach einem langen Tag zu entspannen, ist ...",
+      "v": "Das ist die beste Art, um sich nach einem langen Tag zu entspannen:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die gröbste Angewohnheit ist einfach ...",
+      "v": "Das ist einfach die schlimmste Angewohnheit:",
       "n": "AlienPromptText7"
     }
   ]

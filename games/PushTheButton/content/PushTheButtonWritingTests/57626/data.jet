@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ich verbringe die meiste Zeit meiner Freizeit ...",
+      "v": "Damit verbringe ich die meiste Zeit meiner Freizeit:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, die ich faszinierend finde, ist ...",
+      "v": "Das ist eine historische Figur, die ich faszinierend finde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbuch handelte von ...",
+      "v": "Davon handelt mein Lieblingsbuch:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das längste Buch, das ich je gelesen habe, handelte von ...",
+      "v": "Davon handelte das längste Buch, das ich je gelesen habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, auf das ich mich dieses Wochenende freue, ist ...",
+      "v": "Das ist etwas, auf das ich mich dieses Wochenende freue:",
       "n": "AlienPromptText7"
     }
   ]

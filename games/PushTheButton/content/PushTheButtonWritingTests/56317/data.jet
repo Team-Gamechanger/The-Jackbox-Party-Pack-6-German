@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Das Jahrzehnt mit den besten Filmen war ...",
+      "v": "Das war das Jahrzehnt mit den besten Filmen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der schlimmste Zeitraum, in dem man stecken bleiben könnte, wäre ...",
+      "v": "Das wäre das schlimmste Jahrzehnt, in dem man stecken bleiben könnte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Zeitraum, von dem ich fasziniert bin, ist ...",
+      "v": "Das ist ein Zeitraum, von dem ich fasziniert bin:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Jahrzehnt, das wahrscheinlich ziemlich langweilig war, war ...",
+      "v": "Das war ein Jahrzehnt, das wahrscheinlich ziemlich langweilig war:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die beste Zeitspanne, um ein Selbstjustizler zu sein, wäre ...",
+      "v": "Das war das beste Jahrzehnt für Selbstjustiz:",
       "n": "AlienPromptText7"
     }
   ]

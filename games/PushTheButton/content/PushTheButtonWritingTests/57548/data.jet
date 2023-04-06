@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Das Beste am Reisen ist ...",
+      "v": "Das ist das Beste am Reisen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der beste Teil des Alters ist ...",
+      "v": "Das ist der beste daran, alt zu sein:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Beste am Aufwachen ist ...",
+      "v": "Das ist das Beste am Aufwachen:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsdessert ist ...",
+      "v": "Das ist mein Lieblingsdessert:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsgetränk ist ...",
+      "v": "Das ist mein Lieblingsgetränk:",
       "n": "AlienPromptText7"
     }
   ]

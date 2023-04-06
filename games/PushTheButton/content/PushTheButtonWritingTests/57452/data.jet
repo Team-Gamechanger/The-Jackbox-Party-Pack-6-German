@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Der stärkste Geruch ist ...",
+      "v": "Das ist der stärkste Geruch:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingskäsesorte ist ...",
+      "v": "Das ist meine Lieblingskäsesorte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Ekligste in meinem Kühlschrank ist im Moment ...",
+      "v": "Das ist im Moment das Ekligste in meinem Kühlschrank:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das am schlechtesten riechende Tier ist ...",
+      "v": "Das ist das am schlechtesten riechende Tier:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingspromi ist ...",
+      "v": "Das ist mein Lieblingsprominenter:",
       "n": "AlienPromptText7"
     }
   ]

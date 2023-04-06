@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Die Leute machen mich wütend, wenn sie das tun ...",
+      "v": "Das macht mich wütend, wenn Leute das machen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Sache, die Menschen nicht mehr tun, ist ...",
+      "v": "Das ist eine Sache, die Menschen nicht mehr machen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich wünschte, sie würden ... legalisieren",
+      "v": "Das hier sollte unbedingt legalisiert werden:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich jeden Morgen mache, ist ...",
+      "v": "Das ist etwas, das ich jeden Morgen mache:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Am liebsten entspanne ich mich, wenn ...",
+      "v": "So entspanne ich mich am liebsten:",
       "n": "AlienPromptText7"
     }
   ]

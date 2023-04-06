@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Jemand, der mich nervt, ist ...",
+      "v": "Das ist jemand, der mich nervt:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, die wahrscheinlich ein Fiesling war, ist ...",
+      "v": "Das ist eine historische Figur, die wahrscheinlich ein Fiesling war:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, die uns heute vielleicht helfen könnte, ist ...",
+      "v": "Das ist eine historische Figur, die uns heute vielleicht helfen könnte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssportler ist ...",
+      "v": "Das ist mein Lieblingssportler:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein liebster fiktionaler Charakter ist ...",
+      "v": "Das ist mein liebster fiktionaler Charakter:",
       "n": "AlienPromptText7"
     }
   ]

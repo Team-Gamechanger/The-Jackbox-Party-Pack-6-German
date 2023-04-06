@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Zitat aus einem Film, den ich kürzlich gesehen habe, war ...",
+      "v": "Das ist ein Zitat aus einem Film, den ich kürzlich gesehen habe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich ständig sage, ist ...",
+      "v": "Das ist etwas, das ich ständig sage:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Werbeslogan ist ...",
+      "v": "Das ist mein Lieblings-Werbeslogan:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das beste Filmzitat aus den 1920er Jahren ist...",
+      "v": "Das ist das beste Filmzitat aus den 1920er-Jahren:",
       "n": "AlienPromptText7"
     }
   ]

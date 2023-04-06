@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die mich nervt, ist ...",
+      "v": "Das ist eine Berühmtheit, die mich nervt:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das sexieste Filmmonster ist ...",
+      "v": "Das ist das sexieste Filmmonster:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein erstes Haustier war ...",
+      "v": "Das war mein erstes Haustier:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der Prominente, dem ich irgendwie ähnlich sehe, ist wahrscheinlich ...",
+      "v": "Das ist ein Prominenter, dem ich irgendwie ähnlich sehe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, von der ich nicht mehr hören will, ist ...",
+      "v": "Das ist ein Prominenter, von dem ich nichts mehr hören will:",
       "n": "AlienPromptText7"
     }
   ]

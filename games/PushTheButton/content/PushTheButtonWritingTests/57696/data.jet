@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an die Natur denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an die Natur denke:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Camping denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Camping denke:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Sonnenschutzmittel denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Sonnenschutzmittel denke:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich ans Surfen denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich ans Surfen denke:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Wenn ich an den Herbst denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an den Herbst denke:",
       "n": "AlienPromptText7"
     }
   ]

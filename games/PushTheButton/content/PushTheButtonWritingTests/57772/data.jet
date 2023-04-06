@@ -108,32 +108,32 @@
     },
     {
       "t": "S",
-      "v": "Das ist ein altbekannter Promi:",
+      "v": "Das ist ein altbekannter Prominenter:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich nicht besonders mag, ist ...",
+      "v": "Das ist ein Prominenter, den ich nicht besonders mag:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Person aus der Geschichte, die ich bewundere, ist ...",
+      "v": "Das ist eine Person aus der Geschichte, die ich bewundere:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Die Berühmtheit, von der die Leute sagen, dass ich aussehe wie ...",
+      "v": "Viele Leute sagen, dass ich wie dieser Prominente aussehe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, in die ich verknallt bin, ist ...",
+      "v": "Das ist ein Prominenter, in den ich verknallt bin:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der Prominente, den ich am häufigsten in den Nachrichten sehe, ist ...",
+      "v": "Das ist der Prominente, den ich am häufigsten in den Nachrichten sehe:",
       "n": "AlienPromptText7"
     }
   ]

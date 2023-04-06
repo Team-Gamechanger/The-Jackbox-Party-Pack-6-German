@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsfilmfigur ist ...",
+      "v": "Das ist meine Lieblingsfilmfigur:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich attraktiv finde, ist ...",
+      "v": "Das ist eine Berühmtheit, die ich attraktiv finde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Etwas in diesem Raum ist gerade ...",
+      "v": "Das ist etwas, was sich gerade in meinem Raum befindet:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier ist ...",
+      "v": "Das ist mein Lieblingstier:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmusiker ist ...",
+      "v": "Das ist mein Lieblingsmusiker:",
       "n": "AlienPromptText7"
     }
   ]

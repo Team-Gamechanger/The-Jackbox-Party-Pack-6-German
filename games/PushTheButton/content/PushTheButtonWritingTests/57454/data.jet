@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an die 1980er Jahre denke, denke ich an...",
+      "v": "Wenn ich an die 1980er-Jahre denke, denke ich an das hier:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich an die 1700er denke, denke ich an...",
+      "v": "Daran denke ich auch, wenn ich an die 1700er denke:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich an die Zeit der Höhlenmenschen denke, denke ich an...",
+      "v": "Daran denke ich auch, wenn ich an die Zeit der Höhlenmenschen denke:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Trend, für den ich mich schäme, ist....",
+      "v": "Das ist ein Trend, für den ich mich schäme:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die peinlichste Fangemeinde ist...",
+      "v": "Das ist die peinlichste Fangemeinde:",
       "n": "AlienPromptText7"
     }
   ]

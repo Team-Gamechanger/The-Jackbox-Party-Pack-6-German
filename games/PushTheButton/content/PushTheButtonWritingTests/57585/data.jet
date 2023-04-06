@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Pixar-Film ist ...",
+      "v": "Das ist mein Lieblings-Pixar-Film:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der schlechteste Film, den ich je gesehen habe, war ...",
+      "v": "Das ist der schlechteste Film, den ich je gesehen habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssportler ist ...",
+      "v": "Das ist mein Lieblingssportler:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein liebster fiktionaler Charakter ist ...",
+      "v": "Das ist mein liebster fiktionaler Charakter:",
       "n": "AlienPromptText7"
     }
   ]

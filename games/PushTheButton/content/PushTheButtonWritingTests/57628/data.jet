@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ich wünschte, es gäbe einen schnelleren Weg, dies zu tun...",
+      "v": "Ich wünschte, das hier könnte man irgendwie schneller erledigen:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Es muss ein Gesetz geben, das dies verbietet...",
+      "v": "Das hier sollte unbedingt durch ein Gesetz verboten werden:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich Superman wäre, würde ich die meiste Zeit damit verbringen, dies zu tun...",
+      "v": "Damit würde ich die meiste Zeit verbringen, wenn ich Superman wäre:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich jeden Morgen mache, ist ...",
+      "v": "Das ist etwas, das ich jeden Morgen mache:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Am liebsten entspanne ich mich, wenn ...",
+      "v": "So entspanne ich mich am liebsten:",
       "n": "AlienPromptText7"
     }
   ]

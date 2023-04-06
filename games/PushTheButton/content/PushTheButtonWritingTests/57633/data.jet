@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine Sehenswürdigkeit, die ich gerne sehen würde, ist ...",
+      "v": "Das ist eine Sehenswürdigkeit, die ich gerne sehen würde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Gruseligste, was man im Wald finden kann, wäre ...",
+      "v": "Das wäre das Gruseligste, was man im Wald finden könnte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssuperheld ist ...",
+      "v": "Das ist mein Lieblingssuperheld:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+      "v": "Das ist meine Lieblings-Zeichentrickfigur:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die drei Worte, mit denen ich meine Lieblingsfilmszene beschreibe, sind ...",
+      "v": "Das sind drei Worte, mit denen ich meine Lieblingsfilmszene beschreibe:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Das Beste, was man mit den Fingern essen kann, ist ...",
+      "v": "Das ist das Beste, das man mit den Fingern essen kann:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Die beste Zwischenmahlzeit ist ...",
+      "v": "Das ist die beste Zwischenmahlzeit:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Beste zum Dippen von Tortilla-Chips ist ...",
+      "v": "Das ist das Beste zum Dippen von Tortilla-Chips:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Am besten dippt man ein Chicken Nugget in ...",
+      "v": "Das ist der beste Dip für Chicken Nuggets:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Beste, was man auf einen Hamburger tun kann, ist ...",
+      "v": "Das ist das Beste, das man auf einen Hamburger tun kann:",
       "n": "AlienPromptText7"
     }
   ]

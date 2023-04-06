@@ -113,12 +113,12 @@
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsband ist ...",
+      "v": "Das ist meine Lieblingsband:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier im Zoo ist ...",
+      "v": "Das ist mein Lieblingstier im Zoo:",
       "n": "AlienPromptText4"
     },
     {
@@ -128,12 +128,12 @@
     },
     {
       "t": "S",
-      "v": "Jemand, den ich attraktiv finde, ist ...",
+      "v": "Das ist jemand, den ich attraktiv finde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Ekelhafteste, was ich je gesehen habe, ist...",
+      "v": "Das ist das Ekelhafteste, was ich je gesehen habe:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Der Film mit den besten Effekten ist....",
+      "v": "Das ist der Film mit den besten Effekten:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der letzte Film, der mich zum Springen brachte, war ...",
+      "v": "Das war der letzte Film, bei dem ich mich wirklich erschrocken habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der erste Gruselfilm, den ich gesehen habe, war ...",
+      "v": "Das war der erste Gruselfilm, den ich gesehen habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Film, der mir als Kind Angst gemacht hat, war ...",
+      "v": "Das war ein Film, der mir als Kind Angst gemacht hat:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmonsterfilm ist ...",
+      "v": "Das ist mein Lieblingsmonsterfilm:",
       "n": "AlienPromptText7"
     }
   ]

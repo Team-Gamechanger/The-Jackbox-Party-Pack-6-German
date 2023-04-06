@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Gericht, das du gut genug kochen könntest, um es Gästen zu servieren, ist ...",
+      "v": "Das ist ein Gericht, das ich gut genug kochen kann, um es Gästen zu servieren:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Morgens esse ich meist nur ...",
+      "v": "Das esse ich morgens gerne:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingssüßigkeit an Halloween ist ...",
+      "v": "Das ist meine Lieblingssüßigkeit an Halloween:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das Beste, was man in einem Diner haben kann, ist ...",
+      "v": "Das ist das Beste, was man in einem Restaurant haben kann:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Beste, was man zu Speck essen kann, ist ...",
+      "v": "Das ist das Beste, was man zu Speck essen kann:",
       "n": "AlienPromptText7"
     }
   ]

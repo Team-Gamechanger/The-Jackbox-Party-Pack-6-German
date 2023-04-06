@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich in Rente gehe, würde ich gerne...",
+      "v": "Das würde ich gerne machen, wenn ich in Rente gehe:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Erste, was Sie tun würden, wenn jemand in einem Restaurant ersticken würde, ist ...",
+      "v": "Das ist das Erste, was ich machen würde, wenn jemand in einem Restaurant ersticken würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Filmplakat meines Lebens würde zeigen, wie ich dies tue ...",
+      "v": "Auf dem Filmplakat meines Lebens würde ich das hier machen:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Sie sollten verbieten ...",
+      "v": "Das sollte unbedingt verboten werden:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingshobby ist ...",
+      "v": "Das ist mein Lieblingshobby:",
       "n": "AlienPromptText7"
     }
   ]

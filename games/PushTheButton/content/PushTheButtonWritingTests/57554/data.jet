@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Getränk, das nur harte Kerle trinken, ist ...",
+      "v": "Das ist ein Getränk, das nur harte Kerle trinken:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der letzte coole Ort, den ich besucht habe, ist ...",
+      "v": "Das war der letzte coole Ort, den ich besucht habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Coolste, was ich je gesehen habe, ist...",
+      "v": "Das ist das Coolste, was ich je gesehen habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich im Lotto gewinne, verbringe ich die meiste Zeit...",
+      "v": "Damit würde ich die meiste Zeit verbringen, wenn ich im Lotto gewinnen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Aktivität, auf die ich zurückkommen muss, ist ...",
+      "v": "Das ist eine Aktivität, die ich unbedingt nochmal machen muss:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Die Namen von zwei Personen in diesem Spiel sind ...",
+      "v": "Das sind die Namen von zwei Personen in diesem Spiel:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, mit denen ich gerne abhänge, sind ...",
+      "v": "Das sind zwei Prominente, mit denen ich gerne abhängen würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Zwei Prominente, die sich ständig streiten, sind ...",
+      "v": "Das sind zwei Prominente, die sich ständig streiten:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Zwei Musiker, die ich gerne im Konzert sehen würde, sind ...",
+      "v": "Das sind zwei Musiker, die ich gerne live im Konzert sehen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Zwei fiktive Charaktere, die ich gerne kämpfen sehen würde, sind ...",
+      "v": "Das sind zwei fiktive Charaktere, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText7"
     }
   ]

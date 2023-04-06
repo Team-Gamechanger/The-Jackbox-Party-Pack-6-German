@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm spielt diese Person ...",
+      "v": "Diese Person spielt in meinem Lieblingsfilm:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine historische Lieblingsfigur ist ...",
+      "v": "Das ist meine historische Lieblingsfigur:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Person, für die ich alles tun würde, ist ...",
+      "v": "Das ist eine Person, für die ich alles tun würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Prominenter, den ich nur von einer Rolle kenne, ist ...",
+      "v": "Das ist ein Prominenter, den ich nur von einer Rolle kenne:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, die ich als Kind geliebt habe, ist ...",
+      "v": "Das ist ein Prominenter, den ich als Kind geliebt hatte:",
       "n": "AlienPromptText7"
     }
   ]

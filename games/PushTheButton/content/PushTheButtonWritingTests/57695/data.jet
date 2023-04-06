@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “pikant” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “pikant” beschreiben:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “grob” benutzen, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “grob” beschreiben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “stinkend” benutzen, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “stinkend” beschreiben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “störend” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “störend” beschreiben:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “romantisch” benutzen, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “romantisch” beschreiben:",
       "n": "AlienPromptText7"
     }
   ]

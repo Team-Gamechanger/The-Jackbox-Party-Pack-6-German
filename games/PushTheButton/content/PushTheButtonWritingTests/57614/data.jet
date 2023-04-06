@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsbeschäftigung im Sommer ist ...",
+      "v": "Das ist meine Lieblingsbeschäftigung im Sommer:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsaktivität im Freien ist ...",
+      "v": "Das ist meine Lieblingsaktivität im Freien:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssport ist ...",
+      "v": "Das ist mein Lieblingssport:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn es schneit, mag ich ...",
+      "v": "Das mag ich, wenn es schneit:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Wenn es heiß ist, mag ich...",
+      "v": "Das mag ich, wenn es heiß ist:",
       "n": "AlienPromptText7"
     }
   ]

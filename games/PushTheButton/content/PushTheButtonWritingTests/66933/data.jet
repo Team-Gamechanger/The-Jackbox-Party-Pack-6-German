@@ -108,32 +108,32 @@
     },
     {
       "t": "S",
-      "v": "EDas ist ein Talent, das ich habe:",
+      "v": "Das ist ein Talent, das ich habe:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsschauspieler oder meine Lieblingsschauspielerin ist ...",
+      "v": "Das ist mein Lieblingsschauspieler oder meine Lieblingsschauspielerin:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der coolste Superheld ist ...",
+      "v": "Das ist der coolste Superheld:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Als ich jünger war, dachte ich nur an ...",
+      "v": "Daran dachte ich nur, als ich jünger war:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Etwas, das ich nie verstehen werde, ist...",
+      "v": "Das ist etwas, das ich nie verstehen werde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine langweilige Sache, die ich jeden Tag mache, ist ...",
+      "v": "Das ist eine langweilige Sache, die ich jeden Tag mache:",
       "n": "AlienPromptText7"
     }
   ]

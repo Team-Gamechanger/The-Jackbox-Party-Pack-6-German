@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das ich oft benutze, ist ...",
+      "v": "Das ist etwas, das ich oft benutze:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das letzte, was ich online gekauft habe, ist ...",
+      "v": "Das ist das letzte, was ich online gekauft habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Element, das illegal sein sollte, ist ...",
+      "v": "Das ist etwas, das illegal sein sollte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das schlimmste Geschenk, das ich je erhalten habe, war ...",
+      "v": "Das war das schlimmste Geschenk, das ich je erhalten habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Peinlichste, was ich je gekauft habe, war...",
+      "v": "Das war das Peinlichste, was ich je gekauft habe:",
       "n": "AlienPromptText7"
     }
   ]

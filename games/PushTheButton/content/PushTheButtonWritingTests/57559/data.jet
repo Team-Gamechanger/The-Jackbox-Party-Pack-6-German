@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das ich gerne alleine mache, ist ...",
+      "v": "Das ist etwas, das ich gerne alleine mache:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich wünschte, es gäbe einen einfacheren Weg, um ...",
+      "v": "Ich wünschte, es gäbe einen einfacheren Weg, das hier zu machen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Die eine Sache, von der ich wünschte, ich müsste sie nicht regelmäßig tun, ist ...",
+      "v": "Das ist eine Sache, von der ich wünschte, dass ich sie nicht regelmäßig machen müsste:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Eine tolle Aktivität für ein erstes Date wäre es, ...",
+      "v": "Das wäre eine tolle Aktivität für ein erstes Date:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Dümmste, was ich gemacht habe, als ich jünger war, war ...",
+      "v": "Das war das Dümmste, was ich gemacht habe, als ich jünger war:",
       "n": "AlienPromptText7"
     }
   ]

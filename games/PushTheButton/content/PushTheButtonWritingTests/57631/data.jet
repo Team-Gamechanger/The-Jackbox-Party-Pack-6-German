@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingslied ist im Moment ...",
+      "v": "Das ist im Moment mein Lieblingslied:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein tolles Lied zum Trainieren ist ...",
+      "v": "Das ist ein tolles Lied zum Trainieren:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das in vielen Werbespots verwendet wird, ist ...",
+      "v": "Das ist ein Lied, das in vielen Werbespots verwendet wird:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Lied, das mich zum Lachen bringt, ist ...",
+      "v": "Das ist ein Lied, das mich zum Lachen bringt:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Lied, zu dem ich tanzen muss, ist ...",
+      "v": "Das ist ein Lied, zu dem ich tanzen muss:",
       "n": "AlienPromptText7"
     }
   ]

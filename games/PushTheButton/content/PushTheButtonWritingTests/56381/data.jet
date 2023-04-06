@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm des letzten Jahres war ...",
+      "v": "Das war letztes Jahr mein Lieblingsfilm:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Film, den ich Kinder nicht sehen lassen würde, ist...",
+      "v": "Das ist ein Film, den ich Kinder nicht sehen lassen würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbuch ist ...",
+      "v": "Das ist mein Lieblingsbuch:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm als Kind war ...",
+      "v": "Das war mein Lieblingsfilm als Kind:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der traurigste Film, den ich je gesehen habe, war...",
+      "v": "Das war der traurigste Film, den ich je gesehen habe:",
       "n": "AlienPromptText7"
     }
   ]

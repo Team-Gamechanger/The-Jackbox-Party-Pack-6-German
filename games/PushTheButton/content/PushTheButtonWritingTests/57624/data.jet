@@ -103,37 +103,37 @@
     },
     {
       "t": "S",
-      "v": "Das ist eine eine Sache, die ich kaputt gemacht habe und mich traurig gemacht hat:",
+      "v": "Das ist eine eine Sache, die ich kaputt gemacht habe, was mich traurig gemacht hat:",
       "n": "AlienPromptText1"
     },
     {
       "t": "S",
-      "v": "Das ist dascoolste Tier, das ich je aus der Nähe gesehen habe:",
+      "v": "Das ist das coolste Tier, das ich je aus der Nähe gesehen habe:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Ein Körperteil oder Organ, über das ich nichts weiß, ist ...",
+      "v": "Das ist ein Körperteil oder Organ, über das ich nichts weiß:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Schlimmste, was ich versehentlich fallen gelassen habe, ist...",
+      "v": "Das ist das Schlimmste, was ich versehentlich fallen gelassen habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingspromi ist ...",
+      "v": "Das ist mein Lieblingspromi:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der Prominente, dem ich irgendwie ähnlich sehe, ist wahrscheinlich ...",
+      "v": "Das ist ein Prominenter, dem ich irgendwie ähnlich sehe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, von der ich nicht mehr hören will, ist ...",
+      "v": "Das ist ein Prominenter, von dem ich nichts mehr hören will:",
       "n": "AlienPromptText7"
     }
   ]

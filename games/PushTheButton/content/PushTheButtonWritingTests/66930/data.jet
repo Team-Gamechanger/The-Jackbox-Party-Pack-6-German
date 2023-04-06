@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingssuperheld ist ...",
+      "v": "Das ist mein Lieblingssuperheld:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das ekligste Ding in meinem Kühlschrank ist ...",
+      "v": "Das ist das ekligste in meinem Kühlschrank:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das seltsamste Körperteil ist ...",
+      "v": "Das ist das seltsamste Körperteil:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilmmonster ist ...",
+      "v": "Das ist mein Lieblingsfilmmonster:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein schlechter Name für ein Baby wäre ...",
+      "v": "Das wäre ein schlechter Name für ein Baby:",
       "n": "AlienPromptText7"
     }
   ]

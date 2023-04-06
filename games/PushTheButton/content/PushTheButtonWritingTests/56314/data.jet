@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Superheld hat die Kraft, ...",
+      "v": "Das ist die Kraft meines Lieblings-Superhelden:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine klassische supervillanische Leistung ist ...",
+      "v": "Das ist etwas, was Bösewichte in Filmen immer machen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich zaubern könnte, würde ich....",
+      "v": "Das würde ich machen, wenn ich zaubern könnte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Supermans unheimlichste Kraft ist...",
+      "v": "Das ist Supermans unheimlichste Kraft:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Meine nervigste Angewohnheit ist ...",
+      "v": "Das ist meine nervigste Angewohnheit:",
       "n": "AlienPromptText7"
     }
   ]

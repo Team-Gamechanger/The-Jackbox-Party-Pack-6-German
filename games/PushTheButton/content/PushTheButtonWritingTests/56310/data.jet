@@ -113,17 +113,17 @@
     },
     {
       "t": "S",
-      "v": "Ein Schauspieler oder eine Schauspielerin, die ich attraktiv finde, ist ...",
+      "v": "Das ist ein Schauspieler oder eine Schauspielerin, den oder die ich attraktiv finde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Im letzten Film, den ich gesehen habe, spielten ...",
+      "v": "Das ist ein Schauspieler oder eine Schauspielerin, der oder die im letzten Film, den ich gesehen habe, mitgespielt hat:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Schauspieler oder eine Schauspielerin, die ich nicht attraktiv finde, ist ...",
+      "v": "Das ist ein Schauspieler oder eine Schauspielerin, den oder die ich nicht attraktiv finde:",
       "n": "AlienPromptText5"
     },
     {

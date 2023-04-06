@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblings-Fastfood ist ...",
+      "v": "Das ist mein Lieblings-Fastfood:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Gericht, das ich gerne kochen würde, ist ...",
+      "v": "Das ist ein Gericht, das ich gerne einmal kochen würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das letzte, was ich gekotzt habe, war ...",
+      "v": "Wegen diesem Gericht habe ich das letzte Mal gekotzt:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der dümmste Sport ist einfach ...",
+      "v": "Das ist einfach der dümmste Sport:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbrettspiel ist ...",
+      "v": "Das ist mein Lieblingsbrettspiel:",
       "n": "AlienPromptText7"
     }
   ]

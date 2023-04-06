@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsjahr war wahrscheinlich ...",
+      "v": "Das war wahrscheinlich mein Lieblingsjahr:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der beste Altersbereich ist ...",
+      "v": "Das ist das beste Alter:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Jahr, in das ich gerne zurückreisen würde, ist ...",
+      "v": "Das ist ein Jahr, in das ich gerne zurückreisen würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die Zeit in der Geschichte, über die ich am meisten weiß, ist ...",
+      "v": "Das ist die Zeit in der Geschichte, über die ich am meisten weiß:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Meine peinlichste Erinnerung ist ...",
+      "v": "Das ist meine peinlichste Erinnerung:",
       "n": "AlienPromptText7"
     }
   ]

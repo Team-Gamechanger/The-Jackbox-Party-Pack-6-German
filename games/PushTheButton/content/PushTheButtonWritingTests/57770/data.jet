@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein romantischer Film ist ...",
+      "v": "Das ist ein romantischer Film:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein guter Film über eine Hochzeit ist ...",
+      "v": "Das ist ein guter Film über eine Hochzeit:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein guter Actionfilm ist ...",
+      "v": "Das ist ein guter Actionfilm:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Film, vor dem ich zu viel Angst habe, um ihn zu sehen, ist...",
+      "v": "Das ist ein Film, vor dem ich zu viel Angst habe, um ihn zu sehen:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Der nervigste Film ist ...",
+      "v": "Das ist der nervigste Film:",
       "n": "AlienPromptText7"
     }
   ]

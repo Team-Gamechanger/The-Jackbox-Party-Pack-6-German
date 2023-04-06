@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Zwei Prominente, die im echten Leben wahrscheinlich Idioten sind, sind ...",
+      "v": "Das sind zwei Prominente, die im echten Leben wahrscheinlich Idioten sind:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die zusammen große Filme gemacht haben, sind ...",
+      "v": "Das sind zwei Prominente, die zusammen große Filme gemacht haben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, von denen ich zu viel höre, sind ...",
+      "v": "Das sind zwei Prominente, von denen ich zu viel höre:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Zwei Musiker, die ich gerne im Konzert sehen würde, sind ...",
+      "v": "Das sind zwei Musiker, die ich gerne live im Konzert sehen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Zwei fiktive Charaktere, die ich gerne kämpfen sehen würde, sind ...",
+      "v": "Das sind zwei fiktive Charaktere, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Liedtext aus einem meiner Lieblingssongs ist ...",
+      "v": "Das ist eine Zeile aus einem meiner Lieblingssongs:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein gutes Lied, das man bei einer Hochzeit spielen sollte, ist ...",
+      "v": "Das ist ein gutes Lied, das man bei einer Hochzeit spielen sollte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Mein trauriges Lieblingslied ist ...",
+      "v": "Das ist mein trauriges Lieblingslied:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die Zeit in der Geschichte, über die ich am meisten weiß, ist ...",
+      "v": "Das ist die Zeit in der Geschichte, über die ich am meisten weiß:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Meine peinlichste Erinnerung ist ...",
+      "v": "Das ist meine peinlichste Erinnerung:",
       "n": "AlienPromptText7"
     }
   ]

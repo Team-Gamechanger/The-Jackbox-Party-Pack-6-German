@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsfilm ist ...",
+      "v": "Das ist mein Lieblingsfilm:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Buch, von dem niemand je gehört hat, ist ...",
+      "v": "Das ist ein Buch, von dem niie jemand gehört hat:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein guter Titel für einen Liebesroman ist ...",
+      "v": "Das ist ein guter Titel für einen Liebesroman:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier ist ...",
+      "v": "Das ist mein Lieblingstier:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsmusiker ist ...",
+      "v": "Das ist mein Lieblingsmusiker:",
       "n": "AlienPromptText7"
     }
   ]

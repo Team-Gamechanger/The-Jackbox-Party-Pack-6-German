@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das man nicht länger als zwei Wochen aufbewahren sollte, ist ...",
+      "v": "Das ist etwas, das man nicht länger als zwei Wochen aufbewahren sollte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Etwas Peinliches zu kaufen ist/wäre ...",
+      "v": "Das ist etwas, was beim Kaufen ziemlich peinlich wäre:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein gutes Geschenk für deinen Vater wäre ...",
+      "v": "Das wäre ein gutes Geschenk für meinen Vater:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Produkt, das du im Fernsehen beworben gesehen hast, ist ...",
+      "v": "Das ist ein Produkt, das ich im Fernsehen beworben gesehen habe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein Gegenstand, den du aus deiner Kindheit behalten hast, ist ...",
+      "v": "Das ist ein Gegenstand, den ich aus meiner Kindheit behalten habe:",
       "n": "AlienPromptText7"
     }
   ]

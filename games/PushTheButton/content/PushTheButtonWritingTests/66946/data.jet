@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich wünschte, das hier von mir wäre kleiner:",
+      "v": "Ich wünschte, das hier wäre kleiner:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich wünschte, das hier von mir wäre kleiner:",
+      "s": "Ich wünschte, das hier wäre kleiner:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -108,32 +108,32 @@
     },
     {
       "t": "S",
-      "v": "Das ist ein Gerät in meiner Küche:",
+      "v": "Das ist ein Gegenstand aus meiner Küche:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Mein liebstes Stück Technik ist mein ...",
+      "v": "Das ist mein liebstes Stück Technik:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das seltsamste Körperteil ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich das seltsamste Körperteil:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Unangenehmste, was ich je gekauft habe, ist...",
+      "v": "Das ist das Unangenehmste, was ich je gekauft habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die furchterregendste Art von Monster ist ein ...",
+      "v": "Das ist das furchterregendste Monster:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das coolste Wahrzeichen, das ich persönlich gesehen habe, ist ...",
+      "v": "Das ist das coolste Wahrzeichen, das ich persönlich gesehen habe:",
       "n": "AlienPromptText7"
     }
   ]

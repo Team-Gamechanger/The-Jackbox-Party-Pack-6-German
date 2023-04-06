@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Ort, der wahrscheinlich nach Kacke riecht, ist ...",
+      "v": "Das ist ein Ort, der wahrscheinlich nach Kacke riecht:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine schöne Stadt in der Nähe des Wassers ist ...",
+      "v": "Das ist eine schöne Stadt in der Nähe des Wassers:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich gerne besuchen würde, ist ...",
+      "v": "Das ist eine Stadt, die ich gerne besuchen würde:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Die beste Stadt für einen ruhigen Urlaub ist ...",
+      "v": "Das ist die beste Stadt für einen ruhigen Urlaub:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die superalt ist, ist ...",
+      "v": "Das ist eine Stadt, die superalt ist:",
       "n": "AlienPromptText7"
     }
   ]

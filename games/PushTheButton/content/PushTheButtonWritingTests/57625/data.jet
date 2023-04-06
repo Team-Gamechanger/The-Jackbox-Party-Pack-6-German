@@ -98,7 +98,7 @@
     },
     {
       "t": "S",
-      "v": "Es ist unhöflich, ohne dem hier auf einer Party aufzutauchen",
+      "v": "Es ist unhöflich, ohne dem hier auf einer Party aufzutauchen:",
       "n": "AlienPromptText0"
     },
     {
@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingspromi ist ...",
+      "v": "Das ist mein Lieblingspromi:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Meine unbeliebteste Person ist ...",
+      "v": "Das ist eine Person, die ich nicht leiden kann:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Sache, über die ich immer wieder online lese, ist ...",
+      "v": "Das ist eine Sache, über die ich immer wieder online lese:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der Name von jemandem in diesem Raum ist ...",
+      "v": "Das ist der Name von jemandem in diesem Raum:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die eine Sache, die jeder Actionfilm braucht, ist ...",
+      "v": "Das ist eine Sache, die jeder Actionfilm braucht:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsbuch ist ...",
+      "v": "Das ist mein Lieblingsbuch:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das Teuerste, was ich besitze, ist ...",
+      "v": "Das ist das Teuerste, was ich besitze:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der Gegenstand in meiner Wohnung, den ich am längsten habe, ist ...",
+      "v": "Das ist der Gegenstand in meiner Wohnung, den ich am längsten habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das Ekelhafteste, in das ich je getreten bin, war...",
+      "v": "Das war das Ekelhafteste, in das ich je getreten bin:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Die beste Supermacht wäre ...",
+      "v": "Das wäre die beste Supermacht:",
       "n": "AlienPromptText7"
     }
   ]

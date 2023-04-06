@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an New York City denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Berlin denke:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Paris denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Paris denke:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Superhelden denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Superhelden denke:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich an alte Zeiten denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an alte Zeiten denke:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Science Fiction denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an Science Fiction denke:",
       "n": "AlienPromptText7"
     }
   ]

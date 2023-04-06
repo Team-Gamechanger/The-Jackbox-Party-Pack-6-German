@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “grob” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “grob” beschreiben:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “feucht” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “feucht” beschreiben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “heiß” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “heiß” beschreiben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich an die Turnhalle denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an eine Turnhalle denke:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein merkwürdiges Körperteil ist ...",
+      "v": "Das ist ein merkwürdiges Körperteil:",
       "n": "AlienPromptText7"
     }
   ]

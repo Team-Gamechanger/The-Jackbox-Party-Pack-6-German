@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Zwei historische Figuren, die ich gerne als Leibwächter hätte, sind ...",
+      "v": "Das sind zwei historische Figuren, die ich gerne als Bodyguards hätte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Zwei historische Figuren, mit denen ich wahrscheinlich befreundet wäre, sind ...",
+      "v": "Das sind zwei historische Figuren, mit denen ich wahrscheinlich befreundet wäre:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Zwei historische Figuren, die wahrscheinlich Idioten waren, sind ...",
+      "v": "Das sind zwei historische Figuren, die wahrscheinlich Idioten waren:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Zwei Musiker, die ich gerne im Konzert sehen würde, sind ...",
+      "v": "Das sind zwei Musiker, die ich gerne live im Konzert sehen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Zwei fiktive Charaktere, die ich gerne kämpfen sehen würde, sind ...",
+      "v": "Das sind zwei fiktive Charaktere, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Das schlimmste Geräusch, das man beim Autofahren hört...",
+      "v": "Das wäre das schlimmste Geräusch, das man beim Autofahren hören könnte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein Geräusch, das ich mit der Natur verbinde, ist ...",
+      "v": "Das ist ein Geräusch, das ich mit der Natur verbinde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein tolles weißes Rauschen ist ...",
+      "v": "Das ist ein tolles Geräusch",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das Schlimmste, was man in einer Höhle hören kann, ist ...",
+      "v": "Das wäre das Schlimmste, was man in einer Höhle hören könnte:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ein sehr entspannendes Lied ist ...",
+      "v": "Das ist ein sehr entspannendes Lied:",
       "n": "AlienPromptText7"
     }
   ]

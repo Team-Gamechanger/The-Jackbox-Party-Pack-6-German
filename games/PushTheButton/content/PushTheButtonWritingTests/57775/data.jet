@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Etwas, das man bei einem Fußballspiel schreien könnte, ist ...",
+      "v": "Das ist etwas, das man bei einem Fußballspiel schreien könnte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Etwas, das man bei einer Beerdigung sagen könnte, ist ...",
+      "v": "Das ist etwas, das man bei einer Beerdigung sagen könnte:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Etwas, das man sagen könnte, wenn man etwas Leckeres isst, ist ...",
+      "v": "Das ist etwas, das man sagen könnte, wenn man etwas Leckeres isst:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Dein Lieblingsfilm-Spruch ist...",
+      "v": "Das ist mein Lieblings-Filmzitat:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Etwas, das man bei der Arbeit sagen könnte, ist ...",
+      "v": "Das ist etwas, das man bei der Arbeit sagen könnte:",
       "n": "AlienPromptText7"
     }
   ]

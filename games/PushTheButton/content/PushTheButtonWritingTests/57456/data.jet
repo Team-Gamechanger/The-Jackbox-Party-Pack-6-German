@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Mein Lieblingstier ist ...",
+      "v": "Das ist mein Lieblingstier:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine historische Figur, die ich hasse, ist ...",
+      "v": "Das ist eine historische Figur, die ich hasse:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Die süßeste Zeichentrickfigur ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich die süßeste Zeichentrickfigur:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich tun würde, wenn ich Präsident wäre, ist...",
+      "v": "Das ist das erste, was ich machen würde, wenn ich Kanzler wäre:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich tue, wenn ich aufwache, ist ...",
+      "v": "Das ist das erste, was ich mache, wenn ich aufwache:",
       "n": "AlienPromptText7"
     }
   ]

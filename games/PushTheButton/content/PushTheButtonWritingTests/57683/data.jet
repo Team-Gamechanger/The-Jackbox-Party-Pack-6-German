@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Zwei Berühmtheiten, die mich nerven, sind ...",
+      "v": "Das sind zwei Prominente, die mich nerven:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Zwei historische Figuren, die wahrscheinlich ziemlich nett waren, sind ...",
+      "v": "Das sind zwei historische Figuren, die wahrscheinlich ziemlich nett waren:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Zwei Leute, die Statuen von sich machen ließen, sind ...",
+      "v": "Das sind zwei Leute, die eigene Statuen haben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Zwei Musiker, die ich gerne im Konzert sehen würde, sind ...",
+      "v": "Das sind zwei Musiker, die ich gerne live im Konzert sehen würde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Zwei fiktive Charaktere, die ich gerne kämpfen sehen würde, sind ...",
+      "v": "Das sind zwei fiktive Charaktere, die ich gerne kämpfen sehen würde:",
       "n": "AlienPromptText7"
     }
   ]

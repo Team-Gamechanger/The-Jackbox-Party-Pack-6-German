@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an das Wort “kotzen denke,” denke ich an dies...",
+      "v": "Daran denke ich, wenn ich das Wort “kotzen” höre:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “köstlich” benutzen, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort“köstlich” beschreiben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “inspirierend” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “inspirierend” beschreiben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “Ekel erregend” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “ekelerregend” beschreiben:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Hintergrundbild auf meinem Handy ist derzeit...",
+      "v": "Das ist das derzeitige Hintergrundbild auf meinem Handy:",
       "n": "AlienPromptText7"
     }
   ]

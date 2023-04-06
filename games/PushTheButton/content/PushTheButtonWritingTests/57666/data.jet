@@ -108,32 +108,32 @@
     },
     {
       "t": "S",
-      "v": "Die meisten Leute wissen nicht, dass ich einen geheimen Schnurrbart habe.",
+      "v": "Die meisten Leute wissen nicht, dass ich das hier habe:",
       "n": "AlienPromptText2"
     },
     {
       "t": "S",
-      "v": "Haushaltsschädlinge, die mir am meisten Angst machen, sind...",
+      "v": "Dieses kleine Tier macht mir am meisten Angst:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich kaufen würde, wenn ich im Lotto gewinnen würde, ist ...",
+      "v": "Das ist das erste, was ich kaufen würde, wenn ich im Lotto gewinnen würde:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Die eine Sache, die ich wegwerfen muss, ist ...",
+      "v": "Das ist eine eine Sache, die ich bald wegwerfen muss:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das Seltsamste, was ich aufbewahrt habe, ist ...",
+      "v": "Das ist das Seltsamste, das ich aufbewahre:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das beste Geschenk, das ich je erhalten habe, ist ...",
+      "v": "Das ist das beste Geschenk, das ich je erhalten habe:",
       "n": "AlienPromptText7"
     }
   ]

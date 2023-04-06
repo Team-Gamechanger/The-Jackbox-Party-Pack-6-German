@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “delikat” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “delikat” beschreiben:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “lustig” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “lustig” beschreiben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “lästig” verwenden, um zu beschreiben...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “lästig” beschreiben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “zerbrechlich” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “zerbrechlich” beschreiben:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ich würde das Wort “erschreckend” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “erschreckend” beschreiben:",
       "n": "AlienPromptText7"
     }
   ]

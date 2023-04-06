@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “häufig” verwenden, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “häufig” beschreiben:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “selten” benutzen, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “selten” beschreiben:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ich würde wahrscheinlich das Wort “verschwitzt” benutzen, um zu beschreiben ...",
+      "v": "Das würde ich wahrscheinlich mit dem Wort “verschwitzt” beschreiben:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Meine Lieblingsperson ist ...",
+      "v": "Das ist meine Lieblingsperson:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Am liebsten entspanne ich mich, wenn ...",
+      "v": "So entspanne ich mich am liebsten:",
       "n": "AlienPromptText7"
     }
   ]

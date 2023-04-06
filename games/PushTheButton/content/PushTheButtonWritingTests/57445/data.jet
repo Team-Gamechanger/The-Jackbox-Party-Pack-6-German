@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Videospiel, bei dem ich versage, ist ...",
+      "v": "Das ist ein Videospiel, bei dem ich oft versage:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein tolles Partyspiel ist ...",
+      "v": "Das ist ein tolles Partyspiel:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Sie sollten ein Videospiel aus ... machen",
+      "v": "Daraus sollte unbedingt ein Videospiel gemacht werden:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das Videospiel mit der besten Geschichte ist ...",
+      "v": "Das ist das Videospiel mit der besten Geschichte:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das letzte Videospiel, das ich gespielt habe, war ...",
+      "v": "Das war das letzte Videospiel, das ich gespielt habe:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Der Ort, an den du gehen würdest, wenn du den Tag frei hättest, ist ...",
+      "v": "Das ist ein Ort, an den ich gehen würde, wenn ich den Tag frei hätte:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Der beste Ort, um etwas Unheimliches zu sehen...",
+      "v": "Das ist der beste Ort, um etwas Unheimliches zu sehen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Der schlimmste Ort, an dem man sich verirren könnte, wäre ...",
+      "v": "Das wäre der schlimmste Ort, an dem man sich verirren könnte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der Ort meines Lieblingsfilms ist ...",
+      "v": "Das ist der Ort meines Lieblingsfilms:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Mein Lieblingsrestaurant ist ...",
+      "v": "Das ist mein Lieblingsrestaurant:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine berühmte Person, die ich gerne treffen würde, ist ...",
+      "v": "Das ist eine berühmte Person, die ich gerne treffen würde:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine coole historische Figur ist ...",
+      "v": "Das ist eine coole historische Figur:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Meine Lieblings-Zeichentrickfigur ist ...",
+      "v": "Das ist meine Lieblings-Zeichentrickfigur:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der Prominente, dem ich irgendwie ähnlich sehe, ist wahrscheinlich ...",
+      "v": "Das ist ein Prominenter, dem ich irgendwie ähnlich sehe:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Berühmtheit, von der ich nicht mehr hören will, ist ...",
+      "v": "Das ist ein Prominenter, von dem ich nichts mehr hören will:",
       "n": "AlienPromptText7"
     }
   ]

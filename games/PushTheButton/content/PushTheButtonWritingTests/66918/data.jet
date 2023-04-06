@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Das perfekte Alter ist wahrscheinlich ...",
+      "v": "Das ist wahrscheinlich das perfekte Alter:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Das beste Alter, um in einen Vampir verwandelt zu werden, ist ...",
+      "v": "Das ist das beste Alter, um in einen Vampir verwandelt zu werden:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das Alter, aus dem ich meine ersten Erinnerungen habe, ist wahrscheinlich....",
+      "v": "Das ist wahrscheinlich das Alter, aus dem ich meine ersten Erinnerungen habe:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Jemand, den ich attraktiv finde, ist ...",
+      "v": "Das ist jemand, den ich attraktiv finde:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das Ekelhafteste, was ich je gesehen habe, ist...",
+      "v": "Das ist das Ekelhafteste, was ich je gesehen habe:",
       "n": "AlienPromptText7"
     }
   ]

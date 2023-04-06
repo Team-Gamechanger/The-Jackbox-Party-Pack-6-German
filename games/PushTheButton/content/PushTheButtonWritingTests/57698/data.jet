@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Wenn ich an die Nacht denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an die Nacht denke:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Wenn ich an den Discovery Channel denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an das ZDF denke:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Wenn ich an die Jagd denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an die Jagd denke:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Wenn ich an Colorado denke, denke ich an...",
+      "v": "Daran denke ich auch, wenn ich an das Saarland denke:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Wenn ich an eine Safari denke, denke ich an ...",
+      "v": "Daran denke ich auch, wenn ich an eine Safari denke:",
       "n": "AlienPromptText7"
     }
   ]

@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Ein Job, von dem ich immer dachte, dass er Spaß macht, ist ...",
+      "v": "Das ist ein Job, von dem ich immer dachte, dass er Spaß macht:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ein guter Job für direkt nach der Schule wäre ...",
+      "v": "Das wäre ein guter Job direkt nach der Schule:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Ein Job, bei dem man viel Geld verdient, wäre ...",
+      "v": "Das ist ein Job, bei dem man viel Geld verdient:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Der Arbeitsplatz, an dem ich derzeit arbeite, ist ...",
+      "v": "Das ist der Job, an dem ich derzeit arbeite:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Ich bin am entspanntesten, wenn ich...",
+      "v": "Wenn ich das hier mache, bin ich am entspanntesten:",
       "n": "AlienPromptText7"
     }
   ]

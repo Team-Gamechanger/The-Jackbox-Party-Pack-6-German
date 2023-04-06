@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Der Name eines Ortes, der nicht mehr existiert, ist ...",
+      "v": "Das ist der Name eines Ortes, der nicht mehr existiert:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich kürzlich besucht habe, war ...",
+      "v": "Das ist eine Stadt, die ich kürzlich besucht habe:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich schon immer mal besuchen wollte, ist ...",
+      "v": "Das ist eine Stadt, die ich schon immer mal besuchen wollte:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Ein Ort, der für sein kaltes Wetter bekannt ist, ist ...",
+      "v": "Das ist ein Ort, der für sein kaltes Wetter bekannt ist:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Eine Stadt, die ich wahrscheinlich falsch buchstabieren werde, ist ...",
+      "v": "Das ist eine Stadt, die ich wahrscheinlich falsch buchstabieren werde:",
       "n": "AlienPromptText7"
     }
   ]

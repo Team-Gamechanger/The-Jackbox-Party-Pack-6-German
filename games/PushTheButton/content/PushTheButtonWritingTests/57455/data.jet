@@ -113,27 +113,27 @@
     },
     {
       "t": "S",
-      "v": "Eine Aufgabe, die ich nicht gerne mache, ist ...",
+      "v": "Das ist eine Aufgabe, die ich nicht gerne mache:",
       "n": "AlienPromptText3"
     },
     {
       "t": "S",
-      "v": "Ich bewundere andere Menschen, die dies tun ...",
+      "v": "Ich bewundere andere Menschen, die das hier gerne machen:",
       "n": "AlienPromptText4"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich tun würde, wenn ich Wonder Woman wäre, ist ...",
+      "v": "Das ist das erste, was ich machen würde, wenn ich Wonder Woman wäre:",
       "n": "AlienPromptText5"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich tun würde, wenn ich Präsident wäre, ist...",
+      "v": "Das ist das erste, was ich machen würde, wenn ich Kanzler wäre:",
       "n": "AlienPromptText6"
     },
     {
       "t": "S",
-      "v": "Das erste, was ich tue, wenn ich aufwache, ist ...",
+      "v": "Das ist das erste, was ich mache, wenn ich aufwache:",
       "n": "AlienPromptText7"
     }
   ]
