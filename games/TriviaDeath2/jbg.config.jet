@@ -3,7 +3,7 @@
 	"canPauseOnPressStart":"true",
 	"unloadDeathBlow":"true",
 	"uaAppName":"TriviaDeath2",
-	"joinUrl":"JACKBOX.GG",
+	"joinUrl":"JACKBOX.DE",
 	"supportsFullScreen":"true",
 	"needExitbutton":"true",
 	"env":"pc",
