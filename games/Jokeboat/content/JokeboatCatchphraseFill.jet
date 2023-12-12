@@ -22,7 +22,7 @@
         }, 
         {
             "id": 6, 
-            "topic": "Frischk\u00E4se"
+            "topic": "Frischkäse"
         }, 
         {
             "id": 7, 
@@ -30,7 +30,7 @@
         }, 
         {
             "id": 8, 
-            "topic": "K\u00F6rperseife"
+            "topic": "Körperseife"
         }, 
         {
             "id": 9, 
@@ -54,15 +54,15 @@
         }, 
         {
             "id": 14, 
-            "topic": "B\u00FCrgersteig"
+            "topic": "Bürgersteig"
         }, 
         {
             "id": 15, 
-            "topic": "U Boot"
+            "topic": "U-Boot"
         }, 
         {
             "id": 16, 
-            "topic": "Traumcollage"
+            "topic": "Traumgarten"
         }, 
         {
             "id": 17, 
@@ -70,19 +70,19 @@
         }, 
         {
             "id": 18, 
-            "topic": "Gef\u00FChl"
+            "topic": "Gefühl"
         }, 
         {
             "id": 19, 
-            "topic": "K\u00E4nguru"
+            "topic": "Känguru"
         }, 
         {
             "id": 20, 
-            "topic": "Cord"
+            "topic": "Knoten"
         }, 
         {
             "id": 21, 
-            "topic": "historical fiction"
+            "topic": "Anime"
         }, 
         {
             "id": 22, 
@@ -90,7 +90,7 @@
         }, 
         {
             "id": 23, 
-            "topic": "Flussdelta"
+            "topic": "Flussströmung"
         }, 
         {
             "id": 24, 
@@ -102,11 +102,11 @@
         }, 
         {
             "id": 26, 
-            "topic": "S\u00E4ureregen"
+            "topic": "Säureregen"
         }, 
         {
             "id": 27, 
-            "topic": "Fl\u00F6tensolo"
+            "topic": "Flötensolo"
         }, 
         {
             "id": 28, 
@@ -122,7 +122,7 @@
         }, 
         {
             "id": 31, 
-            "topic": "Biscuit"
+            "topic": "Torte"
         }, 
         {
             "id": 32, 
@@ -134,7 +134,7 @@
         }, 
         {
             "id": 34, 
-            "topic": "Joghurt parfait"
+            "topic": "Fettfreier Joghurt"
         }, 
         {
             "id": 35, 
@@ -146,11 +146,11 @@
         }, 
         {
             "id": 37, 
-            "topic": "Fischst\u00E4bchen"
+            "topic": "Fischstäbchen"
         }, 
         {
             "id": 38, 
-            "topic": "wireless router"
+            "topic": "WLAN-Router"
         }, 
         {
             "id": 39, 
@@ -190,7 +190,7 @@
         }, 
         {
             "id": 48, 
-            "topic": "Anh\u00F6rung"
+            "topic": "Anhörung"
         }, 
         {
             "id": 49, 
@@ -222,7 +222,7 @@
         }, 
         {
             "id": 56, 
-            "topic": "crushed ice"
+            "topic": "Crushed Ice"
         }, 
         {
             "id": 57, 
@@ -234,27 +234,27 @@
         }, 
         {
             "id": 59, 
-            "topic": "smooth jazz"
+            "topic": "ruhiger jazz"
         }, 
         {
             "id": 60, 
-            "topic": "cold call"
+            "topic": "Prank-Anruf"
         }, 
         {
             "id": 61, 
-            "topic": "Sch\u00F6nheitswettbewerbssiegerin"
+            "topic": "Schönheitswettbewerbssiegerin"
         }, 
         {
             "id": 62, 
-            "topic": "Schinken Wrap"
+            "topic": "Schinken-Wrap"
         }, 
         {
             "id": 63, 
-            "topic": "Kompakt AUto"
+            "topic": "Kompaktes Auto"
         }, 
         {
             "id": 64, 
-            "topic": "Millennial"
+            "topic": "Boomer"
         }, 
         {
             "id": 65, 
@@ -290,7 +290,7 @@
         }, 
         {
             "id": 73, 
-            "topic": "Am\u00F6be"
+            "topic": "Amöbe"
         }, 
         {
             "id": 74, 
@@ -298,11 +298,11 @@
         }, 
         {
             "id": 75, 
-            "topic": "Porta Potty"
+            "topic": "Toilettensitz"
         }, 
         {
             "id": 76, 
-            "topic": "Glitzerklebe"
+            "topic": "Glitzerkleber"
         }, 
         {
             "id": 77, 
@@ -310,11 +310,11 @@
         }, 
         {
             "id": 78, 
-            "topic": "sundial"
+            "topic": "Sonnenuhr"
         }, 
         {
             "id": 79, 
-            "topic": "Doppelg\u00E4nger"
+            "topic": "Doppelgänger"
         }, 
         {
             "id": 80, 
@@ -330,7 +330,7 @@
         }, 
         {
             "id": 83, 
-            "topic": "Trag\u00F6die"
+            "topic": "Tragödie"
         }, 
         {
             "id": 84, 
@@ -342,11 +342,11 @@
         }, 
         {
             "id": 86, 
-            "topic": "Essigbasiertes Coleslaw"
+            "topic": "Pommes Mayo"
         }, 
         {
             "id": 87, 
-            "topic": "clip on Krawatte"
+            "topic": "Plastik-Krawatte"
         }, 
         {
             "id": 88, 
@@ -390,7 +390,7 @@
         }, 
         {
             "id": 98, 
-            "topic": "hot sauce"
+            "topic": "Scharfe Soße"
         }, 
         {
             "id": 99, 
@@ -406,11 +406,11 @@
         }, 
         {
             "id": 102, 
-            "topic": "Vertra\u00FCnsfall"
+            "topic": "Vertrauensfall"
         }, 
         {
             "id": 103, 
-            "topic": "speed dating"
+            "topic": "Speed-Dating"
         }, 
         {
             "id": 104, 
@@ -430,11 +430,11 @@
         }, 
         {
             "id": 108, 
-            "topic": "D\u00FCnenbuggy"
+            "topic": "Dünenbuggy"
         }, 
         {
             "id": 109, 
-            "topic": "marketing"
+            "topic": "Marketing"
         }, 
         {
             "id": 110, 
@@ -446,7 +446,7 @@
         }, 
         {
             "id": 112, 
-            "topic": "Pflanz einen Baum Tag"
+            "topic": "Pflanz-einen-Baum-Tag"
         }, 
         {
             "id": 113, 
@@ -458,7 +458,7 @@
         }, 
         {
             "id": 115, 
-            "topic": "eBildung"
+            "topic": "Home Office"
         }, 
         {
             "id": 116, 
@@ -490,7 +490,7 @@
         }, 
         {
             "id": 123, 
-            "topic": "Einf\u00FChlungsverm\u00F6gen"
+            "topic": "Einfühlungsvermögen"
         }, 
         {
             "id": 124, 
@@ -502,11 +502,11 @@
         }, 
         {
             "id": 126, 
-            "topic": "Gender"
+            "topic": "Geschlecht"
         }, 
         {
             "id": 127, 
-            "topic": "humblebrag"
+            "topic": "Bescheidenheit"
         }, 
         {
             "id": 128, 
@@ -530,7 +530,7 @@
         }, 
         {
             "id": 133, 
-            "topic": "\u00F6ffentlicher Auftritt"
+            "topic": "öffentlicher Auftritt"
         }, 
         {
             "id": 134, 
@@ -542,11 +542,11 @@
         }, 
         {
             "id": 136, 
-            "topic": "Verf\u00FChrung"
+            "topic": "Verführung"
         }, 
         {
             "id": 137, 
-            "topic": "Selbstwertgef\u00FChl"
+            "topic": "Selbstwertgefühl"
         }
     ]
 }

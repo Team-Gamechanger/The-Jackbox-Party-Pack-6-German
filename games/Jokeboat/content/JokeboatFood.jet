@@ -6,7 +6,7 @@
         }, 
         {
             "id": 2, 
-            "topic": "Bag\u00FCtte"
+            "topic": "Baguette"
         }, 
         {
             "id": 3, 
@@ -26,7 +26,7 @@
         }, 
         {
             "id": 7, 
-            "topic": "beef jerky"
+            "topic": "Steak"
         }, 
         {
             "id": 8, 
@@ -50,7 +50,7 @@
         }, 
         {
             "id": 13, 
-            "topic": "Fr\u00FChst\u00FCcksburrito"
+            "topic": "Frühstücksburrito"
         }, 
         {
             "id": 14, 
@@ -70,7 +70,7 @@
         }, 
         {
             "id": 18, 
-            "topic": "veganer K\u00E4se"
+            "topic": "veganer Käse"
         }, 
         {
             "id": 19, 
@@ -86,7 +86,7 @@
         }, 
         {
             "id": 22, 
-            "topic": "H\u00FCttenk\u00E4se"
+            "topic": "Hüttenkäse"
         }, 
         {
             "id": 23, 
@@ -126,7 +126,7 @@
         }, 
         {
             "id": 32, 
-            "topic": "M\u00FCsliriegel"
+            "topic": "Müsliriegel"
         }, 
         {
             "id": 33, 
@@ -138,7 +138,7 @@
         }, 
         {
             "id": 35, 
-            "topic": "gr\u00FCner Tee"
+            "topic": "grüner Tee"
         }, 
         {
             "id": 36, 
@@ -150,7 +150,7 @@
         }, 
         {
             "id": 38, 
-            "topic": "instant ramen"
+            "topic": "Instant Ramen"
         }, 
         {
             "id": 39, 
@@ -166,11 +166,11 @@
         }, 
         {
             "id": 42, 
-            "topic": "Fr\u00FChst\u00FCcksfleisch"
+            "topic": "Frühstücksfleisch"
         }, 
         {
             "id": 43, 
-            "topic": "K\u00E4semaccaroni"
+            "topic": "Käsemaccaroni"
         }, 
         {
             "id": 44, 
@@ -194,15 +194,15 @@
         }, 
         {
             "id": 49, 
-            "topic": "party sub"
+            "topic": "Party Sub"
         }, 
         {
             "id": 50, 
-            "topic": "Erdnussbutter Marmeladen Sandwich"
+            "topic": "Erdnussbutter-Marmeladen-Sandwich"
         }, 
         {
             "id": 51, 
-            "topic": "Erdnunssbutter"
+            "topic": "Erdnussbutter"
         }, 
         {
             "id": 52, 
@@ -210,7 +210,7 @@
         }, 
         {
             "id": 53, 
-            "topic": "pico de gallo"
+            "topic": "Knoblauch"
         }, 
         {
             "id": 54, 
@@ -222,7 +222,7 @@
         }, 
         {
             "id": 56, 
-            "topic": "Pumpkin Spice Latte"
+            "topic": "Espresso"
         }, 
         {
             "id": 57, 
@@ -254,11 +254,11 @@
         }, 
         {
             "id": 64, 
-            "topic": "sour cream"
+            "topic": "Schmand"
         }, 
         {
             "id": 65, 
-            "topic": "Fadenk\u00E4se"
+            "topic": "Fadenkäse"
         }, 
         {
             "id": 66, 
@@ -274,7 +274,7 @@
         }, 
         {
             "id": 69, 
-            "topic": "Gr\u00FCnkohl"
+            "topic": "Grünkohl"
         }, 
         {
             "id": 70, 
@@ -298,7 +298,7 @@
         }, 
         {
             "id": 75, 
-            "topic": "hot sauce"
+            "topic": "Chillischote"
         }, 
         {
             "id": 76, 
@@ -314,7 +314,7 @@
         }, 
         {
             "id": 79, 
-            "topic": "Nachok\u00E4se"
+            "topic": "Nachokäse"
         }, 
         {
             "id": 80, 
