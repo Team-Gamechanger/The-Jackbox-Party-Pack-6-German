@@ -15,8 +15,8 @@
         "LOST_DLC": "Leider konnte die Lizenz für diesen DLC nicht gefunden werden.<br />Kehre zurück zum Menü...",
         "BACK": "Zurück",
         "CLOSE": "Schließen",
-        "OK": "Okay",
-        "CANCEL": "Abbrechen",
+        "OK": "Klar doch!",
+        "CANCEL": "Lieber nicht...",
         "SELECT": "Bestätigen",
         "OR": "Oder",
         "ON": "An",
@@ -90,14 +90,14 @@
         "ARCHIVE_SUBTITLE": "Hier werden Gewinnereinträge für die Nachwelt festgehalten!",
         
         "AUDIENCE": "Publikum",
-        "AUDIENCE_VOTES": "Publikum-Votes",
+        "AUDIENCE_VOTES": "Publikums-Stimmen",
         "NEXT_PAGE": "Weiter",
         "PREVIOUS_PAGE": "Zurück",
         "DELETE_PAGE": "EINTRAG LÖSCHEN",
         "DELETE_ARCHIVE": "ARCHIV LÖSCHEN",
         
         "SCOREBOARD_TITLE": "Top Wordsmiths",
-        "WINNER_TITLE": "WINNER",
+        "WINNER_TITLE": "SIEGER",
         "MOST_LIKES_TITLE": "MOST LIKES",
         "LEAST_LIKED_TITLE": "LEAST LIKED",
         
