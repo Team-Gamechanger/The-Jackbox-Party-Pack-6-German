@@ -143,8 +143,8 @@
         "ROUND_WRITE_SENTENCE_CONTROLLER_TITLE": "<div>Schreibe einen <span class='emphasis'>Satz</span>, der</div><div><BLANK></div> verwendet",
         "ROUND_WRITE_SENTENCE_CONTROLLER_DONE": "Danke.",
         "ROUND_WRITE_SENTENCE_CONTROLLER_PLACEHOLDER": "Verwendungszweck",
-        "ROUND_REVEAL_VOTE_FOR_SENTENCE_CONTROLLER_TITLE": "<div><span class='bigger'>Stimme</span> für dein <span class='emphasis'>Lieblingssatz</span>, der</div><div><BLANK></div> verwendet",
-        "ROUND_REVEAL_LIKE_SENTENCE_CONTROLLER_TITLE" : "distribute <span class='emphasis'>likes</span>",
+        "ROUND_REVEAL_VOTE_FOR_SENTENCE_CONTROLLER_TITLE": "<div><span class='bigger'>Stimme</span> für deinen <span class='emphasis'>Lieblingssatz</span>, der</div><div><BLANK></div> verwendet",
+        "ROUND_REVEAL_LIKE_SENTENCE_CONTROLLER_TITLE" : "Verteile <span class='emphasis'>Likes</span>",
         "ROUND_REVEAL_VOTE_FOR_SENTENCE_CONTROLLER_DONE": "Bitte warte auf die anderen Spieler...",
         "ROUND_REVEAL_VOTE_FOR_SENTENCE_CONTROLLER_NOTHING": "Entschuldigung, aber es gibt gerade nix für dich zum Abstimmen.",
         
