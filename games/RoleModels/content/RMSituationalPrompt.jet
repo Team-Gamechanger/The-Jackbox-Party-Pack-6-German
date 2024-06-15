@@ -20878,7 +20878,7 @@
                ]
             },
             {
-               "name":"Essen eines Fertiggereichts über der Spüle",
+               "name":"Essen eines Fertiggerichts über der Spüle",
                "required":true,
                "tags":[
                   "kulinarisch",
@@ -20932,7 +20932,7 @@
                   {
                      "role":3,
                      "question":"Deine Haustier-Schildkröte ist gerade gestorben.  Was ist das beste Essen, um den Schmerz zu unterdrücken?",
-                     "name":"Essen eines Fertiggereichts über der Spüle",
+                     "name":"Essen eines Fertiggerichts über der Spüle",
                      "idx":3
                   },
                   {
