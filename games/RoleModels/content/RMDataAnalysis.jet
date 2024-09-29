@@ -3,22 +3,22 @@
    "content":[
       {
          "same":[
-            "Party Typ",
+            "Party-Typ",
             "Langweiler",
             "stylish",
             "Sonderling",
-            "kindlich",
+            "kindisch",
             "erwachsen",
             "kreativ"
          ],
          "x":false,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
@@ -26,19 +26,19 @@
          "prompt":"Wenn du unendlich viel Geld auf einer einstündigen Shoppingtour ausgeben könntest, was würdest du kaufen?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
       },
       {
          "same":[
-            "lazy",
-            "fleissig",
+            "faul",
+            "fleißig",
             "selbstbewusst",
             "ängstlich",
             "kreativ"
@@ -50,8 +50,8 @@
                "unberechenbar"
             ],
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
                "selbstbewusst",
@@ -59,15 +59,15 @@
             ]
          ],
          "id":57723,
-         "prompt":"Was sagst du, wenn Beyoncé dich fragt, warum du dich als ihr*e Assistent*in bewirbst?",
+         "prompt":"Wenn Beyoncé dich fragt, warum du dich als ihren nächsten Assistenten bewirbst, was sagst du dann?",
          "contradiction":[
             [
                "zuverlässig",
                "unberechenbar"
             ],
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
                "selbstbewusst",
@@ -77,22 +77,22 @@
       },
       {
          "same":[
-            "Party Typ",
+            "Party-Typ",
             "Langweiler",
             "aggressiv",
-            "sweetheart",
-            "Einzelgänger*in",
+            "Schätzchen",
+            "Einzelgänger",
             "Schwarm"
          ],
          "x":false,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "zuverlässig",
@@ -104,15 +104,15 @@
             ]
          ],
          "id":57722,
-         "prompt":"Du und deine Single-Freunde sind im feiern im Club. Was ist dein Ziel für den Abend??",
+         "prompt":"Du und deine Single-Freunde sind im Club und feiern. Was hast du dir für den Abend vorgenommen?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "zuverlässig",
@@ -128,7 +128,7 @@
          "same":[
             "Schwarm",
             "unheimlich",
-            "Party Typ",
+            "Party-Typ",
             "Unruhestifter"
          ],
          "x":true,
@@ -138,7 +138,7 @@
                "unheimlich"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
@@ -150,50 +150,50 @@
                "unheimlich"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
       },
       {
          "same":[
-            "lästig",
+            "nervig",
             "Unruhestifter",
             "aggressiv",
-            "sweetheart",
+            "Schätzchen",
             "ethisch",
             "Unmensch",
-            "kindlich",
+            "kindisch",
             "erwachsen"
          ],
          "x":false,
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "ethisch",
                "böse"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57641,
-         "prompt":"Eine Horde gewaltfreier vegetarischer Zombies zieht in deiner Nachbarschaft. Wie gehst du mit ihr um?",
+         "prompt":"Eine Gruppe friedlicher vegetarischer Zombies ist in deine Nachbarschaft gezogen. Wie gehst du mit ihnen um?",
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "ethisch",
                "böse"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -202,7 +202,7 @@
          "same":[
             "kreativ",
             "Unruhestifter",
-            "kindlich",
+            "kindisch",
             "erwachsen",
             "witzig",
             "seriös"
@@ -210,12 +210,12 @@
          "x":false,
          "opposite":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "witzig",
@@ -223,15 +223,15 @@
             ]
          ],
          "id":57640,
-         "prompt":"Welchen künstlerische Blüte würdest du der <i>Mona Lisa<\/i> hinzufügen?",
+         "prompt":"Welchen künstlerischen Akzent würdest du der <i>Mona Lisa</i> hinzufügen?",
          "contradiction":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "witzig",
@@ -241,8 +241,8 @@
       },
       {
          "same":[
-            "Angeber*in",
-            "Introvertierte*r",
+            "Angeber",
+            "introvertiert",
             "witzig",
             "seriös",
             "mutig",
@@ -252,8 +252,8 @@
          "x":false,
          "opposite":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
                "witzig",
@@ -269,11 +269,11 @@
             ]
          ],
          "id":57638,
-         "prompt":"Du wirst auf eine Stand-up-Comedy Bühne geschubst. Das Mikro ist an. Du bist unvorbereitet. Wie fängst du an?",
+         "prompt":"Du wirst auf eine Stand-up-Comedy-Bühne geschubst. Das Mikrofon ist an. Du bist unvorbereitet. Wie fängst du an?",
          "contradiction":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
                "witzig",
@@ -292,7 +292,7 @@
       {
          "same":[
             "unbekümmert",
-            "Bedenkenträger*in",
+            "Sorgenkind",
             "stylish",
             "unordentlich",
             "mutig",
@@ -307,7 +307,7 @@
             ],
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
                "mutig",
@@ -315,7 +315,7 @@
             ]
          ],
          "id":57637,
-         "prompt":"Kurz bevor du bei einer Dinnerparty eintrittst merkst du, dass du total underdressed bist. Was tust du?",
+         "prompt":"Kurz bevor du eine Abendveranstaltung betrittst, stellst du fest, dass du völlig falsch angezogen bist. Was machst du jetzt?",
          "contradiction":[
             [
                "stylish",
@@ -323,7 +323,7 @@
             ],
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
                "mutig",
@@ -348,7 +348,7 @@
             ]
          ],
          "id":57616,
-         "prompt":"Auf dem Weg zu einem Blinddate triffst du deine alte Flamme. Sie fragt, ob du Zeit für einen Kaffee hast. Wie gehst du mit der Situation um?",
+         "prompt":"Auf dem Weg zu einem Blind Date triffst du deine alte Flamme. Sie fragt dich, ob du Zeit für einen Kaffee hast. Wie gehst du damit um?",
          "contradiction":[
             [
                "zuverlässig",
@@ -361,9 +361,9 @@
             "böse",
             "aggressiv",
             "witzig",
-            "sweetheart",
+            "Schätzchen",
             "witzig",
-            "lästig"
+            "nervig"
          ],
          "x":false,
          "opposite":[
@@ -373,10 +373,10 @@
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
@@ -385,7 +385,7 @@
             ]
          ],
          "id":57584,
-         "prompt":"Du entdeckst ein Mikrofon, das eine Botschaft an jeden Menschen auf der Erde senden kann. Was sprichst du hinein?",
+         "prompt":"Du entdeckst ein Mikrofon, das eine Nachricht an jeden Menschen auf der Erde senden kann. Was sprichst du hinein?",
          "contradiction":[
             [
                "ethisch",
@@ -393,10 +393,10 @@
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
@@ -407,8 +407,8 @@
       },
       {
          "same":[
-            "lazy",
-            "fleissig",
+            "faul",
+            "fleißig",
             "erwachsen",
             "unberechenbar",
             "Sonderling",
@@ -417,11 +417,11 @@
          "x":false,
          "opposite":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
@@ -430,14 +430,14 @@
             ]
          ],
          "id":57491,
-         "prompt":"Du hast eine zusätzliche Stunde am Morgen vor der Arbeit. Wie nutzt du sie?",
+         "prompt":"Du hast morgens vor der Arbeit noch eine Stunde Zeit. Was machst du damit?",
          "contradiction":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
@@ -448,39 +448,39 @@
       },
       {
          "same":[
-            "fleissig",
+            "fleißig",
             "aggressiv",
             "Unmensch"
          ],
          "x":false,
          "opposite":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ],
          "id":57490,
-         "prompt":"Welcher Song ist am besten für ein Workout?",
+         "prompt":"Welches Lied eignet sich am besten für ein Workout?",
          "contradiction":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ]
       },
       {
          "same":[
-            "Griesgram",
-            "sweetheart",
-            "lazy",
+            "mürrisch",
+            "Schätzchen",
+            "faul",
             "Unruhestifter"
          ],
          "x":false,
@@ -495,7 +495,7 @@
             ]
          ],
          "id":57488,
-         "prompt":"Was ist das beste Motto für ein romantisches Hotelzimmer?",
+         "prompt":"Welches Thema eignet sich am besten für eine romantische Hotelsuite?",
          "contradiction":[
             [
                "nett",
@@ -509,22 +509,22 @@
       },
       {
          "same":[
-            "Adrenalinjunkie",
+            "Adrenalin-Junkie",
             "aggressiv",
-            "Angeber*in",
+            "Angeber",
             "mutig",
             "Feigling",
-            "sidekick"
+            "Kumpel"
          ],
          "x":false,
          "opposite":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
                "mutig",
@@ -532,15 +532,15 @@
             ]
          ],
          "id":57485,
-         "prompt":"Was ist das coolste, das man beim Fallschirmsprung laut rufen kann, wenn man aus dem Flugzeug springt?",
+         "prompt":"Was ist das Coolste, was man beim Fallschirmspringen laut rufen kann, wenn man aus dem Flugzeug springt?",
          "contradiction":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
                "mutig",
@@ -552,7 +552,7 @@
          "same":[
             "nett",
             "mürrisch",
-            "Einzelgänger*in",
+            "Einzelgänger",
             "Schwarm",
             "kreativ"
          ],
@@ -563,12 +563,12 @@
                "mürrisch"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57483,
-         "prompt":"Du organisierst eine Cocktail-Singleparty. Wie nennst du sie?",
+         "prompt":"Du organisierst eine Cocktailparty für Singles. Wie nennst du sie?",
          "contradiction":[
             [
                "nett",
@@ -583,7 +583,7 @@
             "aggressiv",
             "Sonderling",
             "Unmensch",
-            "lazy"
+            "faul"
          ],
          "x":false,
          "opposite":[
@@ -597,7 +597,7 @@
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "mutig",
@@ -605,7 +605,7 @@
             ]
          ],
          "id":57481,
-         "prompt":"Du bist kurz davor, in den Wrestlingring zu steigen. Du sollst dich einschüchternd anziehen. Was trägst du?",
+         "prompt":"Du stehst kurz davor, in den Ring zu steigen. Du sollst dich einschüchternd anziehen. Was ziehst du an?",
          "contradiction":[
             [
                "stylish",
@@ -617,7 +617,7 @@
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "mutig",
@@ -629,29 +629,29 @@
          "same":[
             "aggressiv",
             "unberechenbar",
-            "smart",
+            "clever",
             "böse"
          ],
          "x":false,
          "opposite":[
             [
-               "aggresssive",
-               "sweetheart"
+               "aggresssiv",
+               "Schätzchen"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57479,
-         "prompt":"Wie sieht die perfekte Rache für dich aus?",
+         "prompt":"Wie sieht für dich die perfekte Rache aus?",
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
@@ -660,7 +660,7 @@
          "same":[
             "ethisch",
             "böse",
-            "Bedenkenträger*in"
+            "Sorgenkind"
          ],
          "x":false,
          "opposite":[
@@ -670,15 +670,15 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57477,
-         "prompt":"Als du die Eltern deines Partners kennenlernst, erkennst du sie aus <i>Aktenzeichen XY ... ungelöst<\/i>. Was tust du?",
+         "prompt":"Als du die Eltern deines Partners kennen lernst, erkennst du sie aus <i>Aktenzeichen XY ... ungelöst<\/i>. Was machst du?",
          "contradiction":[
             [
                "ethisch",
@@ -686,10 +686,10 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
@@ -697,7 +697,7 @@
       {
          "same":[
             "aggressiv",
-            "sweetheart",
+            "Schätzchen",
             "selbstbewusst",
             "ängstlich",
             "Feigling"
@@ -706,7 +706,7 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "selbstbewusst",
@@ -718,7 +718,7 @@
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "selbstbewusst",
@@ -730,7 +730,7 @@
          "same":[
             "zuverlässig",
             "unberechenbar",
-            "smart",
+            "clever",
             "ängstlich",
             "unordentlich",
             "gewieft"
@@ -742,27 +742,27 @@
                "unberechenbar"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57475,
-         "prompt":"Du hast im Supermarkt ein großes Glas Einmachgurken kaputt gemacht. Was tust du?",
+         "prompt":"Du hast im Supermarkt ein großes Glas Gurken zerbrochen. Was machst du jetzt?",
          "contradiction":[
             [
                "zuverlässig",
                "unberechenbar"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
@@ -772,7 +772,7 @@
             "mutig",
             "dumm",
             "zuverlässig",
-            "Anführer*in"
+            "Anführer"
          ],
          "x":false,
          "opposite":[
@@ -782,10 +782,10 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
@@ -798,25 +798,25 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
       },
       {
          "same":[
-            "kindlich",
-            "sweetheart",
+            "kindisch",
+            "Schätzchen",
             "niedlich",
             "mürrisch"
          ],
          "x":false,
          "opposite":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
@@ -824,14 +824,14 @@
          "prompt":"Was ist das beste Spielzeug für ein Happy Meal?",
          "contradiction":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
       },
       {
          "same":[
-            "kindlich",
+            "kindisch",
             "erwachsen",
             "zuverlässig",
             "unberechenbar",
@@ -840,7 +840,7 @@
          "x":false,
          "opposite":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
@@ -849,10 +849,10 @@
             ]
          ],
          "id":57467,
-         "prompt":"Wonach schaust du als erstes, wenn du dir ein neues Auto kaufst?",
+         "prompt":"Worauf schaust du zuerst, wenn du ein neues Auto kaufst?",
          "contradiction":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
@@ -876,12 +876,12 @@
                "böse"
             ],
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "mutig",
@@ -889,19 +889,19 @@
             ]
          ],
          "id":57465,
-         "prompt":"Wenn dein Leben ein Computerspiel wäre, was wäre dein Endgegner?",
+         "prompt":"Wenn dein Leben ein Computerspiel wäre, wer wäre dein Endgegner?",
          "contradiction":[
             [
                "ethisch",
                "böse"
             ],
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "mutig",
@@ -911,7 +911,7 @@
       },
       {
          "same":[
-            "Party Typ",
+            "Party-Typ",
             "Langweiler",
             "niedlich",
             "unheimlich"
@@ -919,7 +919,7 @@
          "x":false,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
@@ -928,10 +928,10 @@
             ]
          ],
          "id":57464,
-         "prompt":"Welche drei Dinge braucht man für eine perfekte Samstagnacht?",
+         "prompt":"Welche drei Dinge braucht man für einen perfekten Samstagabend?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
@@ -945,8 +945,8 @@
             "nett",
             "mürrisch",
             "aggressiv",
-            "sweetheart",
-            "kindlich",
+            "Schätzchen",
+            "kindisch",
             "erwachsen"
          ],
          "x":false,
@@ -957,15 +957,15 @@
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57463,
-         "prompt":"Was ist ein nonverbales Zeichen, dass du die Konversation mit jemandem beendet hast?",
+         "prompt":"Was ist ein nonverbales Zeichen dafür, dass du das Gespräch mit jemandem beendet hast?",
          "contradiction":[
             [
                "nett",
@@ -973,10 +973,10 @@
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -985,8 +985,8 @@
          "same":[
             "zuverlässig",
             "unberechenbar",
-            "lazy",
-            "hardworking"
+            "faul",
+            "fleißig"
          ],
          "x":false,
          "opposite":[
@@ -995,20 +995,20 @@
                "unberechenbar"
             ],
             [
-               "lazy",
-               "hardworking"
+               "faul",
+               "fleißig"
             ]
          ],
          "id":57462,
-         "prompt":"Deine Freunde helfen dir beim Umzug. Was bietest du als Bezahlung für die körperliche Arbeit?",
+         "prompt":"Deine Freunde helfen dir beim Umzug. Was bietest du als Bezahlung für die körperliche Arbeit an?",
          "contradiction":[
             [
                "zuverlässig",
                "unberechenbar"
             ],
             [
-               "lazy",
-               "hardworking"
+               "faul",
+               "fleißig"
             ]
          ]
       },
@@ -1016,7 +1016,7 @@
          "same":[
             "nett",
             "mürrisch",
-            "Anführer*in",
+            "Anführer",
             "aggressiv"
          ],
          "x":false,
@@ -1026,19 +1026,19 @@
                "mürrisch"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57461,
-         "prompt":"Du darfst die erste Nachricht an neu-entdecktes außerirdisches Leben verfassen. Was sagst du?",
+         "prompt":"Du darfst die erste Nachricht an das neu entdeckte außerirdische Leben schreiben. Was schreibst du?",
          "contradiction":[
             [
                "nett",
                "mürrisch"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -1066,7 +1066,7 @@
             ]
          ],
          "id":57460,
-         "prompt":"Du wurdest als Kinderclown engagiert. Wie unterhälst du die Kinder?",
+         "prompt":"Du bist als Kinderclown engagiert worden. Wie unterhältst du die Kinder?",
          "contradiction":[
             [
                "witzig",
@@ -1092,7 +1092,7 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "mürrisch",
@@ -1100,11 +1100,11 @@
             ]
          ],
          "id":57459,
-         "prompt":"Wie würdest du deinen Wrestling-Signaturemove nennen?",
+         "prompt":"Wie würdest du deinen Wrestling-Signature Move nennen?",
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "mürrisch",
@@ -1115,9 +1115,9 @@
       {
          "same":[
             "aggressiv",
-            "sweetheart",
-            "lazy",
-            "fleissig",
+            "Schätzchen",
+            "faul",
+            "fleißig",
             "vorsichtig",
             "mutig",
             "Feigling"
@@ -1126,11 +1126,11 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "mutig",
@@ -1142,11 +1142,11 @@
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "mutig",
@@ -1157,8 +1157,8 @@
       {
          "same":[
             "aggressiv",
-            "sweetheart",
-            "smart",
+            "Schätzchen",
+            "clever",
             "dumm",
             "ethisch",
             "böse",
@@ -1169,10 +1169,10 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ],
             [
@@ -1185,10 +1185,10 @@
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ],
             [
@@ -1200,74 +1200,74 @@
       {
          "same":[
             "unbekümmert",
-            "Bedenkenträger*in",
+            "Sorgenkind",
             "mutig",
             "Feigling",
-            "smart",
+            "clever",
             "dumm"
          ],
          "x":false,
          "opposite":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
                "mutig",
                "Feigling"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ],
          "id":57423,
-         "prompt":"Du bist der Hausmeister eines Spukhotels. Du bist eingeschneit. Wie verbringst du deine Zeit?",
+         "prompt":"Du bist der Hausmeister eines Spukhotels. Du bist vom Schnee eingeschlossen. Wie verbringst du deine Zeit?",
          "contradiction":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
                "mutig",
                "Feigling"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ],
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ]
       },
       {
          "same":[
-            "Party Typ",
+            "Party-Typ",
             "Sonderling",
             "Schwarm"
          ],
          "x":true,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57422,
-         "prompt":"Wenn eine Bar einen Drink nach dir benennen würde, was wäre drin?",
+         "prompt":"Wenn eine Bar einen Drink nach dir benennen würde, was wäre dann drin?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
@@ -1276,7 +1276,7 @@
          "same":[
             "selbstbewusst",
             "Sonderling",
-            "Einzelgänger*in",
+            "Einzelgänger",
             "mürrisch"
          ],
          "x":false,
@@ -1291,7 +1291,7 @@
             ]
          ],
          "id":57421,
-         "prompt":"vervollständige den Satz: In einem Teeniefilm würde ich mit den \u201c_____\u201d Kindern essen.",
+         "prompt":"Vervollständige den Satz: In einem Teenie-Film würde ich mit den \u201c_____\u201d Kindern essen.",
          "contradiction":[
             [
                "selbstbewusst",
@@ -1308,7 +1308,7 @@
             "selbstbewusst",
             "Schwarm",
             "nett",
-            "sweetheart"
+            "Schätzchen"
          ],
          "x":false,
          "opposite":[
@@ -1317,15 +1317,15 @@
                "ängstlich"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ],
          "id":57420,
-         "prompt":"Du bist beim Speeddating. Mit welchem ersten Satz versuchst du aufzufallen?",
+         "prompt":"Du bist beim Speed-Dating. Mit welchem ersten Satz versuchst du aufzufallen?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
@@ -1333,8 +1333,8 @@
                "ängstlich"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ]
       },
@@ -1343,7 +1343,7 @@
             "Schwarm",
             "selbstbewusst",
             "kreativ",
-            "Einzelgänger*in"
+            "Einzelgänger"
          ],
          "x":false,
          "opposite":[
@@ -1353,7 +1353,7 @@
             ]
          ],
          "id":57419,
-         "prompt":"Wie würder der Rosamunde Pilcher Film heißen, der auf deinem Leben basiert?",
+         "prompt":"Wie würde der Rosamunde-Pilcher-Film heißen, der auf deinem Leben basiert?",
          "contradiction":[
             [
                "selbstbewusst",
@@ -1365,10 +1365,10 @@
          "same":[
             "selbstbewusst",
             "ängstlich",
-            "Angeber*in",
-            "Introvertierte*r",
+            "Angeber",
+            "introvertiert",
             "Schwarm",
-            "Einzelgänger*in",
+            "Einzelgänger",
             "Unmensch",
             "stylish"
          ],
@@ -1379,8 +1379,8 @@
                "ängstlich"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
                "stylish",
@@ -1388,15 +1388,15 @@
             ]
          ],
          "id":57418,
-         "prompt":"Welches Outfit würdest du zu einem Blinddate anziehen?",
+         "prompt":"Welches Outfit würdest du bei einem Blind Date tragen?",
          "contradiction":[
             [
                "selbstbewusst",
                "ängstlich"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
                "stylish",
@@ -1407,8 +1407,8 @@
       {
          "same":[
             "ängstlich",
-            "Bedenkenträger*in",
-            "Einzelgänger*in",
+            "Sorgenkind",
+            "Einzelgänger",
             "Schwarm",
             "Unmensch"
          ],
@@ -1420,7 +1420,7 @@
             ]
          ],
          "id":57417,
-         "prompt":"Was ist das schlimmste, was man auf einem ersten Date sagen kann?",
+         "prompt":"Was ist das Schlimmste, was man bei einem ersten Date sagen kann?",
          "contradiction":[
             [
                "selbstbewusst",
@@ -1447,7 +1447,7 @@
             ]
          ],
          "id":57416,
-         "prompt":"Du hast kein Geld mehr, aber du bist sicher, dass deine Pokerhand die des Gegners schlägt. Was setzt du?",
+         "prompt":"Du hast kein Geld mehr, bist dir aber sicher, dass dein Pokerblatt das deines Gegners schlägt. Was setzt du?",
          "contradiction":[
             [
                "selbstbewusst",
@@ -1463,7 +1463,7 @@
          "same":[
             "selbstbewusst",
             "ängstlich",
-            "Angeber*in",
+            "Angeber",
             "Sonderling",
             "Unmensch"
          ],
@@ -1474,20 +1474,20 @@
                "ängstlich"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ],
          "id":57415,
-         "prompt":"Du bist Kandidat bei <i>Jeopardy!<\/i>. Welche Interessante Info über dich erzählst du dem Moderator?",
+         "prompt":"Du bist Kandidat bei <i>Gefragt – Gejagt<\/i>. Welche interessante Information über dich erzählst du dem Moderator?",
          "contradiction":[
             [
                "selbstbewusst",
                "ängstlich"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ]
       },
@@ -1507,14 +1507,14 @@
             ]
          ],
          "id":57414,
-         "prompt":"Du hast aus Versehen John Wicks Hund getötet. Was machst du als nächstes?",
+         "prompt":"Du hast aus Versehen den Hund von Oliver Kahn getötet. Was machst du jetzt?",
          "contradiction":[
             [
                "mutig",
                "Feigling"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
@@ -1524,7 +1524,7 @@
             "mutig",
             "Feigling",
             "vorsichtig",
-            "Adrenalinjunkie"
+            "Adrenalin-Junkie"
          ],
          "x":false,
          "opposite":[
@@ -1534,7 +1534,7 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ],
          "id":57413,
@@ -1546,7 +1546,7 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ]
       },
@@ -1564,7 +1564,7 @@
             ]
          ],
          "id":57412,
-         "prompt":"Was ist das merkwürdigste, wovor du dich fürchtest?",
+         "prompt":"Was ist das Merkwürdigste, wovor du Angst hast?",
          "contradiction":[
             [
                "mutig",
@@ -1578,8 +1578,8 @@
             "mürrisch",
             "party",
             "dude",
-            "Einzelgänger*in",
-            "lästig"
+            "Einzelgänger",
+            "nervig"
          ],
          "x":false,
          "opposite":[
@@ -1588,19 +1588,19 @@
                "mürrisch"
             ],
             [
-               "Party Typ",
-               "Party Typ"
+               "Party-Typ",
+               "Party-Typ"
             ]
          ],
          "id":57411,
-         "prompt":"Wie kann man am besten seine Nachbarn kennen lernen?",
+         "prompt":"Wie lernt man seine Nachbarn am besten kennen?",
          "contradiction":[
             [
                "nett",
                "mürrisch"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
@@ -1610,7 +1610,7 @@
             "nett",
             "mürrisch",
             "Sonderling",
-            "Einzelgänger*in"
+            "Einzelgänger"
          ],
          "x":false,
          "opposite":[
@@ -1624,7 +1624,7 @@
             ]
          ],
          "id":57410,
-         "prompt":"Was könntest du ehrlicherweise auf deine Fußmatte schreiben?",
+         "prompt":"Was könntest du ehrlich auf deine Fußmatte schreiben?",
          "contradiction":[
             [
                "nett",
@@ -1640,8 +1640,8 @@
          "same":[
             "nett",
             "mürrisch",
-            "sweetheart",
-            "Einzelgänger*in"
+            "Schätzchen",
+            "Einzelgänger"
          ],
          "x":false,
          "opposite":[
@@ -1655,7 +1655,7 @@
             ]
          ],
          "id":57409,
-         "prompt":"\u201cHallo\u201d ist ausgemustert. Du wählst das neue Universalgrußwort. Was ist es?",
+         "prompt":"Die Begrüßung \u201cHallo\u201d ist nicht mehr zeitgemäß. Du darfst den neuen Standardgruß bestimmen. Wie lautet er?",
          "contradiction":[
             [
                "nett",
@@ -1669,10 +1669,10 @@
       },
       {
          "same":[
-            "fleissig",
-            "lazy",
-            "Anführer*in",
-            "sidekick",
+            "fleißig",
+            "faul",
+            "Anführer",
+            "Kumpel",
             "kreativ",
             "zuverlässig",
             "unberechenbar"
@@ -1680,12 +1680,12 @@
          "x":false,
          "opposite":[
             [
-               "fleissig",
-               "lazy"
+               "fleißig",
+               "faul"
             ],
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
                "zuverlässig",
@@ -1693,15 +1693,15 @@
             ]
          ],
          "id":57408,
-         "prompt":"Du und deine Freunde müssen den Abschlussball organisieren. Welche Aufgabe übernimmst du?",
+         "prompt":"Du und deine Freunde sollen den Abschlussball organisieren. Welche Aufgabe übernimmst du?",
          "contradiction":[
             [
-               "fleissig",
-               "lazy"
+               "fleißig",
+               "faul"
             ],
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
                "zuverlässig",
@@ -1711,39 +1711,39 @@
       },
       {
          "same":[
-            "lazy",
-            "fleissig",
-            "smart",
+            "faul",
+            "fleißig",
+            "clever",
             "aggressiv"
          ],
          "x":false,
          "opposite":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ]
          ],
          "id":57407,
-         "prompt":"Wenn es eine Gameshow geben würde, in der es um eine körperliche Aufgabe gehen würde, bei der du dominieren würdest, welche wäre es?",
+         "prompt":"Wenn es eine Spielshow gäbe, in der es um eine körperliche Aufgabe ginge, die du beherrschen müsstest, welche wäre das?",
          "contradiction":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ]
          ]
       },
       {
          "same":[
-            "lazy",
-            "fleissig",
-            "smart",
+            "faul",
+            "fleißig",
+            "clever",
             "zuverlässig"
          ],
          "x":false,
          "opposite":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
                "zuverlässig",
@@ -1751,11 +1751,11 @@
             ]
          ],
          "id":57406,
-         "prompt":"Welchen Dienst kannst du deiner Gruppe von Überlebenden nach dem Zusammenbruch der Welt anbieten?",
+         "prompt":"Welchen Dienst kannst du deiner Gruppe von Überlebenden anbieten, nachdem die Welt zusammengebrochen ist?",
          "contradiction":[
             [
-               "lazy",
-               "fleissig"
+               "faul",
+               "fleißig"
             ],
             [
                "zuverlässig",
@@ -1766,76 +1766,76 @@
       {
          "same":[
             "dumm",
-            "Bedenkenträger*in",
+            "Sorgenkind",
             "ängstlich"
          ],
          "x":false,
          "opposite":[
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57405,
-         "prompt":"Was ist das unsicherste Passwort, das du dir vorstellen kannst?",
+         "prompt":"Welches ist das unsicherste Passwort, das du dir vorstellen kannst?",
          "contradiction":[
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
       },
       {
          "same":[
-            "smart",
+            "clever",
             "dumm",
             "erwachsen"
          ],
          "x":false,
          "opposite":[
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57404,
-         "prompt":"Deine Familie führt beim Abendessen eine wirklich hitzige Debatte. Wie löst du die Spannung?",
+         "prompt":"Deine Familie hat beim Abendessen eine sehr hitzige Diskussion. Wie kannst du die Stimmung auflockern?",
          "contradiction":[
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
       },
       {
          "same":[
-            "smart",
+            "clever",
             "dumm",
-            "kindlich",
+            "kindisch",
             "erwachsen",
-            "Bedenkenträger*in",
+            "Sorgenkind",
             "kreativ"
          ],
          "x":false,
          "opposite":[
             [
-               "smart",
+               "clever",
                "dumm"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57403,
-         "prompt":"Du erhältst einen Wunsch... aber du musst ihn sehr sorgfältig formulieren. Was wünscht du dir?",
+         "prompt":"Du bekommst einen Wunsch... aber du musst ihn ganz genau formulieren. Was wünschst du dir?",
          "contradiction":[
             [
-               "smart",
+               "clever",
                "dumm"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -1843,7 +1843,7 @@
       {
          "same":[
             "witzig",
-            "kindlich",
+            "kindisch",
             "Unruhestifter",
             "gewieft",
             "kreativ"
@@ -1855,19 +1855,19 @@
                "seriös"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57402,
-         "prompt":"Ihr Büro will Ihrem Chef einen Streich spielen. Welche Idee bringen Sie mit zum Brainstorming?",
+         "prompt":"Dein Büro will dem Chef einen Streich spielen. Welche Idee bringst du zum Brainstorming mit?",
          "contradiction":[
             [
                "witzig",
                "seriös"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -1876,8 +1876,8 @@
          "same":[
             "witzig",
             "seriös",
-            "sweetheart",
-            "kindlich"
+            "Schätzchen",
+            "kindisch"
          ],
          "x":false,
          "opposite":[
@@ -1887,7 +1887,7 @@
             ]
          ],
          "id":57401,
-         "prompt":"Welchen Film schaust du wenn du wirklich schlecht drauf bist?",
+         "prompt":"Welchen Film schaust du, wenn du richtig schlechte Laune hast?",
          "contradiction":[
             [
                "witzig",
@@ -1898,7 +1898,7 @@
       {
          "same":[
             "witzig",
-            "kindlich",
+            "kindisch",
             "mutig",
             "Unmensch"
          ],
@@ -1909,7 +1909,7 @@
                "seriös"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
@@ -1921,122 +1921,122 @@
                "seriös"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
       },
       {
          "same":[
-            "Introvertierte*r",
+            "introvertiert",
             "Langweiler",
-            "Einzelgänger*in",
+            "Einzelgänger",
             "ängstlich"
          ],
          "x":false,
          "opposite":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57399,
-         "prompt":"Was ist das Schlimmste daran, Studentenpartys zu besuchen?",
+         "prompt":"Was ist das Schlimmste an Studentenpartys?",
          "contradiction":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
       },
       {
          "same":[
-            "Introvertierte*r",
-            "Party Typ",
-            "Einzelgänger*in",
-            "lästig"
+            "introvertiert",
+            "Party-Typ",
+            "Einzelgänger",
+            "nervig"
          ],
          "x":false,
          "opposite":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57398,
-         "prompt":"Du bist zur Aftershowparty der Oscars eingeladen. Überall sind Stars. Was machst du?",
+         "prompt":"Du bist zur Oscar-Aftershow-Party eingeladen. Überall sind Stars. Was machst du?",
          "contradiction":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
       },
       {
          "same":[
-            "Angeber*in",
-            "Introvertierte*r",
-            "Party Typ",
+            "Angeber",
+            "introvertiert",
+            "Party-Typ",
             "Langweiler",
             "Schwarm",
-            "Einzelgänger*in"
+            "Einzelgänger"
          ],
          "x":false,
          "opposite":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57397,
-         "prompt":"Wenn du Kandidat*in bei <i>Der Bachelor<\/i> oder <i> Die Bachelorette<\/i> wärst, was wäre dein Plan um herauszustechen?",
+         "prompt":"Wenn du Kandidat bei <i>Der Bachelor<\/i> oder <i>Die Bachelorette<\/i> wärst, was wäre dein Plan, um aufzufallen?",
          "contradiction":[
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
       },
       {
          "same":[
-            "kindlich",
+            "kindisch",
             "erwachsen",
-            "Bedenkenträger*in",
+            "Sorgenkind",
             "unbekümmert",
             "ängstlich"
          ],
          "x":false,
          "opposite":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
-               "Bedenkenträger*in",
+               "Sorgenkind",
                "unbekümmert"
             ]
          ],
@@ -2044,30 +2044,30 @@
          "prompt":"Wovon hättest du gerne einen lebenslangen Vorrat?",
          "contradiction":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
-               "Bedenkenträger*in",
+               "Sorgenkind",
                "unbekümmert"
             ]
          ]
       },
       {
          "same":[
-            "kindlich",
+            "kindisch",
             "erwachsen",
             "seriös",
-            "smart"
+            "clever"
          ],
          "x":false,
          "opposite":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
@@ -2076,14 +2076,14 @@
             ]
          ],
          "id":57395,
-         "prompt":"Du bist in einem Geschichtsmuseum gefangen in dem die Austellung zum Leben erwacht. Mit wem hängst du ab ?",
+         "prompt":"Du bist in einem historischen Museum gefangen, in dem die Ausstellung zum Leben erwacht. Mit wem triffst du dich?",
          "contradiction":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
@@ -2094,27 +2094,27 @@
       },
       {
          "same":[
-            "kindlich",
+            "kindisch",
             "erwachsen",
             "Unruhestifter",
-            "lästig"
+            "nervig"
          ],
          "x":false,
          "opposite":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ],
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ]
          ],
          "id":57394,
          "prompt":"Du bist für einen Tag wieder 10 Jahre alt. Was machst du?",
          "contradiction":[
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -2136,7 +2136,7 @@
             ]
          ],
          "id":57393,
-         "prompt":"Wenn du ein unbegrenztes Budget hättest, was würdest du zu deinem Wohnzimmer hinzufügen?",
+         "prompt":"Was würdest du deinem Wohnzimmer hinzufügen, wenn du ein unbegrenztes Budget hättest?",
          "contradiction":[
             [
                "stylish",
@@ -2173,9 +2173,9 @@
       {
          "same":[
             "stylish",
-            "Chaot*in",
-            "Angeber*in",
-            "Introvertierte*r",
+            "Chaot",
+            "Angeber",
+            "introvertiert",
             "kreativ",
             "Schwarm"
          ],
@@ -2183,94 +2183,94 @@
          "opposite":[
             [
                "stylish",
-               "Chaot*in"
+               "Chaot"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ],
          "id":57391,
-         "prompt":"Du bist zu einer \u201cAlles außer Kleidung\u201d party eingeladen, was ziehst du an?",
+         "prompt":"Was ziehst du an, wenn du zu einer \u201cAlles außer Kleidung\u201d-Party eingeladen bist?",
          "contradiction":[
             [
                "stylish",
-               "Chaot*in"
+               "Chaot"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ]
       },
       {
          "same":[
-            "Anführer*in",
-            "sidekick",
+            "Anführer",
+            "Kumpel",
             "mutig",
-            "Adrenalinjunkie"
+            "Adrenalin-Junkie"
          ],
          "x":false,
          "opposite":[
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ]
          ],
          "id":57390,
          "prompt":"Wenn du eine Superkraft hättest, die auf einem deiner Talente beruht, wie würde dein Superhelden-Name lauten?",
          "contradiction":[
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ]
          ]
       },
       {
          "same":[
-            "Anführer*in",
-            "sidekick",
-            "sweetheart",
+            "Anführer",
+            "Kumpel",
+            "Schätzchen",
             "mürrisch",
-            "Angeber*in",
+            "Angeber",
             "Schwarm"
          ],
          "x":false,
          "opposite":[
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ],
          "id":57389,
-         "prompt":"Wenn du Kandidat bei <i>Big Brother<\/i> wärst, wie lautet dein Spitzname?",
+         "prompt":"Wenn du Kandidat bei <i>Big Brother<\/i> wärst, was wäre dein Spitzname?",
          "contradiction":[
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
-               "Angeber*in",
-               "Introvertierte*r"
+               "Angeber",
+               "introvertiert"
             ]
          ]
       },
       {
          "same":[
-            "Anführer*in",
-            "sidekick",
-            "Einzelgänger*in",
+            "Anführer",
+            "Kumpel",
+            "Einzelgänger",
             "gewieft"
          ],
          "x":false,
          "opposite":[
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
                "zuverlässig",
@@ -2278,11 +2278,11 @@
             ]
          ],
          "id":57388,
-         "prompt":"Was machst du normalerweise, wenn du an Gruppenprojekten mitarbeitest?",
+         "prompt":"Was machst du normalerweise, wenn du an Gruppenprojekten arbeitest?",
          "contradiction":[
             [
-               "Anführer*in",
-               "sidekick"
+               "Anführer",
+               "Kumpel"
             ],
             [
                "zuverlässig",
@@ -2293,23 +2293,23 @@
       {
          "same":[
             "vorsichtig",
-            "Adrenalinjunkie",
-            "sweetheart",
+            "Adrenalin-Junkie",
+            "Schätzchen",
             "niedlich"
          ],
          "x":false,
          "opposite":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ],
          "id":57387,
-         "prompt":"Ein Tierpsychologe bindet dich an jedes Tier, das du dir wünschst. Welches wählst du?",
+         "prompt":"Ein Tierflüsterer ermöglicht es dir, eine Verbindung mit einem Tier deiner Wahl einzugehen. Welches wählst du?",
          "contradiction":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ]
       },
@@ -2324,7 +2324,7 @@
          "opposite":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ],
          "id":57386,
@@ -2332,14 +2332,14 @@
          "contradiction":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ]
       },
       {
          "same":[
             "vorsichtig",
-            "Adrenalinjunkie",
+            "Adrenalin-Junkie",
             "mutig",
             "Feigling",
             "Unmensch"
@@ -2348,7 +2348,7 @@
          "opposite":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "Feigling",
@@ -2360,7 +2360,7 @@
          "contradiction":[
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ],
             [
                "Feigling",
@@ -2371,14 +2371,14 @@
       {
          "same":[
             "unbekümmert",
-            "Bedenkenträger*in",
-            "Einzelgänger*in"
+            "Sorgenkind",
+            "Einzelgänger"
          ],
          "x":false,
          "opposite":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ]
          ],
          "id":57384,
@@ -2386,111 +2386,111 @@
          "contradiction":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ]
          ]
       },
       {
          "same":[
-            "sweetheart",
-            "Party Typ"
+            "Schätzchen",
+            "Party-Typ"
          ],
          "x":false,
          "opposite":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57383,
-         "prompt":"Du bist in das Haus eines möglichen Vampirs eingeladen. Was bringst du mit?",
+         "prompt":"Du bist zu einem potentiellen Vampir eingeladen. Was bringst du mit?",
          "contradiction":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ]
          ]
       },
       {
          "same":[
             "unbekümmert",
-            "Bedenkenträger*in"
+            "Sorgenkind"
          ],
          "x":false,
          "opposite":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57382,
-         "prompt":"Was ist dein Plan für eine Alien-Invasion?",
+         "prompt":"Wie sieht dein Plan für eine Alien-Invasion aus?",
          "contradiction":[
             [
                "unbekümmert",
-               "Bedenkenträger*in"
+               "Sorgenkind"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ]
       },
       {
          "same":[
-            "Party Typ",
-            "sweetheart"
+            "Party-Typ",
+            "Schätzchen"
          ],
          "x":false,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57381,
-         "prompt":"Was ist der perfekte Partysnack?",
+         "prompt":"Was ist der perfekte Party-Snack?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
       },
       {
          "same":[
-            "Party Typ",
+            "Party-Typ",
             "Langweiler",
-            "Angeber*in",
+            "Angeber",
             "Sonderling"
          ],
          "x":false,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57380,
-         "prompt":"Die Party beruhigt sich langsam. Wie hauchst du ihr wieder Leben ein?",
+         "prompt":"Die Stimmung auf der Party kippt. Wie bringst du sie wieder in Schwung?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
       },
       {
          "same":[
-            "Party Typ",
+            "Party-Typ",
             "Langweiler",
             "kreativ",
             "Sonderling"
@@ -2498,15 +2498,15 @@
          "x":false,
          "opposite":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ],
          "id":57379,
-         "prompt":"Dir wird bei der Arbeit erlaubt, buchstäblich alles zu tragen, was du willst. Was ziehst du an?",
+         "prompt":"Bei der Arbeit darfst du wirklich anziehen, was du willst. Was ziehst du an?",
          "contradiction":[
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ],
             [
@@ -2525,15 +2525,15 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ],
          "id":57378,
-         "prompt":"Welche selbstgebaute Falle würden Sie einem stümperhaften Einbrecherpaar stellen??",
+         "prompt":"Welche selbstgebaute Falle würdest du einem ungeschickten Einbrecherpärchen stellen?",
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ]
       },
@@ -2546,15 +2546,15 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ],
          "id":57377,
-         "prompt":"Wenn du in Westeros leben würdest, wie würde dann dein Schwert heißen?",
+         "prompt":"Wenn du in Westeros leben würdest, wie würdest du dein Schwert nennen?",
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ]
       },
@@ -2567,7 +2567,7 @@
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ],
          "id":57376,
@@ -2575,29 +2575,29 @@
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ]
       },
       {
          "same":[
             "aggressiv",
-            "sweetheart",
+            "Schätzchen",
             "kreativ"
          ],
          "x":false,
          "opposite":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ],
          "id":57375,
-         "prompt":"Was wäre dein/e Signatur-Waffe/Werkzeug während der Zombie-Apokalypse?",
+         "prompt":"Was wäre deine bevorzugte Waffe während der Zombie-Apokalypse?",
          "contradiction":[
             [
                "aggressiv",
-               "sweetheart"
+               "Schätzchen"
             ]
          ]
       },
@@ -2615,7 +2615,7 @@
             ]
          ],
          "id":57374,
-         "prompt":"Du stehst kurz davor auf einer einsamen Insel zu stranden. Du kannst eine Sache mitbringen. Was wählst du aus?",
+         "prompt":"Du wirst auf einer einsamen Insel stranden. Du darfst einen Gegenstand mitbringen. Was wählst du aus?",
          "contradiction":[
             [
                "unberechenbar",
@@ -2627,7 +2627,7 @@
          "same":[
             "zuverlässig",
             "unberechenbar",
-            "kindlich",
+            "kindisch",
             "erwachsen",
             "Unruhestifter"
          ],
@@ -2638,19 +2638,19 @@
                "unberechenbar"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ],
          "id":57373,
-         "prompt":"Du musst 8-jährige Zwillinge babysitten. Welche Aktivitäten planst du für sie?",
+         "prompt":"Du sollst auf 8-jährige Zwillinge aufpassen. Welche Aktivitäten planst du für sie?",
          "contradiction":[
             [
                "zuverlässig",
                "unberechenbar"
             ],
             [
-               "kindlich",
+               "kindisch",
                "erwachsen"
             ]
          ]
@@ -2660,7 +2660,7 @@
             "unberechenbar",
             "zuverlässig",
             "Sonderling",
-            "smart"
+            "clever"
          ],
          "x":false,
          "opposite":[
@@ -2669,19 +2669,19 @@
                "zuverlässig"
             ],
             [
-               "smart",
+               "clever",
                "dumm"
             ]
          ],
          "id":57372,
-         "prompt":"Du gewinnst 10.000€ beim Lotto. Was ist das erste, was du mit dem Geld machst?",
+         "prompt":"Du gewinnst 10.000 Euro im Lotto. Was machst du als erstes mit dem Geld?",
          "contradiction":[
             [
                "unberechenbar",
                "zuverlässig"
             ],
             [
-               "Party Typ",
+               "Party-Typ",
                "Langweiler"
             ]
          ]
@@ -2699,7 +2699,7 @@
             ]
          ],
          "id":57371,
-         "prompt":"Du kannst eine Nachricht aus deinem Grab schicken. Wie lautet sie?",
+         "prompt":"Du kannst eine Nachricht aus dem Grab schicken. Wie lautet sie?",
          "contradiction":[
             [
                "unheimlich",
@@ -2720,7 +2720,7 @@
             ]
          ],
          "id":57370,
-         "prompt":"Wenn du einen Raum in einem Spukhaus entwerfen könntest, wie würde er aussehen??",
+         "prompt":"Wenn du einen Raum in einem Spukhaus entwerfen könntest, wie würde es aussehen?",
          "contradiction":[
             [
                "unheimlich",
@@ -2755,7 +2755,7 @@
          "same":[
             "böse",
             "ethisch",
-            "lästig",
+            "nervig",
             "Unruhestifter"
          ],
          "x":false,
@@ -2766,7 +2766,7 @@
             ]
          ],
          "id":57368,
-         "prompt":"Du findest ein Adressbuch voller persönlicher Telefonnummern von Prominenten. Was machst du damit?",
+         "prompt":"Du findest ein Adressbuch voller privater Telefonnummern von Prominenten. Was machst du damit?",
          "contradiction":[
             [
                "böse",
@@ -2789,7 +2789,7 @@
             ]
          ],
          "id":57367,
-         "prompt":"Du entdeckst das Twitter-Passwort von jemandem, der immer online mit dir diskutiert. Was machen Sie?",
+         "prompt":"Du findest das Instagram-Passwort von jemandem heraus, der immer mit dir online chattet. Was tust du?",
          "contradiction":[
             [
                "böse",
@@ -2811,7 +2811,7 @@
             ]
          ],
          "id":57366,
-         "prompt":"Du kannst die Webcam jeder Person einschalten und sie 15 Minuten lang ausspionieren. Wen wählst du?",
+         "prompt":"Du kannst die Webcam einer beliebigen Person einschalten und sie 15 Minuten lang beobachten. Für wen entscheidest du dich?",
          "contradiction":[
             [
                "böse",
@@ -2823,7 +2823,7 @@
          "same":[
             "böse",
             "ethisch",
-            "Adrenalinjunkie",
+            "Adrenalin-Junkie",
             "Unruhestifter"
          ],
          "x":false,
@@ -2834,7 +2834,7 @@
             ]
          ],
          "id":57365,
-         "prompt":"Die Polizei gibt dir die Erlaubnis, Feuerwerkskörper abzufeuern, wo immer du willst....wo zündest du sie an?",
+         "prompt":"Die Polizei gibt dir die Erlaubnis, Feuerwerkskörper zu zünden, wo du willst. Wo zündest du sie?",
          "contradiction":[
             [
                "böse",
@@ -2842,7 +2842,7 @@
             ],
             [
                "vorsichtig",
-               "Adrenalinjunkie"
+               "Adrenalin-Junkie"
             ]
          ]
       }
