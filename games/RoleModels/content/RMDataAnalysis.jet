@@ -1031,7 +1031,7 @@
             ]
          ],
          "id":57461,
-         "prompt":"Du darfst die erste Nachricht an das neu entdeckte außerirdische Leben schreiben. Was schreibst du?",
+         "prompt":"Du darfst die erste Nachricht an eine neu entdeckte außerirdische Spezies schreiben. Was schreibst du?",
          "contradiction":[
             [
                "nett",
@@ -1100,7 +1100,7 @@
             ]
          ],
          "id":57459,
-         "prompt":"Wie würdest du deinen Wrestling-Signature Move nennen?",
+         "prompt":"Wie würdest du deinen Wrestling-Signature-Move nennen?",
          "contradiction":[
             [
                "aggressiv",
@@ -1226,7 +1226,7 @@
             ]
          ],
          "id":57423,
-         "prompt":"Du bist der Hausmeister eines Spukhotels. Du bist vom Schnee eingeschlossen. Wie verbringst du deine Zeit?",
+         "prompt":"Du bist der Hausmeister eines Spukhotels und vom Schnee eingeschlossen. Wie verbringst du deine Zeit?",
          "contradiction":[
             [
                "unbekümmert",
@@ -1420,7 +1420,7 @@
             ]
          ],
          "id":57417,
-         "prompt":"Was ist das Schlimmste, was man bei einem ersten Date sagen kann?",
+         "prompt":"Was ist das Schlimmste, dass man bei einem ersten Date sagen kann?",
          "contradiction":[
             [
                "selbstbewusst",
@@ -1507,7 +1507,7 @@
             ]
          ],
          "id":57414,
-         "prompt":"Du hast aus Versehen den Hund von Oliver Kahn getötet. Was machst du jetzt?",
+         "prompt":"Du hast aus Versehen den Hund von John Wick getötet. Was machst du jetzt?",
          "contradiction":[
             [
                "mutig",
@@ -1624,7 +1624,7 @@
             ]
          ],
          "id":57410,
-         "prompt":"Was könntest du ehrlich auf deine Fußmatte schreiben?",
+         "prompt":"Welcher Text auf einer Fußmatte würde am besten zu dir passen?",
          "contradiction":[
             [
                "nett",
@@ -1724,7 +1724,7 @@
             ]
          ],
          "id":57407,
-         "prompt":"Wenn es eine Spielshow gäbe, in der es um eine körperliche Aufgabe ginge, die du beherrschen müsstest, welche wäre das?",
+         "prompt":"Wenn es eine Spielshow gäbe, in der es um eine körperliche Aufgabe geht, die du beherrschen musst, welche wäre das?",
          "contradiction":[
             [
                "faul",
@@ -2550,7 +2550,7 @@
             ]
          ],
          "id":57377,
-         "prompt":"Wenn du in Westeros leben würdest, wie würdest du dein Schwert nennen?",
+         "prompt":"Wenn du in der Welt von Game of Thrones leben würdest, wie würdest du dein Schwert nennen?",
          "contradiction":[
             [
                "aggressiv",
