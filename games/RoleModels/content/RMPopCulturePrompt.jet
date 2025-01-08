@@ -4,62 +4,63 @@
       {
          "roles":[
             {
-               "name":"Barack Obama",
+               "name":"Olaf Scholz",
                "required":true,
                "tags":[
-                  "Anführer*in",
-                  "diplomatisch",
-                  "beliebt",
-                  "smart"
+                  "schüchtern",
+                  "zurückhaltend",
+                  "müde",
+                  "locker"
                ]
             },
             {
-               "name":"Michelle Obama",
+               "name":"Angela Merkel",
                "required":true,
                "tags":[
-                  "mit Klasse",
+                  "mütterlich",
                   "selbstbewusst",
-                  "glamourös",
-                  "menschenfreund"
+                  "fürsorglich",
+                  "Physiker"
                ]
             },
             {
-               "name":"Joe Biden",
+               "name":"Armin Laschet",
                "required":false,
                "tags":[
-                  "Dummbatz",
+                  "witzig",
                   "verrückt",
-                  "unberechenbar"
+                  "unberechenbar",
+                  "Bergmann"
                ]
             },
             {
-               "name":"Nervöse*r Praktikant*in",
+               "name":"Andreas Scheuer",
                "required":false,
                "tags":[
-                  "ängstlich",
-                  "sidekick",
-                  "aushilfe",
-                  "unbezahlt",
-                  "Bedenkenträger*in"
+                  "pragmatisch",
+                  "kontrovers",
+                  "ehrgeizig",
+                  "verschwenderisch"
                ]
             },
             {
-               "name":"Bo, der Hund",
+               "name":"Annalena Baerbock",
                "required":true,
                "tags":[
-                  "Animal",
-                  "liebenswert",
-                  "maskottchen"
+                  "tierlieb",
+                  "charismatisch",
+                  "umweltbewusst",
+                  "offen"
                ]
             },
             {
-               "name":"Obama\u2019s hellbrauner Anzug",
+               "name":"Markus Söder",
                "required":false,
                "tags":[
-                  "kühn",
-                  "kontrovers",
-                  "schäbig",
-                  "trendsetter*in"
+                  "konservativ",
+                  "Influencer",
+                  "Alkoholiker",
+                  "traditionell"
                ]
             }
          ],
@@ -72,15 +73,15 @@
                "id":"GetInCharacter",
                "prompts":[
                   {
-                     "role":0,
-                     "question":"Was glaubst du, tut Barack Obama in diesem Augenblick?",
-                     "name":"Barack Obama",
+                     "role":1,
+                     "question":"Was glaubst du, was Angela Merkel in diesem Moment macht?",
+                     "name":"Angela Merkel",
                      "idx":1
                   },
                   {
-                     "role":1,
-                     "question":"Welchen neuen Nationalfeiertag würden Sie als First Lady versuchen einzuführen?",
-                     "name":"Michelle Obama",
+                     "role":0,
+                     "question":"Welchen neuen Nationalfeiertag würdest du versuchen einzuführen?",
+                     "name":"Olaf Scholz",
                      "idx":2
                   },
                   {
@@ -134,8 +135,8 @@
             }
          ],
          "id":56137,
-         "category":"Das weiße Haus 2014",
-         "prompt":"Welche*r Bewohner*in des weißen Haus 2014 seid ihr?"
+         "category":"Politiker",
+         "prompt":"Welcher Politiker seid ihr?"
       },
       {
          "roles":[
