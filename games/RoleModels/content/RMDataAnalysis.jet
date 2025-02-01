@@ -59,7 +59,7 @@
             ]
          ],
          "id":57723,
-         "prompt":"Wenn Beyoncé dich fragt, warum du dich als ihren nächsten Assistenten bewirbst, was sagst du dann?",
+         "prompt":"Wenn Taylor Swift dich fragen würde, warum du dich als ihr nächster Assistent bewerben willst, was würdest du antworten?",
          "contradiction":[
             [
                "zuverlässig",
@@ -714,7 +714,7 @@
             ]
          ],
          "id":57476,
-         "prompt":"Im Restaurant ist dein Essen verkocht/angebrannt. Der Kellner fragt, ob alles in Ordnung sei. Was antwortest du?",
+         "prompt":"Im Restaurant ist dein Essen angebrannt. Der Kellner fragt, ob alles in Ordnung sei. Was antwortest du?",
          "contradiction":[
             [
                "aggressiv",
@@ -849,7 +849,7 @@
             ]
          ],
          "id":57467,
-         "prompt":"Worauf schaust du zuerst, wenn du ein neues Auto kaufst?",
+         "prompt":"Worauf achtest du zuerst, wenn du ein neues Auto kaufst?",
          "contradiction":[
             [
                "kindisch",
@@ -889,7 +889,7 @@
             ]
          ],
          "id":57465,
-         "prompt":"Wenn dein Leben ein Computerspiel wäre, wer wäre dein Endgegner?",
+         "prompt":"Wenn dein Leben ein Videospiel wäre, wer wäre dein Endgegner?",
          "contradiction":[
             [
                "ethisch",
@@ -2834,7 +2834,7 @@
             ]
          ],
          "id":57365,
-         "prompt":"Die Polizei gibt dir die Erlaubnis, Feuerwerkskörper zu zünden, wo du willst. Wo zündest du sie?",
+         "prompt":"Die Polizei gibt dir die Erlaubnis, wo du willst Feuerwerkskörper zu zünden. Wo zündest du sie?",
          "contradiction":[
             [
                "böse",
