@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Du findest heraus, dass der Bundeskanzler ein Außerirdischer ist. Aber das Leben für alle war noch nie besser. Was du tun solltest, ist...",
+      "v": "Du findest heraus, dass der Bundeskanzler ein Außerirdischer ist. Aber das Leben war für alle noch nie besser. Was du tun solltest, ist...",
       "n": "HumanPromptText"
     },
     {
-      "s": "Du findest heraus, dass der Bundeskanzler ein Außerirdischer ist. Aber das Leben für alle war noch nie besser. Was du tun solltest, ist...",
+      "s": "Du findest heraus, dass der Bundeskanzler ein Außerirdischer ist. Aber das Leben war für alle noch nie besser. Was du tun solltest, ist...",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"

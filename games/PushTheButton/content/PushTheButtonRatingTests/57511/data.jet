@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ich trinke Kaffee immer Schwarz.",
+      "v": "Ich trinke Kaffee immer schwarz.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ich trinke Kaffee immer Schwarz.",
+      "s": "Ich trinke Kaffee immer schwarz.",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"

@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Ladendiebstahl ist ein Verbrechen, bei dem niemand zu Schaden kommt.",
+      "v": "Ladendiebstahl ist eine Straftat, bei der niemand zu Schaden kommt.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Ladendiebstahl ist ein Verbrechen, bei dem niemand zu Schaden kommt.",
+      "s": "Ladendiebstahl ist eine Straftat, bei der niemand zu Schaden kommt.",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
