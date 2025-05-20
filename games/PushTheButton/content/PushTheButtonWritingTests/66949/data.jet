@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Das ist wahrscheinlich mein Lieblingsessen:",
+      "v": "Das ist mein Lieblingsessen:",
       "n": "HumanPromptText"
     },
     {
-      "s": "Das ist wahrscheinlich mein Lieblingsessen:",
+      "s": "Das ist mein Lieblingsessen:",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
@@ -113,7 +113,7 @@
     },
     {
       "t": "S",
-      "v": "Das ist wahrscheinlich mein liebstes großes Tier:",
+      "v": "Das ist mein liebstes großes Tier:",
       "n": "AlienPromptText3"
     },
     {
