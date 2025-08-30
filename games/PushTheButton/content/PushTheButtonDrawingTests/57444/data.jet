@@ -2,11 +2,11 @@
   "fields": [
     {
       "t": "S",
-      "v": "Zeichne Mario.",
+      "v": "Zeichne Super Mario.",
       "n": "HumanPromptText"
     },
     {
-      "s": "Zeichne Mario.",
+      "s": "Zeichne Super Mario.",
       "t": "A",
       "v": "prompt",
       "n": "HumanPromptAudio"
