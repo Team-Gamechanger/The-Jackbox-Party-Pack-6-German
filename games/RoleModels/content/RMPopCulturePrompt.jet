@@ -1012,64 +1012,67 @@
       {
          "roles":[
             {
-               "name":"Bleirohr",
-               "required":false,
+               "name":"Ist noch in der Steinzeit, während die Mitspieler Schusswaffen verwenden",
+               "short":"Steinzeitmensch",
+               "required":true,
                "tags":[
-                  "stumpf",
-                  "Vollstrecker",
-                  "metallisch"
+                  "langsam",
+                  "abgelenkt",
+                  "Anfänger"
                ]
             },
             {
-               "name":"Seil",
-               "required":false,
+               "name":"Versucht alle mit seinem Glauben zu bekehren",
+               "short":"Sektenanführer",
+               "required":true,
                "tags":[
-                  "Schläger",
-                  "flexibel",
-                  "schnell",
-                  "stark",
-                  "verdreht"
+                  "aufdringlich",
+                  "fromm",
+                  "gläubig",
+                  "Gesandter"
                ]
             },
             {
-               "name":"Kerzenständer",
+               "name":"Fliegt bereits zum Mond, als die anderen das Rad entdeckt haben",
+               "short":"Wissenschaftler",
                "required":false,
                "tags":[
-                  "hell",
-                  "fancy",
-                  "Partygänger*in",
-                  "glatt"
+                  "Pionier",
+                  "klug",
+                  "vorausschauend"
                ]
             },
             {
-               "name":"Rohrzange",
+               "name":"Spieler, der zuerst die Atombombe schmeißt",
+               "short":"Kriegstreiber",
                "required":false,
                "tags":[
-                  "praktisch",
-                  "nützlich",
-                  "Arbeiter*in"
+                  "impulsiv",
+                  "Agressor",
+                  "zerstörerisch"
                ]
             },
             {
-               "name":"Revolver",
+               "name":"Wird andauernd von Barbaren bedrängt",
+               "short":"KI-Kanonenfutter",
                "required":false,
                "tags":[
-                  "präzise",
-                  "bewaffnet",
-                  "teufelskerl"
+                  "unbeholfen",
+                  "machtlos"
                ]
             },
             {
-               "name":"Messer",
+               "name":"Spieler, auf den alle anderen warten müssen",
+               "short":"akribischer Stratege",
                "required":false,
                "tags":[
-                  "unordentlich",
-                  "scharfkantig",
-                  "Trickbetrüger*in"
+                  "konzentriert",
+                  "durchdacht",
+                  "Planer"
                ]
             }
          ],
-         "x":true,
+         "x":false,
          "reveals":[
             {
                "id":"standard"
@@ -1079,50 +1082,21 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Antworte als Bleirohr: Wofür wurdest du genutzt, bevor du zur Mordwaffe wurdest?",
-                     "name":"Bleirohr",
+                     "question":"Was ist dein Plan in 10 Runden dennoch die Führung zu übernehmen?",
+                     "name":"Ist noch in der Steinzeit, während die Mitspieler Schusswaffen verwenden",
                      "idx":0
                   },
                   {
-                     "role":2,
-                     "question":"Wie geht man vor, wenn man einen Menschen mit einem Kerzenständer tötet?",
-                     "name":"Kerzenständer",
-                     "idx":2
-                  },
-                  {
-                     "role":5,
-                     "question":"Erkläre so detailliert wie möglich, was für eine Art Messer du bist.",
-                     "name":"Messer",
+                     "role":3,
+                     "question":"Ein Reich möchte diplomatische Beziehungen mit dir aufbauen. Wie lautet deine Antwort?",
+                     "name":"Spieler, der zuerst die Atombombe schmeißt",
                      "idx":4
                   },
                   {
-                     "role":3,
-                     "question":"Welche Frage würdest du einem Baumarktmitarbeiter beim Kauf deiner Mordwaffe stellen?",
-                     "name":"Rohrzange",
-                     "idx":7
-                  },
-                  {
-                     "role":1,
-                     "question":"Welchen coolen Satz würdest du schreien, während du Banditen im Wilden Westen mit dem Lasso einfängs?",
-                     "name":"Seil",
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Perform a Double Dutch routine with invisible jump ropes.",
-                     "name":"Seil",
-                     "idx":1
-                  },
-                  {
-                     "role":4,
-                     "question":"Du bist ein Revolver. Drehe dich 10 Sekunden lang so schnell du kannst.",
-                     "name":"Revolver",
-                     "idx":5
+                     "role":5,
+                     "question":"Die Anderen habe ihren Zug bereits beendet, du brauchst jedoch noch Zeit um deine Truppenbewegungen zu planen. Welche Ausrede verwendest du?",
+                     "name":"Spieler, auf den alle anderen warten müssen",
+                     "idx":6
                   }
                ]
             },
@@ -1130,22 +1104,35 @@
                "id":"FightTiebreaker",
                "prompts":[
                   {
-                     "role":3,
-                     "question":"Welche Spieler ist praktischer?",
-                     "name":"Rohrzange",
+                     "role":1,
+                     "question":"Wer würde für seinen Glauben sterben?",
+                     "name":"Versucht alle mit seinem Glauben zu bekehren",
+                     "idx":1
+                  },
+                  {
+                     "role":2,
+                     "question":"Wer ist der klügste im ganzen Land?",
+                     "name":"Fliegt bereits zum Mond, als die anderen das Rad entdeckt haben",
                      "idx":3
+                  },
+                  {
+                     "role":4,
+                     "question":"Wer zieht immer den Kürzeren?",
+                     "name":"Wird andauernd von Barbaren bedrängt",
+                     "idx":5
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"sechsseitiger Würfel",
-                     "idx":6,
+                     "name":"Verliert ständig die Verbindung zur Lobby",
+                     "short":"Der Asynchrone"
+                     "idx":2,
                      "tags":[
-                        "Glücksspieler*in",
-                        "vom glück begünstigt",
-                        "zufällig"
+                        "frustriert",
+                        "genervt",
+                        "langsam"
                      ]
                   }
                ],
@@ -1153,8 +1140,8 @@
             }
          ],
          "id":56613,
-         "category":"<i>Cluedo<\/i> Mordwaffen",
-         "prompt":"Welche Mordwaffe aus <i>Cluedo<\/i> seid ihr?"
+         "category":"<i>Sid Meier\u2019s Civilization<\/i>-Spieler",
+         "prompt":"Welche Spielertypen seid ihr in Civilization?"
       },
       {
          "roles":[
