@@ -2780,12 +2780,12 @@
                ]
             },
             {
-               "name":"Bassist",
+               "name":"Chorstimme",
                "required":false,
                "tags":[
-                  "lässig",
-                  "cool",
-                  "entspannt"
+                  "harmonisch",
+                  "laut",
+                  "teamfähig"
                ]
             },
             {
@@ -2841,8 +2841,8 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Wer kann am besten im Hintergrund bleiben?",
-                     "name":"Bassist",
+                     "question":"Wer kann mit seinen Worten am besten die Massen erreichen?",
+                     "name":"Chorstimme",
                      "idx":0
                   },
                   {
@@ -3083,7 +3083,7 @@
                ]
             },
             {
-               "name":"Der, der sich über falsch aufgestellte Blitzer aufregt",
+               "name":"Der, der sich über Fahrradfahrer aufregt",
                "required":false,
                "tags":[
                   "kritisch",
@@ -3146,8 +3146,8 @@
                   },
                   {
                      "role":4,
-                     "question":"Wer regt sich am meisten über Blitzer auf?",
-                     "name":"Der, der sich über falsch aufgestellte Blitzer aufregt",
+                     "question":"Wer regt sich am meisten über Fahrradfahrer auf?",
+                     "name":"Der, der sich über Fahrradfahrer aufregt",
                      "idx":5
                   },
                   {
@@ -3712,53 +3712,57 @@
       {
          "roles":[
             {
-               "name":"\u201cSalz in die Wunde streuen\u201d",
+               "name":"Der Ewig-Sitzenbleibende",
                "required":false,
                "tags":[
-                  "spitzzüngig",
-                  "Unruhestifter"
+                  "dumm",
+                  "faul",
+                  "unmotiviert"
                ]
             },
             {
-               "name":"\u201cnochmal bei Null anfangen\u201d",
+               "name":"Der Streber",
                "required":false,
                "tags":[
-                  "kreativ",
-                  "Planer*in"
+                  "intelligent",
+                  "fleißig",
+                  "ehrgeizig"
                ]
             },
             {
-               "name":"\u201cGlück im Unglück\u201d",
+               "name":"Der Klassenclown",
                "required":false,
                "tags":[
-                  "Glaubende*r",
-                  "spirituell"
+                  "witzig",
+                  "laut",
+                  "unreif"
                ]
             },
             {
-               "name":"\u201cüber vergossene Milch jammern\u201d",
+               "name":"Die Diva",
                "required":false,
                "tags":[
-                  "Heulsuse",
+                  "verwöhnt",
                   "emotional",
-                  "unordentlich",
-                  "Bedenkenträger*in"
+                  "dramatisch"
                ]
             },
             {
-               "name":"\u201ces gehören immer Zwei dazu\u201d",
+               "name":"Der Klassensprecher",
                "required":false,
                "tags":[
-                  "Tänzer*in",
-                  "flirt"
+                  "charismatisch",
+                  "verantwortungsbewusst",
+                  "beliebt"
                ]
             },
             {
-               "name":"\u201cnicht der Rede wert\u201d",
+               "name":"Der Unauffällige",
                "required":false,
                "tags":[
-                  "unbekümmert",
-                  "selbstbewusst"
+                  "ruhig",
+                  "introvertiert",
+                  "bescheiden"
                ]
             }
          ],
@@ -3772,27 +3776,21 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Stell dir vor die Welt steht vor dem Ende. Was gibt dir noch Hoffnung?",
-                     "name":"\u201cGlück im Unglück\u201d",
+                     "question":"Welchen Streich würdest du dem Lehrer spielen?",
+                     "name":"Der Klassenclown",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Was war das letzte, was du verschüttet hast?",
-                     "name":"\u201cüber vergossene Milch jammern\u201d",
+                     "question":"Was sagst du, wenn der Lehrer dich bittet, deine Hausaufgabe an der Tafel zu präsentieren?",
+                     "name":"Die Diva",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wer wäre dein*e Traumtanzpartner*in?",
-                     "name":"\u201ces gehören immer Zwei dazu\u201d",
+                     "question":"Warum hat man dich zum Klassensprecher gewählt?",
+                     "name":"Der Klassensprecher",
                      "idx":4
-                  },
-                  {
-                     "role":5,
-                     "question":"Was wäre der schlechteste Start für eine Rede?",
-                     "name":"\u201cnicht der Rede wert\u201d",
-                     "idx":5
                   }
                ]
             },
@@ -3801,53 +3799,33 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer lacht am ehesten über jemanden, der gerade gestolpert und hingefallen ist?",
-                     "name":"\u201cSalz in die Wunde streuen\u201d",
+                     "question":"Wer würde in einer Parallelwelt noch mit 40 in der 8. Klasse sein?",
+                     "name":"Der Ewig-Sitzenbleibende",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Wer misst immer zweimal, bevor er einmal schneidet?",
-                     "name":"\u201cnochmal bei Null anfangen\u201d",
+                     "question":"Wer würde in Tränen ausbrechen, wenn er nur eine 2 bekommt?",
+                     "name":"Der Streber",
                      "idx":2
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
+                  },
                   {
-                     "role":0,
-                     "question":"Welche Person bekommt die Anerkennung, die sie verdient, solange sie noch lebt, und wer bekommt sie erst nach dem Tod?",
-                     "roles":[
-                        {
-                           "name":"Anerkennung zu Lebzeiten",
-                           "tags":[
-                              "geliebt",
-                              "lebende legende"
-                           ]
-                        },
-                        {
-                           "name":"Anerkennung nach dem Tod",
-                           "tags":[
-                              "historisch",
-                              "unbesungene*r Held*in"
-                           ]
-                        }
-                     ],
-                     "name":"\u201cGlück im Unglück\u201d",
-                     "idx":8
+                     "role":5,
+                     "question":"Wer fällt in einer großen Gruppe am wenigsten auf?",
+                     "name":"Der Unauffällige",
+                     "idx":5
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201cdas kleinere Übel\u201d",
+                     "name":"Der Klassenlehrer",
                      "idx":6,
                      "tags":[
-                        "diplomatisch",
-                        "böse"
+                        "erwachsen",
+                        "hilfsbereit",
+                        "gebildet"
                      ]
                   }
                ],
@@ -3855,67 +3833,65 @@
             }
          ],
          "id":56615,
-         "category":"Allgemeiner Ausdruck",
-         "prompt":"Welche Ausdrücke passen am besten zu allen?"
+         "category":"Schulklasse",
+         "prompt":"Wer seid ihr in einer Schulklasse?"
       },
       {
          "roles":[
             {
-               "name":"sagt nichts",
+               "name":"Polizist",
                "required":false,
                "tags":[
-                  "vorsichtig",
-                  "Feigling",
-                  "Introvertierte*r",
-                  "misteriös",
-                  "still",
-                  "fremde*r"
+                  "gesetzestreu",
+                  "beschützend",
+                  "autoritär"
                ]
             },
             {
-               "name":"muss der Zweck des Anrufs erneut erklärt werden",
-               "short":"braucht Erklärung",
+               "name":"Cowboy",
                "required":false,
                "tags":[
-                  "verwirrt",
-                  "neugierig",
-                  "forschergeist",
-                  "unvorbereitet"
+                  "mutig",
+                  "abenteuerlustig",
+                  "wild"
                ]
             },
             {
-               "name":"ständiges lautes Tippen",
+               "name":"Piratenkapitän",
                "required":false,
+               "tags":[
+                  "rebellisch",
+                  "frech",
+                  "charismatisch"
+               ]
+            },
+            {
+               "name":"Geschlechtsorgan",
+               "required":false,
+               "tags":[
+                  "komisch",
+                  "kindisch",
+                  "unreif"
+               ]
+            },
+            {
+               "name":"Der, der Karneval hasst und sich nicht verkleidet",
+               "short":"Der Griesgram",
+               "required":true,
+               "tags":[
+                  "miesepetrig",
+                  "brummig",
+                  "unfreundlich"
+               ]
+            },
+            {
+               "name":"Der, der Karneval nur als Ausrede zum Saufen sieht",
+               "short":"Der Saufkopf",
+               "required":true,
                "tags":[
                   "laut",
-                  "krachmacher",
-                  "vergesslich"
-               ]
-            },
-            {
-               "name":"redet weiterhin über Jana",
-               "required":false,
-               "tags":[
-                  "unüberlegt",
-                  "Angeber*in"
-               ]
-            },
-            {
-               "name":"verzerrte Roboterstimme",
-               "required":false,
-               "tags":[
-                  "zusammenhangslos",
-                  "roboter",
-                  "unheimlich"
-               ]
-            },
-            {
-               "name":"vergisst, dass man stumm geschaltet ist",
-               "short":"stumm geschaltet",
-               "required":false,
-               "tags":[
-                  "Stümper*in",
-                  "vergesslich"
+                  "betrunken",
+                  "langweilig"
                ]
             }
          ],
@@ -3929,31 +3905,26 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was ist ein Text, den du während eines langweiligen Treffens versenden würdest?",
-                     "name":"ständiges lautes Tippen",
+                     "question":"Wie schwörst du deine Mannschaft auf den nächsten Raubzug ein?",
+                     "name":"Piratenkapitän",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"Was ist das Peinlichste, wobei dein Chef dich belauschen kann?",
-                     "name":"vergisst, dass man stumm geschaltet ist",
+                     "question":"Wo saufst du am liebsten?",
+                     "name":"Der, der Karneval nur als Ausrede zum Saufen sieht",
                      "idx":1
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
+                  },
                   {
                      "role":3,
-                     "question":"Bitte entschuldige dich bei Jana.",
-                     "name":"redet weiterhin über Jana",
+                     "question":"Was ist dein Lieblingswitz über Penisse?",
+                     "name":"Geschlechtsorgan",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Lass uns deine Roboterstimme hören!",
-                     "name":"verzerrte Roboterstimme",
+                     "question":"Warum gehst du feiern, obwohl du Karneval hasst?",
+                     "name":"Der, der Karneval hasst und sich nicht verkleidet",
                      "idx":5
                   }
                ]
@@ -3963,26 +3934,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer redete in diesem Spiel am wenigsten?",
-                     "name":"sagt nichts",
+                     "question":"Wer würde am ehesten in einer Diskussion zu einem Gesetzbuch greifen?",
+                     "name":"Polizist",
                      "idx":2
                   },
                   {
                      "role":1,
-                     "question":"Wer war in diesem Spiel am verwirrtesten, obwohl alles so gut erklärt wurde?",
-                     "name":"muss der Zweck des Anrufs erneut erklärt werden",
+                     "question":"Wer würde, wenn er könnte, mit einem Pferd zur Arbeit reiten?",
+                     "name":"Cowboy",
                      "idx":3
                   },
                   {
                      "role":3,
-                     "question":"Wer würde am ehesten jemanden unterbrechen.",
-                     "name":"redet weiterhin über Jana",
+                     "question":"Wer erzählt die meisten Witze über Penisse?",
+                     "name":"Geschlechtsorgan",
                      "idx":7
                   },
                   {
                      "role":4,
-                     "question":"Wessen Gehirn ist möglicherweise ein Wirrwarr von Schaltkreisen und Drähten?",
-                     "name":"verzerrte Roboterstimme",
+                     "question":"Wer würde ein T-Shirt mit dem Aufdruck 'Kostüm' tragen, wenn seine Freunde ihn bitten sich zu verkleiden?",
+                     "name":"Der, der Karneval hasst und sich nicht verkleidet",
                      "idx":8
                   }
                ]
@@ -3990,12 +3961,12 @@
             {
                "roles":[
                   {
-                     "name":"Meeting ansetzen aber selbst nicht erscheinen",
+                     "name":"Etwas Verbotenes",
                      "idx":6,
                      "tags":[
-                        "abwesend",
-                        "lästig",
-                        "Planer*in"
+                        "geheimnisvoll",
+                        "chaotisch",
+                        "riskant"
                      ]
                   }
                ],
@@ -4003,63 +3974,62 @@
             }
          ],
          "id":56256,
-         "category":"Telefonkonferenz",
-         "prompt":"Wer ist jeder von euch bei einer Firmen-Telefonkonferenz?"
+         "category":"Karneval",
+         "prompt":"Welche Kostüme trägt jeder von euch bei einem Karnevalsumzug?"
       },
       {
          "roles":[
             {
-               "name":"\u201cWillkommen, Comicfans!\u201d",
+               "name":"Metal",
                "required":false,
                "tags":[
-                  "kindlich",
-                  "kreativ",
-                  "Fan"
+                  "laut",
+                  "düster",
+                  "rebellisch"
                ]
             },
             {
-               "name":"\u201cWillkommen, Klempner!\u201d",
+               "name":"Rock",
                "required":false,
                "tags":[
-                  "Blaumann",
-                  "fleissig",
-                  "erwachsen"
+                  "cool",
+                  "lässig",
+                  "authentisch"
                ]
             },
             {
-               "name":"\u201cWillkommen, Technik-Startups!\u201d",
+               "name":"Pop",
                "required":false,
                "tags":[
-                  "Unternehmer*in",
-                  "verkaufspersonal",
-                  "smart",
-                  "technikfreak"
+                  "bunt",
+                  "fröhlich",
+                  "langweilig",
+                  "normal"
                ]
             },
             {
-               "name":"\u201cWillkommen, Michael Wendler-Imitatoren!\u201d",
+               "name":"Rap",
                "required":false,
                "tags":[
-                  "diva",
-                  "Modeikone",
-                  "Schwarm",
-                  "musikalisch"
+                  "frech",
+                  "dreckig",
+                  "chaotisch"
                ]
             },
             {
-               "name":"\u201cWillkommen, Radfahrer!\u201d",
+               "name":"Country",
                "required":false,
                "tags":[
-                  "furchtlos",
-                  "hart"
+                  "bodenständig",
+                  "ehrlich"
                ]
             },
             {
-               "name":"\u201cWillkommen, Menschen mit Motivationsbedarf!\u201d",
+               "name":"Hardstyle",
                "required":false,
                "tags":[
-                  "Träumer*in",
-                  "lazy"
+                  "aggressiv",
+                  "modern"
                ]
             }
          ],
@@ -4073,21 +4043,15 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was wäre deine Idee für eine Millionen-Euro-App?",
-                     "name":"\u201cWillkommen, Technik-Startups!\u201d",
+                     "question":"Was ist dein Lieblings-Pop-Song?",
+                     "name":"Pop",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wie lautet der Name deiner Biker-Gang?",
-                     "name":"\u201cWillkommen, Radfahrer!\u201d",
+                     "question":"Welches Naturwunder ist dein Favorit?",
+                     "name":"Country",
                      "idx":4
-                  },
-                  {
-                     "role":5,
-                     "question":"Was bringt dich morgens aus dem Bett?",
-                     "name":"\u201cWillkommen, Menschen mit Motivationsbedarf!\u201d",
-                     "idx":5
                   }
                ]
             },
@@ -4096,33 +4060,39 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer kleidet sich am ehesten wie sein Lieblingssuperheld?",
-                     "name":"\u201cWillkommen, Comicfans!\u201d",
+                     "question":"Wer trägt am ehesten eine Lederjacke?",
+                     "name":"Metal",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Wer weiß wahrscheinlich, was eine Gripzange ist?",
-                     "name":"\u201cWillkommen, Klempner!\u201d",
+                     "question":"Wer würde am ehesten Gitarre spielen?",
+                     "name":"Rock",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Wer würde am ehesten ins Dschungelcamp gehen?",
-                     "name":"\u201cWillkommen, Michael Wendler-Imitatoren!\u201d",
+                     "question":"Wer kann am schnellsten sprechen?",
+                     "name":"Rap",
                      "idx":3
+                  },
+                  {
+                     "role":5,
+                     "question":"Bei wem bräuchtest du am ehesten Ohropax, wenn du mit ihm redest?",
+                     "name":"Hardstyle",
+                     "idx":5
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201cWillkommen, Conventionplanende\u201d",
+                     "name":"Klassik",
                      "idx":6,
                      "tags":[
-                        "zuverlässig",
-                        "Planer*in",
-                        "Langweiler"
+                        "altmodisch",
+                        "entspannt",
+                        "kultiviert"
                      ]
                   }
                ],
@@ -4130,65 +4100,65 @@
             }
          ],
          "id":56619,
-         "category":"Conventions",
-         "prompt":"Welche Convention definiert jeden am besten?"
+         "category":"Musikgenre",
+         "prompt":"Welches Musikgenre beschreibt jeden von euch?"
       },
       {
          "roles":[
             {
-               "name":"<i>Grillen wie ein Cowboy<\/i>",
-               "required":false,
-               "tags":[
-                  "badass",
-                  "cowboy",
-                  "hart"
-               ]
-            },
-            {
-               "name":"<i>Nachtisch Zuerst!<\/i>",
-               "required":false,
-               "tags":[
-                  "kindlich",
-                  "chocoholic",
-                  "liebenswert",
-                  "sweetheart"
-               ]
-            },
-            {
-               "name":"<i>Gesundes Essen, gesundes Du<\/i>",
-               "required":false,
-               "tags":[
-                  "Gesundheitsfanatiker*in",
-                  "hippie"
-               ]
-            },
-            {
-               "name":"<i>Schärfer geht immer<\/i>",
+               "name":"Der Draufgänger",
                "required":false,
                "tags":[
                   "mutig",
-                  "Angeber*in",
-                  "Adrenalinjunkie"
+                  "risikofreudig",
+                  "abenteuerlustig"
                ]
             },
             {
-               "name":"<i>Wein mit allem kombinieren<\/i>",
+               "name":"Das Kanonenfutter",
                "required":false,
                "tags":[
-                  "mit Klasse",
-                  "betrunken",
-                  "Party Typ"
+                  "ängstlich",
+                  "schwach",
+                  "wertlos",
+                  "nutzlos"
                ]
             },
             {
-               "name":"Anweisungen auf der Seite der Schachtel",
-               "short":"Anweisungen auf Schachtel",
+               "name":"Das Weichei",
+               "required":false,
+               "tags":[
+                  "introvertiert",
+                  "unauffällig",
+                  "inkompetent"
+               ]
+            },
+            {
+               "name":"Der Scharfschütze",
+               "required":false,
+               "tags":[
+                  "geschickt",
+                  "informiert",
+                  "vorsichtig"
+               ]
+            },
+            {
+               "name":"Der Anführer",
+               "required":false,
+               "tags":[
+                  "charismatisch",
+                  "entscheidungsfreudig",
+                  "verantwortungsbewusst"
+               ]
+            },
+            {
+               "name":"Der Alleskönner",
                "required":true,
                "tags":[
-                  "Anfänger*in",
-                  "vorsichtig",
-                  "ungeschickt",
-                  "demütig"
+                  "vielseitig",
+                  "intelligent",
+                  "kompetent",
+                  "unaufhaltsam"
                ]
             }
          ],
@@ -4202,20 +4172,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Was ist das dekadenteste Dessert, das man sich vorstellen kann?",
-                     "name":"<i>Nachtisch Zuerst!<\/i>",
+                     "question":"Wie würdest du die Gruppe überzeugen, dich nicht zuerst zu opfern?",
+                     "name":"Das Kanonenfutter",
                      "idx":1
                   },
                   {
                      "role":4,
-                     "question":"Was ist die EINZIGE Sache, die sich nicht mit Wein verbinden lässt?",
-                     "name":"<i>Wein mit allem kombinieren<\/i>",
+                     "question":"Warum bist du der geborene Anführer?",
+                     "name":"Der Anführer",
                      "idx":5
                   },
                   {
                      "role":5,
-                     "question":"Was ist die einzige Regel, die man beim Kochen niemals brechen sollte?",
-                     "name":"Anweisungen auf der Seite der Schachtel",
+                     "question":"Warum kannst du in jeder Situation helfen?",
+                     "name":"Der Alleskönner",
                      "idx":6
                   }
                ]
@@ -4225,20 +4195,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer gibt bei einer Party den Grillmeister?",
-                     "name":"<i>Grillen wie ein Cowboy<\/i>",
+                     "question":"Wer würde am ehesten sein Leben für die Gruppe riskieren?",
+                     "name":"Der Draufgänger",
                      "idx":0
                   },
                   {
                      "role":2,
-                     "question":"Wer liebt Kohl am meisten?",
-                     "name":"<i>Gesundes Essen, gesundes Du<\/i>",
+                     "question":"Wer würde sich, sobald er könnte, in eine sichere Ecke verkriechen?",
+                     "name":"Das Weichei",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wer hat am ehesten scharfe Soße auf seiner Persönlichkeit?",
-                     "name":"<i>Schärfer geht immer<\/i>",
+                     "question":"Wer hat den besten Überblick über jede Situation?",
+                     "name":"Der Scharfschütze",
                      "idx":3
                   }
                ]
@@ -4246,13 +4216,12 @@
             {
                "roles":[
                   {
-                     "name":"halb vergessenes Familienrezept",
+                     "name":"Ein Zombie",
                      "idx":4,
                      "tags":[
-                        "alte*r favorit*in",
-                        "altmodisch",
-                        "riskant",
-                        "traditionell"
+                        "furchterregend",
+                        "dumm"
+                        "unaufhaltsam"
                      ]
                   }
                ],
@@ -4260,62 +4229,62 @@
             }
          ],
          "id":56747,
-         "category":"Kochbücher",
-         "prompt":"Welches Rezeptbuch seid ihr?"
+         "category":"Zombie-Apokalypse",
+         "prompt":"Welche Rolle hättet ihr in einer Gruppe während einer Zombie-Apokalypse?"
       },
       {
          "roles":[
             {
-               "name":"69",
+               "name":"Skorpion",
                "required":false,
                "tags":[
-                  "sexy",
-                  "swinger"
+                  "leidenschaftlich",
+                  "gefährlich"
                ]
             },
             {
-               "name":"420",
+               "name":"Kaulquappe",
                "required":false,
                "tags":[
-                  "hippie",
-                  "Faulpelz"
+                  "jung",
+                  "naiv",
+                  "unerfahren"
                ]
             },
             {
-               "name":"58008 umgedreht auf dem Taschenrechner",
-               "short":"58008 umgedreht",
+               "name":"Regenwurm",
                "required":false,
                "tags":[
-                  "unreif",
-                  "jugendlich"
+                  "bodenständig",
+                  "ehrlich",
+                  "zuverlässig"
                ]
             },
             {
-               "name":"112",
+               "name":"Adler",
                "required":false,
                "tags":[
-                  "zuverlässig",
-                  "Helfer*in",
-                  "fürsorglich"
+                  "stolz",
+                  "mutig",
+                  "schnell"
                ]
             },
             {
-               "name":"42, die Antwort auf die ultimative Frage",
-               "short":"42, die ultimative Antwort",
+               "name":"Qualle",
                "required":false,
                "tags":[
-                  "rätsel",
-                  "misteriös",
-                  "geheim"
+                  "intelligent",
+                  "flexibel",
+                  "entspannt"
                ]
             },
             {
-               "name":"666",
+               "name":"Eisbär",
                "required":false,
                "tags":[
-                  "Dämon*in",
-                  "böse",
-                  "Bösewicht"
+                  "wild",
+                  "behaart",
+                  "stark"
                ]
             }
          ],
@@ -4325,24 +4294,24 @@
                "id":"standard"
             },
             {
-               "id":"GetInCharacter",
+               "id":"FightTiebreaker",
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was wäre das verrückteste Wort, das man mit einem Taschenrechner schreiben könnte?",
-                     "name":"58008 umgedreht auf dem Taschenrechner",
+                     "question":"Wer lässt sich am Strand gerne einbuddeln?",
+                     "name":"Regenwurm",
                      "idx":2
                   },
                   {
                      "role":1,
-                     "question":"Beschreibe deine ultimative Fresskick-Mahlzeit.",
-                     "name":"420",
+                     "question":"Wer hat in seinem Leben bisher noch nicht viel erreicht?",
+                     "name":"Kaulquappe",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Was ist der absolut coolste Grund, die 112 anzurufen?",
-                     "name":"112",
+                     "question":"Wer würde eher Flugzeug fliegen statt Auto zu fahren?",
+                     "name":"Adler",
                      "idx":5
                   },
                   {
@@ -4350,22 +4319,17 @@
                      "question":"Wenn du Org triffst, das Ur-Staubwesen, das das Universum erschaffen hat, welche\u2019 ist die eine Frage, die du\u2019 ihm stellen würdest?",
                      "name":"42, die Antwort auf die ultimative Frage",
                      "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
+                  },
                   {
                      "role":5,
-                     "question":"Vermittle einen Eindruck davon, wie sich der Teufel amüsiert.",
-                     "name":"666",
+                     "question":"Wer ist am flexibelsten?",
+                     "name":"Qualle",
                      "idx":4
                   },
                   {
                      "role":0,
-                     "question":"Gib jemandem im Raum das härteste High Five, das du geben kannst.",
-                     "name":"69",
+                     "question":"Wer ist am gefährlichsten?",
+                     "name":"Skorpion",
                      "idx":0
                   }
                ]
@@ -4373,12 +4337,11 @@
             {
                "roles":[
                   {
-                     "name":"irgendwas durch Null geteilt",
+                     "name":"Amöbe",
                      "idx":3,
                      "tags":[
-                        "Anarchist*in",
-                        "unmöglich",
-                        "Unruhestifter"
+                        "klein",
+                        "unscheinbar"
                      ]
                   }
                ],
@@ -4386,61 +4349,57 @@
             }
          ],
          "id":56732,
-         "category":"Coole Zahlen",
-         "prompt":"Welche urkomische und/oder coole Nummer seid ihr?"
+         "category":"Leben als Tier",
+         "prompt":"Welches Tier wärt ihr, wenn ihr in der Wildnis leben müsstet?"
       },
       {
          "roles":[
             {
-               "name":"Maiskolben",
+               "name":"<i>Tequila<\/i> von The Champs",
                "required":true,
                "tags":[
-                  "Patriot*in",
-                  "salzig"
+                  "einfach",
+                  "betrunken"
                ]
             },
             {
-               "name":"Beutel mit gefrorenen Kernen",
+               "name":"<i>Atemlos<\/i> von Helene Fischer",
                "required":false,
                "tags":[
-                  "cool",
-                  "cooler Typ"
+                  "wild",
+                  "alt"
                ]
             },
             {
-               "name":"Maissirup",
+               "name":"<i>Someone Like You<\/i> von Adele",
                "required":false,
                "tags":[
-                  "süss",
-                  "leckerbissen"
+                  "emotional",
+                  "dramatisch"
                ]
             },
             {
-               "name":"Tierfutter",
+               "name":"<i>Bismarck<\/i> von Sabaton",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
-                  "nährstoffreich"
+                  "kraftvoll",
+                  "episch"
                ]
             },
             {
-               "name":"Popcorn, mit extra Butter",
-               "short":"Popcorn",
+               "name":"<i>99 Luftballons<\/i> von Nena",
                "required":true,
                "tags":[
-                  "butterig",
-                  "snack"
+                  "nostalgisch",
+                  "chaotisch",
                ]
             },
             {
-               "name":"Maiscreme bei Zimmertemperatur",
-               "short":"Maiscreme",
+               "name":"<i>Major Tom (Völlig losgelöst)<\/i> von Peter Schilling",
                "required":true,
                "tags":[
-                  "cremig",
-                  "enttäuschend",
-                  "Narr",
-                  "Langweiler"
+                  "charismatisch",
+                  "einsam"
                ]
             }
          ],
@@ -4454,32 +4413,32 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Welcher ist der beste Trashfilm?",
-                     "name":"Popcorn, mit extra Butter",
+                     "question":"Welche Farbe haben die Luftballons bei deinem nächsten Geburtstag?",
+                     "name":"<i>99 Luftballons<\/i> von Nena",
                      "idx":2
                   },
                   {
                      "role":0,
-                     "question":"Was würdest du schreien, kurz bevor du bei einem Picknick am 3. Oktober ein Feuerwerk zündest?",
-                     "name":"Maiskolben",
+                     "question":"Was trinkst du, wenn du in Partymodus kommen willst?",
+                     "name":"<i>Tequila<\/i> von The Champs",
                      "idx":0
                   },
                   {
                      "role":2,
-                     "question":"Was ist ein toller Slogan für ein neues Bonbon aus Rübensirup?",
-                     "name":"Maissirup",
+                     "question":"Welches Lied würdest du hören, wenn du einen traurigen Moment verkraften musst?",
+                     "name":"<i>Someone Like You<\/i> von Adele",
                      "idx":4
                   },
                   {
                      "role":3,
-                     "question":"Wie lautet der Name deines preisgekrönten Schweins?",
-                     "name":"Tierfutter",
+                     "question":"Welches Lied macht dich sofort wach?",
+                     "name":"<i>Bismarck<\/i> von Sabaton",
                      "idx":5
                   },
                   {
                      "role":5,
-                     "question":"Was ist ein guter Name für ein Restaurant, das nur Maiscreme bei Raumtemperatur serviert?",
-                     "name":"Maiscreme bei Zimmertemperatur",
+                     "question":"Was würdest du als Astronaut auf der ISS beitragen?",
+                     "name":"<i>Major Tom (Völlig losgelöst)<\/i> von Peter Schilling",
                      "idx":6
                   }
                ]
@@ -4489,8 +4448,8 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer soll dich lieber beruhigen, nachdem du dir den Zeh gestoßen hast?",
-                     "name":"Beutel mit gefrorenen Kernen",
+                     "question":"Wer kann am längsten die Luft anhalten?",
+                     "name":"<i>Atemlos<\/i> von Helene Fischer",
                      "idx":1
                   }
                ]
@@ -4498,12 +4457,12 @@
             {
                "roles":[
                   {
-                     "name":"ungenießbares Mais-Mittelstück",
+                     "name":"Gar nichts",
                      "idx":3,
                      "tags":[
-                        "dekorativ",
-                        "trocken",
-                        "hülse"
+                        "untalentiert",
+                        "langweilig",
+                        "unmusikalisch"
                      ]
                   }
                ],
@@ -4511,62 +4470,62 @@
             }
          ],
          "id":56755,
-         "category":"Mais",
-         "prompt":"Welcher Mais sind Sie?"
+         "category":"Karaoke-Abend",
+         "prompt":"Welchen Karaoke-Song würde jeder von euch performen?"
       },
       {
          "roles":[
             {
-               "name":"\u201cZum Schreien komisch\u201d",
+               "name":"Fiat Panda",
                "required":false,
                "tags":[
-                  "Dummkopf",
-                  "Witzbold",
-                  "Sprüche klopfend"
+                  "hässlich",
+                  "langsam",
+                  "unzuverlässig"
                ]
             },
             {
-               "name":"\u201cEine emotionale Achterbahnfahrt\u201d",
+               "name":"Polestar 4",
                "required":false,
                "tags":[
-                  "Empfindlich",
-                  "unberechenbar",
-                  "launisch"
+                  "schnell",
+                  "sportlich"
                ]
             },
             {
-               "name":"\u201cSpaß für die ganze Familie\u201d",
+               "name":"Hyundai IONIQ 6",
                "required":false,
                "tags":[
-                  "Bezugsperson",
-                  "niedlich",
-                  "nett",
-                  "elterlich"
+                  "futuristisch",
+                  "schick",
+                  "leise"
                ]
             },
             {
-               "name":"\u201cHält Sie auf der Kante Ihres Sitzes\u201d",
+               "name":"VW Bulli",
                "required":false,
                "tags":[
-                  "Adrenalinjunkie",
-                  "wild"
+                  "lässig",
+                  "altmodisch",
+                  "entspannt"
                ]
             },
             {
-               "name":"\u201cEin Spezialeffekte-Spektakel\u201d",
+               "name":"Cupra Formentor",
                "required":false,
                "tags":[
-                  "extra",
-                  "Party Typ",
-                  "stylish"
+                  "vielseitig",
+                  "hilfsbereit",
+                  "modern"
                ]
             },
             {
-               "name":"\u201cLassen Sie ihr Gehirn an der Garderobe und haben Sie Spaß!\u201d",
+               "name":"Kramer KL 200",
                "required":true,
                "tags":[
-                  "dumm",
-                  "Dummbatz"
+                  "nützlich",
+                  "robust",
+                  "alt"
                ]
             }
          ],
@@ -4580,38 +4539,21 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wie würdest du dein Stand-up-Special nennen?",
-                     "name":"\u201cZum Schreien komisch\u201d",
+                     "question":"Was ist das Peinlichste, was dir jemals mit deinem Auto passiert ist?",
+                     "name":"Fiat Panda",
                      "idx":0
                   },
                   {
                      "role":3,
-                     "question":"Was ist das Gefährlichste, was du jemals getan hast?",
-                     "name":"\u201cHält Sie auf der Kante Ihres Sitzes\u201d",
+                     "question":"Was würdest du in einem VW Bulli machen?",
+                     "name":"VW Bulli",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Welcher ist der schlechteste Film, den du aufrichtig genießt?",
-                     "name":"\u201cLassen Sie ihr Gehirn an der Garderobe und haben Sie Spaß!\u201d",
+                     "question":"Was würdest du als Landwirt anbauen?",
+                     "name":"Kramer KL 200",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Wer kann in 10 Sekunden die meisten Emotionen durchleben?",
-                     "name":"\u201cEine emotionale Achterbahnfahrt\u201d",
-                     "idx":1
-                  },
-                  {
-                     "role":3,
-                     "question":"Trage die erste Zeile deines Filmtrailers mit deiner intensivsten Stimme vor",
-                     "name":"\u201cHält Sie auf der Kante Ihres Sitzes\u201d",
-                     "idx":8
                   }
                ]
             },
@@ -4620,55 +4562,38 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer ist am jugendfreisten?",
-                     "name":"\u201cSpaß für die ganze Familie\u201d",
+                     "question":"Wer ist am nervigsten?",
+                     "name":"Hyundai IONIQ 6",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wessen Leben würde das größte Produktionsbudget erfordern?",
-                     "name":"\u201cEin Spezialeffekte-Spektakel\u201d",
+                     "question":"Wer versucht bei Aufgaben immer den Mittelweg zu gehen?",
+                     "name":"Cupra Formentor",
                      "idx":4
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
+                  },
                   {
-                     "role":4,
-                     "question":"Wer ist ein reibungsloser Spezialeffekt und wer macht auf sich aufmerksam?",
-                     "roles":[
-                        {
-                           "name":"subtiler Spezialeffekt",
-                           "tags":[
-                              "Künstler*in",
-                              "stylish"
-                           ]
-                        },
-                        {
-                           "name":"ablenkender Spezialeffekt",
-                           "tags":[
-                              "extra",
-                              "Angeber*in"
-                           ]
-                        }
-                     ],
-                     "name":"\u201cEin Spezialeffekte-Spektakel\u201d",
-                     "idx":7
+                     "role":1,
+                     "question":"Wer betreibt am meisten Sport?",
+                     "name":"Polestar 4",
+                     "idx":1
+                  },
+                  {
+                     "role":3,
+                     "question":"Wer kann am meisten etwas mit Retro-Sachen anfangen?",
+                     "name":"VW Bulli",
+                     "idx":8
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201cKeine Vorstellung für Kritiker!\u201d",
+                     "name":"Harley-Davidson Street 750",
                      "idx":6,
                      "tags":[
-                        "vorsichtig",
-                        "rätsel",
-                        "misteriös",
-                        "gewieft"
+                        "rebellisch",
+                        "laut"
                      ]
                   }
                ],
@@ -4676,61 +4601,61 @@
             }
          ],
          "id":56273,
-         "category":"Kritikerstimmen",
-         "prompt":"Was würden Filmkritiker über euch sagen?"
+         "category":"Automodelle",
+         "prompt":"Welche Autos wärt ihr?"
       },
       {
          "roles":[
             {
-               "name":"eine Leiche vergraben",
+               "name":"Architekt",
                "required":false,
                "tags":[
-                  "Verbrecher*in",
-                  "mörderisch",
-                  "gewalttätig"
+                  "charismatisch",
+                  "kreativ",
+                  "visionär"
                ]
             },
             {
-               "name":"Millionen veruntreut",
+               "name":"Statiker",
                "required":false,
                "tags":[
-                  "Intrigant*in",
-                  "Dieb*in",
-                  "wohlhabend"
+                  "analytisch",
+                  "vorsichtig"
                ]
             },
             {
-               "name":"geheime Familie",
+               "name":"Maurer",
                "required":false,
                "tags":[
-                  "Misteriös",
-                  "Lügner*in",
-                  "hinterhältig"
+                  "kräftig",
+                  "geduldig",
+                  "zuverlässig"
                ]
             },
             {
-               "name":"eigentlich ein Außerirdischer",
+               "name":"Dachdecker",
                "required":false,
                "tags":[
-                  "alien",
-                  "ausserweltlich"
+                  "sportlich",
+                  "schwindelfrei",
+                  "hartnäckig"
                ]
             },
             {
-               "name":"macht Ketchup auf Spaghetti",
+               "name":"Elektriker",
                "required":false,
                "tags":[
-                  "ekelhaft",
-                  "Spinner*in"
+                  "intelligent",
+                  "fingerfertig"
                ]
             },
             {
-               "name":"hasst die anderen Spieler",
+               "name":"Verbringt 24/7 auf dem Dixi-Klo",
                "required":false,
                "tags":[
-                  "Rebell*in",
-                  "nachtragend",
-                  "schüchtern"
+                  "faul",
+                  "betrügerisch",
+                  "unzuverlässig"
                ]
             }
          ],
@@ -4744,44 +4669,33 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wo würdest du eine Leiche verstecken?",
-                     "name":"eine Leiche vergraben",
+                     "question":"Wie sieht dein Traumhaus aus?",
+                     "name":"Architekt",
                      "idx":0
                   },
                   {
                      "role":2,
-                     "question":"Wie lauten die Namen deiner heimlichen Kinder?",
-                     "name":"geheime Familie",
+                     "question":"Welchen Stein würdest du für das Fundament verwenden?",
+                     "name":"Maurer",
                      "idx":1
                   },
                   {
                      "role":4,
-                     "question":"Was ist das Ekligste, was du jemals gegessen hast?",
-                     "name":"macht Ketchup auf Spaghetti",
+                     "question":"Welche ist für dich die beste Art Strom zu erzeugen?",
+                     "name":"Elektriker",
                      "idx":5
                   },
                   {
                      "role":3,
-                     "question":"Welches ist dein Geheimcodewort oder -satz, um andere Außerirdische wissen zu lassen, dass du ebenfalls ein Außerirdischer bist?",
-                     "name":"eigentlich ein Außerirdischer",
+                     "question":"Was ist das Gefährlichste, was dir bei der Arbeit schon passiert ist?",
+                     "name":"Dachdecker",
                      "idx":7
                   },
                   {
                      "role":5,
-                     "question":"Was würdest du lieber tun, anstatt ein Partyspiel mit Leuten zu spielen, die du offensichtlich hasst?",
-                     "name":"hasst die anderen Spieler",
+                     "question":"Was machst du, um dich vor der Arbeit zu drücken?",
+                     "name":"Verbringt 24/7 auf dem Dixi-Klo",
                      "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":3,
-                     "question":"Bitte sprich in deiner außerirdischen Muttersprache",
-                     "name":"eigentlich ein Außerirdischer",
-                     "idx":2
                   }
                ]
             },
@@ -4790,48 +4704,27 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer hat im Moment wahrscheinlich das meiste Bargeld bei sich?",
-                     "name":"Millionen veruntreut",
+                     "question":"Wer geht ein Problem systematisch an?",
+                     "name":"Statiker",
                      "idx":4
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
+                  },
                   {
-                     "role":5,
-                     "question":"Wer hasst den Raum und wer denkt, dass der Raum ihn*sie hasst?",
-                     "roles":[
-                        {
-                           "name":"hasst den Raum",
-                           "tags":[
-                              "Rebell*in",
-                              "nachtragend"
-                           ]
-                        },
-                        {
-                           "name":"wird vom Raum gehasst",
-                           "tags":[
-                              "Ausgestossene*r",
-                              "schüchtern"
-                           ]
-                        }
-                     ],
-                     "name":"hasst die anderen Spieler",
-                     "idx":6
+                     "role":3,
+                     "question":"Wer hat keine Höhenangst?",
+                     "name":"Dachdecker",
+                     "idx":2
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"hat soeben gefurtzt",
+                     "name":"Beamter vom Bauamt",
                      "idx":3,
                      "tags":[
-                        "grob",
-                        "Scherzkeks",
-                        "penetrant"
+                        "streng",
+                        "bürokratisch",
+                        "langweilig"
                      ]
                   }
                ],
@@ -4839,64 +4732,69 @@
             }
          ],
          "id":56253,
-         "category":"Dunkle Geheimnisse",
-         "prompt":"Was sind wohl eure wahrscheinlichsten tiefdunklen Geheimnisse?"
+         "category":"Aufgaben auf einer Baustelle",
+         "prompt":"Wer übernimmt welche Aufgabe auf einer Baustelle?"
       },
       {
          "roles":[
             {
-               "name":"gerahmtes Foto des*der Ex",
+               "name":"Ein Bild von der Gesamtsituation machen",
+               "short":"Der Analytiker",
                "required":false,
                "tags":[
-                  "Romantiker*in",
-                  "anhänglich",
-                  "mit gebrochenem Herz"
+                  "nachdenklich",
+                  "ruhig",
+                  "strukturiert"
                ]
             },
             {
-               "name":"lebt bei den Eltern",
+               "name":"Mit Gewalt kann man viel erreichen",
+               "short":"Der Gewalttätige",
                "required":false,
                "tags":[
-                  "Kind",
-                  "Feigling",
-                  "unreif",
-                  "jugendlich",
-                  "Langweiler"
+                  "aggressiv",
+                  "laut",
+                  "impulsiv",
+                  "unreif"
                ]
             },
             {
-               "name":"besitzt mehrere Eidechsen",
-               "required":false,
-               "tags":[
-                  "Tierliebhaber*in",
-                  "unheimlich",
-                  "unheimlich"
-               ]
-            },
-            {
-               "name":"isst nur Chicken Nuggets",
+               "name":"Die Anderen machen lassen",
+               "short":"Der Mitläufer",
                "required":false,
                "tags":[
                   "vorsichtig",
-                  "Faulpelz",
-                  "bieder"
+                  "ignorant",
+                  "faul"
                ]
             },
             {
-               "name":"viele Stofftiere auf dem Bett",
+               "name":"Auf Hinweise durch den Spielleiter warten",
+               "short":"Der Faule",
                "required":false,
                "tags":[
-                  "niedlich",
-                  "dämlich",
-                  "sweetheart"
+                  "entspannt",
+                  "dumm",
+                  "lässig"
                ]
             },
             {
-               "name":"hat zwei Handys",
+               "name":"Die Regeln des Betreibers ignorieren",
+               "short":"Der Rebell",
                "required":false,
                "tags":[
-                  "Verbrecher*in",
-                  "zwielichtig"
+                  "frech",
+                  "unkooperativ"
+               ]
+            },
+            {
+               "name":"Jeder für sich",
+               "short":"Der Egoist",
+               "required":false,
+               "tags":[
+                  "egoistisch",
+                  "selbstsüchtig",
+                  "unfreundlich"
                ]
             }
          ],
@@ -4910,38 +4808,38 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was macht der/die Ex auf dem Foto?",
-                     "name":"gerahmtes Foto des*der Ex",
+                     "question":"Was ist dein erster Schritt, wenn du in einen Escape Room kommst?",
+                     "name":"Ein Bild von der Gesamtsituation machen",
                      "idx":0
                   },
                   {
                      "role":2,
-                     "question":"Wie lauten die Namen der Eidechsen?",
-                     "name":"besitzt mehrere Eidechsen",
+                     "question":"Wieso überlässt du die Arbeit im Team den anderen?",
+                     "name":"Die Anderen machen lassen",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Erkläre das kleine Kindheitstrauma, das dich dazu veranlasst hat, Trost in einem Leben voller Chicken Nuggets zu suchen.",
-                     "name":"isst nur Chicken Nuggets",
+                     "question":"Warum kannst du nichts alleine machen?",
+                     "name":"Auf Hinweise durch den Spielleiter warten",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Was ist eine akzeptable Entschuldigung für den Besitz von zwei Handys?",
-                     "name":"hat zwei Handys",
+                     "question":"Wofür würdest du deine Kollegen im Stich lassen?",
+                     "name":"Jeder für sich",
                      "idx":5
                   },
                   {
                      "role":1,
-                     "question":"Was ist das Coolste daran, ein Date nach Hause zu deinen Eltern mitzubringen?",
-                     "name":"lebt bei den Eltern",
+                     "question":"Womit würdest du eine Tür aufbrechen?",
+                     "name":"Mit Gewalt kann man viel erreichen",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wie\u2019 heißt dein Lieblings-Plüschtier?",
-                     "name":"viele Stofftiere auf dem Bett",
+                     "question":"Was hältst du von Regeln?",
+                     "name":"Die Regeln des Betreibers ignorieren",
                      "idx":4
                   }
                ]
@@ -4949,12 +4847,12 @@
             {
                "roles":[
                   {
-                     "name":"bringt beiläufig Kannibalismus zur Sprache",
+                     "name":"Sich gar nicht erst in einen Escape Room begeben",
+                     "short":"Der Angsthase",
                      "idx":6,
                      "tags":[
-                        "kulinarisch",
-                        "hungrig",
-                        "Serienmörder*in"
+                        "ängstlich",
+                        "feige"
                      ]
                   }
                ],
@@ -4962,8 +4860,8 @@
             }
          ],
          "id":56676,
-         "category":"Warnzeichen bei Dates",
-         "prompt":"Welche Warnzeichen bei einem Date seid ihr?"
+         "category":"Escape Room",
+         "prompt":"Wer von euch wählt welches Vorgehen in einem Escape Room?"
       },
       {
          "roles":[
@@ -4971,25 +4869,24 @@
                "name":"Freitag",
                "required":true,
                "tags":[
-                  "energetisiert",
-                  "Party Typ"
+                  "vielseitig",
+                  "kreativ"
                ]
             },
             {
                "name":"Sonntag",
                "required":true,
                "tags":[
-                  "relaxed",
-                  "Faulpelz",
-                  "schläfrig"
+                  "entspannt",
+                  "faul"
                ]
             },
             {
                "name":"Montag",
                "required":true,
                "tags":[
-                  "fokussiert",
-                  "Arbeiter*in"
+                  "nervig",
+                  "müde"
                ]
             },
             {
@@ -4997,24 +4894,23 @@
                "required":true,
                "tags":[
                   "unbekümmert",
-                  "sozial",
-                  "urlauber*in"
+                  "fröhlich"
                ]
             },
             {
                "name":"Mittwoch",
                "required":false,
                "tags":[
-                  "gelangweilt",
-                  "häftling",
-                  "eingeklemmt"
+                  "verrückt",
+                  "normal",
+                  "durchschnittlich"
                ]
             },
             {
                "name":"Donnerstag",
                "required":false,
                "tags":[
-                  "Nervenbündel",
+                  "optimistisch",
                   "erwartungsvoll"
                ]
             }
@@ -5041,13 +4937,13 @@
                   },
                   {
                      "role":4,
-                     "question":"Was ist das langweiligste Sandwich, das man sich vorstellen kann?",
+                     "question":"Was macht den Mittwoch besonders?",
                      "name":"Mittwoch",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Warum ist der Donnerstag eigentlich besser als der Freitag? Bringee diene Argumente vor.",
+                     "question":"Warum ist der Donnerstag eigentlich besser als der Freitag?",
                      "name":"Donnerstag",
                      "idx":5
                   }
@@ -5064,64 +4960,9 @@
                   },
                   {
                      "role":1,
-                     "question":"Wer ist an einem Freitag um Wer hat keine Schwierigkeiten, am Sonntag bis mittags zu schlafen?",
+                     "question":"Wer hat keine Schwierigkeiten, am Sonntag bis mittags zu schlafen?",
                      "name":"Sonntag",
                      "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Mit welchem Himmelskörper ist der Montag verbunden?",
-                     "correct":"der Mond",
-                     "name":"Montag",
-                     "altSpellings":[
-                        "Mond",
-                        "mond"
-                     ],
-                     "idx":7
-                  },
-                  {
-                     "role":0,
-                     "question":"Wer war Co-Autor und Hauptdarsteller in dem Film <i>Friday<\/i> von 1995?",
-                     "correct":"Ice Cube",
-                     "name":"Freitag",
-                     "altSpellings":[
-                        "ice cube",
-                        "icecube"
-                     ],
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Wer ist \u201cden ganzen Tag Fußball schauen\u201d Sonntag, und wer ist \u201cdas Buch weiterlesen, das man nicht zu Ende bekommt\u201d Sonntag?",
-                     "roles":[
-                        {
-                           "name":"Fußballsonntag",
-                           "tags":[
-                              "Athlet*in",
-                              "trinkend",
-                              "essend"
-                           ]
-                        },
-                        {
-                           "name":"Lesen nachholen Sonntag",
-                           "tags":[
-                              "literarisch",
-                              "Faulpelz"
-                           ]
-                        }
-                     ],
-                     "name":"Sonntag",
-                     "idx":9
                   }
                ]
             },
@@ -5131,8 +4972,9 @@
                      "name":"Dienstag",
                      "idx":2,
                      "tags":[
-                        "rätsel",
-                        "unbeschreiblich"
+                        "organisiert",
+                        "pflichtbewusst",
+                        "verantwortungsbewusst"
                      ]
                   }
                ],
