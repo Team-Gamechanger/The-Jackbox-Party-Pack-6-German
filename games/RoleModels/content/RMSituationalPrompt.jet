@@ -4992,8 +4992,7 @@
                "required":true,
                "tags":[
                   "hungrig",
-                  "Chaot*in",
-                  "snacker"
+                  "chaotisch"
                ]
             },
             {
@@ -5001,7 +5000,7 @@
                "required":true,
                "tags":[
                   "gierig",
-                  "pfennigfuchser*in",
+                  "sparsam",
                   "wohlhabend"
                ]
             },
@@ -5010,24 +5009,25 @@
                "required":true,
                "tags":[
                   "arrogant",
-                  "Prahlhans",
-                  "Angeber*in"
+                  "stolz",
+                  "selbstbewusst"
                ]
             },
             {
                "name":"Trägheit",
                "required":true,
                "tags":[
-                  "lazy",
-                  "Faulpelz"
+                  "entspannt",
+                  "faul",
+                  "träge"
                ]
             },
             {
                "name":"Wollust",
                "required":true,
                "tags":[
-                  "flirt",
-                  "sexy"
+                  "verführerisch",
+                  "schön"
                ]
             },
             {
@@ -5035,7 +5035,7 @@
                "required":true,
                "tags":[
                   "wütend",
-                  "hitzkopf",
+                  "reizbar",
                   "gewalttätig"
                ]
             }
@@ -5115,7 +5115,8 @@
                      "idx":2,
                      "tags":[
                         "neidisch",
-                        "Intrigant*in"
+                        "intrigierend",
+                        "eifersüchtig"
                      ]
                   }
                ],
@@ -5129,22 +5130,22 @@
       {
          "roles":[
             {
-               "name":"gegenwärtig",
+               "name":"Gegnwart",
                "required":true,
                "tags":[
                   "vielfältig",
-                  "influencer",
+                  "flexibel",
                   "paranoid",
-                  "drahtlos"
+                  "modern"
                ]
             },
             {
                "name":"1890er",
                "required":true,
                "tags":[
-                  "Blaumann",
+                  "historisch",
                   "industriell",
-                  "Arbeiter*in"
+                  "hart"
                ]
             },
             {
@@ -5152,38 +5153,35 @@
                "required":true,
                "tags":[
                   "schmuddelig",
-                  "hip hop",
-                  "Faulpelz"
+                  "faul"
                ]
             },
             {
                "name":"1980er",
                "required":true,
                "tags":[
-                  "Dummbatz",
+                  "dumm",
                   "gierig",
-                  "materialist*in"
+                  "laut"
                ]
             },
             {
                "name":"1970er",
                "required":false,
                "tags":[
-                  "Hippie",
+                  "rebellisch",
                   "unbekümmert",
-                  "Freie-Liebe",
-                  "politisch",
-                  "demonstrant*in"
+                  "politisch"
                ]
             },
             {
                "name":"1950er",
                "required":false,
                "tags":[
-                  "optimist*in",
-                  "Langweiler",
+                  "optimistisch",
+                  "langweilig",
                   "traditionell",
-                  "heilsam"
+                  "konservativ"
                ]
             }
          ],
@@ -5198,7 +5196,7 @@
                   {
                      "role":0,
                      "question":"Was würdest du tun, wenn du nie wieder online gehen könntest?",
-                     "name":"gegenwärtig",
+                     "name":"Gegenwart",
                      "idx":0
                   },
                   {
@@ -5220,19 +5218,19 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer gehört auf eines dieser altmodischen Fotos von Fabrikarbeitern?",
+                     "question":"Wer wäre in einer Fabrik in der industriellen Revolution gut aufgehoben?",
                      "name":"1890er",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Wer würde am besten mit großem, übersprühtem/pomadigem 80er-Jahre-Haar aussehen?",
+                     "question":"Wer würde am besten mit einer 80er-Frisur aussehen?",
                      "name":"1980er",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wer will insgeheim ein Haus mit einem weißen Lattenzaun und 2,3 Kindern?",
+                     "question":"Wer will insgeheim ein Haus mit einem weißen Lattenzaun und 2-3 Kindern?",
                      "name":"1950er",
                      "idx":5
                   }
@@ -5244,8 +5242,8 @@
                      "name":"50,000 v. Chr. - 49,990 v. Chr.",
                      "idx":6,
                      "tags":[
-                        "Neandertaler",
-                        "überlebende*r",
+                        "zurückgezogen",
+                        "primitiv",
                         "hart"
                      ]
                   }
@@ -5264,26 +5262,24 @@
                "required":false,
                "tags":[
                   "vorsichtig",
-                  "bewacht",
-                  "Angsthase"
+                  "misstrauisch",
+                  "ängstlich"
                ]
             },
             {
-               "name":"Sprechen in der Öffentlichkeit",
+               "name":"Ein dunkler Raum ohne Kontakt zur Außenwelt",
                "required":false,
                "tags":[
-                  "Introvertierte*r",
-                  "nervöses Wrack",
-                  "ruhig",
-                  "schüchtern"
+                  "isoliert",
+                  "nervös"
                ]
             },
             {
-               "name":"die Zukunft",
+               "name":"Die Zukunft",
                "required":false,
                "tags":[
                   "nostalgisch",
-                  "Bedenkenträger*in"
+                  "konservativ"
                ]
             },
             {
@@ -5291,7 +5287,6 @@
                "required":false,
                "tags":[
                   "kindlich",
-                  "Spassbremse",
                   "unheimlich"
                ]
             },
@@ -5300,15 +5295,16 @@
                "required":false,
                "tags":[
                   "sauber",
-                  "Gesundheitsfanatiker*in"
+                  "hygienisch",
+                  "besorgt"
                ]
             },
             {
-               "name":"gemeine Jugendliche",
+               "name":"Krisen",
                "required":false,
                "tags":[
-                  "neurotisch",
-                  "Langweiler"
+                  "stressig",
+                  "überfordert"
                ]
             }
          ],
@@ -5328,14 +5324,14 @@
                   },
                   {
                      "role":1,
-                     "question":"Wenn du unbedingt müsstest, über welches Thema könntest du einen 5-minütigen Vortrag halten?",
-                     "name":"Sprechen in der Öffentlichkeit",
+                     "question":"Wie würdest du die Zeit in einem dunklen Raum ohne Kontakt zur Außenwelt verbringen?",
+                     "name":"Ein dunkler Raum ohne Kontakt zur Außenwelt",
                      "idx":2
                   },
                   {
                      "role":2,
                      "question":"Welches unserer Haushaltsgeräte wird sich in Zukunft zuerst gegen die Menschheit wenden?",
-                     "name":"die Zukunft",
+                     "name":"Die Zukunft",
                      "idx":3
                   },
                   {
@@ -5352,20 +5348,9 @@
                   },
                   {
                      "role":5,
-                     "question":"Was machst du, um gemeine Jugendliche abzuwehren?",
-                     "name":"gemeine Jugendliche",
+                     "question":"Was sind die größten Krisen, mit denen du in deinem Leben konfrontiert warst?",
+                     "name":"Krisen",
                      "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":3,
-                     "question":"Mache einen Clown nach der erfährt, dass er als erstes ein- und als letztes aussteigen soll bei einem \u201c20-Clowns\u201d Clownauto.",
-                     "name":"Clowns",
-                     "idx":8
                   }
                ]
             },
@@ -5383,10 +5368,10 @@
             {
                "roles":[
                   {
-                     "name":"Mit den eigenen Gedanken allein sein",
+                     "name":"Der Tod",
                      "idx":0,
                      "tags":[
-                        "Einzelgänger*in",
+                        "chaotisch",
                         "nachdenklich"
                      ]
                   }
@@ -5396,67 +5381,61 @@
          ],
          "id":57336,
          "category":"Tiefste Ängste",
-         "prompt":"Welche davon ist eure tiefste Angst?"
+         "prompt":"Welche von diesen ist eure tiefste Angst?"
       },
       {
          "roles":[
             {
-               "name":"stilvoller britischer Ermittler",
+               "name":"Revolver",
                "required":false,
                "tags":[
-                  "british",
-                  "mit Klasse",
+                  "elegant",
                   "selbstbewusst",
-                  "Held",
-                  "mastermind",
-                  "stylish"
+                  "stilvoll"
                ]
             },
             {
-               "name":"hartgesottener Privatdetektiv",
+               "name":"Katana",
                "required":false,
                "tags":[
-                  "Held",
-                  "Rebell*in",
-                  "hart"
+                  "geschickt",
+                  "sportlich"
                ]
             },
             {
-               "name":"verführerischer Undercover-Agent",
+               "name":"Wurfsterne",
                "required":false,
                "tags":[
+                  "unberechenbar",
+                  "schnell",
+                  "feige"
+               ]
+            },
+            {
+               "name":"Scharfschützengewehr",
+               "required":true,
+               "tags":[
+                  "präzise",
+                  "ruhig",
+                  "geduldig"
+               ]
+            },
+            {
+               "name":"Bloße Fäuste",
+               "required":false,
+               "tags":[
+                  "chaotisch",
                   "mutig",
-                  "Held",
-                  "Romantiker*in",
-                  "unberechenbar"
+                  "aggressiv"
                ]
             },
             {
-               "name":"super-intelligentes Kind",
+               "name":"Bumerang",
                "required":true,
                "tags":[
-                  "Kind",
-                  "clever",
-                  "smart"
-               ]
-            },
-            {
-               "name":"aufmerksamer Großelternteil",
-               "required":false,
-               "tags":[
-                  "Älteste*r",
-                  "mentor*in",
-                  "unbeachtet",
-                  "spitzzüngig",
-                  "weise"
-               ]
-            },
-            {
-               "name":"sprechender Zeichentrick-Hai",
-               "required":true,
-               "tags":[
-                  "animal",
-                  "Dummbatz"
+                  "witzig",
+                  "berechenbar",
+                  "intelligent"
                ]
             }
          ],
@@ -5470,32 +5449,32 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Welches Hobby oder welche Aktivität hilft euch beim Denken?",
-                     "name":"stilvoller britischer Ermittler",
+                     "question":"Wie würde man dich als Revolverheld nennen?",
+                     "name":"Revolver",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Warum wurdest du bei der Polizei rausgeworfen?",
-                     "name":"hartgesottener Privatdetektiv",
+                     "question":"An welchem Obst würdest du deine Katana-Fähigkeiten üben?",
+                     "name":"Katana",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Was ist das verführerischste Outfit, das du jemals getragen hast?",
-                     "name":"verführerischer Undercover-Agent",
+                     "question":"Was ist deine geheime Wurfsternentechnik?",
+                     "name":"Wurfsterne",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wer hat wahrscheinlich die meisten Smiley-Aufkleber im Kindergarten bekommen?",
-                     "name":"super-intelligentes Kind",
+                     "question":"Was ist dein bester Rat für jemanden, der ein Scharfschützengewehr benutzt?",
+                     "name":"Scharfschützengewehr",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Welches Tier würde den besten Detektiv abgeben?",
-                     "name":"sprechender Zeichentrick-Hai",
+                     "question":"Woraus besteht dein Bumerang?",
+                     "name":"Bumerang",
                      "idx":6
                   }
                ]
@@ -5505,8 +5484,8 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Wer wird den Ruhestand wahrscheinlich am meisten hassen?",
-                     "name":"aufmerksamer Großelternteil",
+                     "question":"Wer nutzt gerne den direktesten Weg unter allen Optionen?",
+                     "name":"Bloße Fäuste",
                      "idx":5
                   }
                ]
@@ -5514,11 +5493,11 @@
             {
                "roles":[
                   {
-                     "name":"kann das Ende des Tatorts erraten",
+                     "name":"Einen Pitbull",
                      "idx":3,
                      "tags":[
-                        "Hobbydetektiv*in",
-                        "erwachsen",
+                        "tierlieb",
+                        "beschützend",
                         "wachsam"
                      ]
                   }
@@ -5527,66 +5506,62 @@
             }
          ],
          "id":56758,
-         "category":"Detektive",
-         "prompt":"Welche Art von Rätsellöser seid ihr?"
+         "category":"Im Duell",
+         "prompt":"Welche Waffe würdet ihr in einem Duell wählen?"
       },
       {
          "roles":[
             {
-               "name":"die Pissoirs in Brand gesteckt",
-               "short":"Pissoirfeuer",
+               "name":"Feueralarm ausgelöst",
                "required":false,
                "tags":[
-                  "punk",
+                  "mutig",
                   "rebellisch"
                ]
             },
             {
-               "name":"ließ das Klassenhaustier im Wald frei",
-               "short":"Haustier freilassen",
+               "name":"Hat den Lehrer angegriffen",
                "required":false,
                "tags":[
-                  "Weltverbesserer",
-                  "nett",
-                  "leidenschaftlich"
+                  "aggressiv",
+                  "kämpferisch",
+                  "ungezogen"
                ]
             },
             {
-               "name":"Antworten für den Test gestohlen",
-               "short":"geklaute Testantworten",
+               "name":"Antworten für Prüfung gestohlen",
                "required":false,
                "tags":[
                   "habgierig",
-                  "Dieb*in"
-               ]
-            },
-            {
-               "name":"Furzgeräusche über den Lautsprecher abgespielt",
-               "short":"Furzgeräusche",
-               "required":false,
-               "tags":[
-                  "grob",
-                  "Scherzkeks"
-               ]
-            },
-            {
-               "name":"den Schulbus für eine Spritztour genommen",
-               "short":"Busspritztour",
-               "required":false,
-               "tags":[
-                  "mutig",
-                  "Fahrer*in",
+                  "betrügerisch",
                   "gewieft"
                ]
             },
             {
-               "name":"hat einen Abschluss, hängt aber immer noch herum",
-               "short":"Abschluss fertig",
+               "name":"Hat Klassenkameraden gemobbt",
                "required":false,
                "tags":[
-                  "Faulpelz",
-                  "unbeschäftigt",
-                  "Besucher*in"
+                  "dominant",
+                  "unsympathisch",
+                  "gemein"
+               ]
+            },
+            {
+               "name":"Wurde vom eigentlichen Übeltäter verkauft",
+               "required":false,
+               "tags":[
+                  "unschuldig",
+                  "naiv",
+                  "gutgläubig"
+               ]
+            },
+            {
+               "name":"Hatte nichts Besseres zu tun",
+               "required":false,
+               "tags":[
+                  "lässig",
+                  "sorglos",
+                  "unkompliziert"
                ]
             }
          ],
@@ -5600,31 +5575,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist das Beeindruckendste, was du je in Brand gesteckt hast?",
-                     "name":"die Pissoirs in Brand gesteckt",
+                     "question":"Was hast du schonmal in Brand gesteckt?",
+                     "name":"Feueralarm ausgelöst",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Beschreibe das schlimmste Furzgeräusch mit 3 oder weniger Wörtern.",
-                     "name":"Furzgeräusche über den Lautsprecher abgespielt",
+                     "question":"Warum würdest du jemanden mobben?",
+                     "name":"Hat Klassenkameraden gemobbt",
                      "idx":4
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":3,
-                     "question":"Mache ein kompliziertes und nuanciertes Furzgeräusch.",
-                     "name":"Furzgeräusche über den Lautsprecher abgespielt",
-                     "idx":1
                   },
                   {
                      "role":5,
-                     "question":"Mach deine beste Matthew-McConaughey-Imitation.",
-                     "name":"hat einen Abschluss, hängt aber immer noch herum",
+                     "question":"Was müsste zuhause los sein, dass du lieber nachsitzen würdest?",
+                     "name":"Hatte nichts Besseres zu tun",
                      "idx":7
                   }
                ]
@@ -5634,26 +5598,32 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer hat als Kind am am meisten auf Pferde gestanden?",
-                     "name":"ließ das Klassenhaustier im Wald frei",
+                     "question":"Wer würde die Faust statt Worte für sich sprechen lassen?",
+                     "name":"Hat den Lehrer angegriffen",
                      "idx":0
                   },
                   {
+                     "role":3,
+                     "question":"Wer würde andere mobben, weil er sonst selbst zum Opfer wird?",
+                     "name":"Hat Klassenkameraden gemobbt",
+                     "idx":1
+                  },
+                  {
                      "role":2,
-                     "question":"Wer würde wegen Streberverbrechen angeklagt werden?",
+                     "question":"Wer würde schummeln statt zu lernen?",
                      "name":"Antworten für den Test gestohlen",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wer hat das größte Fahrzeug gefahren?",
-                     "name":"den Schulbus für eine Spritztour genommen",
+                     "question":"Wer würde selbst Freunde verraten, um nicht bestraft zu werden?",
+                     "name":"Wurde vom eigentlichen Übeltäter verkauft",
                      "idx":5
                   },
                   {
                      "role":5,
-                     "question":"Wer ist die Person, die als letztes eine Partei verlässt?",
-                     "name":"hat einen Abschluss, hängt aber immer noch herum",
+                     "question":"Wer hat zu viel Zeit?",
+                     "name":"Hatte nichts Besseres zu tun",
                      "idx":6
                   }
                ]
@@ -5661,12 +5631,11 @@
             {
                "roles":[
                   {
-                     "name":"mag einfach zusätzliche Hausaufgaben",
+                     "name":"Mag einfach zusätzliche Hausaufgaben",
                      "idx":8,
                      "tags":[
-                        "Introvertierte*r",
-                        "nerd",
-                        "smart",
+                        "intelligent",
+                        "introvertiert",
                         "lernbegierig"
                      ]
                   }
@@ -5676,26 +5645,25 @@
          ],
          "id":56639,
          "category":"Nachsitzen",
-         "prompt":"Warum muss jeder von euch nach der Schule nachsitzen?"
+         "prompt":"Warum muss jeder von euch nach dem Unterricht nachsitzen?"
       },
       {
          "roles":[
             {
-               "name":"Labrador Retriever",
+               "name":"Siberian Husky",
                "required":false,
                "tags":[
                   "zuverlässig",
-                  "Begleiter*in",
-                  "loyal",
-                  "sidekick"
+                  "freundlich",
+                  "loyal"
                ]
             },
             {
                "name":"Bulldogge",
                "required":false,
                "tags":[
-                  "Vollstrecker",
-                  "Griesgram",
+                  "griesgrämig",
+                  "hartnäckig",
                   "aufdringlich",
                   "stark"
                ]
@@ -5704,34 +5672,35 @@
                "name":"Chihuahua",
                "required":false,
                "tags":[
-                  "niedlich",
-                  "maskottchen",
+                  "laut",
+                  "hässlich",
                   "nervös"
                ]
             },
             {
-               "name":"Windhund",
+               "name":"Shiba Inu",
                "required":false,
                "tags":[
-                  "Athlet*in",
-                  "schnell"
+                  "unabhängig",
+                  "schnell",
+                  "clever"
                ]
             },
             {
-               "name":"Rottweiler",
+               "name":"Australian Shepherd",
                "required":false,
                "tags":[
                   "mutig",
-                  "Kämpfer*in",
-                  "missverstanden"
+                  "beschützend",
+                  "intelligent"
                ]
             },
             {
                "name":"Pudel",
                "required":false,
                "tags":[
-                  "diva",
-                  "fancy"
+                  "arrogant",
+                  "eitel" 
                ]
             }
          ],
@@ -5745,7 +5714,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Was ist dein größtes Ärgernis für Haustiere?",
+                     "question":"Was ist dein größtes Ärgernis?",
                      "name":"Bulldogge",
                      "idx":3
                   },
@@ -5757,20 +5726,9 @@
                   },
                   {
                      "role":4,
-                     "question":"Du magst äußerlich hart sein, aber was ist etwas, das dich weich und sentimental macht?",
-                     "name":"Rottweiler",
+                     "question":"Wann würdest du deine Familie immer beschützen?",
+                     "name":"Australian Shepherd",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":5,
-                     "question":"Bitte versuche, mit französischem Akzent zu bellen.",
-                     "name":"Pudel",
-                     "idx":7
                   }
                ]
             },
@@ -5786,52 +5744,26 @@
                   {
                      "role":0,
                      "question":"Wem kann man vertrauen, dass er tatsächlich das tut, worum er gebeten wurde?",
-                     "name":"Labrador Retriever",
+                     "name":"Siberian Husky",
                      "idx":2
                   },
                   {
                      "role":3,
                      "question":"Wer ist der schnellste Fahrer?",
-                     "name":"Windhund",
+                     "name":"Shiba Inu",
                      "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Wer ist der Sonnenbrille und den winzigen Hut tragende Party-Chihuahua und wer ist der zitternde, nervöse Chihuahua?",
-                     "roles":[
-                        {
-                           "name":"Party Chihuahua",
-                           "tags":[
-                              "unbekümmert",
-                              "Party Typ"
-                           ]
-                        },
-                        {
-                           "name":"zitternder Chihuahua",
-                           "tags":[
-                              "nervös",
-                              "nervöses Wrack"
-                           ]
-                        }
-                     ],
-                     "name":"Chihuahua",
-                     "idx":8
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Dackel",
+                     "name":"Samojede",
                      "idx":0,
                      "tags":[
-                        "doof",
-                        "Sonderling"
+                        "freundlich",
+                        "fröhlich",
+                        "liebenswert"
                      ]
                   }
                ],
@@ -5845,54 +5777,57 @@
       {
          "roles":[
             {
-               "name":"Zeitschrift zur Hochzeit von Prominenten",
+               "name":"Drache",
                "required":false,
                "tags":[
-                  "Braut",
-                  "berühmt",
-                  "fancy"
+                  "mächtig",
+                  "feurig",
+                  "furchtlos"
                ]
             },
             {
-               "name":"großes Ding aus Kaugummi",
+               "name":"Phönix",
                "required":false,
                "tags":[
-                  "Hauch frischer Luft",
-                  "erfrischend"
+                  "elegant",
+                  "schnell",
+                  "majestätisch"
                ]
             },
             {
-               "name":"überteuertes Telefonladegerät",
+               "name":"Vampir",
                "required":false,
                "tags":[
-                  "geldsack",
-                  "vorbereitet"
+                  "charmant",
+                  "geheimnisvoll",
+                  "mysteriös"
                ]
             },
             {
-               "name":"6€ DVD mit <i>Während du schliefst<\/i>",
-               "short":"<i>Während du schliefst<\/i> DVD",
+               "name":"Pegasus",
                "required":true,
                "tags":[
-                  "niedlich",
-                  "Schwarm",
-                  "Romantiker*in"
+                  "fröhlich",
+                  "optimistisch",
+                  "frei"
                ]
             },
             {
-               "name":"5-Stunden-Energy",
+               "name":"Meerjungfrau",
                "required":false,
                "tags":[
-                  "energetisiert",
-                  "Party Typ"
+                  "verführerisch",
+                  "kreativ",
+                  "träumerisch"
                ]
             },
             {
-               "name":"Grippeimpfung für unterwegs",
+               "name":"Dämon",
                "required":true,
                "tags":[
-                  "vorsichtig",
-                  "Gesundheitsfanatiker*in"
+                  "gefährlich",
+                  "furchterregend",
+                  "chaotisch"
                ]
             }
          ],
@@ -5906,88 +5841,51 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Du heiratest Danny Devito.  Was ist Euer Hochzeits-Hashtag?",
-                     "name":"Zeitschrift zur Hochzeit von Prominenten",
+                     "question":"Welche Farbe hätten deine Schuppen?",
+                     "name":"Drache",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Wie riecht der Atem eines Menschen, nachdem er dich gekaut hat?",
-                     "name":"großes Ding aus Kaugummi",
+                     "question":"Wohin würdest du fliegen, wenn du könntest?",
+                     "name":"Phönix",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Jemand steckt dich in seine Ramschschublade.  Mit welchem anderen nutzlosen Gegenstand freundest du dich an?",
-                     "name":"überteuertes Telefonladegerät",
+                     "question":"Wer wäre dein erstes Opfer?",
+                     "name":"Vampir",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Was würde der Rezensionstext auf deiner Rückseite enthalten?",
-                     "name":"6€ DVD mit <i>Während du schliefst<\/i>",
+                     "question":"Was müsste jemand tun, um auf dir reiten zu dürfen?",
+                     "name":"Pegasus",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Was ist das Beste, was du jemals in weniger als fünf Stunden erreicht hast?",
-                     "name":"5-Stunden-Energy",
+                     "question":"Was würdest du unter Wasser tun, wenn du eine Meerjungfrau wärst?",
+                     "name":"Meerjungfrau",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Du wirst geschrumpft und in den Kampf gegen eine Armee von Grippe-Keimen geschickt.  Was ist die Waffe der Wahl?",
-                     "name":"Grippeimpfung für unterwegs",
+                     "question":"Welche Art von Dämon wärst du?",
+                     "name":"Dämon",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"FightTiebreaker",
-               "prompts":[
-                  {
-                     "role":4,
-                     "question":"Wen würdet ihr als \u201dkann Sammlung energetisierende geheimnisvoller Inhaltsstoffe enthalten\u201d beschreiben?",
-                     "name":"5-Stunden-Energy",
-                     "idx":7
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Wer ist eher süße Minze und wer ist eher winterkalt?",
-                     "roles":[
-                        {
-                           "name":"Süßes Minzkaugummi",
-                           "tags":[
-                              "Hauch frischer Luft",
-                              "süss"
-                           ]
-                        },
-                        {
-                           "name":"Winterkaltes Kaugummi",
-                           "tags":[
-                              "Hauch frischer Luft",
-                              "cool"
-                           ]
-                        }
-                     ],
-                     "name":"großes Ding aus Kaugummi",
-                     "idx":6
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Schwangerschaftstest",
+                     "name":"Zentaur",
                      "idx":8,
                      "tags":[
-                        "ängstlich",
-                        "Bedenkenträger*in"
+                        "sportlich",
+                        "weise",
+                        "naturnah"
                      ]
                   }
                ],
@@ -5995,60 +5893,63 @@
             }
          ],
          "id":57449,
-         "category":"Impulskäufe in der Apotheke",
-         "prompt":"Welcher zu teure Impulskauf ist jeder von euch?"
+         "category":"Fabelwesen",
+         "prompt":"Welches Fabelwesen wäre jeder von euch?"
       },
       {
          "roles":[
             {
-               "name":"Oben-Ohne Typ",
+               "name":"Horror",
                "required":false,
                "tags":[
-                  "selbstbewusst",
-                  "Fitnessfanatiker*in",
-                  "Schwarm"
+                  "ängstlich",
+                  "nervös",
+                  "schreckhaft"
                ]
             },
             {
-               "name":"Typ der einen Fisch hält",
+               "name":"Action",
                "required":false,
                "tags":[
-                  "naturliebhaber*in",
-                  "sportlich"
+                  "mutig",
+                  "wild",
+                  "abenteuerlustig"
                ]
             },
             {
-               "name":"Selfie im Auto Typ",
+               "name":"Komödie",
                "required":false,
                "tags":[
-                  "Egoist*in",
-                  "selbstbesessen"
+                  "witzig",
+                  "laut",
+                  "lebendig"
                ]
             },
             {
-               "name":"Typ auf einem Hochzeitsgruppenfoto",
+               "name":"Liebesfilm",
                "required":false,
                "tags":[
-                  "nett",
-                  "Party Typ",
-                  "unterstützend"
+                  "weichherzig",
+                  "romantisch",
+                  "emotional"
                ]
             },
             {
-               "name":"fallschirmspringender Typ",
+               "name":"Fantasy",
                "required":false,
                "tags":[
-                  "unbekümmert",
-                  "Adrenalinjunkie"
+                  "vielseitig",
+                  "kreativ",
+                  "träumerisch"
                ]
             },
             {
-               "name":"Typ im Jokerkostüm",
-               "required":true,
+               "name":"Dokumentation",
+               "required":false,
                "tags":[
-                  "unheimlich",
-                  "nerd",
-                  "unheimlich"
+                  "gebildet",
+                  "nachdenklich",
+                  "analytisch"
                ]
             }
          ],
@@ -6062,70 +5963,51 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Beschreibe dein Trainingsprogramm.",
-                     "name":"Oben-Ohne Typ",
+                     "question":"Wovor hast du am meisten Angst?",
+                     "name":"Horror",
                      "idx":1
                   },
                   {
                      "role":1,
-                     "question":"Beschreibe, was ein Fisch über dich als potenzielles Date sagt.",
-                     "name":"Typ der einen Fisch hält",
-                     "idx":3
+                     "question":"Was ist die verrückteste Sache, die du je getan hast?",
+                     "name":"Action",
+                     "idx":2
                   },
                   {
                      "role":2,
-                     "question":"Sage uns wo du geparkt hast, um das Selfie aufzunehmen.",
-                     "name":"Selfie im Auto Typ",
+                     "question":"Was bringt dich jedes Mal zum Lachen?",
+                     "name":"Komödie",
                      "idx":5
                   },
                   {
                      "role":3,
-                     "question":"Woher kennst du die Braut und den Bräutigam?",
-                     "name":"Typ auf einem Hochzeitsgruppenfoto",
+                     "question":"Was gehört für dich zu jedem guten Liebesfilm?",
+                     "name":"Liebesfilm",
                      "idx":6
                   },
                   {
                      "role":4,
-                     "question":"Was war dein letztes großes Abenteuer?",
-                     "name":"fallschirmspringender Typ",
-                     "idx":7
-                  },
-                  {
-                     "role":5,
-                     "question":"Wo ist ein knallharter Ort für ein Date im Joker-Kostüm?",
-                     "name":"Typ im Jokerkostüm",
-                     "idx":0
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Zeige dem Raum, wie du ein Oben-ohne-Selfie aufnehmen würdest.",
-                     "name":"Oben-Ohne Typ",
-                     "idx":2
-                  },
-                  {
-                     "role":5,
-                     "question":"Erzähle einen Witz. Mit schwarzem Humor.",
-                     "name":"Typ im Jokerkostüm",
+                     "question":"Was macht für dich ein gutes Fantasy-Werk aus?",
+                     "name":"Fantasy",
                      "idx":4
+                  },
+                  {
+                     "role":5,
+                     "question":"Was ist das Interessanteste, das du in letzter Zeit gelernt hast?",
+                     "name":"Dokumentation",
+                     "idx":0
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Typ ohne Bild, der \u201coberflächliche Menschen hasst\u201d",
+                     "name":"Seifenoper",
                      "idx":8,
                      "tags":[
-                        "Feigling",
+                        "dumm",
                         "arrogant",
-                        "rätsel",
-                        "Introvertierte*r",
-                        "unsichtbar"
+                        "dramatisch"
                      ]
                   }
                ],
@@ -6133,8 +6015,8 @@
             }
          ],
          "id":56610,
-         "category":"Typen auf Tinder",
-         "prompt":"Welcher dieser Typen auf Tinder seid ihr?"
+         "category":"Filmgenres",
+         "prompt":"Wenn ihr nur noch ein Genre in eurem Leben schauen könntet, welches wäre es?"
       },
       {
          "roles":[
@@ -6142,18 +6024,17 @@
                "name":"Spiegelei",
                "required":false,
                "tags":[
-                  "Freund*in",
-                  "happy"
+                  "optimistisch",
+                  "glücklich",
+                  "naiv"
                ]
             },
             {
-               "name":"hart gekocht",
+               "name":"Hart gekocht",
                "required":false,
                "tags":[
                   "zuverlässig",
-                  "Griesgram",
-                  "launisch",
-                  "hartgekocht",
+                  "ruhig",
                   "hart"
                ]
             },
@@ -6161,32 +6042,35 @@
                "name":"Rührei",
                "required":false,
                "tags":[
-                  "mixed-up",
-                  "Wirrkopf"
+                  "chaotisch",
+                  "unkonventionell",
+                  "verwirrt"
                ]
             },
             {
-               "name":"ein bisschen kitschig",
+               "name":"Omelette",
                "required":true,
                "tags":[
-                  "kitschig",
-                  "Dummbatz"
+                  "elegant",
+                  "kreativ"
                ]
             },
             {
-               "name":"gebacken",
+               "name":"Pochiertes Ei",
                "required":false,
                "tags":[
-                  "Hippie",
-                  "Faulpelz"
+                  "extravagant",
+                  "arrogant",
+                  "anspruchsvoll"
                ]
             },
             {
-               "name":"roh",
+               "name":"Wachsweich",
                "required":true,
                "tags":[
+                  "sensibel",
                   "emotional",
-                  "Freigeist"
+                  "verwundbar"
                ]
             }
          ],
@@ -6200,19 +6084,19 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist das Glücklichste, das du dir vorstellen kannst?",
+                     "question":"Was macht dich glücklich?",
                      "name":"Spiegelei",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Welchen kitschigen Film liebst du?",
-                     "name":"ein bisschen kitschig",
+                     "question":"Was ist etwas, das du gut kannst?",
+                     "name":"Omelette",
                      "idx":4
                   },
                   {
                      "role":2,
-                     "question":"Was ist die geistesabwesenste Sache, die du in letzter Zeit getan hast?",
+                     "question":"Was ist die chaotischste Sache, die du in letzter Zeit getan hast?",
                      "name":"Rührei",
                      "idx":3
                   }
@@ -6223,20 +6107,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wen würdest du anrufen, der dich aus dem Gefängnis holen soll?",
-                     "name":"hart gekocht",
+                     "question":"Wer würde am ehesten im Gefängnis landen?",
+                     "name":"Hart gekocht",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"Welchen Spieler könntest du nicht in einem Boxkampf schlagen?",
-                     "name":"roh",
+                     "question":"Wer ist am sensibelsten?",
+                     "name":"Wachsweich",
                      "idx":6
                   },
                   {
                      "role":4,
-                     "question":"Wer weiß eigentlich, wie man ein Ei backt?",
-                     "name":"gebacken",
+                     "question":"Auf wen trifft der Satz \u201cHart Schale, weicher Kern\u201d am ehesten zu?",
+                     "name":"Pochiertes Ei",
                      "idx":5
                   }
                ]
@@ -6248,9 +6132,9 @@
                      "idx":2,
                      "tags":[
                         "künstlich",
-                        "Geizhals",
+                        "einfach",
                         "grob",
-                        "überlebenskünstler*in"
+                        "vielseitig"
                      ]
                   }
                ],
@@ -6258,59 +6142,61 @@
             }
          ],
          "id":56469,
-         "category":"Eier",
-         "prompt":"Welche Zubereitungsart von Ei ist jeder von euch?"
+         "category":"Zubereitungsarten von Eiern",
+         "prompt":"Welche Zubereitungsart von Ei spiegelt euch am besten wider?"
       },
       {
          "roles":[
             {
-               "name":"riesige Augen",
+               "name":"Kaffee",
                "required":false,
                "tags":[
-                  "Beobachter*in",
-                  "wachsam"
+                  "traditionell",
+                  "verantwortungsbewusst"
                ]
             },
             {
-               "name":"gebeugter Arm",
+               "name":"Tee",
                "required":false,
                "tags":[
-                  "Athlet*in",
-                  "stark"
+                  "ruhig",
+                  "besonnen",
+                  "klug"
                ]
             },
             {
-               "name":"Feuer",
+               "name":"Energy Drink",
                "required":false,
                "tags":[
-                  "heiß",
-                  "Abtrünnige*r"
-               ]
-            },
-            {
-               "name":"Kackhaufen",
-               "required":true,
-               "tags":[
-                  "mürrisch",
-                  "stinker*in"
-               ]
-            },
-            {
-               "name":"Diskette",
-               "required":false,
-               "tags":[
-                  "archaisch",
-                  "klug",
-                  "nerd"
-               ]
-            },
-            {
-               "name":"Aubergine",
-               "required":true,
-               "tags":[
-                  "flirt",
-                  "frech",
+                  "chaotisch",
+                  "wild",
                   "unberechenbar"
+               ]
+            },
+            {
+               "name":"Alkohol",
+               "required":false,
+               "tags":[
+                  "dumm",
+                  "betrunken",
+                  "laut"
+               ]
+            },
+            {
+               "name":"Leitungswasser",
+               "required":false,
+               "tags":[
+                  "einfach",
+                  "gesund"
+               ]
+            },
+            {
+               "name":"Cola",
+               "required":false,
+               "tags":[
+                  "süß",
+                  "frech",
+                  "unkompliziert"
                ]
             }
          ],
@@ -6323,39 +6209,22 @@
                "id":"GetInCharacter",
                "prompts":[
                   {
-                     "role":1,
-                     "question":"Was ist das Größte, das du über deinen Kopf heben kannst?",
-                     "name":"gebeugter Arm",
+                     "role":0,
+                     "question":"Wie trinkst du deinen Kaffee am liebsten?",
+                     "name":"Kaffee",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"Was ist die beste Antwort auf den Text \u201cBist du auf?\u201d",
-                     "name":"Aubergine",
+                     "question":"Welche Cola-Marke bevorzugst du?",
+                     "name":"Cola",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Was ist etwas aus einem vergangenen Jahrzehnt, von dem du dir wünscht, dass es wieder in Mode kommt?",
-                     "name":"Diskette",
+                     "question":"Was ist das beste Getränk, um hydriert zu bleiben?",
+                     "name":"Leitungswasser",
                      "idx":3
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Zeige uns dein bestes Augenrollen.",
-                     "name":"riesige Augen",
-                     "idx":6
-                  },
-                  {
-                     "role":1,
-                     "question":"Wer beide seine beiden Bicepse am schnellsten küssen kann gewinnt.",
-                     "name":"gebeugter Arm",
-                     "idx":7
                   }
                ]
             },
@@ -6363,21 +6232,21 @@
                "id":"FightTiebreaker",
                "prompts":[
                   {
-                     "role":0,
-                     "question":"Wer liebt heißen Klatsch und Tratsch?",
-                     "name":"riesige Augen",
+                     "role":1,
+                     "question":"Wer kann am besten mit Stress umgehen?",
+                     "name":"Tee",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Vor wem hast du mehr Angst?",
-                     "name":"Feuer",
+                     "question":"Wer handelt am ehesten impulsiv?",
+                     "name":"Energy Drink",
                      "idx":4
                   },
                   {
                      "role":3,
-                     "question":"Wer ist deiner Meinung nach der \u201cregelmäßigste \u201d?",
-                     "name":"Kackhaufen",
+                     "question":"Wer kann am wenigsten mit Alkohol umgehen?",
+                     "name":"Alkohol",
                      "idx":5
                   }
                ]
@@ -6385,8 +6254,8 @@
             {
                "roles":[
                   {
-                     "name":"Zylinder",
-                     "idx":8,
+                     "name":"Nichts, lieber erstmal eine rauchen",
+                     "idx":6,
                      "tags":[
                         "fancy",
                         "Spinner*in"
@@ -6397,8 +6266,8 @@
             }
          ],
          "id":57324,
-         "category":"Emoji",
-         "prompt":"Welches Emoji würdest du am ehesten in eine Botschaft aufnehmen?"
+         "category":"Erstes Getränk am Morgen",
+         "prompt":"Was würde jeder von euch trinken, um morgens wach zu werden?"
       },
       {
          "roles":[
