@@ -6404,56 +6404,57 @@
       {
          "roles":[
             {
-               "name":"\u201cIch versuche es reinzuquetschen\u201d",
+               "name":"Interessiert sich nur für das Buffet",
                "required":false,
                "tags":[
-                  "Feigling",
-                  "Lügner*in",
-                  "überwältigt"
+                  "fett",
+                  "eindimensional",
+                  "gierig"
                ]
             },
             {
-               "name":"\u201cIch fühle mich irgendwie krank.\u201d",
+               "name":"Will einfach nur entspannen",
                "required":false,
                "tags":[
-                  "grob",
-                  "ausgenutzt",
-                  "Bedenkenträger*in"
+                  "faul",
+                  "ruhig",
+                  "entspannt"
                ]
             },
             {
-               "name":"\u201cMuss früh aufstehen für die Arbeit.\u201d",
+               "name":"Besichtigt so viele Wahrzeichen wie möglich",
                "required":false,
                "tags":[
-                  "boss",
-                  "fleissig",
-                  "seriös"
+                  "abenteuerlustig",
+                  "neugierig",
+                  "intelligent"
                ]
             },
             {
-               "name":"\u201cMein Hund ist hilfsbedürftig.\u201d",
+               "name":"Wird von anderen gezwungen, mitzukommen",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
-                  "Bezugsperson",
-                  "elterlich"
-               ]
-            },
-            {
-               "name":"\u201cWar das nicht nächsten Freitag?\u201d",
-               "required":false,
-               "tags":[
-                  "vergesslich",
-                  "Wirrkopf"
-               ]
-            },
-            {
-               "name":"\u201cIch hasse eure Pläne und ich hasse euch.\u201d",
-               "required":true,
-               "tags":[
+                  "genervt",
                   "aggressiv",
-                  "Griesgram",
-                  "ehrlich"
+                  "griesgrämig"
+               ]
+            },
+            {
+               "name":"Plant den Urlaub akribisch im Voraus",
+               "required":false,
+               "tags":[
+                  "organisiert",
+                  "unflexibel",
+                  "verantwortungsbewusst"
+               ]
+            },
+            {
+               "name":"Reserviert früh morgens alle Liegen am Pool",
+               "required":false,
+               "tags":[
+                  "deutsch",
+                  "pünktlich",
+                  "organisiert"
                ]
             }
          ],
@@ -6467,38 +6468,27 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Was ist eine gute erfundene Krankheit, um Pläne zu verwerfen?",
-                     "name":"\u201cIch fühle mich irgendwie krank.\u201d",
-                     "idx":2
+                     "question":"Wie entspannst du dich am besten im Urlaub?",
+                     "name":"Will einfach nur entspannen",
+                     "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Was ist der beste Weckton zum Aufwachen?",
-                     "name":"\u201cMuss früh aufstehen für die Arbeit.\u201d",
+                     "question":"Wie viele Wahrzeichen würdest du versuchen am ersten Tag zu besichtigen?",
+                     "name":"Besichtigt so viele Wahrzeichen wie möglich",
                      "idx":3
                   },
                   {
                      "role":3,
-                     "question":"Wie lautet der Name deines sehr hilfsbedürftigen Hundes?",
-                     "name":"\u201cMein Hund ist hilfsbedürftig.\u201d",
+                     "question":"Was war das Argument, mit dem du \u201cüberredet\u201d wurdest, mitzukommen?",
+                     "name":"Wird von anderen gezwungen, mitzukommen",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Was sind deine Pläne für Freitag?",
-                     "name":"\u201cWar das nicht nächsten Freitag?\u201d",
+                     "question":"Was machst du, wenn dein Plan nicht aufgeht?",
+                     "name":"Plant den Urlaub akribisch im Voraus",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Zeige dein bestes Fake-Niesen.",
-                     "name":"\u201cIch fühle mich irgendwie krank.\u201d",
-                     "idx":1
                   }
                ]
             },
@@ -6507,26 +6497,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer hat am kommenden Wochenende am meisten zu tun?",
-                     "name":"\u201cIch versuche es reinzuquetschen\u201d",
+                     "question":"Wer würde sich weigern in den Urlaub zu fahren, wenn Buffet nicht inklusive wäre?",
+                     "name":"Interessiert sich nur für das Buffet",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"Wer ist nur Sekunden davon entfernt, seinen Hass auf alle in diesem Spiel zum Ausdruck zu bringen?",
-                     "name":"\u201cIch hasse eure Pläne und ich hasse euch.\u201d",
-                     "idx":6
+                     "question":"Wer würde sich einen Wecker stellen, um der erste am Pool zu sein?",
+                     "name":"Reserviert früh morgens alle Liegen am Pool",
+                     "idx":2
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201cNeues Handy.  Wer ist da?\u201d",
-                     "idx":7,
+                     "name":"Bleibt lieber zuhause",
+                     "idx":6,
                      "tags":[
-                        "ratlos",
-                        "Einzelgänger*in"
+                        "heimatverbunden",
+                        "introvertiert"
                      ]
                   }
                ],
@@ -6534,66 +6524,68 @@
             }
          ],
          "id":57596,
-         "category":"Ausreden wenn man absagt",
-         "prompt":"Welche Ausrede für das Aufgeben von Plänen passt am besten zu jedem von euch?"
+         "category":"Urlaubstypen",
+         "prompt":"Welcher Typ von Urlauber seid ihr?"
       },
       {
          "roles":[
             {
-               "name":"Lenker-Schnurrbart",
-               "short":"Schnubbi",
+               "name":"Der, der so tut, als ob er trainiert",
+               "short":"Der Simulant",
                "required":false,
                "tags":[
-                  "Klassiker",
-                  "Älteste*r",
-                  "hipster"
+                  "ignorant",
+                  "verblendet"
                ]
             },
             {
-               "name":"Ziegenbart",
+               "name":"Der Dicke, der es ernst meint",
+               "short":"Der Dicke",
                "required":false,
                "tags":[
-                  "beatnik",
-                  "cool",
-                  "böse"
+                  "unsportlich",
+                  "fettsüchtig",
+                  "ehrgeizig"
                ]
             },
             {
-               "name":"Koteletten",
+               "name":"Der, der voll mit Steroide gepumpt ist",
+               "short":"Das Muskelpaket",
                "required":false,
                "tags":[
-                  "Opa",
-                  "altmodisch",
-                  "rustikal"
+                  "stark",
+                  "aggressiv",
+                  "dominant"
                ]
             },
             {
-               "name":"bleistiftdünner Oberlippenbart",
-               "short":"Oberlippenbart",
+               "name":"Der, der das Abo bezahlt, aber nicht hingeht",
+               "short":"Der Faulenzer",
                "required":false,
                "tags":[
-                  "Fiesling",
-                  "schleimig",
-                  "Bösewicht"
+                  "faul",
+                  "unmotiviert",
+                  "reich"
                ]
             },
             {
-               "name":"superlanger Kinnbart",
-               "short":"Kinnbart",
+               "name":"Der, der wegen guten Vorsätzen um Silvester hingeht",
+               "short":"Der Neujahrs-Gänger",
                "required":false,
                "tags":[
-                  "selbstbewusst",
-                  "Schlagzeuger*in",
-                  "schmuddelig"
+                  "ehrgeizig",
+                  "motiviert",
+                  "verplant"
                ]
             },
             {
-               "name":"nur Ohrhaare",
-               "short":"Ohrhaare",
+               "name":"Der, der denkt, er sei der krasseste, aber nix macht",
+               "short":"Der Ego-Pumper",
                "required":false,
                "tags":[
-                  "Eremit",
-                  "ungepflegt"
+                  "selbstverliebt",
+                  "dumm",
+                  "laut"
                ]
             }
          ],
@@ -6607,14 +6599,14 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"Ab welchem Alter sollte man mit dem Sparen für den Ruhestand beginnen?",
-                     "name":"nur Ohrhaare",
+                     "question":"Warum bist du der krasseste Typ im Fitnessstudio?",
+                     "name":"Der, der denkt, er sei der krasseste, aber nix macht",
                      "idx":5
                   },
                   {
                      "role":3,
-                     "question":"Wie würde dein Erotikfilm heißen?",
-                     "name":"bleistiftdünner Oberlippenbart",
+                     "question":"Warum bezahlst du für ein Abo, wenn du nicht hingehst?",
+                     "name":"Der, der das Abo bezahlt, aber nicht hingeht",
                      "idx":4
                   }
                ]
@@ -6624,82 +6616,40 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer würde ein Heißluftballonrennen um die Welt gewinnen?",
-                     "name":"Lenker-Schnurrbart",
+                     "question":"Wer gibt auch in anderen Lebensbereichen gerne vor der Beste zu sein?",
+                     "name":"Der, der so tut, als ob er trainiert",
                      "idx":1
                   },
                   {
                      "role":1,
-                     "question":"Wer ist höchstwahrscheinlich der Teufel in Verkleidung?",
-                     "name":"Ziegenbart",
+                     "question":"Wer hat das größte Durchhaltevermögen?",
+                     "name":"Der Dicke, der es ernst meint",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wer hat derzeit den längsten Bart?",
-                     "name":"superlanger Kinnbart",
+                     "question":"Wer macht sich am ehesten zu Silvester regelmäßig neue Vorsätze?",
+                     "name":"Der, der wegen guten Vorsätzen um Silvester hingeht",
                      "idx":6
                   },
                   {
                      "role":2,
-                     "question":"Wer würde auf einem alten Foto aus den 1800er Jahren am besten aussehen?",
-                     "name":"Koteletten",
-                     "idx":7
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Wie heißen Kotelettes auf deutsch?",
-                     "correct":"Rippchen",
-                     "name":"Koteletten",
-                     "altSpellings":[
-                        "rippchen",
-                        "Ripchen"
-                     ],
+                     "question":"Wer gibt gerne an, wie viel er im Fitnessstudio stemmt?",
+                     "name":"Der, der voll mit Steroide gepumpt ist",
                      "idx":0
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Wessen Lenkerbart ist der eines \u201cMillennial-Hipsters\u201d und wessen ist aus einem \u201cBarbershop-Quartett\u201d?",
-                     "roles":[
-                        {
-                           "name":"Hipster Lenkerbart",
-                           "tags":[
-                              "alternativ",
-                              "hipster"
-                           ]
-                        },
-                        {
-                           "name":"Barbershop Quartett Lenkerbart",
-                           "tags":[
-                              "Langweiler",
-                              "traditionell"
-                           ]
-                        }
-                     ],
-                     "name":"Lenker-Schnurrbart",
-                     "idx":8
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"kleiner, auf den Finger tätowierter Schnurrbart",
+                     "name":"Der, für den es nur ein Gerät im Studio gibt",
+                     "short":"Der Fokussierte",
                      "idx":3,
                      "tags":[
-                        "fake",
-                        "Party Typ",
-                        "skurril"
+                        "zielstrebig",
+                        "diszipliniert",
+                        "fokussiert"
                      ]
                   }
                ],
@@ -6707,63 +6657,64 @@
             }
          ],
          "id":56257,
-         "category":"Gesichtsbehaarung",
-         "prompt":"Welche Gesichtsbehaarung passt am besten zu euch?"
+         "category":"Im Fitnessstudio",
+         "prompt":"Welche Art von Fitnessstudio-Gänger wärst du?"
       },
       {
          "roles":[
             {
-               "name":"Beanie Babies",
+               "name":"Ingenieurwesen",
                "required":false,
                "tags":[
-                  "niedlich",
-                  "investor*in",
-                  "soft"
+                  "technikaffin",
+                  "handwerklich",
+                  "praktisch"
                ]
             },
             {
-               "name":"Go-Gos",
+               "name":"Sprachwissenschaften",
                "required":false,
                "tags":[
-                  "Sammler*in",
-                  "radikale*r"
+                  "kommunikativ",
+                  "weltgewandt",
+                  "kulturell"
                ]
             },
             {
-               "name":"Disco",
+               "name":"Kunst",
                "required":false,
                "tags":[
-                  "diva",
-                  "musikalisch"
+                  "kreativ",
+                  "musikalisch",
+                  "ausdrucksstark"
                ]
             },
             {
-               "name":"Paleo Diät",
+               "name":"Theologie",
                "required":false,
                "tags":[
-                  "Höhlenmensch",
-                  "Gesundheitsfanatiker*in",
-                  "hungrig"
+                  "gläubig",
+                  "nachdenklich",
+                  "spirituell"
                ]
             },
             {
-               "name":"Hula Hoops",
+               "name":"Informatik",
                "required":false,
                "tags":[
-                  "Athlet*in",
-                  "kindlich",
-                  "altmodisch",
-                  "Langweiler"
+                  "analytisch",
+                  "medienbegeistert",
+                  "modern",
+                  "zukunftsorientiert"
                ]
             },
             {
-               "name":"Was auch immer \u201cPlanking\u201d war",
-               "short":"Planking",
+               "name":"Medizin",
                "required":false,
                "tags":[
-                  "meme",
-                  "Scherzkeks",
-                  "steif"
+                  "hilfsbereit",
+                  "empathisch",
+                  "verantwortungsbewusst"
                ]
             }
          ],
@@ -6777,26 +6728,26 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Welches Tier bist du als Beanie Baby?",
-                     "name":"Beanie Babies",
+                     "question":"Mit welcher Erfindung wirst du bestimmt mal erfolgreich?",
+                     "name":"Ingenieurwesen",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Angenommen, du erklärst es einem Kind: Warum waren Go-Gos beliebt?",
-                     "name":"Go-Gos",
+                     "question":"Welche ist deine Lieblingssprache?",
+                     "name":"Sprachwissenschaften",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Wie würdest du versuchen, Nahrung zu bekommen, wenn du dich im eigentlichen Paläolithikum befinden würdest?",
-                     "name":"Paleo Diät",
+                     "question":"Warum glaubst du an Gott?",
+                     "name":"Theologie",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Wie wird wohl der nächste Online-Trend heißen?",
-                     "name":"Was auch immer \u201cPlanking\u201d war",
+                     "question":"Warum willst du Leben retten?",
+                     "name":"Medizin",
                      "idx":6
                   }
                ]
@@ -6806,14 +6757,14 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer wird am ehesten \u201cI Will Survive\u201d nach einer schlimmen Trennung singen?",
-                     "name":"Disco",
+                     "question":"Wessen Kunstwerke werden irgendwann im Louvre hängen?",
+                     "name":"Kunst",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wessen Hüften können nicht lügen?",
-                     "name":"Hula Hoops",
+                     "question":"Wer wird einmal ein erfolgreicher Spieleentwickler sein?",
+                     "name":"Informatik",
                      "idx":5
                   }
                ]
@@ -6821,12 +6772,12 @@
             {
                "roles":[
                   {
-                     "name":"Frosted Tips-Frisur",
+                     "name":"BWL",
                      "idx":3,
                      "tags":[
-                        "gebleicht",
-                        "diva",
-                        "frostig"
+                        "arrogant",
+                        "egozentrisch",
+                        "reich"
                      ]
                   }
                ],
@@ -6834,68 +6785,64 @@
             }
          ],
          "id":56650,
-         "category":"Modeerscheinungen",
-         "prompt":"Welche Modeerscheinung seid ihr?"
+         "category":"Professuren an einer Universität",
+         "prompt":"Wenn ihr an eine Uni berufen werden würdet, welche Fachrichtung würdet ihr unterrichten?"
       },
       {
          "roles":[
             {
-               "name":"Eiffelturm",
+               "name":"Kölner Dom",
                "required":false,
                "tags":[
-                  "Romantiker*in",
-                  "grossstädtisch",
-                  "hoch"
+                  "spirituell",
+                  "katholisch",
+                  "charismatisch"
                ]
             },
             {
-               "name":"Große Chinesische Mauer",
+               "name":"Atomium",
                "required":false,
                "tags":[
-                  "defensiv",
-                  "Vollstrecker",
-                  "lang",
-                  "massiv",
-                  "unerschütterlich"
+                  "futuristisch",
+                  "eigenwillig",
+                  "kreativ"
                ]
             },
             {
-               "name":"Schiefer Turm von Pisa",
-               "short":"Schiefer Turm",
+               "name":"Circus Maximus",
                "required":false,
                "tags":[
-                  "krumm",
-                  "Sonderling",
-                  "schrullig"
+                  "verspielt",
+                  "sportlich",
+                  "schnell"
                ]
             },
             {
-               "name":"Stonehenge",
+               "name":"Big Ben",
                "required":false,
                "tags":[
-                  "alien",
-                  "rätsel",
-                  "erwachsen",
-                  "misteriös"
+                  "klassisch",
+                  "strukturiert",
+                  "pünktlich",
+                  "britisch"
                ]
             },
             {
-               "name":"Mount Rushmore",
-               "short":"Mt. Rushmore",
+               "name":"Niagarafälle",
                "required":false,
                "tags":[
-                  "patriot*in",
-                  "präsidentiell"
+                  "naturnah",
+                  "wild",
+                  "abenteuerlustig"
                ]
             },
             {
-               "name":"Größter Wollknäuel der Welt",
-               "short":"Wollknäuel",
-               "required":true,
+               "name":"Fujiyama",
+               "required":false,
                "tags":[
-                  "Attraktion",
-                  "rustikal",
-                  "nützlich"
+                  "weise",
+                  "aufbrausend",
+                  "traditionell"
                ]
             }
          ],
@@ -6909,32 +6856,21 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Was glaubst du, ist der geheime Zweck von Stonehenge?",
-                     "name":"Stonehenge",
+                     "question":"Warum ist ausgerechnet eine Uhr ein Wahrzeichen in London?",
+                     "name":"Big Ben",
                      "idx":5
                   },
                   {
                      "role":5,
-                     "question":"Wofür benutzt du die ganze Wolle?",
-                     "name":"Größter Wollknäuel der Welt",
+                     "question":"Was würde in einer Alternativwelt statt Lava aus dem Fujiyama kommen?",
+                     "name":"Fujiyama",
                      "idx":6
                   },
                   {
                      "role":1,
-                     "question":"Was ist etwas anderes, das man wahrscheinlich aus dem Weltraum sehen kann?",
-                     "name":"Große Chinesische Mauer",
+                     "question":"Was sollte ursprünglich anstelle des Atomiums in Brüssel stehen?",
+                     "name":"Atomium",
                      "idx":4
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Wer sitzt oder steht mit mehr Neigung?",
-                     "name":"Schiefer Turm von Pisa",
-                     "idx":0
                   }
                ]
             },
@@ -6943,28 +6879,34 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer ist auf schamlosere Art romantisch?",
-                     "name":"Eiffelturm",
+                     "question":"Wer kann über Stunden ruhig in einer Kirche sitzen?",
+                     "name":"Kölner Dom",
                      "idx":1
                   },
                   {
                      "role":4,
-                     "question":"Wer hat eine größere Hutgröße?",
-                     "name":"Mount Rushmore",
+                     "question":"Wer würde die Niagarafälle in einem Fass hinunterstürzen, wenn er könnte?",
+                     "name":"Niagarafälle",
                      "idx":2
+                  },
+                  {
+                     "role":2,
+                     "question":"Wer würde einen antiken Wettkampf im Circus Maximus am ehesten überleben?",
+                     "name":"Circus Maximus",
+                     "idx":0
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"M&M-Store am Times Langweiler",
+                     "name":"Museum der zerbrochenen Beziehungen",
                      "idx":3,
                      "tags":[
-                        "kindlich",
-                        "bunt",
-                        "süss",
-                        "sweetheart"
+                        "emotional",
+                        "dramatisch",
+                        "traurig",
+                        "künstlerisch"
                      ]
                   }
                ],
@@ -6972,64 +6914,64 @@
             }
          ],
          "id":56498,
-         "category":"Berühmte Sehenswürdigkeiten",
-         "prompt":"Welches berühmte Wahrzeichen ist jeder von euch?"
+         "category":"Sehenswürdigkeiten",
+         "prompt":"Welches Wahrzeichen ist jeder von euch?"
       },
       {
          "roles":[
             {
-               "name":"\u201cAm schönsten ist es zu Hause\u201d",
+               "name":"Wissenschaft der Ungerechtigkeiten",
                "required":false,
                "tags":[
-                  "Stubenhocker*in",
-                  "nostalgisch",
-                  "rustikal"
+                  "rebellisch",
+                  "ungehorsam",
+                  "aufmüpfig"
                ]
             },
             {
-               "name":"\u201cGier... ist gut.\u201d",
+               "name":"Wissenschaft der Bonzen",
                "required":false,
                "tags":[
-                  "gierig",
-                  "mogul",
-                  "Intrigant*in",
-                  "wohlhabend"
+                  "reich",
+                  "wohlhabend",
+                  "arrogant",
+                  "selbstverliebt"
                ]
             },
             {
-               "name":"\u201cIch möchte allein sein.\u201d",
+               "name":"Wissenschaft des Prokrastinierens",
                "required":false,
                "tags":[
-                  "Eremit",
-                  "unabhängig",
-                  "Introvertierte*r"
+                  "faul",
+                  "entspannt",
+                  "lässig"
                ]
             },
             {
-               "name":"\u201cIch spür\u2019 die Gier... die Gier nach Tempo in mir!\u201d",
+               "name":"Wissenschaft des \u201cNicht-Eisehens\u201d von Fehlern",
                "required":false,
                "tags":[
-                  "eingebildet",
-                  "schnell",
-                  "Adrenalinjunkie"
+                  "risikofreudig",
+                  "ignorant",
+                  "leichtsinnig"
                ]
             },
             {
-               "name":"\u201cIch bin zu alt für diesen Scheiß.\u201d",
+               "name":"Wissenschaft des Chaosmanagements",
                "required":true,
                "tags":[
-                  "Älteste*r",
-                  "alt",
-                  "Senior"
+                  "unordentlich",
+                  "chaotisch",
+                  "kreativ"
                ]
             },
             {
-               "name":"\u201cZurück, Mann! Ich bin ein Wissenschaftler!\u201d",
+               "name":"Wissenschaft des Fremdschämens",
                "required":false,
                "tags":[
-                  "wissenschaftler*in",
-                  "smart",
-                  "spitzzüngig"
+                  "peinlich",
+                  "unbeholfen",
+                  "extrovertiert"
                ]
             }
          ],
@@ -7043,38 +6985,27 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wenn du dreimal die Hacken zusammenschlagen und überall auf der Welt hingehen könntest, wo wäre das?",
-                     "name":"\u201cAm schönsten ist es zu Hause\u201d",
+                     "question":"Wann wurdest du mal ungerecht behandelt?",
+                     "name":"Wissenschaft der Ungerechtigkeiten",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Wenn du ganz allein auf einer Solo-Weltraummission wärst, was würdest du tun, um dir die Zeit zu vertreiben?",
-                     "name":"\u201cIch möchte allein sein.\u201d",
+                     "question":"Wann hast du das letzte Mal etwas aufgeschoben?",
+                     "name":"Wissenschaft des Prokrastinierens",
                      "idx":3
                   },
                   {
                      "role":3,
-                     "question":"Was sagst du dem Polizisten, der dich gerade mit 75 Sachen in einer Schulzone angehalten hat?",
-                     "name":"\u201cIch spür\u2019 die Gier... die Gier nach Tempo in mir!\u201d",
+                     "question":"Warum kannst du deine Fehler nicht eingestehen?",
+                     "name":"Wissenschaft des \u201cNicht-Eisehens\u201d von Fehlern",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Was ist etwas, für das du einfach zu alt bist?",
-                     "name":"\u201cIch bin zu alt für diesen Scheiß.\u201d",
+                     "question":"Warum laufen Projekte, die du leitest aus dem Ruder?",
+                     "name":"Wissenschaft des Chaosmanagements",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":5,
-                     "question":"Zeige dem Raum, wie du aussieht, wenn du cool bleibst, während du zum ersten Mal einen Geist siehst.",
-                     "name":"\u201cZurück, Mann! Ich bin ein Wissenschaftler!\u201d",
-                     "idx":6
                   }
                ]
             },
@@ -7083,20 +7014,27 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer ist der Gierigste, wenn es um das Teilen von Lebensmitteln geht?",
-                     "name":"\u201cGier... ist gut.\u201d",
+                     "question":"Für wen ist eine Limosine gerade gut genug?",
+                     "name":"Wissenschaft der Bonzen",
                      "idx":2
+                  },
+                  {
+                     "role":5,
+                     "question":"Wer macht regelmäßig Dinge, bei denen Begleiter im Boden versinken möchten?",
+                     "name":"Wissenschaft des Fremdschämens",
+                     "idx":6
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201cHallo zusammen, ich bin's, CITIZEN KANE.\u201d",
+                     "name":"Wissenschaft der Alleskönner",
                      "idx":0,
                      "tags":[
-                        "Klassiker",
-                        "offensichtlich"
+                        "vielseitig",
+                        "talentiert",
+                        "wissbegierig"
                      ]
                   }
                ],
@@ -7104,61 +7042,63 @@
             }
          ],
          "id":56637,
-         "category":"Berühmte Filmzitate",
-         "prompt":"Welcher klassische Einzeiler seid ihr?"
+         "category":"Forschungsgebiete",
+         "prompt":"Wenn ihr eine Wissenschaft begründen könntet, welches Forschungsgebiet würde jeder von euch erschließen?"
       },
       {
          "roles":[
             {
-               "name":"Der Klassiker \u201cBraaap\u201d",
+               "name":"Das weinende Baby",
                "required":false,
                "tags":[
-                  "Klassiker",
-                  "stütze"
+                  "emotional",
+                  "sensibel",
+                  "laut"
                ]
             },
             {
-               "name":"Lautlos, aber tödlich",
+               "name":"Der, der eigentlich Flugangst hat",
                "required":false,
                "tags":[
-                  "ruhig",
-                  "gewieft",
-                  "spy"
+                  "ängstlich",
+                  "verunsichert",
+                  "schüchtern"
                ]
             },
             {
-               "name":"Der niedliche Quietscher",
+               "name":"Der, der bei der Landung applaudiert",
                "required":false,
                "tags":[
-                  "niedlich",
-                  "winzig"
+                  "begeistert",
+                  "optimistisch",
+                  "naiv"
                ]
             },
             {
-               "name":"Die sanfte Brise",
+               "name":"Der, der den ganzen Flug über Filme schaut",
                "required":false,
                "tags":[
-                  "naturalist*in",
-                  "erfrischend"
+                  "unterhaltsam",
+                  "abgelenkt",
+                  "filmbegeistert"
                ]
             },
             {
-               "name":"Die Boombox-Explosion",
+               "name":"Der, der ständig auf die Toilette muss",
                "required":false,
                "tags":[
-                  "extra",
-                  "musikalisch",
-                  "Angeber*in"
+                  "unruhig",
+                  "nervös",
+                  "hyperaktiv"
                ]
             },
             {
-               "name":"Hoppla, ich habe mir in die Hose gekackt",
-               "short":"eingekackte Hose",
+               "name":"Der, der sich viel zu breit macht",
                "required":true,
                "tags":[
-                  "grob",
-                  "schlamassel",
-                  "unordentlich"
+                  "überheblich",
+                  "aufdringlich",
+                  "selbstbewusst"
                ]
             }
          ],
@@ -7172,20 +7112,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist der beste Cartoon-Soundeffekt für jede Gelegenheit?",
-                     "name":"Der Klassiker \u201cBraaap\u201d",
+                     "question":"Was machst du, wenn ein Baby weint?",
+                     "name":"Das weinende Baby",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Was ist ein niedlicher Name für eine Flatulenzen-Maus?",
-                     "name":"Der niedliche Quietscher",
+                     "question":"Was denkst du, wenn das Flugzeug zur Landung ansetzt?",
+                     "name":"Der, der bei der Landung applaudiert",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wo ist der beste Ort, um \u201cWind\u201d heraus zu lassen, ohne bemerkt zu werden?",
-                     "name":"Die sanfte Brise",
+                     "question":"Welchen Film schaust du dir an, wenn du im Flugzeug sitzt?",
+                     "name":"Der, der den ganzen Flug über Filme schaut",
                      "idx":4
                   }
                ]
@@ -7195,20 +7135,20 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer wäre der beste Attentäter?",
-                     "name":"Lautlos, aber tödlich",
+                     "question":"Wer würde sich trotz Angst in ein Flugzeug setzen, bevor er Bahn fahren muss?",
+                     "name":"Der, der eigentlich Flugangst hat",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wer würde einen Dance-off im Stil der 80er gewinnen?",
-                     "name":"Die Boombox-Explosion",
+                     "question":"Wer hat die schwächste Blase?",
+                     "name":"Der, der ständig auf die Toilette muss",
                      "idx":5
                   },
                   {
                      "role":5,
-                     "question":"Wer bewahrt wahrscheinlich Ersatzkleidung für \u201cNotfälle\u201d auf?",
-                     "name":"Hoppla, ich habe mir in die Hose gekackt",
+                     "question":"Wer braucht immer den meisten Platz?",
+                     "name":"Der, der sich viel zu breit macht",
                      "idx":6
                   }
                ]
@@ -7216,11 +7156,12 @@
             {
                "roles":[
                   {
-                     "name":"Furzkissen",
+                     "name":"Der Pilot",
                      "idx":0,
                      "tags":[
-                        "künstlich",
-                        "Scherzkeks"
+                        "verantwortungsbewusst",
+                        "ruhig",
+                        "professionell"
                      ]
                   }
                ],
@@ -7228,60 +7169,63 @@
             }
          ],
          "id":56562,
-         "category":"Fürze",
-         "prompt":"Erzählt mir nicht, dass ihr nicht darüber nachgedacht habt. Welcher Furz passt am besten zu jedem von euch?"
+         "category":"Passagiere im Flugzeug",
+         "prompt":"Welcher Passagier in einem Flugzeug seid ihr?"
       },
       {
          "roles":[
             {
-               "name":"tropischer Strand",
+               "name":"Grafikkarte (GPU)",
                "required":true,
                "tags":[
-                  "Strandgammler*in",
-                  "sommerlich"
+                  "leistungsstark",
+                  "arrogant",
+                  "laut"
                ]
             },
             {
-               "name":"Berggipfel",
+               "name":"Prozessor (CPU)",
                "required":false,
                "tags":[
-                  "Abenteurer*in",
-                  "schroff"
+                  "intelligent",
+                  "analytisch",
+                  "schnell"
                ]
             },
             {
-               "name":"Kreuzfahrtschiff",
+               "name":"Mainboard",
                "required":false,
                "tags":[
-                  "dahinschwimmend",
-                  "passagier"
+                  "sozial",
+                  "vernetzt",
+                  "organisiert"
                ]
             },
             {
-               "name":"Großstadt",
+               "name":"Netzteil (PSU)",
                "required":false,
                "tags":[
-                  "grossstädtisch",
-                  "tourist*in"
+                  "zuverlässig",
+                  "stabil",
+                  "ruhig"
                ]
             },
             {
-               "name":"antike Ruinen",
+               "name":"Gehäuse",
                "required":false,
                "tags":[
-                  "antik",
-                  "archaisch",
-                  "Relikt"
+                  "robust",
+                  "extrovertiert",
+                  "auffällig"
                ]
             },
             {
-               "name":"das eigene Haus",
-               "required":true,
+               "name":"Festplatten-Speicher (HDD)",
+               "required":false,
                "tags":[
-                  "Eremit",
-                  "Introvertierte*r",
-                  "menschenscheu",
-                  "Langweiler"
+                  "langsam",
+                  "verlässlich",
+                  "altmodisch"
                ]
             }
          ],
@@ -7291,88 +7235,55 @@
                "id":"standard"
             },
             {
-               "id":"GetInCharacter",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Was ist das absolut Letzte, was du dort oben sehen willst, wenn du einmal oben bist?",
-                     "name":"Berggipfel",
-                     "idx":2
-                  },
-                  {
-                     "role":2,
-                     "question":"Welches Angebot sollte man auf einem Kreuzfahrtschiff-Buffet immer meiden?",
-                     "name":"Kreuzfahrtschiff",
-                     "idx":4
-                  },
-                  {
-                     "role":3,
-                     "question":"Schreibe einen Slogan für den Tourismusverband einer Großstadt Eurer Wahl.",
-                     "name":"Großstadt",
-                     "idx":8
-                  },
-                  {
-                     "role":3,
-                     "question":"Es ist Mitternacht an einem Samstagabend in der Großstadt: Was unternimmst du?",
-                     "name":"Großstadt",
-                     "idx":9
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Jodel uns deinen besten Berggipfel-Jodler.",
-                     "name":"Berggipfel",
-                     "idx":1
-                  },
-                  {
-                     "role":2,
-                     "question":"Bitte mache den Lärm einer Kreuzfahrtschiff-Hupe nach.",
-                     "name":"Kreuzfahrtschiff",
-                     "idx":3
-                  }
-               ]
-            },
-            {
                "id":"FightTiebreaker",
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer hat sich als Teenager am ehesten Zitronensaft in die Haare gepresst?",
-                     "name":"tropischer Strand",
+                     "question":"Wer prahlt am meisten mit seiner Leistung?",
+                     "name":"Grafikkarte (GPU)",
                      "idx":0
                   },
                   {
                      "role":3,
-                     "question":"Wer behauptet, alle \u201cHot Spots\u201d in jeder Stadt zu kennen?",
-                     "name":"Großstadt",
+                     "question":"Wer ist der Antrieb für die meisten Aktivitäten in der Gruppe?",
+                     "name":"Netzteil (PSU)",
                      "idx":5
                   },
                   {
                      "role":4,
-                     "question":"Wer ist wohl am ehesten von einer antiken Gottheit verflucht worden?",
-                     "name":"antike Ruinen",
-                     "idx":6
+                     "question":"Wer fällt am meisten auf?",
+                     "name":"Gehäuse",
+                     "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wer hasst andere Menschen mehr?",
-                     "name":"das eigene Haus",
-                     "idx":7
+                     "question":"Wer schreibt sich Dinge auf, vergisst sie aber trotzdem?",
+                     "name":"Festplatten-Speicher (HDD)",
+                     "idx":1
+                  },
+                  {
+                     "role":1,
+                     "question":"Wer macht sich akribisch Pläne, bevor er etwas in die Tat umsetzt?",
+                     "name":"Prozessor (CPU)",
+                     "idx":2
+                  },
+                  {
+                     "role":2,
+                     "question":"Wer hält die Gruppe am besten zusammen?",
+                     "name":"Mainboard",
+                     "idx":4
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Virtual Reality",
-                     "idx":10,
+                     "name":"Mauspad",
+                     "idx":6,
                      "tags":[
-                        "radikale*r",
-                        "simulation"
+                        "unwichtig",
+                        "ersetzbar",   
+                        "langweilig"
                      ]
                   }
                ],
@@ -7380,71 +7291,65 @@
             }
          ],
          "id":56564,
-         "category":"Urlaubsorte",
-         "prompt":"Welches Urlaubsziel ist jeder von euch?"
+         "category":"PC Gaming",
+         "prompt":"Welche Komponente eines Gaming-PCs wäre jeder von euch?"
       },
       {
          "roles":[
             {
-               "name":"Anti-Held-Detektiv",
-               "required":true,
+               "name":"Der Drahtzieher",
+               "required":false,
                "tags":[
-                  "mutig",
-                  "hart gekocht",
-                  "Held",
-                  "überlebende*r",
-                  "unkonventionell"
+                  "organisiert",
+                  "intelligent",
+                  "strategisch"
                ]
             },
             {
-               "name":"Femme fatale",
-               "required":true,
+               "name":"Der Bohrer-Experte",
+               "required":false,
                "tags":[
-                  "selbstbewusst",
-                  "gefährlich",
-                  "Herzensbrecher*in",
-                  "verführerisch"
+                  "aggressiv",
+                  "hart",
+                  "furchtlos"
                ]
             },
             {
-               "name":"Mafiaboss",
-               "required":true,
+               "name":"Der Hacker",
+               "required":false,
                "tags":[
-                  "vernetzt",
-                  "böse",
-                  "Oberboss",
-                  "wuchtig",
-                  "rücksichtslos"
+                  "technikaffin",
+                  "klug",
+                  "schnell"
                ]
             },
             {
-               "name":"Mädchen von nebenan",
-               "required":true,
+               "name":"Der Fahrer",
+               "required":false,
                "tags":[
-                  "Engel",
+                  "engagiert",
                   "unschuldig",
-                  "vergesslich",
-                  "süss"
+                  "vergesslich"
                ]
             },
             {
-               "name":"krimineller Vollstrecker",
+               "name":"Der, der das Geld schleppt",
+               "short":"Der Packesel",
                "required":false,
                "tags":[
-                  "brutal",
+                  "dumm",
                   "gehorsam",
-                  "harter Kerl"
+                  "stark"
                ]
             },
             {
-               "name":"Barkeeper",
+               "name":"Der, der die Geiseln in Schach hält",
                "required":false,
                "tags":[
-                  "Zuschauer*in",
-                  "zuverlässig",
-                  "informant*in",
-                  "abwartend",
-                  "sidekick"
+                  "gewalttätig",
+                  "bedrohlich",
+                  "unberechenbar",
+                  "charismatisch"
                ]
             }
          ],
@@ -7458,8 +7363,8 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Beende den Satz: \u201c Als sie in mein Büro kam... \u201d",
-                     "name":"Anti-Held-Detektiv",
+                     "question":"Wie sieht der perfekte Plan für einen Banküberfall aus?",
+                     "name":"Der Drahtzieher",
                      "idx":0
                   }
                ]
@@ -7469,91 +7374,46 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer würde jemanden für Geld verführen?",
-                     "name":"Femme fatale",
+                     "question":"Wer würde einen Bohrer für einen Überfall bei OBI kaufen?",
+                     "name":"Der Bohrer-Experte",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Wer hätte nichts dagegen, ein paar unbequeme Gesetze zu brechen, um voranzukommen?",
-                     "name":"Mafiaboss",
+                     "question":"Wer hat eine Ausbildung, die ihm als Hacker zugute kommt?",
+                     "name":"Der Hacker",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wer würde den besten ersten Eindruck machen, wenn er Mama und Papa trifft?",
-                     "name":"Mädchen von nebenan",
+                     "question":"Wer kommt nur als Fahrer in Frage?",
+                     "name":"Der Fahrer",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wer kann am besten Befehle befolgen?",
-                     "name":"krimineller Vollstrecker",
+                     "question":"Wer ist sportlich genug, um die Beute zu tragen?",
+                     "name":"Der, der das Geld schleppt",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Wer würde vertrauliche Informationen zum richtigen Preis weitergeben?",
-                     "name":"Barkeeper",
+                     "question":"Wer kann am besten andere einschüchtern?",
+                     "name":"Der, der die Geiseln in Schach hält",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Wer spielt den Detektiv Sam Spade in dem Film <i>Die SPur des Falken<\/i> (1941)?",
-                     "correct":"Humphrey Bogart",
-                     "name":"Anti-Held-Detektiv",
-                     "altSpellings":[
-                        "Bogart",
-                        "Bogie"
-                     ],
-                     "idx":7
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Wer Sharon Stone aus <i>regulär Instinct<\/i> und wer ist Jessica Rabbit?",
-                     "roles":[
-                        {
-                           "name":"Sharon Stone",
-                           "tags":[
-                              "Teuflisch",
-                              "Exhibitionist*in",
-                              "Killer*in"
-                           ]
-                        },
-                        {
-                           "name":"Jessica Rabbit",
-                           "tags":[
-                              "cartoon",
-                              "kurvig",
-                              "sinnlich"
-                           ]
-                        }
-                     ],
-                     "name":"Anti-Held-Detektiv",
-                     "idx":6
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"vergiftetes Getränk",
+                     "name":"Der, der als erster von der Truppe verraten wird",
+                     "short":"Der Verratene",
                      "idx":8,
                      "tags":[
-                        "verlockend",
-                        "Killer*in",
-                        "gewieft",
-                        "toxisch"
+                        "ersetzbar",
+                        "naiv",
+                        "leichtgläubig"
                      ]
                   }
                ],
@@ -7561,61 +7421,69 @@
             }
          ],
          "id":56134,
-         "category":"Film-Noir-Figuren",
-         "prompt":"Welche Film-Noir-Rolle passt zu jedem von euch?"
+         "category":"Team beim Banküberfall",
+         "prompt":"Welche Aufgabe übernimmt jeder von euch bei einem Bankraub?"
       },
       {
          "roles":[
             {
-               "name":"süß",
+               "name":"Der, der 24/7 nur Shooter spielt",
+               "short":"Der Schwitzer",
                "required":false,
                "tags":[
-                  "niedlich",
-                  "energisch",
-                  "sweetheart"
+                  "kompetitiv",
+                  "fokussiert",
+                  "ehrgeizig"
                ]
             },
             {
-               "name":"salzig",
+               "name":"Der, für den früher alles besser war",
+               "short":"Der Nostalgiker",
                "required":false,
                "tags":[
-                  "erwachsen",
-                  "freches Mundwerk",
-                  "spitzzüngig"
+                  "altmodisch",
+                  "kritisch",
+                  "verbittert"
                ]
             },
             {
-               "name":"sauer",
+               "name":"Der, der immer in den Nahkampf rennt",
+               "short":"Der Nahkämpfer",
                "required":false,
                "tags":[
-                  "extra",
-                  "Spassbremse"
+                  "mutig",
+                  "impulsiv",
+                  "aggressiv"
                ]
             },
             {
-               "name":"bitter",
+               "name":"Der, der auch nach Ewigkeiten nichts kann",
+               "short":"Der Noob",
                "required":false,
                "tags":[
-                  "Griesgram",
-                  "launisch",
-                  "stark"
+                  "unfähig",
+                  "verzweifelt",
+                  "frustriert"
                ]
             },
             {
-               "name":"umami",
+               "name":"Der, der ständig in Ecken und Häusern hockt",
+               "short":"Der Camper",
                "required":false,
                "tags":[
-                  "wohltuend",
-                  "partylöwe*in",
-                  "wohlhabend"
+                  "geduldig",
+                  "nervig",
+                  "faul"
                ]
             },
             {
-               "name":"Flavor Flav",
+               "name":"Der, der Geld für Mikrotransaktionen ausgibt",
+               "short":"Der Pay-to-Win-Spieler",
                "required":false,
                "tags":[
-                  "bunt",
-                  "unberechenbar"
+                  "reich",
+                  "verwöhnt",
+                  "selbstverliebt"
                ]
             }
          ],
@@ -7629,44 +7497,21 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was war das süßeste, das du je geschenkt bekommen hast?",
-                     "name":"süß",
+                     "question":"Warum hast du nichts besseres zu tun?",
+                     "name":"Der, der 24/7 nur Shooter spielt",
                      "idx":0
                   },
                   {
                      "role":3,
-                     "question":"Was ist dein Lieblingsärgernis?",
-                     "name":"bitter",
+                     "question":"Warum spielst du weiterhin Shooter, obwohl du so schlecht bist?",
+                     "name":"Der, der auch nach Ewigkeiten nichts kann",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Was zum Teufel ist umami?",
-                     "name":"umami",
+                     "question":"Warum verbringst du die ganze Zeit mit Camping?",
+                     "name":"Der, der ständig in Ecken und Häusern hockt",
                      "idx":4
-                  },
-                  {
-                     "role":1,
-                     "question":"Was ist der ultimative salzige Snack?",
-                     "name":"salzig",
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Sag etwas Salziges mit einer Matrosen-Stimme!",
-                     "name":"salzig",
-                     "idx":1
-                  },
-                  {
-                     "role":2,
-                     "question":"Ziehe dein Gesicht so weit wie möglich zusammen.",
-                     "name":"sauer",
-                     "idx":2
                   }
                ]
             },
@@ -7675,41 +7520,33 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"Wer würde wohl eine Reality-Dating-Show gewinnen?",
-                     "name":"Flavor Flav",
+                     "question":"Wer würde Geld in Spielen ausgeben, um aufzufallen?",
+                     "name":"Der, der Geld für Mikrotransaktionen ausgibt",
                      "idx":5
                   },
                   {
-                     "role":0,
-                     "question":"An wen hast du die süßesten Erinnerungen?",
-                     "name":"süß",
-                     "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
+                     "role":1,
+                     "question":"Wer beschwert sich ständig über die heutigen Spiele?",
+                     "name":"Der, für den früher alles besser war",
+                     "idx":1
+                  },
                   {
-                     "role":5,
-                     "question":"Wie hieß die Sendung über die Beziehung zwischen Flavor Flav und Brigette Nielsen?",
-                     "correct":"Strange Love",
-                     "name":"Flavor Flav",
-                     "altSpellings":[
-                        "strange love"
-                     ],
-                     "idx":7
+                     "role":2,
+                     "question":"Wer würde ein Messer einem Gewehr jederzeit vorziehen?",
+                     "name":"Der, der immer in den Nahkampf rennt",
+                     "idx":2
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"metallisch",
-                     "idx":10,
+                     "name":"Der, der nur zum Spaß spielt",
+                     "idx":6,
                      "tags":[
-                        "grob",
-                        "hart"
+                        "fröhlich",
+                        "entspannt",
+                        "lässig"
                      ]
                   }
                ],
@@ -7717,8 +7554,8 @@
             }
          ],
          "id":57140,
-         "category":"Geschmacksrichtungen",
-         "prompt":"Welcher Geschmacksrichtung gehört ihr an?"
+         "category":"Shooter-Spieler",
+         "prompt":"Welche Art von Spieler seid ihr, wenn ihr einen Shooter spielt?"
       },
       {
          "roles":[
