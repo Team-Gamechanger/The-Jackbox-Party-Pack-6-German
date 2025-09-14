@@ -7560,59 +7560,58 @@
       {
          "roles":[
             {
-               "name":"Lederaufmachung im Matrixstil",
-               "short":"Matrix",
+               "name":"Sadismus",
                "required":false,
                "tags":[
-                  "badass",
-                  "selbstbewusst",
-                  "glatt"
+                  "grausam",
+                  "brutal",
+                  "unbarmherzig"
                ]
             },
             {
-               "name":"Silberne Uniform",
+               "name":"Masochismus",
                "required":false,
                "tags":[
-                  "Tänzer*in",
-                  "glitzernd"
+                  "leidenschaftlich",
+                  "unterwürfig",
+                  "hingebungsvoll"
                ]
             },
             {
-               "name":"zerfledderte Gewänder mit cooler Schutzbrille",
-               "short":"Gewänder und Schutzbrillen",
+               "name":"Narzissmus",
                "required":false,
                "tags":[
-                  "cool",
-                  "hipster"
+                  "eitel",
+                  "selbstverliebt",
+                  "arrogant"
                ]
             },
             {
-               "name":"Was George Jetson trägt",
-               "short":"George Jetson",
+               "name":"Paranoia",
                "required":false,
                "tags":[
-                  "regulär",
-                  "Papa",
-                  "elterlich",
-                  "Langweiler"
+                  "misstrauisch",
+                  "ängstlich",
+                  "verfolgt"
                ]
             },
             {
-               "name":"Schwimmendes Gehirn im Robo-Körper",
-               "short":"schwimmendes Gehirn",
+               "name":"Pessimismus",
                "required":false,
                "tags":[
-                  "klug",
-                  "cyborg",
-                  "unheimlich"
+                  "negativ",
+                  "skeptisch",
+                  "verzweifelt"
                ]
             },
             {
-               "name":"Nackt und glühend",
-               "required":true,
+               "name":"Antisoziale Persönlichkeitsstörung",
+               "short":"Antisozialität (APS)",
+               "required":false,
                "tags":[
-                  "nackt",
-                  "himmelskörper"
+                  "rücksichtslos",
+                  "manipulativ",
+                  "egozentrisch"
                ]
             }
          ],
@@ -7622,87 +7621,55 @@
                "id":"standard"
             },
             {
-               "id":"GetInCharacter",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Welchen supercoolen, post-apokalyptischen Hacker-Spitznamen trägst du in Zukunft?",
-                     "name":"Lederaufmachung im Matrixstil",
-                     "idx":0
-                  },
-                  {
-                     "role":3,
-                     "question":"Du bist die Hauptfigur in einer neuen, futuristischen, animierten Fernsehsendung. Wie heißt sie?",
-                     "name":"Was George Jetson trägt",
-                     "idx":3
-                  },
-                  {
-                     "role":4,
-                     "question":"Du bist im Grunde nur ein Roboter. Was ist deine Hauptfunktion?",
-                     "name":"Schwimmendes Gehirn im Robo-Körper",
-                     "idx":4
-                  },
-                  {
-                     "role":5,
-                     "question":"Nun, da du die Erleuchtung erlangt hast, fasse den Sinn des Lebens in einem Wort zusammen.",
-                     "name":"Nackt und glühend",
-                     "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Zeige deine beste, Anzuggeeignete Powerpose.",
-                     "name":"Silberne Uniform",
-                     "idx":7
-                  }
-               ]
-            },
-            {
                "id":"FightTiebreaker",
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer würde besser aussehen, wenn er mit Glitzer bedeckt wäre?",
-                     "name":"Silberne Uniform",
+                     "question":"Wer ordnet sich gerne freiwillig unter?",
+                     "name":"Masochismus",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Wer würde am ehesten in eine Steampunk-Convention passen?",
-                     "name":"zerfledderte Gewänder mit cooler Schutzbrille",
+                     "question":"Wer sieht in sich selbst den \u201cbesten Spieler auf diesem Planeten\u201d?",
+                     "name":"Narzissmus",
                      "idx":2
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
+                  },
                   {
                      "role":0,
-                     "question":"Wie lautet der Nachname der Figur von Keanu Reeves in <i>Die Matrix<\/i>?",
-                     "correct":"Anderson",
-                     "name":"Lederaufmachung im Matrixstil",
-                     "altSpellings":[
-                        "Andersen",
-                        "anderson",
-                        "andersen"
-                     ],
-                     "idx":8
+                     "question":"Wer lebt in Spielen gerne mal seine dunkle Seite aus?",
+                     "name":"Sadismus",
+                     "idx":0
+                  },
+                  {
+                     "role":3,
+                     "question":"Wer klebt seine Webcam zu, um nicht ausspioniert zu werden?",
+                     "name":"Paranoia",
+                     "idx":3
+                  },
+                  {
+                     "role":4,
+                     "question":"Wer ist gut darin, gemachte Pläne schlecht zu reden?",
+                     "name":"Pessimismus",
+                     "idx":4
+                  },
+                  {
+                     "role":5,
+                     "question":"Wer denkt, dass Regeln nur für andere gelten?",
+                     "name":"Antisoziale Persönlichkeitsstörung",
+                     "idx":5
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201cZukunfts 80er\u201d aus <i>Zurück in die Zukunft Teil II<\/i>",
+                     "name":"Perfektionismus",
                      "idx":6,
                      "tags":[
-                        "deppert",
-                        "aussenseiter*in"
+                        "detailverliebt",
+                        "wahnhaft",
+                        "kontrollierend"
                      ]
                   }
                ],
@@ -7710,8 +7677,8 @@
             }
          ],
          "id":57134,
-         "category":"Zukunftsoutfit",
-         "prompt":"Welches Sci-Fi-Outfit seid ihr?"
+         "category":"Persönlichkeitsstörungen",
+         "prompt":"Wenn jeder von euch mit einer Persönlichkeitsstörung diagnostiziert werden würde, welche wäre das?"
       },
       {
          "roles":[
