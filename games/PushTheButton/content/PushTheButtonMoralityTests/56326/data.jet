@@ -1,65 +1,65 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt0"
-      },
-      {
-         "t":"S",
-         "v":"es jemandem zu sagen",
-         "n":"AlienPromptText0"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt1"
-      },
-      {
-         "t":"S",
-         "v":"sie zu reparieren",
-         "n":"AlienPromptText1"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt2"
-      },
-      {
-         "t":"S",
-         "v":"einen Zettel zu hinterlassen",
-         "n":"AlienPromptText2"
-      },
-      {
-         "t":"S",
-         "v":"Du verstopfst aus Versehen eine Tankstellentoilette und lässt sie überlaufen. Was du tun solltest, ist...",
-         "n":"HumanPromptText"
-      },
-      {
-         "s":"Du verstopfst aus Versehen eine Tankstellentoilette und lässt sie überlaufen. Was du tun solltest ist...",
-         "t":"A",
-         "v":"805721_0",
-         "n":"HumanPromptAudio"
-      }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Du verstopfst aus Versehen eine Tankstellentoilette und lässt sie überlaufen. Was du tun solltest ist...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Du verstopfst aus Versehen eine Tankstellentoilette und lässt sie überlaufen. Was du tun solltest ist...",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "S",
+      "v": "es jemandem zu sagen",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "sie zu reparieren",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "einen Zettel zu hinterlassen",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    }
+  ]
 }

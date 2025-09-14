@@ -1,65 +1,65 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Ich glaube an Bigfoot.",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Ich bin ein Menschenfreund.",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Außerirdisches Leben existiert.",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "Ich habe einmal zu 100% einen Vampir gesehen.",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Ich habe einmal zu 100 % einen Vampir gesehen.",
-            "t": "A",
-            "v": "812930_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Ich bin mir zu 100% sicher, mal einen Vampir gesehen zu haben.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Ich bin mir zu 100% sicher, mal einen Vampir gesehen zu haben.",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "S",
+      "v": "Ich glaube an Bigfoot.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Ich bin ein Menschenfreund.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Ich glaube an außerirdisches Leben.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    }
+  ]
 }

@@ -1,65 +1,65 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt0"
-      },
-      {
-         "t":"S",
-         "v":"\u201cBis heute Abend\u201d",
-         "n":"AlienPromptText0"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt1"
-      },
-      {
-         "t":"S",
-         "v":"\u201cUmarmungen sind mein Favorit\u201d",
-         "n":"AlienPromptText1"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt2"
-      },
-      {
-         "t":"S",
-         "v":"\u201cIch bin kitzelig\u201d",
-         "n":"AlienPromptText2"
-      },
-      {
-         "t":"S",
-         "v":"Du bestätigst ein abendliches Vorstellungsgespräch per E-Mail. Deine letzte Zeile SOLLTE wahrscheinlich... lauten.",
-         "n":"HumanPromptText"
-      },
-      {
-         "s":"Du bestätigst ein abendliches Vorstellungsgespräch per E-Mail. Deine letzte Zeile SOLLTE wahrscheinlich... lauten",
-         "t":"A",
-         "v":"833502_1",
-         "n":"HumanPromptAudio"
-      }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Du bestätigst ein abendliches Vorstellungsgespräch per E-Mail. Wie solltest du die E-Mail beenden?",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Du bestätigst ein abendliches Vorstellungsgespräch per E-Mail. Wie solltest du die E-Mail beenden?",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "S",
+      "v": "“Bis heute Abend”",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "“Ich bin kitzelig”",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "“Ich liebe Umarmungen”",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    }
+  ]
 }

@@ -2,11 +2,11 @@
     "content": [
         {
             "id": 1, 
-            "topic": "\u00C4hmmm\u2026 viel <BLANK>?"
+            "topic": "\u00C4Hmmm\u2026 genug <BLANK>?"
         }, 
         {
             "id": 2, 
-            "topic": "Oh, YEAH, ich bin ein*e <BLANK>."
+            "topic": "Oh, YEAH, ich bin <BLANK>."
         }, 
         {
             "id": 3, 
@@ -14,27 +14,27 @@
         }, 
         {
             "id": 4, 
-            "topic": "Sie nennen mich <BLANK>!"
+            "topic": "Man nennt mich auch <BLANK>!"
         }, 
         {
             "id": 5, 
-            "topic": "Gib mir eine*n <BLANK>!"
+            "topic": "Gib mir tonnenweise <BLANK>!"
         }, 
         {
             "id": 6, 
-            "topic": "Eine*n <BLANK>, bitte!"
+            "topic": "Für mich bitte <BLANK>!"
         }, 
         {
             "id": 7, 
-            "topic": "Mein*e <BLANK>!"
+            "topic": "<BLANK> ist voll mein Ding!"
         }, 
         {
             "id": 8, 
-            "topic": "Klingeling <BLANK>!"
+            "topic": "Klingeling, <BLANK>!"
         }, 
         {
             "id": 9, 
-            "topic": "Ist das dein*e <BLANK>?"
+            "topic": "Gehört dir <BLANK>?"
         }, 
         {
             "id": 10, 
@@ -42,7 +42,7 @@
         }, 
         {
             "id": 11, 
-            "topic": "Hallo, <BLANK>!"
+            "topic": "Ich bin\u2019s, <BLANK>!"
         }, 
         {
             "id": 12, 
@@ -50,7 +50,7 @@
         }, 
         {
             "id": 13, 
-            "topic": "It\u2019s <BLANK> time!"
+            "topic": "Zeit für <BLANK>!"
         }, 
         {
             "id": 14, 
@@ -58,15 +58,15 @@
         }, 
         {
             "id": 15, 
-            "topic": "Heilige*r <BLANK>!"
+            "topic": "Ach du heiliger <BLANK>!"
         }, 
         {
             "id": 16, 
-            "topic": "Ach du mein*e <BLANK>!"
+            "topic": "Ach du meine <BLANK>!"
         }, 
         {
             "id": 17, 
-            "topic": "Nenn mich <BLANK>!"
+            "topic": "Nennt mich <BLANK>!"
         }, 
         {
             "id": 18, 
@@ -74,27 +74,27 @@
         }, 
         {
             "id": 19, 
-            "topic": "Nennt mich <BLANK>!"
+            "topic": "Jeder sagt <BLANK> zu mir!"
         }, 
         {
             "id": 20, 
-            "topic": "Setz dich auf meine*n <BLANK>!"
+            "topic": "Setz dich auf mein\u2019 <BLANK>!"
         }, 
         {
             "id": 21, 
-            "topic": "Probiere die*den <BLANK>!"
+            "topic": "Probier\u2019 <BLANK> von mir!"
         }, 
         {
             "id": 22, 
-            "topic": "Wo ist die*der <BLANK>?"
+            "topic": "Hat wer <BLANK> gesagt?"
         }, 
         {
             "id": 23, 
-            "topic": "Nicht die*der <BLANK> von Papa!"
+            "topic": "Ich hab\u2019 <BLANK> immer dabei!"
         }, 
         {
             "id": 24, 
-            "topic": "M\u00F6gt ihr meine*n <BLANK>?"
+            "topic": "Mögt ihr <BLANK>?"
         }
     ]
 }

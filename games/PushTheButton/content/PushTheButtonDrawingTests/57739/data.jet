@@ -1,65 +1,155 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt0"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne Paris.",
-         "n":"AlienPromptText0"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt1"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne einen Gefängnisausbruch.",
-         "n":"AlienPromptText1"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt2"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne ein Feuerwerk.",
-         "n":"AlienPromptText2"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne Bastille Day.",
-         "n":"HumanPromptText"
-      },
-      {
-         "s":"Zeichne Bastille Day.",
-         "t":"A",
-         "v":"836355_1",
-         "n":"HumanPromptAudio"
-      }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Zeichne den Prager Fenstersturz.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Zeichne den Prager Fenstersturz.",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Prag.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Gefängnisausbruch.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein kaputtes Fenster.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen singenden Tiger.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne <i>Toy Story</i>.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Aufstand von Tieren.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein Zoogehege.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne <i>Das Phantom der Oper</i>.",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Streichelzoo.",
+      "n": "AlienPromptText8"
+    }
+  ]
 }

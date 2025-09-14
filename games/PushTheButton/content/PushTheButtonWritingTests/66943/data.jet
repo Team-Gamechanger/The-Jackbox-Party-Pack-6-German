@@ -1,110 +1,140 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty5"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty4"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty3"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt5"
-        },
-        {
-            "t": "S",
-            "v": "Ein fiktives Fahrzeug, das ich gerne fahren würde, ist ...",
-            "n": "HumanPromptText"
-        },
-        {
-            "t": "S",
-            "v": "Ein Küchengerät, das ich besitze, ist ...",
-            "n": "AlienPromptText4"
-        },
-        {
-            "t": "S",
-            "v": "Das Seltsamste, was ich aus meiner Kindheit gespeichert habe, ist ...",
-            "n": "AlienPromptText5"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Mein liebstes fiktionales Fahrzeug ist ...",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Mein liebstes fiktionales Raumschiff ist ...",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Mein fiktives Lieblingsauto ist ...",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt3"
-        },
-        {
-            "t": "S",
-            "v": "Mein Lieblingstier ist ...",
-            "n": "AlienPromptText3"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt4"
-        },
-        {
-            "s": "Ein fiktives Fahrzeug, das ich gerne fahren würde, ist ...",
-            "t": "A",
-            "v": "890072_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Das ist ein fiktives Fahrzeug, das ich gerne fahren würde:",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Das ist ein fiktives Fahrzeug, das ich gerne fahren würde:",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "Das ist mein liebstes fiktionales Fahrzeug:",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Das ist mein liebstes fiktionales Raumschiff:",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Das ist mein fiktives Lieblingsauto:",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Das ist mein Lieblingstier:",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Das ist ein Küchengerät, das ich besitze:",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Das ist das Seltsamste, das ich aus meiner Kindheit aufgehoben habe:",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Daran denke ich auch, wenn ich an alte Zeiten denke:",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Daran denke ich auch, wenn ich an Science Fiction denke:",
+      "n": "AlienPromptText7"
+    }
+  ]
 }

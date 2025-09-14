@@ -10,7 +10,7 @@
         }, 
         {
             "id": 3, 
-            "topic": "Armeest\u00FCtzpunkt"
+            "topic": "Armeestützpunkt"
         }, 
         {
             "id": 4, 
@@ -26,7 +26,7 @@
         }, 
         {
             "id": 7, 
-            "topic": "B\u00E4llebad"
+            "topic": "Bällebad"
         }, 
         {
             "id": 8, 
@@ -46,7 +46,7 @@
         }, 
         {
             "id": 12, 
-            "topic": "beach resort"
+            "topic": "Beach Resort"
         }, 
         {
             "id": 13, 
@@ -54,7 +54,7 @@
         }, 
         {
             "id": 14, 
-            "topic": "Brunch buffet"
+            "topic": "Brunch Buffet"
         }, 
         {
             "id": 15, 
@@ -114,15 +114,15 @@
         }, 
         {
             "id": 29, 
-            "topic": "escape room"
+            "topic": "Escape-Room"
         }, 
         {
             "id": 30, 
-            "topic": "Ba\u00FCrnmarkt"
+            "topic": "Bauernmarkt"
         }, 
         {
             "id": 31, 
-            "topic": "fast food drive thru"
+            "topic": "Fast Food Drive In"
         }, 
         {
             "id": 32, 
@@ -130,7 +130,7 @@
         }, 
         {
             "id": 33, 
-            "topic": "Fe\u00FCrwache"
+            "topic": "Feuerwache"
         }, 
         {
             "id": 34, 
@@ -138,7 +138,7 @@
         }, 
         {
             "id": 35, 
-            "topic": "M\u00FCllhalde"
+            "topic": "Müllhalde"
         }, 
         {
             "id": 36, 
@@ -158,7 +158,7 @@
         }, 
         {
             "id": 40, 
-            "topic": "Autobahnrastst\u00E4tte"
+            "topic": "Autobahnraststätte"
         }, 
         {
             "id": 41, 
@@ -206,7 +206,7 @@
         }, 
         {
             "id": 52, 
-            "topic": "\u00F6ffentlicher Pool"
+            "topic": "Öffentlicher Pool"
         }, 
         {
             "id": 53, 
@@ -246,11 +246,11 @@
         }, 
         {
             "id": 62, 
-            "topic": "U Bahnstation"
+            "topic": "U-Bahnstation"
         }, 
         {
             "id": 63, 
-            "topic": "taco truck"
+            "topic": "Taco-Truck"
         }, 
         {
             "id": 64, 

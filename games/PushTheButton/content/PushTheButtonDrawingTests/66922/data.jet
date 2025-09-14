@@ -1,110 +1,155 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"2",
-         "n":"AlienPromptDifficulty5"
-      },
-      {
-         "t":"N",
-         "v":"2",
-         "n":"AlienPromptDifficulty4"
-      },
-      {
-         "t":"N",
-         "v":"2",
-         "n":"AlienPromptDifficulty3"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"false",
-         "n":"AlienPromptAdultt5"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne Robin Hood.",
-         "n": "HumanPromptText"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne einen sexy Fuchs.",
-         "n": "AlienPromptText4"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne Katniss Everdeen.",
-         "n": "AlienPromptText5"
-      },
-      {
-         "t": "S",
-         "v": "false",
-         "n": "AlienPromptAdultt0"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne einen Bogenschützen.",
-         "n": "AlienPromptText0"
-      },
-      {
-         "t": "S",
-         "v": "false",
-         "n": "AlienPromptAdultt1"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne Hawkeye",
-         "n": "AlienPromptText1"
-      },
-      {
-         "t": "S",
-         "v": "false",
-         "n": "AlienPromptAdultt2"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne Legolas aus <i>Herr der Ringe<\/i>.",
-         "n": "AlienPromptText2"
-      },
-      {
-         "t": "S",
-         "v": "false",
-         "n": "AlienPromptAdultt3"
-      },
-      {
-         "t": "S",
-         "v": "Zeichne Robin (wie in Batman &...)",
-         "n": "AlienPromptText3"
-      },
-      {
-         "t": "S",
-         "v": "false",
-         "n": "AlienPromptAdultt4"
-      },
-      {
-         "s": "Zeichne Robin Hood.",
-         "t": "A",
-         "v": "889820_1",
-         "n": "HumanPromptAudio"
-      }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Zeichne Robin Hood.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Zeichne Robin Hood.",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Bogenschützen.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Link aus <i>The Legend of Zelda</i>",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Legolas aus <i>Herr der Ringe</i>.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Robin (wie in Batman &...)",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen sexy Fuchs.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Katniss Everdeen.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Olaf Scholz.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Batman",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne Dwayne “The Rock” Johnson.",
+      "n": "AlienPromptText8"
+    }
+  ]
 }

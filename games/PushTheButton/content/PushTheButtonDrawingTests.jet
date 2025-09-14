@@ -2518,23 +2518,6 @@
          }
       },
       {
-         "difficulty":0,
-         "x":false,
-         "id":56445,
-         "alienPrompts":{
-            "ff":[
-               0,
-               0,
-               1
-            ],
-            "total":[
-               3,
-               3,
-               3
-            ]
-         }
-      },
-      {
          "difficulty":1,
          "x":true,
          "id":56444,

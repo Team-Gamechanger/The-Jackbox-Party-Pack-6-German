@@ -1,110 +1,155 @@
 {
-   "fields":[
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty5"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty4"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty3"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty2"
-      },
-      {
-         "t":"N",
-         "v":"1",
-         "n":"AlienPromptDifficulty1"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"AlienPromptDifficulty0"
-      },
-      {
-         "t":"N",
-         "v":"0",
-         "n":"Difficulty"
-      },
-      {
-         "t":"S",
-         "v":"true",
-         "n":"AlienPromptAdultt5"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne eine betrunkene Person.",
-         "n":"HumanPromptText"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne einen Keg-Ständer.",
-         "n":"AlienPromptText4"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne jemanden, der in Ohnmacht fällt.",
-         "n":"AlienPromptText5"
-      },
-      {
-         "t":"S",
-         "v":"true",
-         "n":"AlienPromptAdultt0"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne eine Person an einer Bar.",
-         "n":"AlienPromptText0"
-      },
-      {
-         "t":"S",
-         "v":"true",
-         "n":"AlienPromptAdultt1"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne eine Person, die am Wein nippt.",
-         "n":"AlienPromptText1"
-      },
-      {
-         "t":"S",
-         "v":"true",
-         "n":"AlienPromptAdultt2"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne einen Barkeeper, der einen Drink mixt.",
-         "n":"AlienPromptText2"
-      },
-      {
-         "t":"S",
-         "v":"true",
-         "n":"AlienPromptAdultt3"
-      },
-      {
-         "t":"S",
-         "v":"Zeichne jemanden, der liegt.",
-         "n":"AlienPromptText3"
-      },
-      {
-         "t":"S",
-         "v":"true",
-         "n":"AlienPromptAdultt4"
-      },
-      {
-         "s":"Zeichne eine betrunkene Person.",
-         "t":"A",
-         "v":"811552_0",
-         "n":"HumanPromptAudio"
-      }
-   ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Zeichne eine betrunkene Person.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Zeichne eine betrunkene Person.",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne eine Person an einer Bar.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne eine Person, die am Wein nippt.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Barkeeper, der einen Drink mixt.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne jemanden, der liegt.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne einen Zapfhahn.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne jemanden, der in Ohnmacht fällt.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein Gebäude, das sich über die Wolken erhebt.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne eines dieser schicken Wolkenkratzer-Hotels.",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Zeichne ein fiktives Gebäude.",
+      "n": "AlienPromptText8"
+    }
+  ]
 }

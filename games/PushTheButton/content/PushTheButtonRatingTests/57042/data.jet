@@ -1,65 +1,65 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Ich muss einen Hund streicheln, wenn er sich mir nähert.",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Du musst deine Zähne dreimal am Tag putzen.",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Ich könnte für den Rest meines Lebens auf Käse verzichten.",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "Du musst dir die Hände waschen, nachdem du die Toilette benutzt hast.",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Du musst dir die Hände waschen, nachdem du die Toilette benutzt hast.",
-            "t": "A",
-            "v": "819771_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Man muss sich die Hände waschen, nachdem man die Toilette benutzt hat.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Man muss sich die Hände waschen, nachdem man die Toilette benutzt hat.",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "S",
+      "v": "Ich muss Hunde streicheln, wenn ich sie sehe.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Ich putze meine Zähne drei Mal am Tag.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Ich könnte für den Rest meines Lebens auf Käse verzichten.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    }
+  ]
 }

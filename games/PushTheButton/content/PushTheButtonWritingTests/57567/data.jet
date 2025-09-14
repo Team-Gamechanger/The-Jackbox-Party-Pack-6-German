@@ -1,80 +1,140 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty3"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "0",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Meine seltsamste Verwandtschaft ist mein/e ...",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Eine familiäre Beziehung, die ich als heilig bezeichnen würde, ist mein/e ...",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Eine Verwandtschaft, die ich sehr mag, aber selten sehe, ist mein/e ...",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt3"
-        },
-        {
-            "t": "S",
-            "v": "Eine alte Berühmtheit, die ich sehr mag, ist ...",
-            "n": "AlienPromptText3"
-        },
-        {
-            "t": "S",
-            "v": "Ein Familienmitglied, mit dem ich ständig spreche, ist mein/e ...",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Ein Familienmitglied, mit dem ich ständig spreche, ist mein/e ...",
-            "t": "A",
-            "v": "832904_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Das ist ein Familienmitglied, mit dem ich ständig spreche:",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Das ist ein Familienmitglied, mit dem ich ständig spreche:",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "Das ist meine seltsamste Verwandtschaft:",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Das ist eine meiner familiären Beziehungen, die ich als heilig bezeichnen würde:",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Das ist eine mir verwandte Person, die ich sehr mag, aber selten sehe:",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Das ist eine alte Berühmtheit, die ich sehr mag:",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Das war etwas, das ich zu oft gemacht habe, als ich jünger war:",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Das ist der beste Sport:",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Das ist die beste Art, um sich nach einem langen Tag zu entspannen:",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Das ist einfach die schlimmste Angewohnheit:",
+      "n": "AlienPromptText7"
+    }
+  ]
 }

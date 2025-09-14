@@ -1,65 +1,140 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "true",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Wenn ich ein Gangster wäre, würde ich mich selbst ... nennen",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Der Name meines ersten Haustiers war ...",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "true",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Der Name der Straße, in der ich aufgewachsen bin, ist ...",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "Wenn ich ein Tänzer wäre, wäre mein Künstlername ...",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Wenn ich ein Tänzer wäre, wäre mein Künstlername ...",
-            "t": "A",
-            "v": "803315_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Das wäre mein Künstlername, wenn ich ein Tänzer wäre:",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Das wäre mein Künstlername, wenn ich ein Tänzer wäre:",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "Das wäre mein Spitzname, wenn ich ein Gangster wäre:",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Das war der Name meines ersten Haustiers:",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Das ist der Name der Straße, in der ich aufgewachsen bin:",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Das ist das beste Spielzeug, das man in einer Party-Geschenktüte bekommen kann:",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Das ist eine Süßigkeit, die Erwachsene lieben und Kinder hassen:",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Das ist das beste Faschingsvergnügen:",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Das war das letzte, das ich online bestellt habe:",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Das ist das Beste, was man am Ende eines stressigen Tages essen kann:",
+      "n": "AlienPromptText7"
+    }
+  ]
 }

@@ -1,65 +1,140 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Nach dem Aufwachen am Morgen bleibe ich mindestens für ... im Bett",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "true",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Die perfekte Zeit, um zu kacken, ist ...",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Ich schaue keine Filme, die länger sind als ...",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "Die perfekte Zeit für ein Nickerchen ist ...",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Die perfekte Zeit für ein Nickerchen ist ...",
-            "t": "A",
-            "v": "832940_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Das ist die perfekte Zeit für ein Nickerchen:",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Das ist die perfekte Zeit für ein Nickerchen:",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "So lange bleibe ich jeden Morgen nach dem Aufwachen noch im Bett:",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Das ist die perfekte Zeit, um zu kacken:",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Das ist die Zeit, ab der Filme zu lang sind:",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Das ist eine alte Berühmtheit, die ich sehr mag:",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Das war etwas, das ich zu oft gemacht habe, als ich jünger war:",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Das ist der beste Sport:",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Das ist die beste Art, um sich nach einem langen Tag zu entspannen:",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Das ist einfach die schlimmste Angewohnheit:",
+      "n": "AlienPromptText7"
+    }
+  ]
 }

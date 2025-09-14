@@ -1,110 +1,140 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty5"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty4"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty3"
-        },
-        {
-            "t": "N",
-            "v": "2",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "1",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt5"
-        },
-        {
-            "t": "S",
-            "v": "Das Seltsamste, was ich auf meiner Pizza mag, ist ...",
-            "n": "HumanPromptText"
-        },
-        {
-            "t": "S",
-            "v": "Das beste Geschenk, das ich je bekommen habe, war ...",
-            "n": "AlienPromptText4"
-        },
-        {
-            "t": "S",
-            "v": "Meine Lieblingsfleischsorte ist ...",
-            "n": "AlienPromptText5"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Mein Lieblingsgemüse ist ...",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Meine Lieblingskäsesorte ist....",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Mein Lieblingsessen im Sommer ist ...",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt3"
-        },
-        {
-            "t": "S",
-            "v": "Das süßeste Tier ist ...",
-            "n": "AlienPromptText3"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt4"
-        },
-        {
-            "s": "Das Seltsamste, was ich auf meiner Pizza mag, ist ...",
-            "t": "A",
-            "v": "806298_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Das ist das Seltsamste, was ich auf meiner Pizza mag:",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Das ist das Seltsamste, was ich auf meiner Pizza mag:",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "Das ist mein Lieblingsgemüse:",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Das ist meine Lieblingskäsesorte:",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Das ist mein Lieblingsessen im Sommer:",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Das ist das süßeste Tier:",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Das war das beste Geschenk, das ich je bekommen habe:",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Das ist meine Lieblingsfleischsorte:",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Das war das Ekelhafteste, in das ich je getreten bin:",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "Das wäre die beste Supermacht:",
+      "n": "AlienPromptText7"
+    }
+  ]
 }

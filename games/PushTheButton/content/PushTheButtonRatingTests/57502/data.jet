@@ -1,65 +1,65 @@
 {
-    "fields": [
-        {
-            "t": "N",
-            "v": "0",
-            "n": "AlienPromptDifficulty2"
-        },
-        {
-            "t": "N",
-            "v": "0",
-            "n": "AlienPromptDifficulty1"
-        },
-        {
-            "t": "N",
-            "v": "0",
-            "n": "AlienPromptDifficulty0"
-        },
-        {
-            "t": "N",
-            "v": "0",
-            "n": "Difficulty"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt0"
-        },
-        {
-            "t": "S",
-            "v": "Ich würde lieber Hawaii anstatt Alaska besuchen.",
-            "n": "AlienPromptText0"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt1"
-        },
-        {
-            "t": "S",
-            "v": "Ich ziehe Shorts einer Hose vor.",
-            "n": "AlienPromptText1"
-        },
-        {
-            "t": "S",
-            "v": "false",
-            "n": "AlienPromptAdultt2"
-        },
-        {
-            "t": "S",
-            "v": "Der Sommer ist meine Lieblingsjahreszeit.",
-            "n": "AlienPromptText2"
-        },
-        {
-            "t": "S",
-            "v": "Es ist besser, heiß als kalt zu sein.",
-            "n": "HumanPromptText"
-        },
-        {
-            "s": "Es ist besser, heiß als kalt zu sein.",
-            "t": "A",
-            "v": "832042_1",
-            "n": "HumanPromptAudio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "S",
+      "v": "Mir ist es lieber, wenn es zu heiß ist, anstatt zu kalt.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Mir ist es lieber, wenn es zu heiß ist, anstatt zu kalt.",
+      "t": "A",
+      "v": "prompt",
+      "n": "HumanPromptAudio"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "S",
+      "v": "Ich würde lieber Hawaii anstatt Alaska besuchen.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "Wenn es sich anbietet, trage ich vorzugsweise kurze Hosen.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "Der Sommer ist meine Lieblingsjahreszeit.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    }
+  ]
 }
