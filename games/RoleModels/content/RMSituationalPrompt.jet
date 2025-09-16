@@ -8068,59 +8068,58 @@
       {
          "roles":[
             {
-               "name":"\u201cideal für den Strand\u201d",
+               "name":"<i>69</i>",
                "required":false,
                "tags":[
-                  "Strandgammler*in",
-                  "lustig",
-                  "simpel",
-                  "anspruchslos"
+                  "erotisch",
+                  "erregt",
+                  "aufreizend",
+                  "verführerisch"
                ]
             },
             {
-               "name":"\u201chat mich im Zug zum Lachen gebracht\u201d",
+               "name":"<i>420</i>",
                "required":false,
                "tags":[
-                  "unterhaltsam",
-                  "zum Schreien komisch",
-                  "Witzbold"
+                  "entspannt",
+                  "berauscht"
                ]
             },
             {
-               "name":"\u201chat eine Art von jugendlichem Gefühl\u201d",
+               "name":"<i>31</i>",
                "required":false,
                "tags":[
-                  "Abenteurer*in",
-                  "kindlich",
-                  "unschuldig",
-                  "juvenil"
+                  "verräterisch",
+                  "listig",
+                  "heimtückisch",
+                  "hinterhältig"
                ]
             },
             {
-               "name":"\u201cHolen Sie die Taschentücher raus\u201d",
-               "required":true,
-               "tags":[
-                  "emotional",
-                  "schulze"
-               ]
-            },
-            {
-               "name":"\u201cOMG, so viele Wendungen!\u201d",
+               "name":"<i>13</i>",
                "required":false,
                "tags":[
-                  "spannend",
-                  "empfindlich",
-                  "Adrenalinjunkie",
-                  "unberechenbar"
+                  "unglücklich",
+                  "dumm"
                ]
             },
             {
-               "name":"\u201cein bisschen langsam, aber letztlich lohnenswert\u201d",
-               "required":true,
+               "name":"<i>666</i>",
+               "required":false,
                "tags":[
-                  "preis",
-                  "langsam",
-                  "reichhaltig"
+                  "satanistisch",
+                  "okkult",
+                  "dämonisch",
+                  "bösartig"
+               ]
+            },
+            {
+               "name":"<i>888</i>",
+               "required":false,
+               "tags":[
+                  "glücklich",
+                  "wohlhabend",
+                  "zufrieden"
                ]
             }
          ],
@@ -8134,15 +8133,9 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Was ist dein bester kurzer Witz, den du für Gelegenheiten wie diese auspackst?",
-                     "name":"\u201chat mich im Zug zum Lachen gebracht\u201d",
+                     "question":"Was ist für dich der beste Weg zur Entspannung?",
+                     "name":"<i>420</i>",
                      "idx":1
-                  },
-                  {
-                     "role":0,
-                     "question":"Stell dir vor, du wärst Nicholas Sparks. Schildere einen Moment, in dem zwei Liebende vom Regen überrascht werden.",
-                     "name":"\u201cideal für den Strand\u201d",
-                     "idx":6
                   }
                ]
             },
@@ -8151,75 +8144,44 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Bei wem könntest du wirklich dein Gehirn abschalten und dich entspannen?",
-                     "name":"\u201cideal für den Strand\u201d",
+                     "question":"Wer würder einer <i>69</i> sofort zustimmen?",
+                     "name":"<i>69</i>",
                      "idx":0
                   },
                   {
                      "role":2,
-                     "question":"Wer hat die jugendlichste Ausstrahlung?",
-                     "name":"\u201chat eine Art von jugendlichem Gefühl\u201d",
+                     "question":"Wer hat schonmal etwas getan, was nur schwer zu verzeihen ist?",
+                     "name":"<i>31</i>",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wer hat den unberechenbarsten Tagesablauf?",
-                     "name":"\u201cOMG, so viele Wendungen!\u201d",
+                     "question":"Wer übernimmt bei Rollenspielen gerne den Bösen?",
+                     "name":"<i>666</i>",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Bei wem dauert es am längsten, bis man ihn gut kennenlernt?",
-                     "name":"\u201cein bisschen langsam, aber letztlich lohnenswert\u201d",
+                     "question":"Wer häufig viel Glück?",
+                     "name":"<i>888</i>",
                      "idx":4
                   },
                   {
                      "role":3,
-                     "question":"Wer niest mehr?",
-                     "name":"\u201cHolen Sie die Taschentücher raus\u201d",
+                     "question":"Wer wird vom Pech verfolgt?",
+                     "name":"<i>13</i>",
                      "idx":5
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Wer von Ihnen lacht über Teddy Teclebrhan und wer von Ihnen lacht über Jan Böhmermann?",
-                     "roles":[
-                        {
-                           "name":"Teddy Teclebrhan Lacher",
-                           "tags":[
-                              "Sonderling",
-                              "schrullig",
-                              "facettenreich"
-                           ]
-                        },
-                        {
-                           "name":"Jan Böhmermann Lacher",
-                           "tags":[
-                              "zeitgenössisch",
-                              "Klassiker",
-                              "volkstümlich"
-                           ]
-                        }
-                     ],
-                     "name":"\u201chat mich im Zug zum Lachen gebracht\u201d",
-                     "idx":8
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"\u201czu lang;nicht gelesen\u201d",
-                     "idx":7,
+                     "name":"<i>404</i>",
+                     "idx":6,
                      "tags":[
-                        "langweilig",
-                        "langatmig",
-                        "puzzle",
-                        "unvollendet"
+                        "verloren",
+                        "verwirrt"
                      ]
                   }
                ],
@@ -8227,62 +8189,62 @@
             }
          ],
          "id":57047,
-         "category":"Bücherrezensionen",
-         "prompt":"Welche Bücherrezension seid ihr?"
+         "category":"Mehrdeutige Zahlen",
+         "prompt":"?"
       },
       {
          "roles":[
             {
-               "name":"Oma",
-               "required":true,
-               "tags":[
-                  "Klassiker",
-                  "Langweiler",
-                  "traditionell"
-               ]
-            },
-            {
-               "name":"Omi",
-               "required":true,
-               "tags":[
-                  "volkstümlich",
-                  "entspannt",
-                  "sweetheart"
-               ]
-            },
-            {
-               "name":"OmOm",
+               "name":"RTL",
                "required":false,
                "tags":[
-                  "cool",
-                  "hipster",
-                  "grossstädtisch"
+                  "assozial",
+                  "dumm",
+                  "laut"
                ]
             },
             {
-               "name":"Babushka",
+               "name":"ARD",
                "required":false,
                "tags":[
-                  "Bezugsperson",
-                  "kultiviert",
-                  "altertümlich"
+                  "konservativ",
+                  "informativ",
+                  "altmodisch"
                ]
             },
             {
-               "name":"Muh-Muh Nudel",
-               "required":true,
+               "name":"Pro7",
+               "required":false,
                "tags":[
-                  "Dummbatz",
-                  "albern",
-                  "aus den angeln gehoben"
+                  "aggressiv",
+                  "unterhaltsam",
+                  "schnell"
                ]
             },
             {
-               "name":"Susanne",
-               "required":true,
+               "name":"KIKA",
+               "required":false,
                "tags":[
-                  "formal",
-                  "fachmann*frau"
+                  "kindlich",
+                  "fröhlich",
+                  "naiv"
+               ]
+            },
+            {
+               "name":"arte",
+               "required":false,
+               "tags":[
+                  "gebildet",
+                  "kreativ",
+                  "künstlerisch"
+               ]
+            },
+            {
+               "name":"Super RTL",
+               "required":false,
+               "tags":[
+                  "jung",
+                  "modern"            
                ]
             }
          ],
@@ -8296,43 +8258,20 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Welchen albernen Namen verwendest du für Löffel?",
-                     "name":"Muh-Muh Nudel",
+                     "question":"Eine Doku über welches Thema könntest du dir stundenlang anschauen?",
+                     "name":"arte",
                      "idx":0
                   },
                   {
                      "role":0,
-                     "question":"Welche Sorte Bonbons hast du in deiner Tasche?",
-                     "name":"Oma",
+                     "question":"Was ist das Dümmste, das du je im Fernsehen gesehen hast?",
+                     "name":"RTL",
                      "idx":1
                   },
                   {
-                     "role":2,
-                     "question":"Welches aufwendige Geschenk hast du deinen Enkelkindern mitgebracht?",
-                     "name":"OmOm",
-                     "idx":4
-                  },
-                  {
                      "role":3,
-                     "question":"Welche ominöse Warnung benutzt Babuschka immer zur Begrüßung?",
-                     "name":"Babushka",
-                     "idx":6
-                  },
-                  {
-                     "role":3,
-                     "question":"Was ist deine Lieblingsgeschichte aus dem alten Land, die du erzählst, um deine Enkel zu erschrecken?",
-                     "name":"Babushka",
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":3,
-                     "question":"Bitte tanze Babuschkas Signature Tanz.",
-                     "name":"Babushka",
+                     "question":"Was ist für dich die beste Sendung im KIKA?",
+                     "name":"KIKA",
                      "idx":2
                   }
                ]
@@ -8342,32 +8281,32 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer besitzt am ehesten bis zu 10 verschiedene Steppdecken?",
-                     "name":"Omi",
+                     "question":"Wer ist am besten informiert über die neusten Nachrichten?",
+                     "name":"ARD",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wer hält seine persönlichen Beziehungen gerne... professionell?",
-                     "name":"Susanne",
+                     "question":"Wer schwärmt am meisten von dem alten Super-RTL-Programm?",
+                     "name":"Super RTL",
                      "idx":5
                   },
                   {
                      "role":2,
-                     "question":"Wer hatte zuletzt einen \u201cUrlaubsausflug\u201d?",
-                     "name":"OmOm",
-                     "idx":7
+                     "question":"Wer lässt sich am ehesten mit Action unterhalten?",
+                     "name":"Pro7",
+                     "idx":4
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Gruselige alte Dame",
-                     "idx":9,
+                     "name":"Netflix",
+                     "idx":6,
                      "tags":[
-                        "unheimlich",
-                        "Geist"
+                        "vielseitig",
+                        "populär"
                      ]
                   }
                ],
@@ -8375,62 +8314,69 @@
             }
          ],
          "id":56479,
-         "category":"Namen für Großmütter",
-         "prompt":"Welcher Oma-Name passt zu jedem von euch?"
+         "category":"Fernsehsender",
+         "prompt":"Welcher Fernsehsender beschreibt jeden von euch am besten?"
       },
       {
          "roles":[
             {
-               "name":"die Hydra erschlagen",
+               "name":"Jupiter, der König der Götter",
+               "short":"Jupiter",
                "required":false,
                "tags":[
-                  "mutig",
-                  "Adrenalinjunkie"
+                  "mächtig",
+                  "charismatisch",
+                  "dominant"
                ]
             },
             {
-               "name":"verloren im Labyrinth des Minotaurus",
+               "name":"Nemesis, die Göttin der Rache",
+               "short":"Nemesis",
                "required":false,
                "tags":[
-                  "ungeschickt",
-                  "verloren",
-                  "rätsellöser*in",
-                  "unheimlich"
+                  "rachsüchtig",
+                  "unbarmherzig",
+                  "kalt",
+                  "berechnend"
                ]
             },
             {
-               "name":"zu nah an der Sonne fliegen",
+               "name":"Pax, die Göttin des Friedens",
+               "short":"Pax",
                "required":false,
                "tags":[
-                  "dumm",
-                  "Angeber*in"
+                  "friedlich",
+                  "ausgeglichen"
                ]
             },
             {
-               "name":"Feuer von den Göttern stehlen",
+               "name":"Justitia, die Göttin der Gerechtigkeit",
+               "short":"Justitia",
                "required":false,
                "tags":[
-                  "Intrigant*in",
-                  "gewieft",
-                  "Unruhestifter"
+                  "rechtschaffen",
+                  "fair",
+                  "ordnungsbewusst"
                ]
             },
             {
-               "name":"die Welt auf den Schultern tragen",
+               "name":"Pluto, der Gott der Unterwelt",
+               "short":"Pluto",
                "required":false,
                "tags":[
-                  "zuverlässig",
-                  "ausgenutzt",
-                  "stark"
+                  "düster",
+                  "böse",
+                  "geheimnisvoll"
                ]
             },
             {
-               "name":"als Vogel Menschen verführen",
+               "name":"Bacchus, der Gott des Weins",
+               "short":"Bacchus",
                "required":false,
                "tags":[
-                  "animal",
-                  "flirt",
-                  "Romantiker*in"
+                  "betrunken",
+                  "ekstatisch",
+                  "genussvoll"
                ]
             }
          ],
@@ -8444,26 +8390,9 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Was würdest du noch von den griechischen Göttern stehlen?",
-                     "name":"Feuer von den Göttern stehlen",
-                     "idx":7
-                  },
-                  {
-                     "role":1,
-                     "question":"Was ist das Gruseligste, das man in einem Maislabyrinth finden kann?",
-                     "name":"verloren im Labyrinth des Minotaurus",
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":5,
-                     "question":"Gib deinen verlockendsten Vogelruf zum besten",
-                     "name":"als Vogel Menschen verführen",
-                     "idx":6
+                     "question":"Warum ist für dich Gerechtigkeit wichtig?",
+                     "name":"Justitia, die Göttin der Gerechtigkeit",
+                     "idx":3
                   }
                ]
             },
@@ -8472,32 +8401,32 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer wäre wohl der beste im Umgang mit einem Schwert?",
-                     "name":"die Hydra erschlagen",
+                     "question":"Wer von euch kann am besten die Gruppe anführen?",
+                     "name":"Jupiter, der König der Götter",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Wer braucht am längsten, um sein Auto in einem Parkhaus zu finden?",
-                     "name":"verloren im Labyrinth des Minotaurus",
+                     "question":"Wer übt am ehesten Rache, wenn sich die Möglichkeit dazu ergibt?",
+                     "name":"Nemesis, die Göttin der Rache",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Wer hört nie auf seine Eltern?",
-                     "name":"zu nah an der Sonne fliegen",
+                     "question":"Wer von euch ist am ehesten an friedlichen Lösungen interessiert?",
+                     "name":"Pax, die Göttin des Friedens",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wer kann den größten emotionalen Ballast tragen?",
-                     "name":"die Welt auf den Schultern tragen",
+                     "question":"Wer von euch hat die düsterste Persönlichkeit?",
+                     "name":"Pluto, der Gott der Unterwelt",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Wer würde in einer Federjacke am besten aussehen?",
-                     "name":"als Vogel Menschen verführen",
+                     "question":"Wer kann sich am schnellsten betrinken?",
+                     "name":"Bacchus, der Gott des Weins",
                      "idx":5
                   }
                ]
@@ -8505,12 +8434,12 @@
             {
                "roles":[
                   {
-                     "name":"das eigene Fleisch verzehren",
-                     "idx":9,
+                     "name":"Fortuna, die Göttin des Glücks",
+                     "idx":6,
                      "tags":[
-                        "Kannibale",
-                        "irrsinnig",
-                        "verhungernd"
+                        "glücklich",
+                        "wohlhabend",
+                        "zufrieden"
                      ]
                   }
                ],
@@ -8518,8 +8447,8 @@
             }
          ],
          "id":56667,
-         "category":"Griechische Mythologie",
-         "prompt":"Welche griechische Sage sind Sie?"
+         "category":"Römische Mythologie",
+         "prompt":"Welche römische Gottheit beschreibt jeden von euch am besten?"
       },
       {
          "roles":[
