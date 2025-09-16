@@ -7683,61 +7683,61 @@
       {
          "roles":[
             {
-               "name":"das mic rocken",
-               "required":true,
-               "tags":[
-                  "charismatisch",
-                  "extra",
-                  "frontman",
-                  "Angeber*in"
-               ]
-            },
-            {
-               "name":"Gitarre schrubbeln",
-               "required":true,
-               "tags":[
-                  "radikale*r",
-                  "sidekick",
-                  "begabt"
-               ]
-            },
-            {
-               "name":"Saxophon-Solo",
+               "name":"Der, der wegen jeder Kleinigkeit weint",
+               "short":"Heulsuse",
                "required":false,
                "tags":[
-                  "Schwarm",
-                  "unabhängig"
+                  "emotional",
+                  "sensibel",
+                  "verletzlich"
                ]
             },
             {
-               "name":"es am Tamburin bringen",
+               "name":"Der, der in zig Beziehungen gleichzeitig ist",
                "required":false,
                "tags":[
-                  "Dussel",
-                  "unbeachtet",
-                  "skurril"
+                  "beziehungsorientiert",
+                  "offen",
+                  "experimentierfreudig"
                ]
             },
             {
-               "name":"Groupies anquatschen",
+               "name":"Der, der noch kurz vor der Einschulung mit Windeln rumläuft",
+               "short":"Windelträger",
                "required":false,
                "tags":[
-                  "cassanova",
-                  "charmant",
-                  "selbstbewusst",
-                  "Romantiker*in"
+                  "kindlich",
+                  "unreif",
+                  "naiv"
                ]
             },
             {
-               "name":"die Ausrüstung tragen",
-               "required":true,
+               "name":"Der, der andere piesackt",
+               "required":false,
                "tags":[
-                  "stark",
-                  "zuverlässig",
-                  "fleissig",
-                  "Herkules",
-                  "ausgenutzt",
-                  "sidekick"
+                  "frech",
+                  "gemein",
+                  "provokant"
+               ]
+            },
+            {
+               "name":"Derjenige mit Helikopter-Eltern",
+               "short":"Helikopter-Kind",
+               "required":false,
+               "tags":[
+                  "behütet",
+                  "verwöhnt",
+                  "abhängig"
+               ]
+            },
+            {
+               "name":"Der, der immer alles besser weiß",
+               "short":"Der Besserwisser",
+               "required":false,
+               "tags":[
+                  "überzeugt",
+                  "arrogant",
+                  "dominant"
                ]
             }
          ],
@@ -7751,31 +7751,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Was ist dein Signaturemove auf der Bühne?",
-                     "name":"das mic rocken",
+                     "question":"Was rührt dich zu Tränen?",
+                     "name":"Der, der wegen jeder Kleinigkeit weint",
                      "idx":0
                   },
                   {
                      "role":4,
-                     "question":"Was ist der beste Anmachspruch?",
-                     "name":"Groupies anquatschen",
+                     "question":"Was machen deine Eltern, wenn du etwas falsch machst?",
+                     "name":"Derjenige mit Helikopter-Eltern",
                      "idx":5
                   },
                   {
                      "role":1,
-                     "question":"Jeder große Lead-Gitarrist hat einen Künstlernamen. Welcher ist deiner?",
-                     "name":"Gitarre schrubbeln",
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Luftgitarren-Wettbewerb!",
-                     "name":"Gitarre schrubbeln",
+                     "question":"Was ist dein Geheimnis für eine erfolgreiche Beziehung?",
+                     "name":"Der, der in zig Beziehungen gleichzeitig ist",
                      "idx":1
                   }
                ]
@@ -7785,38 +7774,33 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Bei wem kann man sich eine Saxophon-Jamsession im Mondlicht vorstellen?",
-                     "name":"Saxophon-Solo",
+                     "question":"Wer würde am ehesten wieder Windeln tragen, wenn er könnte?",
+                     "name":"Der, der noch kurz vor der Einschulung mit Windeln rumläuft",
                      "idx":2
                   },
                   {
-                     "role":2,
-                     "question":"Welcher Spieler ist die Lisa Simpson der Gruppe?",
-                     "name":"Saxophon-Solo",
-                     "idx":3
-                  },
-                  {
                      "role":3,
-                     "question":"Welcher Spieler hat den besseren Rhythmus?",
-                     "name":"es am Tamburin bringen",
+                     "question":"Wer ist ständig nur auf Ärger aus?",
+                     "name":"Der, der andere piesackt",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Welcher Spieler wäre besser in der Lage, dich aus einem brennenden Gebäude zu tragen?",
-                     "name":"die Ausrüstung tragen",
-                     "idx":7
+                     "question":"Wer tut so, als wüsste er alles?",
+                     "name":"Der, der immer alles besser weiß",
+                     "idx":3
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"versucht, ein Auto dort zu parken",
+                     "name":"Der, der in die Erzieher verliebt ist",
                      "idx":6,
                      "tags":[
-                        "Fahrer*in",
-                        "frustriert"
+                        "optimistisch",
+                        "naiv",
+                        "unschuldig"
                      ]
                   }
                ],
@@ -7824,63 +7808,63 @@
             }
          ],
          "id":57040,
-         "category":"Garagenband-Mitglieder",
-         "prompt":"Wenn ihr eine Band gründen würdet, was würde jeder von euch tun?"
+         "category":"Im Kindergarten",
+         "prompt":"Welche Art von Kind war jeder von euch im Kindergarten?"
       },
       {
          "roles":[
             {
-               "name":"Kreis",
+               "name":"Charisma",
                "required":false,
                "tags":[
-                  "Philosoph*in",
-                  "gelassen",
-                  "schön gerundet"
+                  "charmant",
+                  "überzeugend",
+                  "einfühlsam"
                ]
             },
             {
-               "name":"Quadrat",
+               "name":"Stärke",
                "required":false,
                "tags":[
-                  "vorschriftsmäßig",
-                  "nerd",
-                  "organisiert"
-               ]
-            },
-            {
-               "name":"gleichseitiges Dreieck",
-               "required":false,
-               "tags":[
-                  "unparteiisch",
-                  "richter*in",
-                  "logisch"
-               ]
-            },
-            {
-               "name":"Pentagon",
-               "required":false,
-               "tags":[
+                  "aggressiv",
                   "durchsetzungsfähig",
-                  "militärisch",
-                  "soldat*in"
+                  "hart"
                ]
             },
             {
-               "name":"Pyramide",
+               "name":"Klugheit",
                "required":false,
                "tags":[
-                  "antik",
-                  "misteriös",
-                  "mystiker*in"
+                  "intelligent",
+                  "einfallsreich",
+                  "wissbegierig"
                ]
             },
             {
-               "name":"Dodecagon",
-               "required":true,
+               "name":"Gewandheit",
+               "required":false,
                "tags":[
-                  "kompliziert",
-                  "verwirrend",
-                  "rätsel"
+                  "agil",
+                  "flink",
+                  "beweglich"
+               ]
+            },
+            {
+               "name":"Fingerfertigkeit",
+               "required":false,
+               "tags":[
+                  "geschickt",
+                  "präzise",
+                  "schnell"
+               ]
+            },
+            {
+               "name":"Durchhaltevermögen",
+               "required":false,
+               "tags":[
+                  "ausdauernd",
+                  "beharrlich",
+                  "zielstrebig"
                ]
             }
          ],
@@ -7894,16 +7878,10 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Zähle drei Dinge auf, die im Leben gleichwertig sind.",
-                     "name":"gleichseitiges Dreieck",
+                     "question":"Was wäre jetzt ein kluger Spruch?",
+                     "name":"Klugheit",
                      "idx":4
                   },
-                  {
-                     "role":1,
-                     "question":"Wenn du alles in diesem Raum in eine große Kiste packen müsstest, wo würdest du anfangen?",
-                     "name":"Quadrat",
-                     "idx":7
-                  }
                ]
             },
             {
@@ -7911,61 +7889,45 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"Wer hat die meisten Seiten in seiner Persönlichkeit?",
-                     "name":"Dodecagon",
+                     "question":"Wer gibt nicht auf, egal wie hart es wird?",
+                     "name":"Durchhaltevermögen",
                      "idx":1
                   },
                   {
                      "role":1,
-                     "question":"Wer klemmt am ehesten Stifte an eine Hemdtasche?",
-                     "name":"Quadrat",
+                     "question":"Wer wählt Kraft über Geschick?",
+                     "name":"Stärke",
                      "idx":0
                   },
                   {
                      "role":3,
-                     "question":"Wer könnte deiner Meinung nach im US-Verteidigungsministerium arbeiten?",
-                     "name":"Pentagon",
+                     "question":"Wer würde in einem Kampf auf Ausweichen statt Parieren setzen?",
+                     "name":"Gewandheit",
                      "idx":3
                   },
                   {
                      "role":4,
-                     "question":"Wer erhält am ehesten eine aufwendige Pharaonenbestattung?",
-                     "name":"Pyramide",
+                     "question":"Wer ist am geschicktesten mit seinen Händen?",
+                     "name":"Fingerfertigkeit",
                      "idx":5
                   },
                   {
                      "role":0,
-                     "question":"Wer hat den abgerundetesten Lebensstil?",
-                     "name":"Kreis",
+                     "question":"Wer zieht andere mit seiner Ausdrucksweise in den Bann?",
+                     "name":"Charisma",
                      "idx":2
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
-                  {
-                     "role":4,
-                     "question":"In welcher ägyptischen Stadt befindet sich die Große Pyramide?",
-                     "correct":"Gizeh",
-                     "name":"Pyramide",
-                     "altSpellings":[
-                        "Gize",
-                        "gizeh",
-                        "gize"
-                     ],
-                     "idx":6
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Trapez",
-                     "idx":8,
+                     "name":"Glück",
+                     "idx":6,
                      "tags":[
-                        "Sonderling",
-                        "unausgeglichen"
+                        "bevorteilt",
+                        "ausgeglichen",
+                        "zufrieden"
                      ]
                   }
                ],
@@ -7973,62 +7935,63 @@
             }
          ],
          "id":56125,
-         "category":"Geometrische Formen",
-         "prompt":"Wer repräsentiert jede dieser geometrischen Formen?"
+         "category":"Rollenspiel-Attribute",
+         "prompt":"Wenn man euch in einem Wort beschreiben müsste, welches Rollenspiel-Attribut sollte man wählen?"
       },
       {
          "roles":[
             {
-               "name":"Spuk in einem viktorianischen Herrenhaus",
+               "name":"Der Tank",
                "required":false,
                "tags":[
-                  "charmant",
-                  "mit Klasse",
-                  "partylöwe*in"
+                  "robust",
+                  "standhaft",
+                  "unerschütterlich"
                ]
             },
             {
-               "name":"Kindern beim Lösen von Rätseln helfen",
+               "name":"Der Damage Dealer",
                "required":false,
                "tags":[
-                  "Detektiv*in",
-                  "nett",
-                  "sidekick"
+                  "aggressiv",
+                  "stark",
+                  "zielgerichtet"
                ]
             },
             {
-               "name":"Besitz von gruseligen Puppen ergreifen",
+               "name":"Der Allrounder",
                "required":false,
                "tags":[
-                  "kindlich",
-                  "unheimlich",
-                  "Dämon*in",
-                  "unheimlich"
+                  "vielseitig",
+                  "anpassungsfähig",
+                  "ausgewogen"
                ]
             },
             {
-               "name":"Rache an deinem Mörder suchen",
+               "name":"Der Supporter",
                "required":false,
                "tags":[
-                  "Rächer*in",
-                  "rachsüchtig",
-                  "gewalttätig"
+                  "hilfsbereit",
+                  "unterstützend",
+                  "teamorientiert"
                ]
             },
             {
-               "name":"Mit Ouija-Brettern herumspielen",
+               "name":"Der Healer",
                "required":false,
                "tags":[
-                  "gewieft",
-                  "Unruhestifter"
+                  "mitfühlend",
+                  "sorgend",
+                  "beschützend"
                ]
             },
             {
-               "name":"Auftritte in geisterbasierten Reality-Shows",
+               "name":"Der AFKler",
                "required":false,
                "tags":[
-                  "Aufmerksamkeit heischend",
-                  "influencer"
+                  "abwesend",
+                  "unbeteiligt",
+                  "desinteressiert"
                ]
             }
          ],
@@ -8042,38 +8005,27 @@
                "prompts":[
                   {
                      "role":5,
-                     "question":"Wie würde der Name deiner Geister-Reality-Show lauten?",
-                     "name":"Auftritte in geisterbasierten Reality-Shows",
+                     "question":"Was ist der Grund, warum du während dem Spiel AFK bist?",
+                     "name":"Der AFKler",
                      "idx":1
                   },
                   {
                      "role":3,
-                     "question":"Wer hat dich wahrscheinlich getötet?",
-                     "name":"Rache an deinem Mörder suchen",
+                     "question":"Wie unterstützt du am besten dein Team?",
+                     "name":"Der Supporter",
                      "idx":4
                   },
                   {
                      "role":4,
-                     "question":"Was ist das Gruseligste, was ein Ouija-Board buchstabieren könnte?",
-                     "name":"Mit Ouija-Brettern herumspielen",
+                     "question":"Was macht dich zu einem guten Medic?",
+                     "name":"Der Healer",
                      "idx":5
                   },
                   {
                      "role":1,
-                     "question":"Wie würde dein Team zur Lösung von Geisterverbrechen heißen?",
-                     "name":"Kindern beim Lösen von Rätseln helfen",
+                     "question":"Was ist deine bevorzugte Methode, um Schaden zuzufügen?",
+                     "name":"Der Damage Dealer",
                      "idx":2
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":0,
-                     "question":"Wer kann am besten klagend stöhnen?",
-                     "name":"Spuk in einem viktorianischen Herrenhaus",
-                     "idx":0
                   }
                ]
             },
@@ -8082,52 +8034,27 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer hat am ehesten eine gruselige Puppensammlung?",
-                     "name":"Besitz von gruseligen Puppen ergreifen",
+                     "question":"Wer kann von allem ein bisschen, aber nix so richtig gut?",
+                     "name":"Der Allroundern",
                      "idx":3
                   },
                   {
                      "role":0,
-                     "question":"Wer würde am besten aussehen, wenn er in einem langen fließenden Nachthemd herumschwebt?",
-                     "name":"Spuk in einem viktorianischen Herrenhaus",
-                     "idx":7
-                  }
-               ]
-            },
-            {
-               "id":"Split",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Wer macht das, weil er Kinder mag und wer mag einfach nur Rätsel?",
-                     "roles":[
-                        {
-                           "name":"Mag Kinder",
-                           "tags":[
-                              "Nett",
-                              "Bezugsperson"
-                           ]
-                        },
-                        {
-                           "name":"Mag Rätsel",
-                           "tags":[
-                              "Detektiv*in"
-                           ]
-                        }
-                     ],
-                     "name":"Kindern beim Lösen von Rätseln helfen",
-                     "idx":6
+                     "question":"Wer kämpft gerne an vorderster Front?",
+                     "name":"Der Tank",
+                     "idx":0
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"Alle Möbel einen Zentimeter nach links verschieben",
-                     "idx":8,
+                     "name":"Der Troll",
+                     "idx":6,
                      "tags":[
-                        "Scherzkeks",
-                        "schrullig"
+                        "provokant",
+                        "störend",
+                        "unberechenbar"
                      ]
                   }
                ],
@@ -8135,8 +8062,8 @@
             }
          ],
          "id":56270,
-         "category":"Geister-Hobbies",
-         "prompt":"Wie würdest du deine Zeit als Geist verbringen?"
+         "category":"Videospiel-Klassen",
+         "prompt":"Welche Charakterklasse präferiert jeder von euch in einem Videospiel?"
       },
       {
          "roles":[
