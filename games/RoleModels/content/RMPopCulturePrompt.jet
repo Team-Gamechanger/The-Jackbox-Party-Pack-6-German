@@ -718,7 +718,7 @@
             },
             {
                "name":"Springt aus 10 Metern in ein Planschbecken",
-               "short":"Flachtaucher"
+               "short":"Flachtaucher",
                "required":false,
                "tags":[
                   "lebensmüde",
@@ -1127,7 +1127,7 @@
                "roles":[
                   {
                      "name":"Verliert ständig die Verbindung zur Lobby",
-                     "short":"Der Asynchrone"
+                     "short":"Der Asynchrone",
                      "idx":2,
                      "tags":[
                         "frustriert",

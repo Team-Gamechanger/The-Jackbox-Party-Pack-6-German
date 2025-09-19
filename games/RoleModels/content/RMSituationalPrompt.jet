@@ -177,7 +177,7 @@
                "required":true,
                "tags":[
                   "Schelm",
-                  "böswillig",
+                  "böswillig"
                ]
             },
             {
@@ -1922,7 +1922,7 @@
                "required":false,
                "tags":[
                   "laut",
-                  "egoistisch",
+                  "egoistisch"
                ]
             },
             {
@@ -2656,7 +2656,7 @@
                "name":"Der, der für den Algorithmus liked",
                "required":false,
                "tags":[
-                  "freundlich"
+                  "freundlich",
                   "optimistisch",
                   "hilfsbereit"
                ]
@@ -4220,7 +4220,7 @@
                      "idx":4,
                      "tags":[
                         "furchterregend",
-                        "dumm"
+                        "dumm",
                         "unaufhaltsam"
                      ]
                   }
@@ -4391,7 +4391,7 @@
                "required":true,
                "tags":[
                   "nostalgisch",
-                  "chaotisch",
+                  "chaotisch"
                ]
             },
             {
@@ -7881,7 +7881,7 @@
                      "question":"Was wäre jetzt ein kluger Spruch?",
                      "name":"Klugheit",
                      "idx":4
-                  },
+                  }
                ]
             },
             {
