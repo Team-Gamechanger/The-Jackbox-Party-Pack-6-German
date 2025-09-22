@@ -8711,52 +8711,55 @@
       {
          "roles":[
             {
-               "name":"Daumen",
-               "required":true,
-               "tags":[
-                  "selbstbewusst",
-                  "influencer",
-                  "vielseitig"
-               ]
-            },
-            {
-               "name":"Zeigefinger",
-               "required":true,
-               "tags":[
-                  "zuverlässig",
-                  "Arbeiter*in"
-               ]
-            },
-            {
-               "name":"Mittelfinger",
-               "required":true,
-               "tags":[
-                  "Griesgram",
-                  "vulgär"
-               ]
-            },
-            {
-               "name":"Ringfinger",
+               "name":"Note 1",
                "required":false,
                "tags":[
-                  "Modeikone",
-                  "Romantiker*in"
+                  "intelligent",
+                  "analytisch",
+                  "strategisch"
                ]
             },
             {
-               "name":"kleiner Finger",
-               "required":true,
-               "tags":[
-                  "niedlich",
-                  "winzig"
-               ]
-            },
-            {
-               "name":"Fingerknöchel",
+               "name":"Note 2",
                "required":false,
                "tags":[
-                  "Kämpfer*in",
-                  "hart"
+                  "fleißig",
+                  "engagiert"
+               ]
+            },
+            {
+               "name":"Note 3",
+               "required":false,
+               "tags":[
+                  "durchschnittlich",
+                  "anpassungsfähig"
+               ]
+            },
+            {
+               "name":"Note 4",
+               "required":false,
+               "tags":[
+                  "praktisch",
+                  "faul",
+                  "realistisch"
+               ]
+            },
+            {
+               "name":"Note 6",
+               "required":false,
+               "tags":[
+                  "unmotiviert",
+                  "desinteressiert"
+               ]
+            },
+            {
+               "name":"Schwänzt die Klausur, um eine einfachere Nachholprüfung zu bekommen",
+               "short":"Schwänzt die Klausur",
+               "required":false,
+               "tags":[
+                  "dumm",
+                  "strategisch",
+                  "listig"
                ]
             }
          ],
@@ -8769,26 +8772,15 @@
                "id":"GetInCharacter",
                "prompts":[
                   {
-                     "role":1,
-                     "question":"Was wäre das Beste daran, superlange Finger zu haben?",
-                     "name":"Zeigefinger",
-                     "idx":5
+                     "role":3,
+                     "question":"Welche Strategie wendet du an, um einfach nur durchzukommen?",
+                     "name":"Note 4",
+                     "idx":6
                   },
                   {
                      "role":4,
-                     "question":"Vergiss \u201cPinkie\u201d, was ist ein besserer Spitzname für deinen kleinen Finger?",
-                     "name":"kleiner Finger",
-                     "idx":6
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Zeigt allen eure tollen Mittelfinger!",
-                     "name":"Mittelfinger",
+                     "question":"Wann ist dir selbst eine 6 egal?",
+                     "name":"Note 6",
                      "idx":1
                   }
                ]
@@ -8798,33 +8790,39 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer ist der am weitesten entfernte und einzigartigste?",
-                     "name":"Daumen",
+                     "question":"Für wen ist eine 1 das Mindeste?",
+                     "name":"Note 1",
                      "idx":0
                   },
                   {
-                     "role":3,
-                     "question":"Wen würdest du als \u201cHeiratsmaterial\u201d bezeichnen?",
-                     "name":"Ringfinger",
+                     "role":2,
+                     "question":"Wer würde in einer Klasse am wenigsten auffallen?",
+                     "name":"Note 3",
                      "idx":2
                   },
                   {
                      "role":5,
-                     "question":"Wer würde bei einem Kampf gewinnen?",
-                     "name":"Fingerknöchel",
+                     "question":"Wer hat die besten Ausreden, um nicht zur Prüfung zu erscheinen?",
+                     "name":"Schwänzt die Klausur, um eine einfachere Nachholprüfung zu bekommen",
                      "idx":3
-                  }
+                  },
+                  {
+                     "role":1,
+                     "question":"Für wen ist eine 2 das Beste, was er je erreichen kann?",
+                     "name":"Note 2",
+                     "idx":5
+                  },
                ]
             },
             {
                "roles":[
                   {
-                     "name":"schwitzige Handfläche",
+                     "name":"Ist der Mathe-Lehrer",
                      "idx":4,
                      "tags":[
-                        "nervös",
-                        "schwitzend",
-                        "Bedenkenträger*in"
+                        "gebildet",
+                        "motiviert",
+                        "hilfsbereit"
                      ]
                   }
                ],
@@ -8832,8 +8830,8 @@
             }
          ],
          "id":56558,
-         "category":"Teile der Hand",
-         "prompt":"Welcher Teil einer Hand definiert jeden von euch?"
+         "category":"Mathe-Klausur",
+         "prompt":"Wenn ihr alle eine Mathe-Prüfung schreiben müsstet, welche Note würde jeder von euch bekommen?"
       },
       {
          "roles":[
