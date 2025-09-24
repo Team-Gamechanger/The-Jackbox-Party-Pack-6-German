@@ -8836,54 +8836,56 @@
       {
          "roles":[
             {
-               "name":"#blessed",
-               "required":true,
-               "tags":[
-                  "unzerstörbar",
-                  "Magisch",
-                  "Auserwählte*r"
-               ]
-            },
-            {
-               "name":"#nofilter",
+               "name":"Hofnarr",
                "required":false,
                "tags":[
-                  "Mutig",
-                  "Angeber*in"
+                  "witzig",
+                  "tollpatschig",
+                  "beliebt"
                ]
             },
             {
-               "name":"#YOLO",
-               "required":true,
-               "tags":[
-                  "Party Typ",
-                  "Adrenalinjunkie"
-               ]
-            },
-            {
-               "name":"#WednesdayWisdom",
-               "required":true,
-               "tags":[
-                  "Spirituell",
-                  "mentor*in",
-                  "smart"
-               ]
-            },
-            {
-               "name":"#followme",
+               "name":"Inquisitor",
                "required":false,
                "tags":[
-                  "Influencer",
-                  "Anführer*in",
-                  "nett"
+                  "streng",
+                  "unbarmherzig",
+                  "furchteinflößend"
                ]
             },
             {
-               "name":"#legday",
+               "name":"Klerus",
                "required":false,
                "tags":[
-                  "stark",
-                  "Gesundheitsfanatiker*in"
+                  "spirituell",
+                  "religiös",
+                  "fromm"
+               ]
+            },
+            {
+               "name":"Henker",
+               "required":false,
+               "tags":[
+                  "grausam",
+                  "düster",
+                  "furchtbar"
+               ]
+            },
+            {
+               "name":"Ritter",
+               "required":false,
+               "tags":[
+                  "edel",
+                  "tapfer",
+                  "ehrenhaft"
+               ]
+            },
+            {
+               "name":"Bäcker",
+               "required":false,
+               "tags":[
+                  "kräftig",
+                  "begabt"
                ]
             }
          ],
@@ -8897,37 +8899,26 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Was ist das Klügste, was du in den sozialen Medien posten könntest?",
-                     "name":"#WednesdayWisdom",
+                     "question":"Welche Strafe würdest du einem Dieb im Mittelalter auferlegen?",
+                     "name":"Henker",
                      "idx":0
                   },
                   {
                      "role":0,
-                     "question":"Was ist das größte Glück, das dir diese Woche widerfahren ist?",
-                     "name":"#blessed",
+                     "question":"Wie würdest du das Volk unterhalten?",
+                     "name":"Hofnarr",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wie lautet der coole Spitzname für deine Muskeln?",
-                     "name":"#legday",
+                     "question":"Was backst du dem Kaiser, um ihn zu beeindrucken?",
+                     "name":"Bäcker",
                      "idx":4
                   },
                   {
                      "role":2,
-                     "question":"Was würdest du mit einem zweiten Leben machen?",
-                     "name":"#YOLO",
-                     "idx":8
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":5,
-                     "question":"Wer kann die beste Kniebeuge machen?",
-                     "name":"#legday",
+                     "question":"Was wäre deine erste Amtshandlung als Papst?",
+                     "name":"Klerus",
                      "idx":2
                   }
                ]
@@ -8937,31 +8928,14 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Was glauben Sie, wer hat die meisten \u201cFollower\u201d, im Internet oder im echten Leben?",
-                     "name":"#followme",
+                     "question":"Wer würde bis zum bitteren Ende für die Ehre kämpfen?",
+                     "name":"Ritter",
                      "idx":1
                   },
                   {
                      "role":1,
-                     "question":"Wer hat einen better hair day?",
-                     "name":"#nofilter",
-                     "idx":7
-                  }
-               ]
-            },
-            {
-               "id":"Trivia",
-               "prompts":[
-                  {
-                     "role":2,
-                     "question":"Wofür steht YOLO?",
-                     "correct":"You only live once",
-                     "name":"#YOLO",
-                     "altSpellings":[
-                        "You Only Live Once",
-                        "you only live once",
-                        "U only live once"
-                     ],
+                     "question":"Wer ist am besten darin, jemand anderen zu brechen?",
+                     "name":"Inquisitor",
                      "idx":5
                   }
                ]
@@ -8969,13 +8943,13 @@
             {
                "roles":[
                   {
-                     "name":"#sponsoredcontent",
+                     "name":"König",
                      "idx":6,
                      "tags":[
-                        "Schwindler*in",
-                        "geldverdiener",
-                        "Intrigant*in",
-                        "spammend"
+                        "mächtig",
+                        "reich",
+                        "charismatisch",
+                        "dominant"
                      ]
                   }
                ],
@@ -8983,8 +8957,8 @@
             }
          ],
          "id":56129,
-         "category":"Hashtags",
-         "prompt":"Welcher klassische Hashtag seid ihr?"
+         "category":"Im Mittelalter",
+         "prompt":"Welche Tätigkeit würdet ihr im Mittelalter ausüben?"
       },
       {
          "roles":[
