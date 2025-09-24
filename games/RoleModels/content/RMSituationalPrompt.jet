@@ -8963,58 +8963,55 @@
       {
          "roles":[
             {
-               "name":"Baseballkappe",
+               "name":"Streifenpolizist",
                "required":false,
                "tags":[
-                  "Athlet*in",
-                  "lässig",
-                  "lazy",
-                  "sportlich"
+                  "aufmerksam",
+                  "durchsetzungsfähig",
+                  "teamfähig"
                ]
             },
             {
-               "name":"Zylinderhut",
+               "name":"Kriminalkommissar",
                "required":false,
                "tags":[
-                  "würdig",
-                  "altmodisch",
-                  "partylöwe*in"
+                  "analytisch",
+                  "detailorientiert",
+                  "aufmerksam"
                ]
             },
             {
-               "name":"Baskenmütze",
+               "name":"Hundeführer",
                "required":false,
                "tags":[
-                  "Künstler*in",
-                  "hipster",
-                  "prätenziös"
+                  "tierlieb",
+                  "einfühlsam",
+                  "geduldig"
                ]
             },
             {
-               "name":"Cowboyhut",
+               "name":"Forensiker",
                "required":false,
                "tags":[
-                  "cowboy",
-                  "rustikal"
+                  "wissenschaftlich",
+                  "präzise"
                ]
             },
             {
-               "name":"Hipster-Beanie",
+               "name":"Cyber-Ermittler",
                "required":false,
                "tags":[
-                  "hipster",
-                  "millennial",
-                  "Faulpelz"
+                  "technikaffin",
+                  "kreativ"
                ]
             },
             {
-               "name":"Eimerhut aus Samt",
+               "name":"SEK-Mitglied",
                "required":false,
                "tags":[
-                  "selbstbewusst",
-                  "unbeschwert",
-                  "Party Typ",
-                  "trendig"
+                  "laut",
+                  "aggressiv",
+                  "furchtlos"
                ]
             }
          ],
@@ -9028,20 +9025,20 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Erkläre, warum Vinyl besser ist als digital.",
-                     "name":"Hipster-Beanie",
+                     "question":"Wie würdest du einen Hacker aus der Reserve locken?",
+                     "name":"Cyber-Ermittler",
                      "idx":0
                   },
                   {
                      "role":1,
-                     "question":"Du greifst in deinen Zylinderhut, sagst ein Zauberwort, und was ziehst du heraus?",
-                     "name":"Zylinderhut",
+                     "question":"Was ist das erste, das du an einem Tatort tun würdest?",
+                     "name":"Kriminalkommissar",
                      "idx":2
                   },
                   {
                      "role":3,
-                     "question":"Wenn du ein Cowboy wärst, wie würdest du dein Pferd nennen?",
-                     "name":"Cowboyhut",
+                     "question":"Was ist das Interessanteste, das du je in einem Labor analysiert hast?",
+                     "name":"Forensiker",
                      "idx":4
                   }
                ]
@@ -9051,20 +9048,20 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer wäre der beste Baseball-Pitcher?",
-                     "name":"Baseballkappe",
+                     "question":"Wer ist am meisten gesetzestreu?",
+                     "name":"Streifenpolizist",
                      "idx":1
                   },
                   {
                      "role":2,
-                     "question":"Wer macht am ehesten eine Rucksacktour durch Ost-Europa?",
-                     "name":"Baskenmütze",
+                     "question":"Wer kann am besten mit Hunden umgehen?",
+                     "name":"Hundeführer",
                      "idx":3
                   },
                   {
                      "role":5,
-                     "question":"Wer kann ein Outfit komplett aus Samt tragen?",
-                     "name":"Eimerhut aus Samt",
+                     "question":"Wer geht gerne mal mit dem Kopf durch die Wand?",
+                     "name":"SEK-Mitglied",
                      "idx":5
                   }
                ]
@@ -9072,12 +9069,12 @@
             {
                "roles":[
                   {
-                     "name":"Baustellenhelm",
+                     "name":"Polizei-Pressesprecher",
                      "idx":6,
                      "tags":[
-                        "vorsichtig",
-                        "fleissig",
-                        "Arbeiter*in"
+                        "kommunikativ",
+                        "redegewandt",
+                        "überzeugend"
                      ]
                   }
                ],
@@ -9085,61 +9082,62 @@
             }
          ],
          "id":56141,
-         "category":"Hüte",
-         "prompt":"Welcher Hut seid ihr?"
+         "category":"Bei der Polizei",
+         "prompt":"Wenn jeder von euch bei der Polizei wäre, welchen Job würdet ihr ausüben?"
       },
       {
          "roles":[
             {
-               "name":"das Hirn",
-               "required":true,
-               "tags":[
-                  "mastermind",
-                  "Planer*in",
-                  "smart"
-               ]
-            },
-            {
-               "name":"die Muskeln",
-               "required":true,
-               "tags":[
-                  "Vollstrecker",
-                  "stark"
-               ]
-            },
-            {
-               "name":"der Fahrer",
+               "name":"Das Gehirn",
                "required":false,
                "tags":[
-                  "Pendler*in",
-                  "zuverlässig",
-                  "geübt"
+                  "intelligent",
+                  "analytisch",
+                  "strategisch"
                ]
             },
             {
-               "name":"die Ablenkung",
+               "name":"Die Haut",
                "required":false,
                "tags":[
-                  "diva",
-                  "Schmierenschauspieler*in",
-                  "laut"
+                  "sensibel",
+                  "einfühlsam",
+                  "beschützend"
                ]
             },
             {
-               "name":"der Verräter",
-               "required":true,
-               "tags":[
-                  "Feigling",
-                  "Intrigant*in",
-                  "hinterhältig"
-               ]
-            },
-            {
-               "name":"das Gesetz",
+               "name":"Das Herz",
                "required":false,
                "tags":[
-                  "ethisch",
-                  "Langweiler"
+                  "emotional",
+                  "stark",
+                  "leidenschaftlich"
+               ]
+            },
+            {
+               "name":"Die Lunge",
+               "required":false,
+               "tags":[
+                  "atemberaubend",
+                  "einzigartig",
+                  "unvergesslich"
+               ]
+            },
+            {
+               "name":"Der Darmtrakt",
+               "required":false,
+               "tags":[
+                  "ekelhaft",
+                  "rhythmisch",
+                  "widerlich"
+               ]
+            },
+            {
+               "name":"Die Milz",
+               "required":false,
+               "tags":[
+                  "unbedeutend",
+                  "unauffällig"
                ]
             }
          ],
@@ -9153,44 +9151,27 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wie sieht dein Plan aus, um in den Tresorraum zu kommen?",
-                     "name":"das Hirn",
+                     "question":"Was ist das Komplexeste, was du je gemacht hast?",
+                     "name":"Das Gehirn",
                      "idx":0
                   },
                   {
                      "role":5,
-                     "question":"Wenn du ein Polizist in einem Actionfilm wärst, was wäre dann dein Slogan?",
-                     "name":"das Gesetz",
+                     "question":"Was ist etwas, das du tust, obwohl es niemand bemerkt?",
+                     "name":"Die Milz",
                      "idx":5
                   },
                   {
                      "role":4,
-                     "question":"Wenn du für den Verrat eines Freundes angeprangert würdest, was wäre deine stichhaltige Rechtfertigung?",
-                     "name":"der Verräter",
-                     "idx":8
-                  },
-                  {
-                     "role":1,
-                     "question":"Wie bist du so aufgepumpt geworden?",
-                     "name":"die Muskeln",
-                     "idx":9
-                  }
-               ]
-            },
-            {
-               "id":"MethodAct",
-               "prompts":[
-                  {
-                     "role":1,
-                     "question":"Wer kann die meisten Liegestütze machen?",
-                     "name":"die Muskeln",
+                     "question":"Was ist das Ekligste, was du je gegessen hast?",
+                     "name":"Der Darmtrakt",
                      "idx":1
                   },
                   {
-                     "role":3,
-                     "question":"Tue das Ablenkendste, was du gerade tun kannst.",
-                     "name":"die Ablenkung",
-                     "idx":3
+                     "role":1,
+                     "question":"Wen würdest du immer beschützen?",
+                     "name":"Die Haut",
+                     "idx":4
                   }
                ]
             },
@@ -9199,27 +9180,27 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer hat die meisten Strafzettel bekommen?",
-                     "name":"der Fahrer",
+                     "question":"Wer von euch ist am emotionalsten?",
+                     "name":"Das Herz",
                      "idx":2
                   },
                   {
-                     "role":4,
-                     "question":"Wer, denkst du, trägt heimlich ein Abhörgerät?",
-                     "name":"der Verräter",
-                     "idx":4
+                     "role":3,
+                     "question":"Wer von euch hat die beste Ausdauer?",
+                     "name":"Die Lunge",
+                     "idx":3
                   }
                ]
             },
             {
                "roles":[
                   {
-                     "name":"die Person, die in den ersten 10 Minuten stirbt",
+                     "name":"Die Bauchspeicheldrüse",
                      "idx":6,
                      "tags":[
-                        "Leichnam",
-                        "tot",
-                        "überraschend"
+                        "kreativ",
+                        "einfühlsam",
+                        "hilfsbereit"
                      ]
                   }
                ],
@@ -9227,8 +9208,8 @@
             }
          ],
          "id":56233,
-         "category":"Raubüberfälle",
-         "prompt":"Welche Rolle in einem Raubüberfallfilm passt am besten zu jedem von euch?"
+         "category":"Menschliche Organe",
+         "prompt":"Angenommen ihr wärt ein Körper, welches Organ wäre dann jeder von euch?"
       },
       {
          "roles":[
