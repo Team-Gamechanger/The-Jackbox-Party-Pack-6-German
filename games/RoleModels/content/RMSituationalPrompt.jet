@@ -83,7 +83,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Wo hälst du die Kamera bei einer Sexszene drauf?",
+                     "question":"Wo hältst du die Kamera bei einer Sexszene drauf?",
                      "name":"Kamera",
                      "idx":6
                   }
@@ -1297,7 +1297,7 @@
                ]
             },
             {
-               "name":"Derjenige, der nie zuhause ist",
+               "name":"Derjenige, der nie zu Hause ist",
                "short":"Der Reisende",
                "required":false,
                "tags":[
@@ -3307,7 +3307,7 @@
          ],
          "id":56612,
          "category":"Brettspielabend",
-         "prompt":"Welche Art von Spieler*in seid ihr bei einem Brettspielabend?"
+         "prompt":"Welche Art von Spieler seid ihr bei einem Brettspielabend?"
       },
       {
          "roles":[
@@ -5336,7 +5336,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Was verstecken Clowns in ihren übergrossen Schuhen?",
+                     "question":"Was verstecken Clowns in ihren übergroßen Schuhen?",
                      "name":"Clowns",
                      "idx":4
                   },
@@ -5587,7 +5587,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Was müsste zuhause los sein, dass du lieber nachsitzen würdest?",
+                     "question":"Was müsste zu Hause los sein, dass du lieber nachsitzen würdest?",
                      "name":"Hatte nichts Besseres zu tun",
                      "idx":7
                   }
@@ -6258,7 +6258,7 @@
                      "idx":6,
                      "tags":[
                         "fancy",
-                        "Spinner*in"
+                        "Spinner"
                      ]
                   }
                ],
@@ -6512,7 +6512,7 @@
             {
                "roles":[
                   {
-                     "name":"Bleibt lieber zuhause",
+                     "name":"Bleibt lieber zu Hause",
                      "idx":6,
                      "tags":[
                         "heimatverbunden",
@@ -8035,7 +8035,7 @@
                   {
                      "role":2,
                      "question":"Wer kann von allem ein bisschen, aber nix so richtig gut?",
-                     "name":"Der Allroundern",
+                     "name":"Der Allrounder",
                      "idx":3
                   },
                   {
@@ -9217,7 +9217,7 @@
                "name":"Schülerparlament",
                "required":true,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "ethisch",
                   "wuchtig"
                ]
@@ -9226,7 +9226,7 @@
                "name":"Theater-AG",
                "required":true,
                "tags":[
-                  "Künstler*in",
+                  "Künstler",
                   "dramatisch",
                   "performer"
                ]
@@ -9236,15 +9236,15 @@
                "required":true,
                "tags":[
                   "klug",
-                  "Zocker*in"
+                  "Zocker"
                ]
             },
             {
                "name":"Französisch-AG",
                "required":false,
                "tags":[
-                  "Träumer*in",
-                  "Romantiker*in"
+                  "Träumer",
+                  "Romantiker"
                ]
             },
             {
@@ -9252,7 +9252,7 @@
                "required":false,
                "tags":[
                   "rechthaberisch",
-                  "Redner*in"
+                  "Redner"
                ]
             },
             {
@@ -9260,7 +9260,7 @@
                "required":true,
                "tags":[
                   "aggressiv",
-                  "Kämpfer*in",
+                  "Kämpfer",
                   "rücksichtslos"
                ]
             }
@@ -9365,7 +9365,7 @@
                ]
             },
             {
-               "name":"mit dem/der Ballkönig*in anbandeln",
+               "name":"mit dem Ballkönig anbandeln",
                "required":false,
                "tags":[
                   "flirt",
@@ -9376,7 +9376,7 @@
                "name":"sich als reich ausgeben",
                "required":false,
                "tags":[
-                  "Trickbetrüger*in",
+                  "Trickbetrüger",
                   "selbstbewusst",
                   "betrügerisch"
                ]
@@ -9394,7 +9394,7 @@
                "required":true,
                "tags":[
                   "unbekümmert",
-                  "Rebell*in"
+                  "Rebell"
                ]
             }
          ],
@@ -9421,7 +9421,7 @@
                   {
                      "role":2,
                      "question":"Was wäre ein tolles Abschlussball-Motto?",
-                     "name":"mit dem/der Ballkönig*in anbandeln",
+                     "name":"mit dem Ballkönig anbandeln",
                      "idx":6
                   },
                   {
@@ -9449,8 +9449,8 @@
                   },
                   {
                      "role":2,
-                     "question":"Probiere deinen besten Ballkönig*in-Anmachspruch bei deinen Mitspielern.",
-                     "name":"mit dem/der Ballkönig*in anbandeln",
+                     "question":"Probiere deinen besten Ballkönig-Anmachspruch bei deinen Mitspielern.",
+                     "name":"mit dem Ballkönig anbandeln",
                      "idx":2
                   }
                ]
@@ -9478,7 +9478,7 @@
                      "name":"einen medizinischen Notfall erleiden",
                      "idx":10,
                      "tags":[
-                        "leidtragende*r",
+                        "leidtragender",
                         "unglücklich"
                      ]
                   }
@@ -9512,12 +9512,12 @@
                "name":"Künstlerischste",
                "required":true,
                "tags":[
-                  "Künstler*in",
+                  "Künstler",
                   "kreativ"
                ]
             },
             {
-               "name":"Größte/r Tratschtante/Klatschonkel",
+               "name":"Größte Tratschtante",
                "required":false,
                "tags":[
                   "geschwätzig",
@@ -9537,8 +9537,8 @@
                "required":true,
                "tags":[
                   "rätsel",
-                  "Introvertierte*r",
-                  "misteriös"
+                  "Introvertierter",
+                  "mysteriös"
                ]
             }
          ],
@@ -9599,7 +9599,7 @@
                   {
                      "role":3,
                      "question":"Wer kann KEIN Geheimnis bewahren?",
-                     "name":"Größte/r Tratschtante/Klatschonkel",
+                     "name":"Größte Tratschtante",
                      "idx":3
                   },
                   {
@@ -9616,7 +9616,7 @@
                      "name":"Klassenmobber",
                      "idx":6,
                      "tags":[
-                        "Straftäter*in",
+                        "Straftäter",
                         "Faulpelz",
                         "Unruhestifter"
                      ]
@@ -9637,7 +9637,7 @@
                "tags":[
                   "metallisch",
                   "stark",
-                  "trendsetter*in"
+                  "trendsetter"
                ]
             },
             {
@@ -9645,7 +9645,7 @@
                "required":false,
                "tags":[
                   "königlich",
-                  "partylöwe*in",
+                  "partylöwe",
                   "soft"
                ]
             },
@@ -9654,7 +9654,7 @@
                "required":false,
                "tags":[
                   "zuverlässig",
-                  "Diplomat*in",
+                  "Diplomat",
                   "geschmackvoll"
                ]
             },
@@ -9757,7 +9757,7 @@
                         {
                            "name":"echter Säbel",
                            "tags":[
-                              "historiker*in",
+                              "historiker",
                               "scharfkantig"
                            ]
                         }
@@ -9801,7 +9801,7 @@
                "name":"Krabbencocktail",
                "required":true,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "mit Klasse"
                ]
             },
@@ -9810,7 +9810,7 @@
                "required":true,
                "tags":[
                   "Adrenalinjunkie",
-                  "radikale*r"
+                  "radikaler"
                ]
             },
             {
@@ -9819,14 +9819,14 @@
                "tags":[
                   "wohltuend",
                   "niedlich",
-                  "partylöwe*in"
+                  "partylöwe"
                ]
             },
             {
                "name":"Rohkost",
                "required":false,
                "tags":[
-                  "Gesundheitsfanatiker*in",
+                  "Gesundheitsfanatiker",
                   "simpel"
                ]
             },
@@ -9968,7 +9968,7 @@
                "required":false,
                "tags":[
                   "wohltuend",
-                  "Heiler*in",
+                  "Heiler",
                   "elterlich"
                ]
             },
@@ -9977,7 +9977,7 @@
                "required":true,
                "tags":[
                   "energisch",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -10010,7 +10010,7 @@
                "name":"Urin",
                "required":false,
                "tags":[
-                  "naturalist*in",
+                  "naturalist",
                   "vulgär"
                ]
             }
@@ -10066,7 +10066,7 @@
                "name":"süße Sechzehn",
                "required":false,
                "tags":[
-                  "Jugendliche*r",
+                  "Jugendlicher",
                   "blühend",
                   "unbekümmert"
                ]
@@ -10075,7 +10075,7 @@
                "name":"mittleres Alter",
                "required":false,
                "tags":[
-                  "Erwachsene*r",
+                  "Erwachsener",
                   "zuverlässig",
                   "erwachsen"
                ]
@@ -10085,7 +10085,7 @@
                "required":true,
                "tags":[
                   "gealtert",
-                  "Rentner*in"
+                  "Rentner"
                ]
             },
             {
@@ -10113,7 +10113,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Welche super verträumte Sängerin oder Band engagierst du für deine Geburtstagsparty?",
+                     "question":"Welchen super verträumten Sänger oder welche Band engagierst du für deine Geburtstagsparty?",
                      "name":"süße Sechzehn",
                      "idx":4
                   },
@@ -10175,7 +10175,7 @@
                         {
                            "name":"junggeblieben",
                            "tags":[
-                              "Älteste*r",
+                              "Ältester",
                               "rüstig"
                            ]
                         },
@@ -10226,7 +10226,7 @@
                "name":"Rocky Road Schokobecher",
                "required":false,
                "tags":[
-                  "Rebell*in",
+                  "Rebell",
                   "stark",
                   "hart"
                ]
@@ -10245,7 +10245,7 @@
                "required":false,
                "tags":[
                   "bunt",
-                  "Diplomat*in"
+                  "Diplomat"
                ]
             },
             {
@@ -10355,7 +10355,7 @@
                      "idx":7,
                      "tags":[
                         "geschmacklos",
-                        "Einzelgänger*in"
+                        "Einzelgänger"
                      ]
                   }
                ],
@@ -10364,7 +10364,7 @@
          ],
          "id":56251,
          "category":"Eiscreme-Geschmacksrichtungen",
-         "prompt":"Wenn ihr Eissorten wären, welche wärt ihr dann?"
+         "prompt":"Wenn ihr Eissorten wärt, welche wärt ihr dann?"
       },
       {
          "roles":[
@@ -10380,7 +10380,7 @@
                "name":"Valentinstag",
                "required":false,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "sweetheart"
                ]
             },
@@ -10405,14 +10405,14 @@
                "required":false,
                "tags":[
                   "Hippie",
-                  "naturliebhaber*in"
+                  "naturliebhaber"
                ]
             },
             {
                "name":"Black Friday",
                "required":false,
                "tags":[
-                  "Schnäppchenjäger*in",
+                  "Schnäppchenjäger",
                   "sparsam"
                ]
             }
@@ -10462,7 +10462,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Wem kann man nicht vertrauen, dass er*sie die Dinge ernst nimmt?",
+                     "question":"Wem kann man nicht vertrauen, dass er die Dinge ernst nimmt?",
                      "name":"erster April",
                      "idx":4
                   }
@@ -10502,7 +10502,7 @@
                         {
                            "name":"harmloser Aprilscherz",
                            "tags":[
-                              "Freund*in",
+                              "Freund",
                               "lustig",
                               "albern"
                            ]
@@ -10544,15 +10544,15 @@
                "name":"Foto aus dem Flugzeugfenster",
                "required":true,
                "tags":[
-                  "Abenteurer*in",
-                  "reisende*r"
+                  "Abenteurer",
+                  "reisender"
                ]
             },
             {
                "name":"Foto des Hundes",
                "required":true,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "loyal"
                ]
             },
@@ -10561,7 +10561,7 @@
                "required":false,
                "tags":[
                   "inspirierend",
-                  "Philosoph*in"
+                  "Philosoph"
                ]
             },
             {
@@ -10569,7 +10569,7 @@
                "required":false,
                "tags":[
                   "fischig",
-                  "naturliebhaber*in",
+                  "naturliebhaber",
                   "sportlich"
                ]
             },
@@ -10586,7 +10586,7 @@
                "required":true,
                "tags":[
                   "Hungrig",
-                  "allesfresser*in"
+                  "allesfresser"
                ]
             }
          ],
@@ -10707,7 +10707,7 @@
                "short":"bei den Erwachsenen",
                "required":true,
                "tags":[
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "ruhig",
                   "seriös"
                ]
@@ -10752,7 +10752,7 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Der*die Erste, der*die jemanden umarmt, gewinnt!",
+                     "question":"Der Erste, der jemanden umarmt, gewinnt!",
                      "name":"umarmt alle",
                      "idx":4
                   }
@@ -10821,7 +10821,7 @@
                "tags":[
                   "effizient",
                   "unschlüssig",
-                  "problemlöser*in",
+                  "problemlöser",
                   "nützlich"
                ]
             },
@@ -10866,7 +10866,7 @@
                "required":false,
                "tags":[
                   "Klassiker",
-                  "grosszügig",
+                  "großzügig",
                   "altmodisch"
                ]
             }
@@ -10954,8 +10954,8 @@
                "tags":[
                   "kitschig",
                   "fischig",
-                  "Schmierenschauspieler*in",
-                  "sänger*in"
+                  "Schmierenschauspieler",
+                  "sänger"
                ]
             },
             {
@@ -10981,7 +10981,7 @@
                "required":false,
                "tags":[
                   "komplex",
-                  "problemlöser*in",
+                  "problemlöser",
                   "puzzle"
                ]
             },
@@ -10999,7 +10999,7 @@
                "required":false,
                "tags":[
                   "annehmbar",
-                  "Athlet*in",
+                  "Athlet",
                   "gutmütig"
                ]
             }
@@ -11079,7 +11079,7 @@
                      "idx":7,
                      "tags":[
                         "klein",
-                        "Unterstützer*in"
+                        "Unterstützer"
                      ]
                   }
                ],
@@ -11098,7 +11098,7 @@
                "tags":[
                   "ordentlich",
                   "verantwortungsbewusst",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -11115,7 +11115,7 @@
                "required":false,
                "tags":[
                   "kindlich",
-                  "Chaot*in"
+                  "Chaot"
                ]
             },
             {
@@ -11132,7 +11132,7 @@
                "name":"ganzjährig geöffnetes Spukhaus",
                "required":false,
                "tags":[
-                  "Entertainer*in",
+                  "Entertainer",
                   "unheimlich"
                ]
             },
@@ -11224,7 +11224,7 @@
                   "höflich",
                   "stolz",
                   "ruhig",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
@@ -11232,7 +11232,7 @@
                "required":false,
                "tags":[
                   "aggressiv",
-                  "Grossmaul"
+                  "Großmaul"
                ]
             },
             {
@@ -11247,9 +11247,9 @@
                "name":"ein Buch lesen",
                "required":false,
                "tags":[
-                  "Akademiker*in",
+                  "Akademiker",
                   "Bücherwurm",
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "smart"
                ]
             },
@@ -11333,7 +11333,7 @@
                   },
                   {
                      "role":1,
-                     "question":"Welche*r Spieler*in ist aggressiver im Wettbewerb?",
+                     "question":"Welcher Spieler ist aggressiver im Wettbewerb?",
                      "name":"den jugendlichen Schiedsrichter anschreien",
                      "idx":6
                   },
@@ -11352,7 +11352,7 @@
                      "idx":9,
                      "tags":[
                         "kindlich",
-                        "Trickbetrüger*in"
+                        "Trickbetrüger"
                      ]
                   }
                ],
@@ -11378,7 +11378,7 @@
                "name":"lauter EDM DJ",
                "required":false,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "künstlerisch"
                ]
             },
@@ -11386,7 +11386,7 @@
                "name":"lautes Hundegebell",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "laut"
                ]
             },
@@ -11402,7 +11402,7 @@
                "name":"laute Küchenrenovierung",
                "required":false,
                "tags":[
-                  "Aristokrat*in",
+                  "Aristokrat",
                   "stylish"
                ]
             },
@@ -11412,7 +11412,7 @@
                "tags":[
                   "musikalisch",
                   "elterlich",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             }
          ],
@@ -11473,7 +11473,7 @@
                      "name":"lauter einsamer Schrei in der Nacht",
                      "idx":6,
                      "tags":[
-                        "misteriös",
+                        "mysteriös",
                         "unheimlich",
                         "Unruhestifter"
                      ]
@@ -11501,7 +11501,7 @@
                "name":"Intersport",
                "required":false,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "cool"
                ]
             },
@@ -11520,7 +11520,7 @@
                "tags":[
                   "Schwarm",
                   "scharf",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
@@ -11532,11 +11532,11 @@
                ]
             },
             {
-               "name":"Gamestop",
+               "name":"GameStop",
                "required":false,
                "tags":[
-                  "investor*in",
-                  "Zocker*in",
+                  "investor",
+                  "Zocker",
                   "gealtert"
                ]
             }
@@ -11563,8 +11563,8 @@
                   },
                   {
                      "role":5,
-                     "question":"Was ist der wahrscheinlich seltsamste Artikel, den Gamestop verkauft?",
-                     "name":"Gamestop",
+                     "question":"Was ist der wahrscheinlich seltsamste Artikel, den GameStop verkauft?",
+                     "name":"GameStop",
                      "idx":5
                   },
                   {
@@ -11604,7 +11604,7 @@
                      "idx":6,
                      "tags":[
                         "lästig",
-                        "verkäufer*in"
+                        "verkäufer"
                      ]
                   }
                ],
@@ -11730,7 +11730,7 @@
                      "name":"drei Jahre alte Zahnbürste",
                      "idx":8,
                      "tags":[
-                        "Gammler*in",
+                        "Gammler",
                         "veraltet",
                         "widerlich"
                      ]
@@ -11773,7 +11773,7 @@
                "name":"Meighan",
                "required":false,
                "tags":[
-                  "Rebell*in",
+                  "Rebell",
                   "skurril"
                ]
             },
@@ -11886,7 +11886,7 @@
                "name":"Speed metal",
                "required":false,
                "tags":[
-                  "Draufgänger*in",
+                  "Draufgänger",
                   "schnell"
                ]
             },
@@ -11903,14 +11903,14 @@
                "required":false,
                "tags":[
                   "Modeikone",
-                  "radikale*r"
+                  "radikaler"
                ]
             },
             {
                "name":"Nu-metal",
                "required":false,
                "tags":[
-                  "Rebell*in",
+                  "Rebell",
                   "vielseitig"
                ]
             }
@@ -12021,7 +12021,7 @@
                "name":"Feigenblatt",
                "required":false,
                "tags":[
-                  "naturalist*in",
+                  "naturalist",
                   "gerne draussen"
                ]
             },
@@ -12038,7 +12038,7 @@
                "required":false,
                "tags":[
                   "schnell",
-                  "kampfkünstler*in"
+                  "kampfkünstler"
                ]
             },
             {
@@ -12106,7 +12106,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Wer ist der*die bestgekleidete Spieler*in?",
+                     "question":"Wer ist der bestgekleidete Spieler?",
                      "name":"Kleidung",
                      "idx":5
                   }
@@ -12143,7 +12143,7 @@
                ]
             },
             {
-               "name":"Mit eine*r 22-Jährige*n ausgehen",
+               "name":"Mit einem 22-Jährigen ausgehen",
                "required":false,
                "tags":[
                   "spannend",
@@ -12163,7 +12163,7 @@
                "required":false,
                "tags":[
                   "gemeisselt",
-                  "Gesundheitsfanatiker*in"
+                  "Gesundheitsfanatiker"
                ]
             },
             {
@@ -12195,8 +12195,8 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Was hast du in dem Moment gemacht, als dein*e 22 Jahre alte*r Partner*in geboren wurde?",
-                     "name":"Mit eine*r 22-Jährige*n ausgehen",
+                     "question":"Was hast du in dem Moment gemacht, als dein 22-jähriger Partner geboren wurde?",
+                     "name":"Mit einem 22-Jährigen ausgehen",
                      "idx":1
                   },
                   {
@@ -12253,10 +12253,10 @@
                      "name":"den Jungbrunnen suchen",
                      "idx":8,
                      "tags":[
-                        "Entdecker*in",
+                        "Entdecker",
                         "magisch",
-                        "misteriös",
-                        "naturalist*in"
+                        "mysteriös",
+                        "naturalist"
                      ]
                   }
                ],
@@ -12274,14 +12274,14 @@
                "required":false,
                "tags":[
                   "zuverlässig",
-                  "Fahrer*in"
+                  "Fahrer"
                ]
             },
             {
                "name":"Gogo",
                "required":false,
                "tags":[
-                  "Abenteurer*in",
+                  "Abenteurer",
                   "energisch"
                ]
             },
@@ -12289,7 +12289,7 @@
                "name":"Schmieröl-Schmitty",
                "required":false,
                "tags":[
-                  "Ingenieur*in",
+                  "Ingenieur",
                   "glatt"
                ]
             },
@@ -12306,7 +12306,7 @@
                "required":false,
                "tags":[
                   "schnell",
-                  "raser*in"
+                  "raser"
                ]
             },
             {
@@ -12376,8 +12376,8 @@
                      "idx":6,
                      "tags":[
                         "vorsichtig",
-                        "Introvertierte*r",
-                        "Bedenkenträger*in"
+                        "Introvertierter",
+                        "Bedenkenträger"
                      ]
                   }
                ],
@@ -12398,8 +12398,8 @@
                   "zuverlässig",
                   "fleissig",
                   "stark",
-                  "Unterstützer*in",
-                  "Arbeiter*in"
+                  "Unterstützer",
+                  "Arbeiter"
                ]
             },
             {
@@ -12416,7 +12416,7 @@
                "short":"so tun, als ob",
                "required":true,
                "tags":[
-                  "Gammler*in",
+                  "Gammler",
                   "lazy",
                   "Faulpelz"
                ]
@@ -12426,8 +12426,8 @@
                "required":false,
                "tags":[
                   "vorsichtig",
-                  "Vermittler*in",
-                  "Planer*in"
+                  "Vermittler",
+                  "Planer"
                ]
             },
             {
@@ -12443,8 +12443,8 @@
                "required":false,
                "tags":[
                   "lässig",
-                  "Manager*in",
-                  "Beobachter*in"
+                  "Manager",
+                  "Beobachter"
                ]
             }
          ],
@@ -12535,7 +12535,7 @@
                            "name":"geistige Schwerstarbeit",
                            "tags":[
                               "fokussiert",
-                              "wissenschaftler*in",
+                              "wissenschaftler",
                               "smart"
                            ]
                         }
@@ -12579,7 +12579,7 @@
                "short":"Gift",
                "required":false,
                "tags":[
-                  "Planer*in",
+                  "Planer",
                   "gewieft"
                ]
             },
@@ -12588,7 +12588,7 @@
                "short":"Gleise",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "niederträchtig"
                ]
             },
@@ -12697,7 +12697,7 @@
                      "idx":7,
                      "tags":[
                         "Feigling",
-                        "Beobachter*in",
+                        "Beobachter",
                         "geduldig"
                      ]
                   }
@@ -12728,12 +12728,12 @@
                ]
             },
             {
-               "name":"Freundin die auf den Schultern ihres Freundes sitzt",
+               "name":"Freund, der auf den Schultern seines Freundes sitzt",
                "required":true,
                "tags":[
                   "unbekümmert",
                   "Freigeist",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
@@ -12755,12 +12755,12 @@
                ]
             },
             {
-               "name":"Zerstörte*r Australier*in",
+               "name":"Zerstörter Australier",
                "required":false,
                "tags":[
                   "betrunken",
                   "Party Typ",
-                  "reisende*r"
+                  "reisender"
                ]
             }
          ],
@@ -12780,8 +12780,8 @@
                   },
                   {
                      "role":2,
-                     "question":"Antworte als auf der Schulter sitzende Freundin: Wie heißt dein Freund?",
-                     "name":"Freundin die auf den Schultern ihres Freundes sitzt",
+                     "question":"Antworte als auf der Schulter sitzender Freund: Wie heißt dein Freund?",
+                     "name":"Freund, der auf den Schultern seines Freundes sitzt",
                      "idx":2
                   }
                ]
@@ -12805,8 +12805,8 @@
             }
          ],
          "id":56725,
-         "category":"Musikfestival-Besucher*in",
-         "prompt":"Welche*r Musikfestival-Besucher*in seid ihr?"
+         "category":"Musikfestival-Besucher",
+         "prompt":"Welcher Musikfestival-Besucher seid ihr?"
       },
       {
          "roles":[
@@ -12816,7 +12816,7 @@
                "tags":[
                   "mutig",
                   "historisch",
-                  "politiker*in",
+                  "politiker",
                   "rappend"
                ]
             },
@@ -12845,7 +12845,7 @@
                   "zuverlässig",
                   "dramatisch",
                   "rätsel",
-                  "misteriös"
+                  "mysteriös"
                ]
             },
             {
@@ -12853,7 +12853,7 @@
                "required":false,
                "tags":[
                   "mit Klasse",
-                  "Glücksspieler*in",
+                  "Glücksspieler",
                   "altmodisch"
                ]
             },
@@ -12961,7 +12961,7 @@
                "required":false,
                "tags":[
                   "unzerstörbar",
-                  "Gesundheitsfanatiker*in"
+                  "Gesundheitsfanatiker"
                ]
             },
             {
@@ -12970,7 +12970,7 @@
                "tags":[
                   "Empfindlich",
                   "neugierig",
-                  "hellseher*in"
+                  "hellseher"
                ]
             },
             {
@@ -13089,7 +13089,7 @@
                      "idx":7,
                      "tags":[
                         "grob",
-                        "naturalist*in"
+                        "naturalist"
                      ]
                   }
                ],
@@ -13108,7 +13108,7 @@
                "tags":[
                   "regulär",
                   "traditionell",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -13133,7 +13133,7 @@
                "name":"Impressionistische Kunst",
                "required":false,
                "tags":[
-                  "Künstler*in",
+                  "Künstler",
                   "unbekümmert",
                   "flippig"
                ]
@@ -13284,7 +13284,7 @@
                "name":"der Papa",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "beeindruckend",
                   "elterlich",
                   "aufdringlich"
@@ -13295,7 +13295,7 @@
                "required":false,
                "tags":[
                   "langweilig",
-                  "Zuschauer*in",
+                  "Zuschauer",
                   "gewöhnlich"
                ]
             }
@@ -13367,7 +13367,7 @@
                            "name":"der Papa genannt werden",
                            "tags":[
                               "beeindruckend",
-                              "Anführer*in"
+                              "Anführer"
                            ]
                         },
                         {
@@ -13390,7 +13390,7 @@
                      "idx":8,
                      "tags":[
                         "böse",
-                        "mystery"
+                        "mysteriös"
                      ]
                   }
                ],
@@ -13407,7 +13407,7 @@
                "name":"Nackt vor der Klasse",
                "required":false,
                "tags":[
-                  "Exhibitionist*in",
+                  "Exhibitionist",
                   "exponiert"
                ]
             },
@@ -13423,7 +13423,7 @@
                "name":"Ausfallende Zähne",
                "required":false,
                "tags":[
-                  "Zahnarztpatient*in",
+                  "Zahnarztpatient",
                   "zahnlos"
                ]
             },
@@ -13431,7 +13431,7 @@
                "name":"Von wilden Hunden gejagt",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "gejagt",
                   "rennend"
                ]
@@ -13558,7 +13558,7 @@
                "name":"Cartoon Bikini-Körper",
                "required":false,
                "tags":[
-                  "Exhibitionist*in",
+                  "Exhibitionist",
                   "Party Typ"
                ]
             },
@@ -13566,7 +13566,7 @@
                "name":"\u201cAber zuerst mein Kaffee\u201d",
                "required":false,
                "tags":[
-                  "Planer*in",
+                  "Planer",
                   "munter"
                ]
             },
@@ -13575,7 +13575,7 @@
                "required":false,
                "tags":[
                   "cool",
-                  "Zocker*in"
+                  "Zocker"
                ]
             },
             {
@@ -13657,8 +13657,8 @@
                      "idx":5,
                      "tags":[
                         "preisgekrönt",
-                        "Älteste*r",
-                        "Rentner*in"
+                        "Ältester",
+                        "Rentner"
                      ]
                   }
                ],
@@ -13675,7 +13675,7 @@
                "name":"in der Wildnis verloren",
                "required":false,
                "tags":[
-                  "Entdecker*in",
+                  "Entdecker",
                   "verloren"
                ]
             },
@@ -13683,7 +13683,7 @@
                "name":"im Duell getötet",
                "required":false,
                "tags":[
-                  "Aristokrat*in",
+                  "Aristokrat",
                   "nobel"
                ]
             },
@@ -13710,7 +13710,7 @@
                "tags":[
                   "unabhängig",
                   "missverstanden",
-                  "mystiker*in"
+                  "mystiker"
                ]
             },
             {
@@ -13837,7 +13837,7 @@
                "name":"Exorzismus",
                "required":false,
                "tags":[
-                  "Dämon*in",
+                  "Dämon",
                   "Geist",
                   "unheimlich"
                ]
@@ -13848,7 +13848,7 @@
                "tags":[
                   "dumm",
                   "chemisch",
-                  "wissenschaftler*in"
+                  "wissenschaftler"
                ]
             },
             {
@@ -13875,7 +13875,7 @@
                "tags":[
                   "köstlich",
                   "nährstoffreich",
-                  "Krieger*in"
+                  "Krieger"
                ]
             }
          ],
@@ -13900,7 +13900,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Zeige deine beste  \u201ckleines vom Teufel besessenes Mädchen\u201d Stimme",
+                     "question":"Zeige deine beste \u201cBesessener\u201d-Stimme",
                      "name":"Exorzismus",
                      "idx":0
                   }
@@ -13945,7 +13945,7 @@
                "tags":[
                   "vorsichtig",
                   "unentschlossen",
-                  "schwafler*in"
+                  "schwafler"
                ]
             },
             {
@@ -13971,7 +13971,7 @@
                "tags":[
                   "frittiert",
                   "fischig",
-                  "wirbellose*r"
+                  "wirbelloser"
                ]
             },
             {
@@ -14027,7 +14027,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer sagt den Leuten, dass sie in der Schlange vorgehen sollen, weil er*sie sich \u201cnoch nicht entschieden\u201d hat?",
+                     "question":"Wer sagt den Leuten, dass sie in der Schlange vorgehen sollen, weil er sich \u201cnoch nicht entschieden\u201d hat?",
                      "name":"Definitiv vielleicht",
                      "idx":1
                   },
@@ -14057,14 +14057,14 @@
                            "tags":[
                               "vorsichtig",
                               "hoffnungsvoll",
-                              "schwafler*in"
+                              "schwafler"
                            ]
                         },
                         {
                            "name":"auf keinen Fall vielleicht",
                            "tags":[
                               "pessimistisch",
-                              "Rebell*in"
+                              "Rebell"
                            ]
                         }
                      ],
@@ -14080,7 +14080,7 @@
                      "idx":8,
                      "tags":[
                         "extra",
-                        "Lügner*in"
+                        "Lügner"
                      ]
                   }
                ],
@@ -14099,7 +14099,7 @@
                "tags":[
                   "zugeknöpft",
                   "neurotisch",
-                  "Planer*in"
+                  "Planer"
                ]
             },
             {
@@ -14124,7 +14124,7 @@
                "name":"nackt",
                "required":true,
                "tags":[
-                  "Exhibitionist*in",
+                  "Exhibitionist",
                   "exponiert"
                ]
             },
@@ -14236,8 +14236,8 @@
                "required":false,
                "tags":[
                   "sauber",
-                  "Helfer*in",
-                  "Unterstützer*in"
+                  "Helfer",
+                  "Unterstützer"
                ]
             },
             {
@@ -14256,7 +14256,7 @@
                "required":false,
                "tags":[
                   "einflussreich",
-                  "trendsetter*in"
+                  "trendsetter"
                ]
             },
             {
@@ -14264,14 +14264,14 @@
                "required":false,
                "tags":[
                   "cool",
-                  "Einzelgänger*in"
+                  "Einzelgänger"
                ]
             },
             {
                "name":"ist um 19 Uhr gegangen",
                "required":false,
                "tags":[
-                  "Älteste*r",
+                  "Ältester",
                   "verantwortungsbewusst"
                ]
             },
@@ -14281,7 +14281,7 @@
                "tags":[
                   "abwesend",
                   "rätsel",
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "fehlend"
                ]
             }
@@ -14374,8 +14374,8 @@
                "name":"Polo",
                "required":false,
                "tags":[
-                  "Athlet*in",
-                  "Reiter*in",
+                  "Athlet",
+                  "Reiter",
                   "sportlich"
                ]
             },
@@ -14383,7 +14383,7 @@
                "name":"Yachting",
                "required":true,
                "tags":[
-                  "seefahrer*in",
+                  "seefahrer",
                   "salzig"
                ]
             },
@@ -14391,16 +14391,16 @@
                "name":"Kunstsammeln",
                "required":false,
                "tags":[
-                  "Kunstliebhaber*in",
+                  "Kunstliebhaber",
                   "kreativ",
-                  "investor*in"
+                  "investor"
                ]
             },
             {
                "name":"Weinherstellung",
                "required":true,
                "tags":[
-                  "Alkoholiker*in",
+                  "Alkoholiker",
                   "kultiviert",
                   "betrunken"
                ]
@@ -14409,7 +14409,7 @@
                "name":"Gründung einer gemeinnützigen Stiftung",
                "required":true,
                "tags":[
-                  "grosszügig",
+                  "großzügig",
                   "menschenfreund",
                   "wohlhabend"
                ]
@@ -14418,7 +14418,7 @@
                "name":"Steuerhinterziehung",
                "required":true,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "sparsam"
                ]
             }
@@ -14492,7 +14492,7 @@
                      "name":"für ein Amt kandidieren ",
                      "idx":8,
                      "tags":[
-                        "politiker*in",
+                        "politiker",
                         "mies"
                      ]
                   }
@@ -14510,7 +14510,7 @@
                "name":"Kerl der in der Öffentlichkeit Pornos ansieht",
                "required":false,
                "tags":[
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "offenkundig sexuell",
                   "vulgär"
                ]
@@ -14519,12 +14519,12 @@
                "name":"Alte Person die E-Mails ausdruckt",
                "required":false,
                "tags":[
-                  "Älteste*r",
+                  "Ältester",
                   "altmodisch"
                ]
             },
             {
-               "name":"Verkaterte*r Bibliothekar*in",
+               "name":"Verkaterter Bibliothekar",
                "required":false,
                "tags":[
                   "Party Typ",
@@ -14544,8 +14544,8 @@
                "name":"True-Crime-Enthusiast bei der Erforschung ungeklärter Fälle",
                "required":false,
                "tags":[
-                  "Detektiv*in",
-                  "reporter*in",
+                  "Detektiv",
+                  "reporter",
                   "smart"
                ]
             },
@@ -14598,7 +14598,7 @@
                   {
                      "role":2,
                      "question":"Wer hasst laute Geräusche am meisten?",
-                     "name":"Verkaterte*r Bibliothekar*in",
+                     "name":"Verkaterter Bibliothekar",
                      "idx":2
                   },
                   {
@@ -14615,9 +14615,9 @@
                      "name":"Seiten aus Rezeptbüchern stehlen",
                      "idx":6,
                      "tags":[
-                        "Küchenchef*in",
+                        "Küchenchef",
                         "foodie",
-                        "Dieb*in"
+                        "Dieb"
                      ]
                   }
                ],
@@ -14756,7 +14756,7 @@
                "name":"Hund",
                "required":true,
                "tags":[
-                  "Begleiter*in",
+                  "Begleiter",
                   "energisch",
                   "freundlich",
                   "loyal"
@@ -14777,7 +14777,7 @@
                "tags":[
                   "kalt",
                   "unheimlich",
-                  "Rebell*in"
+                  "Rebell"
                ]
             },
             {
@@ -14787,7 +14787,7 @@
                   "mutig",
                   "exotisch",
                   "wild",
-                  "jäger*in",
+                  "jäger",
                   "luxuriös"
                ]
             },
@@ -14890,7 +14890,7 @@
                      "idx":9,
                      "tags":[
                         "lazy",
-                        "Einzelgänger*in"
+                        "Einzelgänger"
                      ]
                   }
                ],
@@ -14909,7 +14909,7 @@
                "tags":[
                   "cool",
                   "einäugig",
-                  "Rebell*in"
+                  "Rebell"
                ]
             },
             {
@@ -14943,7 +14943,7 @@
                "required":false,
                "tags":[
                   "steif",
-                  "Unterstützer*in",
+                  "Unterstützer",
                   "aus holz"
                ]
             },
@@ -15042,7 +15042,7 @@
                      "name":"Johnny Depp\u2019s Eyeliner",
                      "idx":8,
                      "tags":[
-                        "Schauspieler*in",
+                        "Schauspieler",
                         "gekünstlelt",
                         "dunkel"
                      ]
@@ -15082,7 +15082,7 @@
                "required":false,
                "tags":[
                   "spaltend",
-                  "Gesundheitsfanatiker*in",
+                  "Gesundheitsfanatiker",
                   "gesund"
                ]
             },
@@ -15090,7 +15090,7 @@
                "name":"Ananas",
                "required":true,
                "tags":[
-                  "Strandgammler*in",
+                  "Strandgammler",
                   "süss",
                   "tropisch",
                   "unberechenbar"
@@ -15137,7 +15137,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Was ist eine süße Kleinigkeit, die du deinem/deiner Liebsten unter das Kopfkissen legen kannst?",
+                     "question":"Was ist eine süße Kleinigkeit, die du deinem Liebsten unter das Kopfkissen legen kannst?",
                      "name":"Ananas",
                      "idx":4
                   }
@@ -15171,7 +15171,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Wer wird genauso sehr geliebt, wie er/sie verachtet wird?",
+                     "question":"Wer wird genauso sehr geliebt, wie er verachtet wird?",
                      "name":"Grüne Paprika",
                      "idx":5
                   }
@@ -15204,7 +15204,7 @@
                "tags":[
                   "effizient",
                   "logisch",
-                  "traditionalist*in"
+                  "traditionalist"
                ]
             },
             {
@@ -15212,7 +15212,7 @@
                "required":false,
                "tags":[
                   "unabhängig",
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "privat"
                ]
             },
@@ -15221,7 +15221,7 @@
                "required":false,
                "tags":[
                   "verzweifelt",
-                  "reisende*r"
+                  "reisender"
                ]
             },
             {
@@ -15229,7 +15229,7 @@
                "required":false,
                "tags":[
                   "benommen",
-                  "Abtrünnige*r"
+                  "Abtrünniger"
                ]
             },
             {
@@ -15245,7 +15245,7 @@
                "name":"Hosen",
                "required":false,
                "tags":[
-                  "Idiot*in",
+                  "Idiot",
                   "unbeabsichtigt",
                   "Feigling"
                ]
@@ -15348,14 +15348,14 @@
                   "mutig",
                   "böse",
                   "unheimlich",
-                  "Krieger*in"
+                  "Krieger"
                ]
             },
             {
                "name":"intriganter Handlanger",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "sidekick"
                ]
             },
@@ -15371,7 +15371,7 @@
                "name":"trägt eine lebende Schlange",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "Modepuppe",
                   "stylish"
                ]
@@ -15451,7 +15451,7 @@
                      "name":"skrupelloser Steuerberater",
                      "idx":8,
                      "tags":[
-                        "anwält*in",
+                        "anwält",
                         "rücksichtslos"
                      ]
                   }
@@ -15469,7 +15469,7 @@
                "name":"Arzt",
                "required":false,
                "tags":[
-                  "Akademiker*in",
+                  "Akademiker",
                   "Authorität"
                ]
             },
@@ -15477,7 +15477,7 @@
                "name":"Dichter",
                "required":false,
                "tags":[
-                  "Künstler*in",
+                  "Künstler",
                   "kreativ",
                   "Freigeist"
                ]
@@ -15486,7 +15486,7 @@
                "name":"Kaiser",
                "required":false,
                "tags":[
-                  "monarch*in",
+                  "monarch",
                   "wuchtig"
                ]
             },
@@ -15494,7 +15494,7 @@
                "name":"Fischhändler",
                "required":false,
                "tags":[
-                  "Unternehmer*in",
+                  "Unternehmer",
                   "fischig"
                ]
             },
@@ -15599,8 +15599,8 @@
                         {
                            "name":"gütiger Kaiser",
                            "tags":[
-                              "grosszügig",
-                              "Helfer*in",
+                              "großzügig",
+                              "Helfer",
                               "freundlich"
                            ]
                         },
@@ -15608,7 +15608,7 @@
                            "name":"eiserner Kaiser",
                            "tags":[
                               "rücksichtslos",
-                              "tyrann*in"
+                              "tyrann"
                            ]
                         }
                      ],
@@ -15623,7 +15623,7 @@
                      "name":"Computerhacker",
                      "idx":9,
                      "tags":[
-                        "Verbrecher*in",
+                        "Verbrecher",
                         "destructiv",
                         "Unruhestifter"
                      ]
@@ -15652,7 +15652,7 @@
                "required":false,
                "tags":[
                   "heilig",
-                  "prediger*in",
+                  "prediger",
                   "spirituell"
                ]
             },
@@ -15660,7 +15660,7 @@
                "name":"Glückskaninchenfuß",
                "required":false,
                "tags":[
-                  "Glücksspieler*in",
+                  "Glücksspieler",
                   "vom glück begünstigt"
                ]
             },
@@ -15746,7 +15746,7 @@
                      "name":"Plüschwürfel",
                      "idx":6,
                      "tags":[
-                        "Glücksspieler*in",
+                        "Glücksspieler",
                         "unreif",
                         "schäbig"
                      ]
@@ -15774,8 +15774,8 @@
                "name":"grafische Nacktheit",
                "required":true,
                "tags":[
-                  "Angeber*in",
-                  "Exhibitionist*in"
+                  "Angeber",
+                  "Exhibitionist"
                ]
             },
             {
@@ -15799,15 +15799,15 @@
                "required":false,
                "tags":[
                   "Schwarm",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
                "name":"bestimmte thematische Elemente",
                "required":true,
                "tags":[
-                  "misteriös",
-                  "geschichtenerzähler*in"
+                  "mysteriös",
+                  "geschichtenerzähler"
                ]
             }
          ],
@@ -15932,7 +15932,7 @@
                "tags":[
                   "unbekümmert",
                   "Freigeist",
-                  "naturalist*in"
+                  "naturalist"
                ]
             },
             {
@@ -16003,7 +16003,7 @@
                      "tags":[
                         "gelangweilt",
                         "Sonderling",
-                        "Spinner*in"
+                        "Spinner"
                      ]
                   }
                ],
@@ -16020,7 +16020,7 @@
                "name":"Schulabbruch",
                "required":false,
                "tags":[
-                  "Aussteiger*in",
+                  "Aussteiger",
                   "impulsiv"
                ]
             },
@@ -16028,7 +16028,7 @@
                "name":"sich das Gesicht tätowieren lassen",
                "required":false,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "künstlerisch"
                ]
             },
@@ -16037,14 +16037,14 @@
                "required":false,
                "tags":[
                   "apathisch",
-                  "Zuschauer*in"
+                  "Zuschauer"
                ]
             },
             {
                "name":"Paris nie zu sehen",
                "required":false,
                "tags":[
-                  "Stubenhocker*in",
+                  "Stubenhocker",
                   "poetisch"
                ]
             },
@@ -16061,7 +16061,7 @@
                "required":false,
                "tags":[
                   "emo",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             }
          ],
@@ -16165,7 +16165,7 @@
                "tags":[
                   "bewacht",
                   "launisch",
-                  "Beobachter*in",
+                  "Beobachter",
                   "wachsam"
                ]
             },
@@ -16174,7 +16174,7 @@
                "short":"Hund",
                "required":true,
                "tags":[
-                  "Begleiter*in",
+                  "Begleiter",
                   "zuverlässig",
                   "eifrig",
                   "nett",
@@ -16198,7 +16198,7 @@
                "short":"Vogel",
                "required":false,
                "tags":[
-                  "Abenteurer*in",
+                  "Abenteurer",
                   "flatterhaft",
                   "freigeistig"
                ]
@@ -16209,7 +16209,7 @@
                "required":true,
                "tags":[
                   "fleissig",
-                  "müllsammler*in",
+                  "müllsammler",
                   "trashig"
                ]
             }
@@ -16333,10 +16333,10 @@
       {
          "roles":[
             {
-               "name":"Liebe*r",
+               "name":"Lieber",
                "required":false,
                "tags":[
-                  "Begleiter*in",
+                  "Begleiter",
                   "lieb"
                ]
             },
@@ -16391,7 +16391,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"\u201cSchnuckelchen\u201d wäre ein guter Spitzname für welche*n Prominente*n?",
+                     "question":"\u201cSchnuckelchen\u201d wäre ein guter Spitzname für welchen Prominenten?",
                      "name":"Schnuckelchen",
                      "idx":3
                   },
@@ -16432,7 +16432,7 @@
                   {
                      "role":0,
                      "question":"Wer ist am liebsten?",
-                     "name":"Liebe*r",
+                     "name":"Lieber",
                      "idx":2
                   },
                   {
@@ -16450,7 +16450,7 @@
                      "idx":7,
                      "tags":[
                         "langweilig",
-                        "Stubenhocker*in"
+                        "Stubenhocker"
                      ]
                   }
                ],
@@ -16464,30 +16464,30 @@
       {
          "roles":[
             {
-               "name":"Kellner*in",
+               "name":"Kellner",
                "required":true,
                "tags":[
                   "zuverlässig",
                   "geduldig",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
-               "name":"Küchenchef*in",
+               "name":"Küchenchef",
                "required":true,
                "tags":[
                   "künstlerisch",
-                  "Küchenchef*in"
+                  "Küchenchef"
                ]
             },
             {
-               "name":"Abräumer*in",
+               "name":"Abräumer",
                "required":false,
                "tags":[
                   "schnell",
                   "fleissig",
                   "ordentlich",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -16495,11 +16495,11 @@
                "required":false,
                "tags":[
                   "mit Klasse",
-                  "rädelsführer*in"
+                  "rädelsführer"
                ]
             },
             {
-               "name":"Gastronomie-Kritiker*in",
+               "name":"Gastronomie-Kritiker",
                "required":true,
                "tags":[
                   "foodie",
@@ -16508,10 +16508,10 @@
                ]
             },
             {
-               "name":"Containertaucher*in",
+               "name":"Containertaucher",
                "required":true,
                "tags":[
-                  "naturalist*in",
+                  "naturalist",
                   "sparsam"
                ]
             }
@@ -16527,7 +16527,7 @@
                   {
                      "role":1,
                      "question":"Was wäre dein Markenzeichen-Gericht?",
-                     "name":"Küchenchef*in",
+                     "name":"Küchenchef",
                      "idx":2
                   },
                   {
@@ -16539,13 +16539,13 @@
                   {
                      "role":4,
                      "question":"Was ist das gemeinste Lebensmittel-Wortspiel, das du in einer schlechten Kritik verwenden würdest?",
-                     "name":"Gastronomie-Kritiker*in",
+                     "name":"Gastronomie-Kritiker",
                      "idx":5
                   },
                   {
                      "role":5,
                      "question":"Was ist das Coolste, das du jemals in oder um einen Müllcontainer herum gefunden hast?",
-                     "name":"Containertaucher*in",
+                     "name":"Containertaucher",
                      "idx":6
                   }
                ]
@@ -16556,13 +16556,13 @@
                   {
                      "role":0,
                      "question":"Wer kann sich die Tagesgerichte am besten merken?",
-                     "name":"Kellner*in",
+                     "name":"Kellner",
                      "idx":1
                   },
                   {
                      "role":2,
                      "question":"Wer würde die meisten Teller pro Nacht zerbrechen?",
-                     "name":"Abräumer*in",
+                     "name":"Abräumer",
                      "idx":3
                   }
                ]
@@ -16593,7 +16593,7 @@
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Fahrer*in",
+                  "Fahrer",
                   "praktisch veranlagt"
                ]
             },
@@ -16621,7 +16621,7 @@
                "required":true,
                "tags":[
                   "vergesslich",
-                  "schwätzer*in"
+                  "schwätzer"
                ]
             },
             {
@@ -16638,7 +16638,7 @@
                "short":"falsches Auto",
                "required":false,
                "tags":[
-                  "Pfuscher*in",
+                  "Pfuscher",
                   "ratlos"
                ]
             }
@@ -16735,8 +16735,8 @@
                "name":"fahren",
                "required":true,
                "tags":[
-                  "Anführer*in",
-                  "Fahrer*in"
+                  "Anführer",
+                  "Fahrer"
                ]
             },
             {
@@ -16744,8 +16744,8 @@
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Entdecker*in",
-                  "Planer*in",
+                  "Entdecker",
+                  "Planer",
                   "sidekick"
                ]
             },
@@ -16753,7 +16753,7 @@
                "name":"die ganze Reise über schlafen",
                "required":true,
                "tags":[
-                  "Gammler*in",
+                  "Gammler",
                   "lazy",
                   "schläfrig"
                ]
@@ -16763,7 +16763,7 @@
                "required":false,
                "tags":[
                   "ängstlich",
-                  "unterbrecher*in"
+                  "unterbrecher"
                ]
             },
             {
@@ -16852,7 +16852,7 @@
                      "idx":7,
                      "tags":[
                         "lästig",
-                        "nörgler*in"
+                        "nörgler"
                      ]
                   }
                ],
@@ -16869,7 +16869,7 @@
                "name":"<i>Schlaflos in Seattle<\/i>",
                "required":false,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "empfindlich"
                ]
             },
@@ -16886,7 +16886,7 @@
                "required":false,
                "tags":[
                   "dumm",
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "Sprüche klopfend"
                ]
             },
@@ -16895,7 +16895,7 @@
                "required":true,
                "tags":[
                   "unschuldig",
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "Langweiler"
                ]
             },
@@ -16905,14 +16905,14 @@
                "tags":[
                   "launisch",
                   "rätsel",
-                  "misteriös"
+                  "mysteriös"
                ]
             },
             {
                "name":"<i>Was Frauen wollen<\/i>",
                "required":true,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "selbstbewusst",
                   "teufelskerl"
                ]
@@ -16999,13 +16999,13 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Wer würde die Chance verpassen, eine*n attraktive*n Fremde*n zu küssen, weil er*sie schüchtern ist, und wer würde es auslassen, weil er*sie nicht interessiert ist?",
+                     "question":"Wer würde die Chance verpassen, einen attraktiven Fremden zu küssen, weil er schüchtern ist, und wer würde es auslassen, weil er nicht interessiert ist?",
                      "roles":[
                         {
                            "name":"schüchtern <i>\u201cungeküsst\u201d<\/i>",
                            "tags":[
                               "unschuldig",
-                              "Introvertierte*r"
+                              "Introvertierter"
                            ]
                         },
                         {
@@ -17047,7 +17047,7 @@
                "tags":[
                   "zuverlässig",
                   "klassisch",
-                  "monarch*in",
+                  "monarch",
                   "königlich"
                ]
             },
@@ -17080,7 +17080,7 @@
                "name":"Tabouli",
                "required":false,
                "tags":[
-                  "Gesundheitsfanatiker*in",
+                  "Gesundheitsfanatiker",
                   "erfrischend"
                ]
             },
@@ -17158,7 +17158,7 @@
                      "idx":7,
                      "tags":[
                         "knusprig",
-                        "Rebell*in"
+                        "Rebell"
                      ]
                   }
                ],
@@ -17177,14 +17177,14 @@
                "tags":[
                   "knospend",
                   "fröhlich",
-                  "optimist*in"
+                  "optimist"
                ]
             },
             {
                "name":"Sommer",
                "required":false,
                "tags":[
-                  "Herzensbrecher*in",
+                  "Herzensbrecher",
                   "heiß",
                   "scorching"
                ]
@@ -17194,9 +17194,9 @@
                "required":false,
                "tags":[
                   "lebhaft",
-                  "Träumer*in",
+                  "Träumer",
                   "erdig",
-                  "Eskapist*in"
+                  "Eskapist"
                ]
             },
             {
@@ -17205,7 +17205,7 @@
                "tags":[
                   "kalt",
                   "frostig",
-                  "Einzelgänger*in"
+                  "Einzelgänger"
                ]
             },
             {
@@ -17256,7 +17256,7 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Zeige dein bestes Oscar gewinnendes Weinen.",
+                     "question":"Zeige dein bestes oscarreifes Weinen.",
                      "name":"Monsun",
                      "idx":0
                   }
@@ -17335,7 +17335,7 @@
                      "name":"Karneval",
                      "idx":8,
                      "tags":[
-                        "Partygänger*in",
+                        "Partygänger",
                         "witzig",
                         "bunt"
                      ]
@@ -17355,7 +17355,7 @@
                "required":true,
                "tags":[
                   "peinlich",
-                  "Beschützer*in",
+                  "Beschützer",
                   "elterlich"
                ]
             },
@@ -17371,7 +17371,7 @@
                "name":"Aus dem Biounterricht",
                "required":false,
                "tags":[
-                  "Akademiker*in",
+                  "Akademiker",
                   "coach",
                   "zuverlässig"
                ]
@@ -17382,7 +17382,7 @@
                "tags":[
                   "künstlerisch",
                   "influencer",
-                  "Cineast*in"
+                  "Cineast"
                ]
             },
             {
@@ -17390,7 +17390,7 @@
                "required":false,
                "tags":[
                   "mutig",
-                  "Stümper*in",
+                  "Stümper",
                   "sachkundig",
                   "herumtastend"
                ]
@@ -17399,9 +17399,9 @@
                "name":"Setzt die Puzzleteile immernoch zusammen",
                "required":true,
                "tags":[
-                  "Anfänger*in",
+                  "Anfänger",
                   "neugierig",
-                  "misteriös"
+                  "mysteriös"
                ]
             }
          ],
@@ -17457,7 +17457,7 @@
                      "name":"Blanche von den Golden Girls",
                      "idx":6,
                      "tags":[
-                        "Älteste*r",
+                        "Ältester",
                         "Schwarm"
                      ]
                   }
@@ -17475,7 +17475,7 @@
                "name":"Wege, schnell reich zu werden",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "wohlhabend"
                ]
             },
@@ -17492,7 +17492,7 @@
                "required":false,
                "tags":[
                   "dumm",
-                  "Stümper*in",
+                  "Stümper",
                   "gestresst"
                ]
             },
@@ -17517,8 +17517,8 @@
                "name":"nach 2 Episoden abgesetzt",
                "required":false,
                "tags":[
-                  "misteriös",
-                  "Bedenkenträger*in"
+                  "mysteriös",
+                  "Bedenkenträger"
                ]
             }
          ],
@@ -17607,7 +17607,7 @@
                      "name":"alles fand in einer Schneekugel eines Kindes statt",
                      "idx":8,
                      "tags":[
-                        "Träumer*in",
+                        "Träumer",
                         "seltsam"
                      ]
                   }
@@ -17636,7 +17636,7 @@
                "tags":[
                   "kindlich",
                   "niedlich",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -17683,7 +17683,7 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wenn Du ein unbesiegbarer Superheld wärst, was wäre Deine einzige Schwäche?",
+                     "question":"Wenn du ein unbesiegbarer Superheld wärst, was wäre deine einzige Schwäche?",
                      "name":"\u201cICH BIN UNBESIEGBAR!!!\u201d",
                      "idx":2
                   },
@@ -17718,7 +17718,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Wer ist am unheimlichsten, wenn er*sie still ist?",
+                     "question":"Wer ist am unheimlichsten, wenn er still ist?",
                      "name":"(unheimliche Stille)",
                      "idx":5
                   }
@@ -17731,7 +17731,7 @@
                      "idx":6,
                      "tags":[
                         "Schwarm",
-                        "Romantiker*in"
+                        "Romantiker"
                      ]
                   }
                ],
@@ -17749,7 +17749,7 @@
                "required":true,
                "tags":[
                   "selbstbewusst",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -17786,7 +17786,7 @@
                   "magisch",
                   "glatt",
                   "stylish",
-                  "trendsetter*in"
+                  "trendsetter"
                ]
             },
             {
@@ -17867,7 +17867,7 @@
                            "name":"stylisher Regenbogen",
                            "tags":[
                               "stylish",
-                              "trendsetter*in"
+                              "trendsetter"
                            ]
                         },
                         {
@@ -17915,7 +17915,7 @@
                "name":"der missverstandene Einzelgänger",
                "required":false,
                "tags":[
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "sorgenschwer"
                ]
             },
@@ -17923,7 +17923,7 @@
                "name":"der skrupellose Intrigant",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "gewieft"
                ]
             },
@@ -17932,7 +17932,7 @@
                "required":false,
                "tags":[
                   "böse",
-                  "Doppelgänger*in"
+                  "Doppelgänger"
                ]
             },
             {
@@ -17941,7 +17941,7 @@
                "tags":[
                   "fürsorglich",
                   "zuverlässig",
-                  "Älteste*r",
+                  "Ältester",
                   "weise"
                ]
             },
@@ -17949,7 +17949,7 @@
                "name":"derjenige, der zurück von den Toten ist",
                "required":false,
                "tags":[
-                  "misteriös",
+                  "mysteriös",
                   "überraschend",
                   "unerwarteter gast"
                ]
@@ -17994,7 +17994,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Wer würde eine Ehe zerstören, um zu bekommen, was er*sie will?",
+                     "question":"Wer würde eine Ehe zerstören, um zu bekommen, was er will?",
                      "name":"der skrupellose Intrigant",
                      "idx":1
                   },
@@ -18078,7 +18078,7 @@
                "required":false,
                "tags":[
                   "aggressiv",
-                  "Kämpfer*in"
+                  "Kämpfer"
                ]
             },
             {
@@ -18086,16 +18086,16 @@
                "required":false,
                "tags":[
                   "Griesgram",
-                  "Einzelgänger*in"
+                  "Einzelgänger"
                ]
             },
             {
                "name":"dem Sieger Betrug vorwerfen",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "gewieft",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -18103,7 +18103,7 @@
                "required":false,
                "tags":[
                   "Eremit",
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "ruhig"
                ]
             },
@@ -18112,7 +18112,7 @@
                "required":false,
                "tags":[
                   "kindlich",
-                  "Lügner*in"
+                  "Lügner"
                ]
             },
             {
@@ -18212,15 +18212,15 @@
                "tags":[
                   "fancy",
                   "reich",
-                  "partylöwe*in"
+                  "partylöwe"
                ]
             },
             {
                "name":"gefüllte Ofenkartoffel",
                "required":false,
                "tags":[
-                  "Begleiter*in",
-                  "grosszügig",
+                  "Begleiter",
+                  "großzügig",
                   "herzhaft",
                   "robust"
                ]
@@ -18311,7 +18311,7 @@
                      "idx":6,
                      "tags":[
                         "praktisch veranlagt",
-                        "Unterstützer*in"
+                        "Unterstützer"
                      ]
                   }
                ],
@@ -18329,7 +18329,7 @@
                "required":true,
                "tags":[
                   "vorsichtig",
-                  "Planer*in",
+                  "Planer",
                   "schüchtern"
                ]
             },
@@ -18338,7 +18338,7 @@
                "required":false,
                "tags":[
                   "gewieft",
-                  "stratege*in"
+                  "stratege"
                ]
             },
             {
@@ -18362,7 +18362,7 @@
                "name":"Schul-Zone",
                "required":false,
                "tags":[
-                  "Pädagog*in",
+                  "Pädagog",
                   "ethisch"
                ]
             },
@@ -18371,7 +18371,7 @@
                "required":true,
                "tags":[
                   "animal",
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "gerne draussen"
                ]
             }
@@ -18497,7 +18497,7 @@
                "name":"Superreich sein",
                "required":false,
                "tags":[
-                  "stratege*in",
+                  "stratege",
                   "wohlhabend"
                ]
             },
@@ -18505,7 +18505,7 @@
                "name":"Für die Moral ausgewählt werden",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "zuverlässig",
                   "ethisch",
                   "Held"
@@ -18619,16 +18619,16 @@
                "name":"Rätsel an die Polizei senden",
                "required":false,
                "tags":[
-                  "Misteriös",
-                  "Angeber*in"
+                  "Mysteriös",
+                  "Angeber"
                ]
             },
             {
                "name":"Gedankenkontrolle über die Bevölkerung",
                "required":false,
                "tags":[
-                  "Anführer*in",
-                  "Intrigant*in",
+                  "Anführer",
+                  "Intrigant",
                   "smart"
                ]
             },
@@ -18638,7 +18638,7 @@
                "tags":[
                   "diplomatisch",
                   "gewieft",
-                  "Trickbetrüger*in"
+                  "Trickbetrüger"
                ]
             },
             {
@@ -18646,7 +18646,7 @@
                "required":false,
                "tags":[
                   "Hungrig",
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "unberechenbar"
                ]
             }
@@ -18701,7 +18701,7 @@
                   },
                   {
                      "role":4,
-                     "question":"Wer bringt Leute dazu, sich zu streiten, nur weil er*sie das Drama liebt?",
+                     "question":"Wer bringt Leute dazu, sich zu streiten, nur weil er das Drama liebt?",
                      "name":"Helden gegeneinander aufhetzen",
                      "idx":4
                   },
@@ -18771,7 +18771,7 @@
                "tags":[
                   "ausgenutzt",
                   "smart",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -18783,10 +18783,10 @@
                ]
             },
             {
-               "name":"Streber*in bekommt Makeover",
+               "name":"Streber bekommt Makeover",
                "required":false,
                "tags":[
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "Sonderling",
                   "schüchtern",
                   "stylish"
@@ -18796,17 +18796,17 @@
                "name":"das große Spiel gewinnen",
                "required":false,
                "tags":[
-                  "Athlet*in",
-                  "Angeber*in"
+                  "Athlet",
+                  "Angeber"
                ]
             },
             {
                "name":"Verliebt in den besten Freund",
                "required":false,
                "tags":[
-                  "Freund*in",
+                  "Freund",
                   "melodramatisch",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
@@ -18829,7 +18829,7 @@
                   {
                      "role":2,
                      "question":"Such dir einen neuen, coolen Namen für dich aus",
-                     "name":"Streber*in bekommt Makeover",
+                     "name":"Streber bekommt Makeover",
                      "idx":6
                   },
                   {
@@ -18868,7 +18868,7 @@
                   },
                   {
                      "role":4,
-                     "question":"Wer merkt nie, wenn man mit ihm*ihr flirtet?",
+                     "question":"Wer merkt nie, wenn man mit ihm flirtet?",
                      "name":"Verliebt in den besten Freund",
                      "idx":4
                   },
@@ -18885,24 +18885,24 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer ist ein*e stylische*r Streber*in und wer ist zu schüchtern, sich zu outen?",
+                     "question":"Wer ist ein stylischer Streber und wer ist zu schüchtern, sich zu outen?",
                      "roles":[
                         {
-                           "name":"stylische*r Streber*in",
+                           "name":"stylischer Streber",
                            "tags":[
                               "Modepuppe",
                               "stylish"
                            ]
                         },
                         {
-                           "name":"schüchterne*r Streber*in",
+                           "name":"schüchterner Streber",
                            "tags":[
-                              "Introvertierte*r",
+                              "Introvertierter",
                               "schüchtern"
                            ]
                         }
                      ],
-                     "name":"Streber*in bekommt Makeover",
+                     "name":"Streber bekommt Makeover",
                      "idx":2
                   }
                ]
@@ -18910,11 +18910,11 @@
             {
                "roles":[
                   {
-                     "name":"Erwachsene*r, der sich als Teenager ausgibt",
+                     "name":"Erwachsener, der sich als Teenager ausgibt",
                      "idx":8,
                      "tags":[
-                        "Älteste*r",
-                        "Lügner*in",
+                        "Ältester",
+                        "Lügner",
                         "gewieft"
                      ]
                   }
@@ -18933,7 +18933,7 @@
                "required":true,
                "tags":[
                   "selbstbewusst",
-                  "Angeber*in",
+                  "Angeber",
                   "stark"
                ]
             },
@@ -18941,7 +18941,7 @@
                "name":"ordentliches Dehnen",
                "required":false,
                "tags":[
-                  "Gesundheitsfanatiker*in",
+                  "Gesundheitsfanatiker",
                   "verantwortungsbewusst"
                ]
             },
@@ -18951,7 +18951,7 @@
                "tags":[
                   "athletisch",
                   "zuverlässig",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
@@ -19080,7 +19080,7 @@
                "name":"Vierbeinige Freunde",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "lustig",
                   "doof"
                ]
@@ -19091,14 +19091,14 @@
                "tags":[
                   "literarisch",
                   "nerd",
-                  "leser*in"
+                  "leser"
                ]
             },
             {
                "name":"Bob Ross Landschaften",
                "required":false,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "gerne draussen",
                   "unkompliziert"
                ]
@@ -19116,7 +19116,7 @@
                "name":"Tägliche Meditationen",
                "required":false,
                "tags":[
-                  "Philosoph*in",
+                  "Philosoph",
                   "weise"
                ]
             },
@@ -19199,7 +19199,7 @@
                "name":"Kleingeld",
                "required":true,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "wohlhabend"
                ]
             },
@@ -19216,7 +19216,7 @@
                "required":true,
                "tags":[
                   "praktisch",
-                  "Trickbetrüger*in"
+                  "Trickbetrüger"
                ]
             },
             {
@@ -19313,7 +19313,7 @@
                      "idx":1,
                      "tags":[
                         "verloren",
-                        "Dieb*in"
+                        "Dieb"
                      ]
                   }
                ],
@@ -19330,7 +19330,7 @@
                "name":"\u201cbis an die Grenze gehen\u201d",
                "required":false,
                "tags":[
-                  "Rebell*in",
+                  "Rebell",
                   "riskant",
                   "Adrenalinjunkie"
                ]
@@ -19339,7 +19339,7 @@
                "name":"\u201cParadigmenwechsel\u201d",
                "required":false,
                "tags":[
-                  "radikale*r",
+                  "radikaler",
                   "Unruhestifter"
                ]
             },
@@ -19347,9 +19347,9 @@
                "name":"\u201cLasst uns zurückkehren\u201d",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "vorsichtig",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -19366,7 +19366,7 @@
                "required":false,
                "tags":[
                   "kreativ",
-                  "Träumer*in",
+                  "Träumer",
                   "inspirativ"
                ]
             },
@@ -19374,9 +19374,9 @@
                "name":"\u201cZukunftsdenken\u201d",
                "required":true,
                "tags":[
-                  "Diplomat*in",
+                  "Diplomat",
                   "energisch",
-                  "verkäufer*in"
+                  "verkäufer"
                ]
             }
          ],
@@ -19481,7 +19481,7 @@
                "name":"ein Stethoskop vom Hals reißen",
                "required":true,
                "tags":[
-                  "Heiler*in",
+                  "Heiler",
                   "smart"
                ]
             },
@@ -19584,14 +19584,14 @@
                            "tags":[
                               "auffällig",
                               "rücksichtslos",
-                              "materialist*in"
+                              "materialist"
                            ]
                         },
                         {
                            "name":"Steueranwalt",
                            "tags":[
                               "langweilig",
-                              "fachmann*frau"
+                              "Fachmann"
                            ]
                         }
                      ],
@@ -19657,7 +19657,7 @@
                "required":true,
                "tags":[
                   "demütig",
-                  "Intrigant*in"
+                  "Intrigant"
                ]
             },
             {
@@ -19665,7 +19665,7 @@
                "required":false,
                "tags":[
                   "Scherzkeks",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             }
          ],
@@ -19761,7 +19761,7 @@
                "name":"gewählter Amtsträger",
                "required":false,
                "tags":[
-                  "Patriot*in",
+                  "Patriot",
                   "diplomatisch"
                ]
             },
@@ -19770,7 +19770,7 @@
                "required":false,
                "tags":[
                   "extra",
-                  "monarch*in",
+                  "monarch",
                   "wohlhabend"
                ]
             },
@@ -19786,12 +19786,12 @@
                "name":"Mafiaboss",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "hart"
                ]
             },
             {
-               "name":"Anführer*in einer Sekte",
+               "name":"Anführer einer Sekte",
                "required":false,
                "tags":[
                   "charmant",
@@ -19859,19 +19859,19 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer setzt sich wohl eine Krone auf, wenn er*sie eine Aufmunterung braucht?",
+                     "question":"Wer setzt sich wohl eine Krone auf, wenn er eine Aufmunterung braucht?",
                      "name":"königliche Hoheit",
                      "idx":1
                   },
                   {
                      "role":4,
                      "question":"Wer könnte deiner Meinung nach zu sehr auf CrossFit abfahren?",
-                     "name":"Anführer*in einer Sekte",
+                     "name":"Anführer einer Sekte",
                      "idx":4
                   },
                   {
                      "role":5,
-                     "question":"Welche*r Spieler*in ist am größten?",
+                     "question":"Welcher Spieler ist am größten?",
                      "name":"das größte Kind",
                      "idx":7
                   }
@@ -19894,7 +19894,7 @@
          ],
          "id":57028,
          "category":"Typen von Anführern",
-         "prompt":"Welcher Typ Anführer*in seid ihr?"
+         "prompt":"Welcher Typ Anführer seid ihr?"
       },
       {
          "roles":[
@@ -19902,7 +19902,7 @@
                "name":"Sehnsüchtig aus dem Schlossfenster starren",
                "required":false,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "royal"
                ]
             },
@@ -19918,7 +19918,7 @@
                "name":"Steine in der Abenddämmerung über den See springen lassen",
                "required":false,
                "tags":[
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "empfindlich"
                ]
             },
@@ -19934,7 +19934,7 @@
                "name":"Reiche Prominente hat die Nase voll von all den verschwenderischen Galas",
                "required":false,
                "tags":[
-                  "partylöwe*in",
+                  "partylöwe",
                   "wohlhabend"
                ]
             },
@@ -20047,8 +20047,8 @@
                "required":false,
                "tags":[
                   "hippie",
-                  "radikale*r",
-                  "surfer*in"
+                  "radikaler",
+                  "surfer"
                ]
             },
             {
@@ -20148,14 +20148,14 @@
                            "name":"NorCal",
                            "tags":[
                               "erdig",
-                              "Umweltschützer*in",
+                              "Umweltschützer",
                               "politisch"
                            ]
                         },
                         {
                            "name":"SoCal",
                            "tags":[
-                              "Egoist*in",
+                              "Egoist",
                               "auffällig",
                               "performer"
                            ]
@@ -20200,7 +20200,7 @@
                "required":true,
                "tags":[
                   "neugierig",
-                  "wissenschaftler*in",
+                  "wissenschaftler",
                   "smart"
                ]
             },
@@ -20210,7 +20210,7 @@
                "tags":[
                   "künstlerisch",
                   "Klassiker",
-                  "Poet*in"
+                  "Poet"
                ]
             },
             {
@@ -20226,7 +20226,7 @@
                "short":"sous vide manual",
                "required":false,
                "tags":[
-                  "Küchenchef*in",
+                  "Küchenchef",
                   "kulinarisch",
                   "foodie",
                   "praktisch veranlagt"
@@ -20357,7 +20357,7 @@
                      "idx":8,
                      "tags":[
                         "vernachlässigt",
-                        "Ausgestossene*r",
+                        "Ausgestoßener",
                         "wahrscheinlich wichtig"
                      ]
                   }
@@ -20403,7 +20403,7 @@
                "required":false,
                "tags":[
                   "Party Typ",
-                  "Rebell*in",
+                  "Rebell",
                   "hart"
                ]
             },
@@ -20413,14 +20413,14 @@
                "tags":[
                   "launisch",
                   "Schwarm",
-                  "Introvertierte*r"
+                  "Introvertierter"
                ]
             },
             {
                "name":"Zahlenbesessene Puppe",
                "required":true,
                "tags":[
-                  "Berater*in",
+                  "Berater",
                   "lehrreich",
                   "nett"
                ]
@@ -20565,7 +20565,7 @@
       {
          "roles":[
             {
-               "name":"Freeganer*in",
+               "name":"Freeganer",
                "required":false,
                "tags":[
                   "Freigeist",
@@ -20585,11 +20585,11 @@
                "required":false,
                "tags":[
                   "hip",
-                  "raucher*in"
+                  "raucher"
                ]
             },
             {
-               "name":"Bacon-Fanatiker*in",
+               "name":"Bacon-Fanatiker",
                "required":false,
                "tags":[
                   "Fleischfresser",
@@ -20605,7 +20605,7 @@
                ]
             },
             {
-               "name":"Verschwörungstheoretiker*in",
+               "name":"Verschwörungstheoretiker",
                "required":false,
                "tags":[
                   "klatsch",
@@ -20624,13 +20624,13 @@
                   {
                      "role":0,
                      "question":"Beschreib dein perfektes freeganes Sandwich.",
-                     "name":"Freeganer*in",
+                     "name":"Freeganer",
                      "idx":0
                   },
                   {
                      "role":3,
                      "question":"Was ist das Verrückteste, was man mit Speck umwickeln kann?",
-                     "name":"Bacon-Fanatiker*in",
+                     "name":"Bacon-Fanatiker",
                      "idx":3
                   },
                   {
@@ -20654,7 +20654,7 @@
                   {
                      "role":5,
                      "question":"Was ist eine Verschwörung, von der noch niemand gehört hat?",
-                     "name":"Verschwörungstheoretiker*in",
+                     "name":"Verschwörungstheoretiker",
                      "idx":2
                   }
                ]
@@ -20743,8 +20743,8 @@
                "required":false,
                "tags":[
                   "vom glück begünstigt",
-                  "Planer*in",
-                  "Intrigant*in"
+                  "Planer",
+                  "Intrigant"
                ]
             },
             {
@@ -20806,7 +20806,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer ist unaufhaltsam und wer tut nur so, als ob sie*er unaufhaltsam wäre?",
+                     "question":"Wer ist unaufhaltsam und wer tut nur so, als ob er unaufhaltsam wäre?",
                      "roles":[
                         {
                            "name":"ist unaufhaltsam",
@@ -20819,7 +20819,7 @@
                            "name":"tut unaufhaltsam",
                            "tags":[
                               "unzerstörbar",
-                              "Angeber*in"
+                              "Angeber"
                            ]
                         }
                      ],
@@ -20835,7 +20835,7 @@
                      "idx":6,
                      "tags":[
                         "kindlich",
-                        "Trickbetrüger*in"
+                        "Trickbetrüger"
                      ]
                   }
                ],
@@ -20852,7 +20852,7 @@
                "name":"einen guten Schluck",
                "required":false,
                "tags":[
-                  "Trinker*in",
+                  "Trinker",
                   "betrunken"
                ]
             },
@@ -20861,14 +20861,14 @@
                "required":false,
                "tags":[
                   "überwältigt",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
                "name":"eine Umarmung",
                "required":false,
                "tags":[
-                  "Begleiter*in",
+                  "Begleiter",
                   "empfindlich"
                ]
             },
@@ -20884,7 +20884,7 @@
                "name":"ein monatelanges Nickerchen",
                "required":false,
                "tags":[
-                  "Gammler*in",
+                  "Gammler",
                   "lazy",
                   "Faulpelz"
                ]
@@ -20893,7 +20893,7 @@
                "name":"nur dich, Baby",
                "required":true,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "sweetheart"
                ]
             }
@@ -20955,8 +20955,8 @@
                      "name":"10.000€ in kleinen, nicht zurückverfolgbaren Scheinen",
                      "idx":6,
                      "tags":[
-                        "Intrigant*in",
-                        "Dieb*in"
+                        "Intrigant",
+                        "Dieb"
                      ]
                   }
                ],
@@ -20982,7 +20982,7 @@
                "name":"Marshmallows",
                "required":true,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "soft",
                   "süss"
                ]
@@ -20992,7 +20992,7 @@
                "required":false,
                "tags":[
                   "gefährlich",
-                  "Kämpfer*in",
+                  "Kämpfer",
                   "scharfkantig"
                ]
             },
@@ -21010,7 +21010,7 @@
                "required":false,
                "tags":[
                   "alien",
-                  "misteriös",
+                  "mysteriös",
                   "ruchlos"
                ]
             },
@@ -21020,7 +21020,7 @@
                "tags":[
                   "künstlich",
                   "betrügerisch",
-                  "Lügner*in"
+                  "Lügner"
                ]
             }
          ],
@@ -21083,7 +21083,7 @@
                      "idx":5,
                      "tags":[
                         "praktisch veranlagt",
-                        "Arbeiter*in"
+                        "Arbeiter"
                      ]
                   }
                ],
@@ -21100,7 +21100,7 @@
                "name":"Hochzeit",
                "required":false,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "charmant"
                ]
             },
@@ -21116,15 +21116,15 @@
                "name":"Gerichtsverhandlung",
                "required":false,
                "tags":[
-                  "Diplomat*in",
-                  "Kämpfer*in"
+                  "Diplomat",
+                  "Kämpfer"
                ]
             },
             {
                "name":"ein Fußballspiel in den 50er Jahren ansehen",
                "required":true,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "Klassiker"
                ]
             },
@@ -21143,7 +21143,7 @@
                "tags":[
                   "nervös",
                   "verantwortungsbewusst",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             }
          ],
@@ -21238,7 +21238,7 @@
                "name":"auf dem Bürgersteig in einer Million Teile",
                "required":false,
                "tags":[
-                  "Stümper*in",
+                  "Stümper",
                   "ungeschickt"
                ]
             },
@@ -21247,14 +21247,14 @@
                "required":false,
                "tags":[
                   "ausgenutzt",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
                "name":"Ich habe nur einen Festnetzanschluss",
                "required":false,
                "tags":[
-                  "Älteste*r",
+                  "Ältester",
                   "altmodisch"
                ]
             },
@@ -21306,7 +21306,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Wenn man ihm*ihr JETZT ein Telefon zuwerfen würde... wer würde es fallen lassen?",
+                     "question":"Wenn man ihm JETZT ein Telefon zuwerfen würde... wer würde es fallen lassen?",
                      "name":"auf dem Bürgersteig in einer Million Teile",
                      "idx":2
                   },
@@ -21351,7 +21351,7 @@
                "name":"kalter Champagner",
                "required":false,
                "tags":[
-                  "Aristokrat*in",
+                  "Aristokrat",
                   "extra",
                   "fancy"
                ]
@@ -21471,7 +21471,7 @@
                   "fleissig",
                   "unverbindlich",
                   "unkompliziert",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -21489,7 +21489,7 @@
                "required":false,
                "tags":[
                   "arrogant",
-                  "Älteste*r",
+                  "Ältester",
                   "fancy"
                ]
             },
@@ -21498,7 +21498,7 @@
                "required":false,
                "tags":[
                   "büro-",
-                  "Planer*in",
+                  "Planer",
                   "aufgabenorientiert"
                ]
             },
@@ -21518,7 +21518,7 @@
                "tags":[
                   "kindlich",
                   "bunt",
-                  "Rebell*in"
+                  "Rebell"
                ]
             }
          ],
@@ -21626,7 +21626,7 @@
                "required":false,
                "tags":[
                   "mutig",
-                  "Herzensbrecher*in",
+                  "Herzensbrecher",
                   "liebenswert",
                   "patriotisch"
                ]
@@ -21645,7 +21645,7 @@
                "required":false,
                "tags":[
                   "inspirativ",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -21672,7 +21672,7 @@
                "tags":[
                   "kontrovers",
                   "Wirrkopf",
-                  "Trickbetrüger*in"
+                  "Trickbetrüger"
                ]
             }
          ],
@@ -21739,7 +21739,7 @@
                      "idx":2,
                      "tags":[
                         "lästig",
-                        "verkäufer*in"
+                        "verkäufer"
                      ]
                   }
                ],
@@ -21775,7 +21775,7 @@
                "tags":[
                   "aggressiv",
                   "böse",
-                  "Kämpfer*in"
+                  "Kämpfer"
                ]
             },
             {
@@ -21800,7 +21800,7 @@
                "required":false,
                "tags":[
                   "selbstbewusst",
-                  "Egoist*in",
+                  "Egoist",
                   "dumm",
                   "übermütig"
                ]
@@ -21863,8 +21863,8 @@
                      "name":"\u201cHier ist eine Karte zu meinem geheimen Schatz.\u201d",
                      "idx":6,
                      "tags":[
-                        "Aristokrat*in",
-                        "misteriös"
+                        "Aristokrat",
+                        "mysteriös"
                      ]
                   }
                ],

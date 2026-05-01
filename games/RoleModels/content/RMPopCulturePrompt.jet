@@ -207,7 +207,7 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Was ist das unpassenste, wo bei deine Mutter dich erwischen kann?",
+                     "question":"Was ist das Unpassendste, wobei deine Mutter dich erwischen kann?",
                      "name":"Woingenau",
                      "idx":0
                   },
@@ -427,7 +427,7 @@
                ]
             },
             {
-               "name":"Pyscho-Andreas von Frauentausch",
+               "name":"Psycho-Andreas von Frauentausch",
                "required":false,
                "tags":[
                   "aggressiv",
@@ -528,7 +528,7 @@
                   {
                      "role":1,
                      "question":"Erkläre einem Freund, der zu Besuch ist, wo sein Gästezimmer ist.",
-                     "name":"Pyscho-Andreas von Frauentausch",
+                     "name":"Psycho-Andreas von Frauentausch",
                      "idx":7
                   }
                ]
@@ -545,7 +545,7 @@
                   {
                      "role":1,
                      "question":"Wer ist direkt genervt, wenn Dinge nicht mehr nach Plan verlaufen?",
-                     "name":"Pyscho-Andreas von Frauentausch",
+                     "name":"Psycho-Andreas von Frauentausch",
                      "idx":3
                   }
                ]
@@ -679,7 +679,7 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Wer würde als erster Micro-Transactions kaufen?",
+                     "question":"Wer würde als erster Mikrotransaktionen kaufen?",
                      "name":"Bestes mobiles Spiel",
                      "idx":3
                   }
@@ -983,7 +983,7 @@
                   },
                   {
                      "role":4,
-                     "question":"Wer würde auch nach der 1000. Entführung weiterhin los laufen, um die Prinzessin zu retten?",
+                     "question":"Wer würde auch nach der 1000. Entführung weiterhin loslaufen, um die Prinzessin zu retten?",
                      "name":"<i>New Super Mario Bros. Wii<\/i>",
                      "idx":7
                   }
@@ -1149,7 +1149,7 @@
                "name":"Frasier",
                "required":true,
                "tags":[
-                  "Berater*in",
+                  "Berater",
                   "arrogant",
                   "mit Klasse",
                   "selbstbewusst",
@@ -1165,9 +1165,9 @@
                   "tollpatschig",
                   "vorsichtig",
                   "fancy",
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "Langweiler",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -1175,7 +1175,7 @@
                "required":false,
                "tags":[
                   "aggressiv",
-                  "Älteste*r",
+                  "Ältester",
                   "ethisch",
                   "mürrisch",
                   "unordentlich",
@@ -1192,7 +1192,7 @@
                   "Schwarm",
                   "hilfreich",
                   "organisiert",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
@@ -1211,7 +1211,7 @@
                   "mondän",
                   "hip",
                   "stürmisch",
-                  "städter*in"
+                  "städter"
                ]
             }
          ],
@@ -1278,7 +1278,7 @@
                      "idx":2,
                      "tags":[
                         "komfortabel",
-                        "Gammler*in",
+                        "Gammler",
                         "lazy"
                      ]
                   }
@@ -1305,10 +1305,10 @@
                "required":true,
                "tags":[
                   "herrisch",
-                  "Küchenchef*in",
+                  "Küchenchef",
                   "zuverlässig",
                   "organisiert",
-                  "Planer*in"
+                  "Planer"
                ]
             },
             {
@@ -1317,7 +1317,7 @@
                "tags":[
                   "nerdig",
                   "neurotisch",
-                  "wissenschaftler*in",
+                  "wissenschaftler",
                   "Langweiler"
                ]
             },
@@ -1395,7 +1395,7 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Welche*r Spieler*in hat mehr Köpfchen?",
+                     "question":"Welcher Spieler hat mehr Köpfchen?",
                      "name":"Phoebe",
                      "idx":1
                   },
@@ -1436,7 +1436,7 @@
          ],
          "id":56656,
          "category":"<i>Friends<\/i> Freunde",
-         "prompt":"Welche*r Freund*in aus <i>Friends<\/i> seid ihr?"
+         "prompt":"Welcher Freund aus <i>Friends<\/i> seid ihr?"
       },
       {
          "roles":[
@@ -1444,7 +1444,7 @@
                "name":"Tyrion",
                "required":false,
                "tags":[
-                  "Diplomat*in",
+                  "Diplomat",
                   "smart",
                   "weise"
                ]
@@ -1454,7 +1454,7 @@
                "required":false,
                "tags":[
                   "Kraftwerk",
-                  "Anführer*in"
+                  "Anführer"
                ]
             },
             {
@@ -1463,7 +1463,7 @@
                "tags":[
                   "zuverlässig",
                   "ethisch",
-                  "stratege*in"
+                  "stratege"
                ]
             },
             {
@@ -1471,7 +1471,7 @@
                "required":false,
                "tags":[
                   "badass",
-                  "kampfkünstler*in"
+                  "kampfkünstler"
                ]
             },
             {
@@ -1479,7 +1479,7 @@
                "required":false,
                "tags":[
                   "launisch",
-                  "Kämpfer*in",
+                  "Kämpfer",
                   "gewalttätig"
                ]
             },
@@ -1503,7 +1503,7 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Beende den Satz: \u201cDas ist es was ich mache: Ich trinke und ich ....\u201d",
+                     "question":"Beende den Satz: \u201cDas ist es, was ich mache: Ich trinke und ich ....\u201d",
                      "name":"Tyrion",
                      "idx":3
                   },
@@ -1618,7 +1618,7 @@
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Anführer*in"
+                  "Anführer"
                ]
             },
             {
@@ -1633,8 +1633,8 @@
                "name":"Haus Lannister",
                "required":true,
                "tags":[
-                  "Planer*in",
-                  "Intrigant*in"
+                  "Planer",
+                  "Intrigant"
                ]
             },
             {
@@ -1643,7 +1643,7 @@
                "tags":[
                   "spitzzüngig",
                   "Stylish",
-                  "Diplomat*in"
+                  "Diplomat"
                ]
             },
             {
@@ -1651,7 +1651,7 @@
                "required":true,
                "tags":[
                   "böse",
-                  "abtrünnige*r",
+                  "abtrünniger",
                   "gewalttätig"
                ]
             },
@@ -1794,7 +1794,7 @@
                "name":"Slytherin",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "launisch"
                ]
             },
@@ -1810,7 +1810,7 @@
                "name":"Muggel",
                "required":false,
                "tags":[
-                  "Zuschauer*in",
+                  "Zuschauer",
                   "ungeschickt",
                   "ruhig"
                ]
@@ -1916,7 +1916,7 @@
                "required":false,
                "tags":[
                   "connoisseur",
-                  "Trinker*in",
+                  "Trinker",
                   "angeschickert"
                ]
             },
@@ -1924,7 +1924,7 @@
                "name":"Industrie & Wirtschaft",
                "required":false,
                "tags":[
-                  "Unternehmer*in",
+                  "Unternehmer",
                   "fleissig",
                   "einfallsreich",
                   "Langweiler"
@@ -1935,7 +1935,7 @@
                "required":false,
                "tags":[
                   "international",
-                  "reisende*r"
+                  "reisender"
                ]
             },
             {
@@ -1943,7 +1943,7 @@
                "required":true,
                "tags":[
                   "neugierig",
-                  "Besserwisser*in",
+                  "Besserwisser",
                   "verstreut",
                   "unberechenbar"
                ]
@@ -2047,7 +2047,7 @@
                      "name":"Stupid Answers",
                      "idx":9,
                      "tags":[
-                        "Idiot*in",
+                        "Idiot",
                         "offensichtlich"
                      ]
                   }
@@ -2066,7 +2066,7 @@
                "required":false,
                "tags":[
                   "lästig",
-                  "Stümper*in"
+                  "Stümper"
                ]
             },
             {
@@ -2075,7 +2075,7 @@
                "tags":[
                   "aggressiv",
                   "böse",
-                  "Intrigant*in"
+                  "Intrigant"
                ]
             },
             {
@@ -2083,7 +2083,7 @@
                "required":false,
                "tags":[
                   "gewieft",
-                  "Trickbetrüger*in"
+                  "Trickbetrüger"
                ]
             },
             {
@@ -2091,7 +2091,7 @@
                "required":false,
                "tags":[
                   "lazy",
-                  "raser*in"
+                  "raser"
                ]
             },
             {
@@ -2099,7 +2099,7 @@
                "required":false,
                "tags":[
                   "schockierend",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -2199,15 +2199,15 @@
                "tags":[
                   "kindlich",
                   "ausgenutzt",
-                  "schüler*in"
+                  "schüler"
                ]
             },
             {
-               "name":"\u201cBankirrtum zu deinen Gunsten. Du erhälst $200\u201d",
+               "name":"\u201cBankirrtum zu deinen Gunsten. Du erhältst $200\u201d",
                "short":"Bankirrtum +200",
                "required":false,
                "tags":[
-                  "investor*in",
+                  "investor",
                   "vom glück begünstigt",
                   "wohlhabend"
                ]
@@ -2219,7 +2219,7 @@
                "tags":[
                   "zuverlässig",
                   "überwältigt",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -2237,7 +2237,7 @@
                "required":true,
                "tags":[
                   "Unruhestifter",
-                  "Verbrecher*in"
+                  "Verbrecher"
                ]
             }
          ],
@@ -2286,7 +2286,7 @@
                   {
                      "role":2,
                      "question":"Wer hat das meiste Glück?",
-                     "name":"\u201cBankirrtum zu deinen Gunsten. Du erhälst $200\u201d",
+                     "name":"\u201cBankirrtum zu deinen Gunsten. Du erhältst $200\u201d",
                      "idx":2
                   },
                   {
@@ -2327,19 +2327,19 @@
                         {
                            "name":"zufälliger Bankirrtum",
                            "tags":[
-                              "Zuschauer*in",
+                              "Zuschauer",
                               "vom glück begünstigt"
                            ]
                         },
                         {
                            "name":"Korrupter Bankirrtum",
                            "tags":[
-                              "investor*in",
+                              "investor",
                               "wohlhabend"
                            ]
                         }
                      ],
-                     "name":"\u201cBankirrtum zu deinen Gunsten. Du erhälst $200\u201d",
+                     "name":"\u201cBankirrtum zu deinen Gunsten. Du erhältst $200\u201d",
                      "idx":6
                   }
                ]
@@ -2350,7 +2350,7 @@
                      "name":"die handgeschriebene Karte, die dein Bruder reingemogelt hat",
                      "idx":8,
                      "tags":[
-                        "Intrigant*in",
+                        "Intrigant",
                         "gewieft"
                      ]
                   }
@@ -2379,7 +2379,7 @@
                "short":"der Styler",
                "required":true,
                "tags":[
-                  "Designer*in",
+                  "Designer",
                   "stylish"
                ]
             },
@@ -2400,7 +2400,7 @@
                "tags":[
                   "kreativ",
                   "kultiviert",
-                  "pop-expert*in"
+                  "pop-expert"
                ]
             },
             {
@@ -2408,7 +2408,7 @@
                "short":"der Ernährungsexperte",
                "required":true,
                "tags":[
-                  "Küchenchef*in",
+                  "Küchenchef",
                   "kulinarisch"
                ]
             },
@@ -2514,7 +2514,7 @@
                "name":"Archie",
                "required":true,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "tollpatschig",
                   "Schwarm"
                ]
@@ -2533,7 +2533,7 @@
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Freund*in",
+                  "Freund",
                   "praktisch",
                   "kontaktfreudig"
                ]
@@ -2544,7 +2544,7 @@
                "tags":[
                   "spitzzüngig",
                   "Stylish",
-                  "Aristokrat*in",
+                  "Aristokrat",
                   "wohlhabend"
                ]
             },
@@ -2552,7 +2552,7 @@
                "name":"Josie",
                "required":false,
                "tags":[
-                  "Detektiv*in",
+                  "Detektiv",
                   "musikalisch",
                   "begabt"
                ]
@@ -2649,7 +2649,7 @@
                      "name":"Moose",
                      "idx":8,
                      "tags":[
-                        "Athlet*in",
+                        "Athlet",
                         "hoch"
                      ]
                   }
@@ -2677,7 +2677,7 @@
                "required":true,
                "tags":[
                   "unbekümmert",
-                  "Diplomat*in"
+                  "Diplomat"
                ]
             },
             {
@@ -2685,7 +2685,7 @@
                "required":false,
                "tags":[
                   "lehrreich",
-                  "Rebell*in"
+                  "Rebell"
                ]
             },
             {
@@ -2712,7 +2712,7 @@
                "tags":[
                   "kreativ",
                   "Freigeist",
-                  "radikale*r"
+                  "radikaler"
                ]
             }
          ],
@@ -2772,7 +2772,7 @@
                   },
                   {
                      "role":4,
-                     "question":"Wer könnte den Teufel in einem Wettbewerb seiner*ihrer Wahl schlagen?",
+                     "question":"Wer könnte den Teufel in einem Wettbewerb seiner Wahl schlagen?",
                      "name":"\u201cNot today, Satan!\u201d",
                      "idx":4
                   }
@@ -2840,7 +2840,7 @@
                "required":true,
                "tags":[
                   "clever",
-                  "Detektiv*in",
+                  "Detektiv",
                   "smart"
                ]
             },
@@ -2856,8 +2856,8 @@
                "name":"Fred",
                "required":true,
                "tags":[
-                  "Anführer*in",
-                  "Planer*in"
+                  "Anführer",
+                  "Planer"
                ]
             },
             {
@@ -2945,7 +2945,7 @@
                      "idx":8,
                      "tags":[
                         "alt",
-                        "Intrigant*in",
+                        "Intrigant",
                         "bescheiden"
                      ]
                   }
@@ -2983,8 +2983,8 @@
                "name":"George",
                "required":true,
                "tags":[
-                  "Lügner*in",
-                  "Intrigant*in"
+                  "Lügner",
+                  "Intrigant"
                ]
             },
             {
@@ -3008,7 +3008,7 @@
                "name":"J. Peterman",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "laut",
                   "stylish"
                ]
@@ -3177,7 +3177,7 @@
                "name":"Samson",
                "required":false,
                "tags":[
-                  "Freund*in",
+                  "Freund",
                   "zottelig",
                   "unterstützend"
                ]
@@ -3252,7 +3252,7 @@
                      "idx":3,
                      "tags":[
                         "tollpatschig",
-                        "magier*in"
+                        "magier"
                      ]
                   }
                ],
@@ -3270,7 +3270,7 @@
                "required":true,
                "tags":[
                   "neugierig",
-                  "partylöwe*in",
+                  "partylöwe",
                   "stylish"
                ]
             },
@@ -3438,7 +3438,7 @@
                "short":"Picard",
                "required":true,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "british",
                   "diplomatisch",
                   "ethisch",
@@ -3470,7 +3470,7 @@
                "short":"Troi",
                "required":true,
                "tags":[
-                  "Berater*in",
+                  "Berater",
                   "nett",
                   "empfindlich",
                   "nachdenklich"
@@ -3654,7 +3654,7 @@
                      "idx":17,
                      "tags":[
                         "künstlich",
-                        "Verbrecher*in",
+                        "Verbrecher",
                         "ahnungslos"
                      ]
                   }
@@ -3686,15 +3686,15 @@
                   "Diplomatic",
                   "british",
                   "roboter",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
                "name":"Yoda",
                "required":true,
                "tags":[
-                  "Misteriös",
-                  "Berater*in",
+                  "Mysteriös",
+                  "Berater",
                   "alien",
                   "winzig",
                   "weise"
@@ -3715,7 +3715,7 @@
                "tags":[
                   "alien",
                   "beast",
-                  "misteriös",
+                  "mysteriös",
                   "gewalttätig"
                ]
             },
@@ -3779,7 +3779,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Von wem wünscht du dir insgeheim, dass er*sie nicht sprechen könnte?",
+                     "question":"Von wem wünscht du dir insgeheim, dass er nicht sprechen könnte?",
                      "name":"BB-8",
                      "idx":4
                   }
@@ -3793,7 +3793,7 @@
                      "tags":[
                         "alien",
                         "lästig",
-                        "Diplomat*in",
+                        "Diplomat",
                         "möglicherweise beleidigend"
                      ]
                   }
@@ -3813,7 +3813,7 @@
                "tags":[
                   "Schwarm",
                   "Held",
-                  "Einzelgänger*in"
+                  "Einzelgänger"
                ]
             },
             {
@@ -3822,8 +3822,8 @@
                "tags":[
                   "Diplomatic",
                   "Held",
-                  "Anführer*in",
-                  "Rebell*in"
+                  "Anführer",
+                  "Rebell"
                ]
             },
             {
@@ -3839,7 +3839,7 @@
                "required":true,
                "tags":[
                   "Stylish",
-                  "Glücksspieler*in",
+                  "Glücksspieler",
                   "influencer"
                ]
             },
@@ -3848,7 +3848,7 @@
                "required":false,
                "tags":[
                   "British",
-                  "Berater*in",
+                  "Berater",
                   "magisch",
                   "weise"
                ]
@@ -3857,7 +3857,7 @@
                "name":"Finn",
                "required":false,
                "tags":[
-                  "Lügner*in",
+                  "Lügner",
                   "vom glück begünstigt",
                   "unberechenbar"
                ]
@@ -3942,7 +3942,7 @@
                         {
                            "name":"Weiser Obi-Wan",
                            "tags":[
-                              "lehrer*in",
+                              "lehrer",
                               "weise"
                            ]
                         },
@@ -4036,7 +4036,7 @@
                "required":true,
                "tags":[
                   "export",
-                  "misteriös"
+                  "mysteriös"
                ]
             }
          ],
@@ -4143,7 +4143,7 @@
                "required":true,
                "tags":[
                   "Scherzkeks",
-                  "Rebell*in",
+                  "Rebell",
                   "Sprüche klopfend"
                ]
             },
@@ -4152,23 +4152,23 @@
                "required":true,
                "tags":[
                   "freundlich",
-                  "Planer*in"
+                  "Planer"
                ]
             },
             {
                "name":"Bernd Stromberg",
                "required":true,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "selbstbewusst",
-                  "Schmierenschauspieler*in"
+                  "Schmierenschauspieler"
                ]
             },
             {
                "name":"Berthold \u201cErnie\u201d Heisterkamp",
                "required":true,
                "tags":[
-                  "Idiot*in",
+                  "Idiot",
                   "tollpatschig"
                ]
             },
@@ -4186,7 +4186,7 @@
                "tags":[
                   "ausgenutzt",
                   "ruhig",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             }
          ],
@@ -4246,7 +4246,7 @@
                   },
                   {
                      "role":1,
-                     "question":"Wer ist der*die bessere Künstler*in?",
+                     "question":"Wer ist der bessere Künstler?",
                      "name":"Tanja",
                      "idx":5
                   },
@@ -4264,7 +4264,7 @@
                      "name":"Sabbel",
                      "idx":3,
                      "tags":[
-                        "sünder*in",
+                        "sünder",
                         "klatsch"
                      ]
                   }
@@ -4284,7 +4284,7 @@
                "tags":[
                   "tollpatschig",
                   "ungeschickt",
-                  "Idiot*in"
+                  "Idiot"
                ]
             },
             {
@@ -4292,8 +4292,8 @@
                "required":true,
                "tags":[
                   "elterlich",
-                  "Planer*in",
-                  "Bedenkenträger*in"
+                  "Planer",
+                  "Bedenkenträger"
                ]
             },
             {
@@ -4302,8 +4302,8 @@
                "tags":[
                   "Party Typ",
                   "Adrenalinjunkie",
-                  "Intrigant*in",
-                  "Angeber*in",
+                  "Intrigant",
+                  "Angeber",
                   "Unruhestifter"
                ]
             },
@@ -4311,7 +4311,7 @@
                "name":"Lisa",
                "required":true,
                "tags":[
-                  "Künstler*in",
+                  "Künstler",
                   "ethisch",
                   "smart"
                ]
@@ -4446,7 +4446,7 @@
                "name":"Tibby",
                "required":true,
                "tags":[
-                  "Urheber*in",
+                  "Urheber",
                   "rebellisch",
                   "sarkastisch"
                ]
@@ -4456,7 +4456,7 @@
                "required":true,
                "tags":[
                   "griechisch",
-                  "Künstler*in",
+                  "Künstler",
                   "schüchtern"
                ]
             },
@@ -4473,7 +4473,7 @@
                "name":"Bridget",
                "required":true,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "athletisch",
                   "impulsiv"
                ]
@@ -4546,7 +4546,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Welcher Spieler wird in einer Biographie seines Lebens eher von Blake Lively gespielt??",
+                     "question":"Welcher Spieler wird in einer Biografie seines Lebens eher von Blake Lively gespielt?",
                      "name":"Bridget",
                      "idx":3
                   }
@@ -4599,11 +4599,11 @@
             {
                "roles":[
                   {
-                     "name":"Autorin des Originalromans Ann Brashares",
+                     "name":"Autor des Originalromans Ann Brashares",
                      "idx":8,
                      "tags":[
-                        "Autor*in",
-                        "Intellektuelle*r",
+                        "Autor",
+                        "Intellektueller",
                         "smart"
                      ]
                   }
@@ -4621,7 +4621,7 @@
                "name":"Dorothy",
                "required":true,
                "tags":[
-                  "Entdecker*in",
+                  "Entdecker",
                   "Held",
                   "verloren",
                   "einfallsreich"
@@ -4683,7 +4683,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Was ist ein Wort, das man nie richtig buchstabieren kann??",
+                     "question":"Was ist ein Wort, das man nie richtig buchstabieren kann?",
                      "name":"Vogelscheuche",
                      "idx":0
                   }
@@ -4759,7 +4759,7 @@
                         {
                            "name":"hirnlose Vogelscheuche",
                            "tags":[
-                              "Stümper*in",
+                              "Stümper",
                               "dumm"
                            ]
                         },
@@ -4805,7 +4805,7 @@
                "tags":[
                   "überwältigt",
                   "Faulpelz",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -4815,7 +4815,7 @@
                "tags":[
                   "charmant",
                   "diva",
-                  "verkäufer*in"
+                  "verkäufer"
                ]
             },
             {
@@ -4823,7 +4823,7 @@
                "short":"Pizzabäcker",
                "required":false,
                "tags":[
-                  "Küchenchef*in",
+                  "Küchenchef",
                   "vom glück begünstigt"
                ]
             },
@@ -4833,7 +4833,7 @@
                "required":false,
                "tags":[
                   "destructiv",
-                  "kampfkünstler*in",
+                  "kampfkünstler",
                   "spy"
                ]
             },
@@ -4842,7 +4842,7 @@
                "short":"Ex-Quarterback",
                "required":false,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "unbeachtet"
                ]
             },
@@ -4879,13 +4879,13 @@
                   },
                   {
                      "role":2,
-                     "question":"Ein Großstadt-Reporter will dich ins Visier nehmen.  Für wen gibt er sich aus, um dein Vertrauen zu gewinnen??",
+                     "question":"Ein Großstadt-Reporter will dich ins Visier nehmen. Für wen gibt er sich aus, um dein Vertrauen zu gewinnen?",
                      "name":"Pizzabäcker der reich wird",
                      "idx":4
                   },
                   {
                      "role":3,
-                     "question":"Du musst jemanden bekämpfen, wobei du nur deine Füße einsetzen kannst.  Welche Schuhe trägst du??",
+                     "question":"Du musst jemanden bekämpfen, wobei du nur deine Füße einsetzen kannst. Welche Schuhe trägst du?",
                      "name":"geheimer Antiterrorismus-Agent",
                      "idx":5
                   },
@@ -4897,7 +4897,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Welches Schnellrestaurant sollte Adam Sandler in seinem nächsten großen Film fördern??",
+                     "question":"Welches Schnellrestaurant sollte Adam Sandler in seinem nächsten großen Film bewerben?",
                      "name":"gutgemeinte Ausgeburt Satans",
                      "idx":7
                   }
@@ -4938,7 +4938,7 @@
                "name":"Oscar",
                "required":true,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "superstar",
                   "begabt"
                ]
@@ -4948,7 +4948,7 @@
                "short":"Nobel Preis",
                "required":true,
                "tags":[
-                  "Diplomat*in",
+                  "Diplomat",
                   "ethisch"
                ]
             },
@@ -4956,15 +4956,15 @@
                "name":"Olympische Goldmedallie",
                "required":true,
                "tags":[
-                  "Athlet*in",
-                  "Gesundheitsfanatiker*in"
+                  "Athlet",
+                  "Gesundheitsfanatiker"
                ]
             },
             {
                "name":"Grammy",
                "required":false,
                "tags":[
-                  "Musiker*in",
+                  "Musiker",
                   "unbeachtet"
                ]
             },
@@ -4973,7 +4973,7 @@
                "required":false,
                "tags":[
                   "lehrreich",
-                  "reporter*in",
+                  "reporter",
                   "smart"
                ]
             },
@@ -4982,7 +4982,7 @@
                "required":true,
                "tags":[
                   "influencer",
-                  "radikale*r"
+                  "radikaler"
                ]
             }
          ],
@@ -5014,7 +5014,7 @@
                   },
                   {
                      "role":0,
-                     "question":"Wie hieß der Film, der dir die Oscar-Nominierung einbrachte??",
+                     "question":"Wie hieß der Film, der dir die Oscar-Nominierung einbrachte?",
                      "name":"Oscar",
                      "idx":9
                   },
@@ -5073,7 +5073,7 @@
                      "idx":2,
                      "tags":[
                         "qualitäts-",
-                        "forscher*in",
+                        "forscher",
                         "zufriedenstellend"
                      ]
                   }
@@ -5125,7 +5125,7 @@
                "name":"<i>Showgirls<\/i>",
                "required":false,
                "tags":[
-                  "Exhibitionist*in",
+                  "Exhibitionist",
                   "nackt",
                   "begabt"
                ]
@@ -5134,7 +5134,7 @@
                "name":"irgendwas mit Nicolas Cage",
                "required":false,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "extra",
                   "Sonderling"
                ]
@@ -5381,7 +5381,7 @@
                      "tags":[
                         "nett",
                         "Dummkopf",
-                        "Schmierenschauspieler*in",
+                        "Schmierenschauspieler",
                         "Held"
                      ]
                   }
@@ -5399,7 +5399,7 @@
                "name":"\u201cCrazy in Love\u201d",
                "required":false,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "unbekümmert"
                ]
             },
@@ -5408,7 +5408,7 @@
                "required":false,
                "tags":[
                   "unabhängig",
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "stark"
                ]
             },
@@ -5425,7 +5425,7 @@
                "name":"\u201cRun the World\u201d",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "Kraftwerk"
                ]
             },
@@ -5441,7 +5441,7 @@
                "name":"\u201cDrunk in Love\u201d",
                "required":false,
                "tags":[
-                  "Idiot*in",
+                  "Idiot",
                   "melodramatisch"
                ]
             }
@@ -5467,7 +5467,7 @@
                "prompts":[
                   {
                      "role":3,
-                     "question":"Stell dir vor du hälst etwas fest und lässt es fallen, als ob es heiß wäre",
+                     "question":"Stell dir vor du hältst etwas fest und lässt es fallen, als ob es heiß wäre",
                      "name":"\u201cRun the World\u201d",
                      "idx":8
                   }
@@ -5484,7 +5484,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Wer wäre der*die bessere Sugardaddy*mama?",
+                     "question":"Wer wäre der bessere Sugar Daddy?",
                      "name":"\u201cBills, Bills, Bills\u201d",
                      "idx":2
                   },
@@ -5539,7 +5539,7 @@
                "name":"Angelina Jolie",
                "required":true,
                "tags":[
-                  "Berater*in",
+                  "Berater",
                   "diva",
                   "elterlich"
                ]
@@ -5549,7 +5549,7 @@
                "required":true,
                "tags":[
                   "himmlisch",
-                  "Gesundheitsfanatiker*in",
+                  "Gesundheitsfanatiker",
                   "hippie"
                ]
             },
@@ -5559,7 +5559,7 @@
                "tags":[
                   "niedlich",
                   "Modeikone",
-                  "Freund*in"
+                  "Freund"
                ]
             },
             {
@@ -5567,14 +5567,14 @@
                "required":false,
                "tags":[
                   "british",
-                  "wissenschaftler*in"
+                  "wissenschaftler"
                ]
             },
             {
                "name":"Christina Applegate",
                "required":false,
                "tags":[
-                  "Partygänger*in",
+                  "Partygänger",
                   "Sprüche klopfend"
                ]
             },
@@ -5708,7 +5708,7 @@
                "required":true,
                "tags":[
                   "verzweifelt",
-                  "Einzelgänger*in"
+                  "Einzelgänger"
                ]
             },
             {
@@ -5717,7 +5717,7 @@
                "required":true,
                "tags":[
                   "ethisch",
-                  "Kämpfer*in"
+                  "Kämpfer"
                ]
             },
             {
@@ -5734,9 +5734,9 @@
                "short":"zukünftiges Ich töten",
                "required":true,
                "tags":[
-                  "Flüchtige*r",
+                  "Flüchtiger",
                   "unzeitgemäss",
-                  "Abtrünnige*r"
+                  "Abtrünniger"
                ]
             },
             {
@@ -5755,7 +5755,7 @@
                "tags":[
                   "Leichnam",
                   "Geist",
-                  "misteriös",
+                  "mysteriös",
                   "jenseitig"
                ]
             }
@@ -5782,7 +5782,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Welche einzigartigen Fähigkeiten würdest du für eine Asteroiden zerstörende Weltraummission mitbringen??",
+                     "question":"Welche einzigartigen Fähigkeiten würdest du für eine asteroidenzerstörende Weltraummission mitbringen?",
                      "name":"Ich sprenge einen Asteroiden",
                      "idx":4
                   }
@@ -5829,7 +5829,7 @@
                      "idx":6,
                      "tags":[
                         "rätsel",
-                        "misteriös",
+                        "mysteriös",
                         "unwissend"
                      ]
                   }
@@ -5866,7 +5866,7 @@
                "short":"alte Katze",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "alt",
                   "weise"
                ]
@@ -5885,7 +5885,7 @@
                "short":"schläfrige Katze",
                "required":false,
                "tags":[
-                  "Gammler*in",
+                  "Gammler",
                   "schläfrig"
                ]
             },
@@ -5983,7 +5983,7 @@
                      "idx":9,
                      "tags":[
                         "animal",
-                        "Begleiter*in",
+                        "Begleiter",
                         "gewöhnlich"
                      ]
                   }
@@ -6002,7 +6002,7 @@
                "short":"Someday",
                "required":false,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "hoffnungsvoll"
                ]
             },
@@ -6011,7 +6011,7 @@
                "short":"Fame",
                "required":false,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "ehrgeizig",
                   "star"
                ]
@@ -6031,7 +6031,7 @@
                "required":false,
                "tags":[
                   "ungezogen",
-                  "sünder*in"
+                  "sünder"
                ]
             },
             {
@@ -6156,7 +6156,7 @@
                "tags":[
                   "echt",
                   "hippie",
-                  "realist*in"
+                  "realist"
                ]
             },
             {
@@ -6165,7 +6165,7 @@
                "tags":[
                   "schläfrig",
                   "lazy",
-                  "mittagsschlafende*r"
+                  "mittagsschlafender"
                ]
             },
             {
@@ -6256,7 +6256,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Wer würde eher damit anfangen, einer Band hinterher zu fahren und dann nie wieder gesehen zu werden??",
+                     "question":"Wer würde eher damit anfangen, einer Band hinterherzufahren und dann nie wieder gesehen zu werden?",
                      "name":"Zitronen-Ingwer Jam",
                      "idx":5
                   }
@@ -6287,14 +6287,14 @@
                "required":false,
                "tags":[
                   "neugierig",
-                  "ermittler*in"
+                  "ermittler"
                ]
             },
             {
                "name":"<i>der Grüffelo<\/i>",
                "required":false,
                "tags":[
-                  "Trickbetrüger*in",
+                  "Trickbetrüger",
                   "überraschend"
                ]
             },
@@ -6419,7 +6419,7 @@
                "name":"\u201cFight the Power\u201d",
                "required":false,
                "tags":[
-                  "Kämpfer*in",
+                  "Kämpfer",
                   "rebellisch"
                ]
             },
@@ -6427,7 +6427,7 @@
                "name":"\u201cIt Was a Good Day\u201d",
                "required":false,
                "tags":[
-                  "optimist*in",
+                  "optimist",
                   "angenehm"
                ]
             },
@@ -6444,7 +6444,7 @@
                "name":"\u201cLet\u2019s Talk About Sex\u201d",
                "required":true,
                "tags":[
-                  "Pädagog*in",
+                  "Pädagog",
                   "flirt",
                   "sinnlich"
                ]
@@ -6544,9 +6544,9 @@
                "required":false,
                "tags":[
                   "blutrünstig",
-                  "Charmeur*in",
-                  "misteriös",
-                  "Intrigant*in"
+                  "Charmeur",
+                  "mysteriös",
+                  "Intrigant"
                ]
             },
             {
@@ -6583,7 +6583,7 @@
                "tags":[
                   "fischig",
                   "salzig",
-                  "schwimmer*in"
+                  "schwimmer"
                ]
             },
             {
@@ -6645,7 +6645,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Von wem wünscht du dir, dass er*sie verschwindet?",
+                     "question":"Von wem wünscht du dir, dass er verschwindet?",
                      "name":"Der Unsichtbare",
                      "idx":5
                   }
@@ -6679,7 +6679,7 @@
                   "ethisch",
                   "Held",
                   "spirituell",
-                  "Krieger*in"
+                  "Krieger"
                ]
             },
             {
@@ -6689,7 +6689,7 @@
                   "aggressiv",
                   "badass",
                   "Held",
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "gewalttätig"
                ]
             },
@@ -6710,7 +6710,7 @@
                "tags":[
                   "Stylish",
                   "cool",
-                  "Detektiv*in",
+                  "Detektiv",
                   "Held"
                ]
             },
@@ -6720,7 +6720,7 @@
                "tags":[
                   "ethisch",
                   "fleissig",
-                  "ermittler*in",
+                  "ermittler",
                   "einfallsreich",
                   "smart"
                ]
@@ -6731,7 +6731,7 @@
                "tags":[
                   "Held",
                   "stylish",
-                  "säbelrassler*in",
+                  "säbelrassler",
                   "unberechenbar"
                ]
             }
@@ -6837,7 +6837,7 @@
                "required":false,
                "tags":[
                   "extra",
-                  "partylöwe*in",
+                  "partylöwe",
                   "stylish",
                   "wohlhabend"
                ]
@@ -6847,10 +6847,10 @@
                "short":"Hans Gruber",
                "required":false,
                "tags":[
-                  "Intrigant*in",
-                  "Verbrecher*in",
-                  "Planer*in",
-                  "Dieb*in",
+                  "Intrigant",
+                  "Verbrecher",
+                  "Planer",
+                  "Dieb",
                   "Sprüche klopfend"
                ]
             },
@@ -6870,9 +6870,9 @@
                "required":false,
                "tags":[
                   "stark",
-                  "Rebell*in",
+                  "Rebell",
                   "rachsüchtig",
-                  "Krieger*in"
+                  "Krieger"
                ]
             }
          ],
@@ -6914,7 +6914,7 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wessen Kind wird sich wahrscheinlich in einer entscheidenden Schlacht gegen ihn*sie wenden?",
+                     "question":"Wessen Kind wird sich wahrscheinlich in einer entscheidenden Schlacht gegen ihn wenden?",
                      "name":"Darth Vader (Star Wars)",
                      "idx":2
                   },
@@ -6932,7 +6932,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Wer ist wahrscheinlich der*die bessere Schachspieler*in?",
+                     "question":"Wer ist wahrscheinlich der bessere Schachspieler?",
                      "name":"Hans Gruber (Stirb langsam)",
                      "idx":8
                   }
@@ -6964,7 +6964,7 @@
                         {
                            "name":"Genie Gruber",
                            "tags":[
-                              "Planer*in"
+                              "Planer"
                            ]
                         },
                         {
@@ -6986,8 +6986,8 @@
                      "name":"der Jäger aus <i>Bambi<\/i>",
                      "idx":9,
                      "tags":[
-                        "jäger*in",
-                        "misteriös"
+                        "jäger",
+                        "mysteriös"
                      ]
                   }
                ],
@@ -7014,7 +7014,7 @@
                "tags":[
                   "drama lover",
                   "melodramatisch",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
@@ -7031,7 +7031,7 @@
                "name":"<i>iZombie<\/i>",
                "required":false,
                "tags":[
-                  "Detektiv*in",
+                  "Detektiv",
                   "unheimlich"
                ]
             },
@@ -7102,7 +7102,7 @@
                   },
                   {
                      "role":2,
-                     "question":"Wer würde einen 100m-Lauf gewinnen?",
+                     "question":"Wer würde einen 100-Meter-Lauf gewinnen?",
                      "name":"<i>The Flash<\/i>",
                      "idx":2
                   },
@@ -7153,7 +7153,7 @@
                "name":"<i>Raven blickt durch<\/i>",
                "required":true,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "doof",
                   "magisch"
                ]
@@ -7162,7 +7162,7 @@
                "name":"<i>Lizzy McGuire<\/i>",
                "required":false,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "spitzzüngig"
                ]
             },
@@ -7284,7 +7284,7 @@
                "name":"Schneewittchen",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "nett"
                ]
             },
@@ -7301,7 +7301,7 @@
                "name":"Arielle",
                "required":false,
                "tags":[
-                  "Sammler*in",
+                  "Sammler",
                   "neugierig",
                   "ruhig"
                ]
@@ -7318,7 +7318,7 @@
                "name":"Jasmin",
                "required":false,
                "tags":[
-                  "Abenteurer*in",
+                  "Abenteurer",
                   "selbstbewusst",
                   "unabhängig"
                ]
@@ -7394,12 +7394,12 @@
             {
                "roles":[
                   {
-                     "name":"diese Prinzessin aus <i>Atlantis: Das Geheimnis der verorenen Stadt<\/i>",
+                     "name":"diese Prinzessin aus <i>Atlantis: Das Geheimnis der verlorenen Stadt<\/i>",
                      "idx":6,
                      "tags":[
                         "zeitlos",
                         "aquatisch",
-                        "mystery"
+                        "mysteriös"
                      ]
                   }
                ],
@@ -7434,7 +7434,7 @@
                "required":false,
                "tags":[
                   "altmodisch",
-                  "patriot*in"
+                  "patriot"
                ]
             },
             {
@@ -7450,7 +7450,7 @@
                "name":"Emily Erdbeer",
                "required":false,
                "tags":[
-                  "Küchenchef*in",
+                  "Küchenchef",
                   "niedlich",
                   "süss"
                ]
@@ -7551,7 +7551,7 @@
                "required":true,
                "tags":[
                   "guide",
-                  "misteriös",
+                  "mysteriös",
                   "unheimlich"
                ]
             },
@@ -7642,7 +7642,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Wer wäre der beste darin so zu tun, als ob er*sie ein Instrument spielen kann",
+                     "question":"Wer wäre der beste darin so zu tun, als ob er ein Instrument spielen kann",
                      "name":"Keyboard Katze",
                      "idx":5
                   }
@@ -7668,9 +7668,9 @@
                "short":"DeLorean",
                "required":false,
                "tags":[
-                  "Abenteurer*in",
+                  "Abenteurer",
                   "unzeitgemäss",
-                  "radikale*r"
+                  "radikaler"
                ]
             },
             {
@@ -7678,7 +7678,7 @@
                "required":false,
                "tags":[
                   "kindlich",
-                  "Pädagog*in",
+                  "Pädagog",
                   "magisch",
                   "smart"
                ]
@@ -7790,7 +7790,7 @@
                         {
                            "name":"friedfertiger Ecto-1",
                            "tags":[
-                              "friedensstifter*in",
+                              "friedensstifter",
                               "spirituell"
                            ]
                         },
@@ -7851,7 +7851,7 @@
                "tags":[
                   "magisch",
                   "Muggel",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
@@ -7859,14 +7859,14 @@
                "required":false,
                "tags":[
                   "herausfordernd",
-                  "Besserwisser*in"
+                  "Besserwisser"
                ]
             },
             {
                "name":"\u201cWie schmecken eigentlich Pokémon?\u201d",
                "required":false,
                "tags":[
-                  "Küchenchef*in",
+                  "Küchenchef",
                   "neugierig",
                   "hungrig",
                   "Spassbremse"
@@ -7961,7 +7961,7 @@
                      "name":"\u201cMein Abendessen mit Boris Becker\u201d",
                      "idx":7,
                      "tags":[
-                        "Athlet*in",
+                        "Athlet",
                         "sportlich"
                      ]
                   }
@@ -7979,7 +7979,7 @@
                "name":"Mr. Fantastic",
                "required":true,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "Held",
                   "smart"
                ]
@@ -7999,7 +7999,7 @@
                "tags":[
                   "Party Typ",
                   "Held",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -8017,7 +8017,7 @@
                "required":false,
                "tags":[
                   "böse",
-                  "Intrigant*in",
+                  "Intrigant",
                   "smart"
                ]
             },
@@ -8108,7 +8108,7 @@
                         {
                            "name":"Michael B Jordan menschliche Fackel",
                            "tags":[
-                              "Angeber*in"
+                              "Angeber"
                            ]
                         }
                      ],
@@ -8151,7 +8151,7 @@
                "name":"The Burger King",
                "required":true,
                "tags":[
-                  "monarch*in",
+                  "monarch",
                   "ruhig",
                   "unheimlich"
                ]
@@ -8161,7 +8161,7 @@
                "required":true,
                "tags":[
                   "kindlich",
-                  "Freund*in",
+                  "Freund",
                   "angenehm"
                ]
             },
@@ -8172,7 +8172,7 @@
                   "mit Klasse",
                   "wohltuend",
                   "ländlich",
-                  "partylöwe*in"
+                  "partylöwe"
                ]
             },
             {
@@ -8182,7 +8182,7 @@
                   "energisch",
                   "fischig",
                   "magisch",
-                  "seefahrer*in"
+                  "seefahrer"
                ]
             },
             {
@@ -8245,7 +8245,7 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer würde endlich den Hamburglar fangen??",
+                     "question":"Wer würde endlich den Hamburglar fangen?",
                      "name":"Ronald McDonald",
                      "idx":0
                   },
@@ -8268,7 +8268,7 @@
                            "name":"original Colonel",
                            "tags":[
                               "volkstümlich",
-                              "partylöwe*in"
+                              "partylöwe"
                            ]
                         },
                         {
@@ -8349,7 +8349,7 @@
                "name":"Kai Pflaume",
                "required":false,
                "tags":[
-                  "Diplomat*in",
+                  "Diplomat",
                   "Schwarm",
                   "cringy"
                ]
@@ -8417,7 +8417,7 @@
                "prompts":[
                   {
                      "role":4,
-                     "question":"Wer ist NICHT der*die Schwächste und fliegt?",
+                     "question":"Wer ist NICHT der Schwächste und fliegt?",
                      "name":"Sonja Zietlow",
                      "idx":7
                   },
@@ -8454,7 +8454,7 @@
                "required":true,
                "tags":[
                   "unzerstörbar",
-                  "Anführer*in"
+                  "Anführer"
                ]
             },
             {
@@ -8470,7 +8470,7 @@
                "required":false,
                "tags":[
                   "Verloren",
-                  "Misteriös",
+                  "Mysteriös",
                   "unheimlich"
                ]
             },
@@ -8479,7 +8479,7 @@
                "required":false,
                "tags":[
                   "böse",
-                  "Intrigant*in"
+                  "Intrigant"
                ]
             },
             {
@@ -8515,7 +8515,7 @@
                   },
                   {
                      "role":3,
-                     "question":"Was würdest du jemandem ins Ohr flüstern um ihn*sie verrückt zu machen?",
+                     "question":"Was würdest du jemandem ins Ohr flüstern um ihn verrückt zu machen?",
                      "name":"Cthulhu",
                      "idx":6
                   },
@@ -8549,7 +8549,7 @@
                   },
                   {
                      "role":0,
-                     "question":"Wer würde ein Battle royal gewinnen?",
+                     "question":"Wer würde ein Battle Royale gewinnen?",
                      "name":"Godzilla",
                      "idx":2
                   }
@@ -8584,7 +8584,7 @@
                      "name":"einfach nur ein wirklich großer Typ",
                      "idx":1,
                      "tags":[
-                        "Zuschauer*in",
+                        "Zuschauer",
                         "hoch",
                         "bescheiden"
                      ]
@@ -8637,8 +8637,8 @@
                "name":"Rosinencookies",
                "required":false,
                "tags":[
-                  "Älteste*r",
-                  "Gesundheitsfanatiker*in"
+                  "Ältester",
+                  "Gesundheitsfanatiker"
                ]
             },
             {
@@ -8647,7 +8647,7 @@
                "tags":[
                   "ethisch",
                   "hippie",
-                  "naturalist*in"
+                  "naturalist"
                ]
             }
          ],
@@ -8703,9 +8703,9 @@
                      "name":"Tante Debbies \u201cgenau so gute\u201d nachgemachte Versionen",
                      "idx":1,
                      "tags":[
-                        "Stubenhocker*in",
+                        "Stubenhocker",
                         "poser",
-                        "Intrigant*in",
+                        "Intrigant",
                         "sparsam"
                      ]
                   }
@@ -8714,8 +8714,8 @@
             }
          ],
          "id":57353,
-         "category":"Pfadfinderinnen Kekse",
-         "prompt":"Welcher Pfadfinderinnenkeks seid ihr??"
+         "category":"Pfadfinderkekse",
+         "prompt":"Welcher Pfadfinderkeks seid ihr?"
       },
       {
          "roles":[
@@ -8724,7 +8724,7 @@
                "required":false,
                "tags":[
                   "nett",
-                  "gastgeber*in",
+                  "gastgeber",
                   "begabt"
                ]
             },
@@ -8732,8 +8732,8 @@
                "name":"\u201cerfordert viel Arbeit\u201d",
                "required":true,
                "tags":[
-                  "Athlet*in",
-                  "Gesundheitsfanatiker*in"
+                  "Athlet",
+                  "Gesundheitsfanatiker"
                ]
             },
             {
@@ -8847,7 +8847,7 @@
                      "tags":[
                         "agil",
                         "energisch",
-                        "Unternehmer*in",
+                        "Unternehmer",
                         "verkaufspersonal"
                      ]
                   }
@@ -8897,8 +8897,8 @@
                "required":false,
                "tags":[
                   "alien",
-                  "jäger*in",
-                  "Planer*in",
+                  "jäger",
+                  "Planer",
                   "gewalttätig"
                ]
             },
@@ -8907,7 +8907,7 @@
                "required":false,
                "tags":[
                   "unheimlich",
-                  "Intrigant*in",
+                  "Intrigant",
                   "winzig",
                   "Unruhestifter"
                ]
@@ -8917,7 +8917,7 @@
                "short":"erstes Opfer",
                "required":true,
                "tags":[
-                  "Zuschauer*in",
+                  "Zuschauer",
                   "ungeschickt",
                   "unschuldig"
                ]
@@ -8945,7 +8945,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Was für ein Fehler würde wahrscheinlich dazu führen, dass du in einem Horrofilm umgebracht wirst?",
+                     "question":"Was für ein Fehler würde wahrscheinlich dazu führen, dass du in einem Horrorfilm umgebracht wirst?",
                      "name":"das erste Opfer",
                      "idx":5
                   }
@@ -8996,14 +8996,14 @@
                            "name":"Sackleinen Jason",
                            "tags":[
                               "ländlich",
-                              "Farmer*in"
+                              "Farmer"
                            ]
                         },
                         {
                            "name":"Torwartmasken Jason",
                            "tags":[
-                              "Athlet*in",
-                              "Verteidiger*in",
+                              "Athlet",
+                              "Verteidiger",
                               "hockey"
                            ]
                         }
@@ -9030,7 +9030,7 @@
          ],
          "id":56226,
          "category":"Figuren in Horrorfilmen",
-         "prompt":"Welche Figur aus Horrofilmen passt jeweils am besten zu euch?"
+         "prompt":"Welche Figur aus Horrorfilmen passt jeweils am besten zu euch?"
       },
       {
          "roles":[
@@ -9039,7 +9039,7 @@
                "short":"Vorne",
                "required":true,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "vom glück begünstigt"
                ]
             },
@@ -9050,7 +9050,7 @@
                "tags":[
                   "zusammenhangslos",
                   "unbeachtet",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
@@ -9060,7 +9060,7 @@
                "tags":[
                   "überwältigt",
                   "ausgenutzt",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -9077,9 +9077,9 @@
                "short":"Gewissenhafter Verweigerer",
                "required":false,
                "tags":[
-                  "Diplomat*in",
+                  "Diplomat",
                   "ethisch",
-                  "demonstrant*in"
+                  "demonstrant"
                ]
             },
             {
@@ -9089,7 +9089,7 @@
                "tags":[
                   "unbekümmert",
                   "abwesend",
-                  "Zuschauer*in"
+                  "Zuschauer"
                ]
             }
          ],
@@ -9144,7 +9144,7 @@
                   },
                   {
                      "role":0,
-                     "question":"Welche*r Spieler*in hat die beste Gesangsstimme?",
+                     "question":"Welcher Spieler hat die beste Gesangsstimme?",
                      "name":"Das vorderste Glied des Tausendfüßlers",
                      "idx":5
                   },
@@ -9181,11 +9181,11 @@
                "short":"\u201cBorn to Run\u201d",
                "required":false,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "fleissig",
-                  "Schwindler*in",
+                  "Schwindler",
                   "motiviert",
-                  "läufer*in"
+                  "läufer"
                ]
             },
             {
@@ -9194,7 +9194,7 @@
                "required":false,
                "tags":[
                   "flirt",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
@@ -9202,7 +9202,7 @@
                "short":"\u201cYou can leave your Hat on\u201d",
                "required":false,
                "tags":[
-                  "Begleiter*in",
+                  "Begleiter",
                   "privat"
                ]
             },
@@ -9211,7 +9211,7 @@
                "short":"\u201cWannabe\u201d",
                "required":false,
                "tags":[
-                  "Freund*in",
+                  "Freund",
                   "platonisch"
                ]
             },
@@ -9221,7 +9221,7 @@
                "required":false,
                "tags":[
                   "gestärkt",
-                  "Rebell*in"
+                  "Rebell"
                ]
             },
             {
@@ -9342,8 +9342,8 @@
                "required":true,
                "tags":[
                   "akrobatisch",
-                  "Auserwählte*r",
-                  "Hacker*in"
+                  "Auserwählter",
+                  "Hacker"
                ]
             },
             {
@@ -9351,9 +9351,9 @@
                "required":false,
                "tags":[
                   "Held",
-                  "Einzelgänger*in",
-                  "Rebell*in",
-                  "Abtrünnige*r"
+                  "Einzelgänger",
+                  "Rebell",
+                  "Abtrünniger"
                ]
             },
             {
@@ -9372,8 +9372,8 @@
                "tags":[
                   "zuverlässig",
                   "Vollstrecker",
-                  "Planer*in",
-                  "problemlöser*in"
+                  "Planer",
+                  "problemlöser"
                ]
             },
             {
@@ -9389,7 +9389,7 @@
                "required":true,
                "tags":[
                   "Schwarm",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             }
          ],
@@ -9455,7 +9455,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Beim Wem kannst du dir vorstellen, dass er*sie ein eigenes Weingut bewirtschaftet?",
+                     "question":"Beim Wem kannst du dir vorstellen, dass er ein eigenes Weingut bewirtschaftet?",
                      "name":"<i>Dem Himmel so nah<\/i>",
                      "idx":7
                   }
@@ -9522,7 +9522,7 @@
                "name":"Mike Wheeler",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "mutig"
                ]
             },
@@ -9532,7 +9532,7 @@
                "tags":[
                   "unbeachtet",
                   "Sprüche klopfend",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             }
          ],
@@ -9627,8 +9627,8 @@
                "name":"<i>17 und auf der Flucht<\/i>",
                "required":true,
                "tags":[
-                  "Jugendliche*r",
-                  "Abtrünnige*r"
+                  "Jugendlicher",
+                  "Abtrünniger"
                ]
             },
             {
@@ -9637,8 +9637,8 @@
                "tags":[
                   "ängstlich",
                   "Prahlhans",
-                  "Egoist*in",
-                  "Lügner*in"
+                  "Egoist",
+                  "Lügner"
                ]
             },
             {
@@ -9646,7 +9646,7 @@
                "required":false,
                "tags":[
                   "todesmutig",
-                  "Romantiker*in"
+                  "Romantiker"
                ]
             },
             {
@@ -9654,11 +9654,11 @@
                "required":false,
                "tags":[
                   "Teuflisch",
-                  "Intrigant*in"
+                  "Intrigant"
                ]
             },
             {
-               "name":"<i>Verrückt anch Weihnachten<\/i>",
+               "name":"<i>Verrückt nach Weihnachten<\/i>",
                "required":true,
                "tags":[
                   "magisch",
@@ -9712,7 +9712,7 @@
                   {
                      "role":5,
                      "question":"Wer hat die meiste Feiertagskleidung in seinem Kleiderschrank?",
-                     "name":"<i>Verrückt anch Weihnachten<\/i>",
+                     "name":"<i>Verrückt nach Weihnachten<\/i>",
                      "idx":5
                   }
                ]
@@ -9723,9 +9723,9 @@
                      "name":"<i>Psycho Oma<\/i>",
                      "idx":6,
                      "tags":[
-                        "Älteste*r",
+                        "Ältester",
                         "Oma",
-                        "Killer*in",
+                        "Killer",
                         "psycho"
                      ]
                   }
@@ -9760,7 +9760,7 @@
                "required":false,
                "tags":[
                   "kühn",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -9768,7 +9768,7 @@
                "required":false,
                "tags":[
                   "mystisch",
-                  "prophet*in"
+                  "prophet"
                ]
             },
             {
@@ -9863,7 +9863,7 @@
                      "idx":8,
                      "tags":[
                         "simpel",
-                        "reisende*r"
+                        "reisender"
                      ]
                   }
                ],
@@ -9872,7 +9872,7 @@
          ],
          "id":56147,
          "category":"Lisa Frank Designs",
-         "prompt":"Welches Lisa Frank design ist jeder von euch?"
+         "prompt":"Welches Lisa-Frank-Design ist jeder von euch?"
       },
       {
          "roles":[
@@ -9881,7 +9881,7 @@
                "short":"<i>Eine Klasse für sich<\/i>",
                "required":false,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "sportlich"
                ]
             },
@@ -9890,7 +9890,7 @@
                "short":"<i>Dick Tracy<\/i>",
                "required":false,
                "tags":[
-                  "misteriös",
+                  "mysteriös",
                   "singvogel"
                ]
             },
@@ -9899,7 +9899,7 @@
                "short":"<i>Evita<\/i>",
                "required":false,
                "tags":[
-                  "Anführer*in",
+                  "Anführer",
                   "mutig",
                   "wuchtig"
                ]
@@ -10047,7 +10047,7 @@
                "tags":[
                   "Feigling",
                   "unheimlich",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -10063,14 +10063,14 @@
                "required":false,
                "tags":[
                   "zuverlässig",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
                "name":"\u201cDon\u2019t get mad. Get everything.\u201d",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "rachsüchtig"
                ]
             },
@@ -10081,7 +10081,7 @@
                   "blutig",
                   "british",
                   "Witzbold",
-                  "Romantiker*in",
+                  "Romantiker",
                   "überraschend"
                ]
             }
@@ -10168,7 +10168,7 @@
                            "name":"ängstlich",
                            "tags":[
                               "ängstlich",
-                              "Bedenkenträger*in"
+                              "Bedenkenträger"
                            ]
                         },
                         {
@@ -10212,7 +10212,7 @@
                      "idx":9,
                      "tags":[
                         "aggressiv",
-                        "Kämpfer*in"
+                        "Kämpfer"
                      ]
                   }
                ],
@@ -10248,7 +10248,7 @@
                "name":"\u201cIch habe eine übernatürliche Gabe\u201d",
                "required":false,
                "tags":[
-                  "hellseher*in",
+                  "hellseher",
                   "unheimlich"
                ]
             },
@@ -10256,7 +10256,7 @@
                "name":"\u201cIch führe ein Doppelleben\u201d",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "gewieft"
                ]
             },
@@ -10265,7 +10265,7 @@
                "required":false,
                "tags":[
                   "Hippie",
-                  "Mitläufer*in",
+                  "Mitläufer",
                   "aus dem raster"
                ]
             },
@@ -10384,8 +10384,8 @@
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Anführer*in",
-                  "Bedenkenträger*in",
+                  "Anführer",
+                  "Bedenkenträger",
                   "Held"
                ]
             },
@@ -10393,7 +10393,7 @@
                "name":"Miss Piggy",
                "required":true,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "diva",
                   "stylish"
                ]
@@ -10529,7 +10529,7 @@
                      "idx":8,
                      "tags":[
                         "langweilig",
-                        "Zuschauer*in"
+                        "Zuschauer"
                      ]
                   }
                ],
@@ -10547,7 +10547,7 @@
                "required":false,
                "tags":[
                   "patriotisch",
-                  "Unterstützer*in"
+                  "Unterstützer"
                ]
             },
             {
@@ -10555,7 +10555,7 @@
                "required":false,
                "tags":[
                   "Engel",
-                  "Träumer*in",
+                  "Träumer",
                   "ethisch",
                   "religiös"
                ]
@@ -10564,9 +10564,9 @@
                "name":"Cowboys",
                "required":false,
                "tags":[
-                  "naturalist*in",
+                  "naturalist",
                   "viehzüchter",
-                  "Rebell*in",
+                  "Rebell",
                   "rustikal"
                ]
             },
@@ -10576,7 +10576,7 @@
                "tags":[
                   "Blaumann",
                   "stark",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             },
             {
@@ -10593,7 +10593,7 @@
                "name":"Titans",
                "required":false,
                "tags":[
-                  "Kämpfer*in",
+                  "Kämpfer",
                   "massiv"
                ]
             }
@@ -10690,7 +10690,7 @@
                      "idx":0,
                      "tags":[
                         "destructiv",
-                        "Dieb*in",
+                        "Dieb",
                         "Bösewicht"
                      ]
                   }
@@ -10709,14 +10709,14 @@
                "required":false,
                "tags":[
                   "aufmerksam",
-                  "teilnehmer*in"
+                  "teilnehmer"
                ]
             },
             {
                "name":"<i>der Planet Geld<\/i>",
                "required":false,
                "tags":[
-                  "Unternehmer*in",
+                  "Unternehmer",
                   "wohlhabend"
                ]
             },
@@ -10828,7 +10828,7 @@
                         {
                            "name":"Warte Warte, Ich will es gar nicht wissen",
                            "tags":[
-                              "Zuschauer*in",
+                              "Zuschauer",
                               "ratlos"
                            ]
                         },
@@ -10851,7 +10851,7 @@
                      "name":"die jährliche Spendenaktion",
                      "idx":8,
                      "tags":[
-                        "Charmeur*in",
+                        "Charmeur",
                         "bedürftig"
                      ]
                   }
@@ -10878,7 +10878,7 @@
                "name":"Gehen",
                "required":false,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "schnell",
                   "angenehm"
                ]
@@ -10887,7 +10887,7 @@
                "name":"Trampolin",
                "required":false,
                "tags":[
-                  "Draufgänger*in",
+                  "Draufgänger",
                   "energisch",
                   "lustig"
                ]
@@ -10897,7 +10897,7 @@
                "required":false,
                "tags":[
                   "aquatisch",
-                  "Tänzer*in"
+                  "Tänzer"
                ]
             },
             {
@@ -10914,7 +10914,7 @@
                "required":false,
                "tags":[
                   "british",
-                  "Kämpfer*in"
+                  "Kämpfer"
                ]
             }
          ],
@@ -11005,9 +11005,9 @@
                "name":"Jimdo",
                "required":false,
                "tags":[
-                  "Künstler*in",
+                  "Künstler",
                   "kreativ",
-                  "Unternehmer*in",
+                  "Unternehmer",
                   "Langweiler"
                ]
             },
@@ -11016,7 +11016,7 @@
                "required":false,
                "tags":[
                   "schläfrig",
-                  "Unterstützer*in",
+                  "Unterstützer",
                   "gut ausgeruht"
                ]
             },
@@ -11024,9 +11024,9 @@
                "name":"Briefmarken.de",
                "required":false,
                "tags":[
-                  "Korrespondent*in",
+                  "Korrespondent",
                   "langatmig",
-                  "brieffreund*in"
+                  "brieffreund"
                ]
             },
             {
@@ -11034,7 +11034,7 @@
                "required":true,
                "tags":[
                   "kultiviert",
-                  "leser*in"
+                  "leser"
                ]
             },
             {
@@ -11053,7 +11053,7 @@
                   "anspruchsvoll",
                   "fleissig",
                   "arbeitsam",
-                  "Manager*in"
+                  "Manager"
                ]
             }
          ],
@@ -11097,7 +11097,7 @@
                "required":false,
                "tags":[
                   "niedlich",
-                  "Detektiv*in",
+                  "Detektiv",
                   "energisch",
                   "sidekick"
                ]
@@ -11123,7 +11123,7 @@
                "name":"sprechende kriminelle Katze",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "Unruhestifter"
                ]
             },
@@ -11132,7 +11132,7 @@
                "required":false,
                "tags":[
                   "musikalisch",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -11141,7 +11141,7 @@
                "tags":[
                   "ungeschickt",
                   "demütig",
-                  "naturliebhaber*in"
+                  "naturliebhaber"
                ]
             }
          ],
@@ -11230,7 +11230,7 @@
                      "name":"der teure",
                      "idx":8,
                      "tags":[
-                        "Aristokrat*in",
+                        "Aristokrat",
                         "wohlhabend"
                      ]
                   }
@@ -11248,7 +11248,7 @@
                "name":"<i>Der Bachelor<\/i>",
                "required":true,
                "tags":[
-                  "Romantiker*in",
+                  "Romantiker",
                   "Schwarm",
                   "liebend"
                ]
@@ -11260,7 +11260,7 @@
                   "Mutig",
                   "exotisch",
                   "stark",
-                  "überlebende*r"
+                  "überlebender"
                ]
             },
             {
@@ -11280,7 +11280,7 @@
                   "dramatisch",
                   "laut",
                   "unhöflich",
-                  "partylöwe*in",
+                  "partylöwe",
                   "wohlhabend"
                ]
             },
@@ -11290,7 +11290,7 @@
                "tags":[
                   "geschäftlich",
                   "erfinderisch",
-                  "fachmann*frau"
+                  "Fachmann"
                ]
             },
             {
@@ -11298,8 +11298,8 @@
                "required":false,
                "tags":[
                   "baby",
-                  "Tänzer*in",
-                  "Schmierenschauspieler*in"
+                  "Tänzer",
+                  "Schmierenschauspieler"
                ]
             }
          ],
@@ -11378,14 +11378,14 @@
                               "fabulös",
                               "fake",
                               "beliebt",
-                              "partylöwe*in"
+                              "partylöwe"
                            ]
                         },
                         {
                            "name":"<i>Real Housewives of Orange County<\/i>",
                            "tags":[
                               "orange",
-                              "partylöwe*in",
+                              "partylöwe",
                               "westküste"
                            ]
                         }
@@ -11408,7 +11408,7 @@
                         {
                            "name":"Christian Hümbs",
                            "tags":[
-                              "Küchenchef*in",
+                              "Küchenchef",
                               "eingebildet"
                            ]
                         }
@@ -11424,7 +11424,7 @@
                      "name":"<i>Adam & Eva<\/i>",
                      "idx":9,
                      "tags":[
-                        "Exhibitionist*in",
+                        "Exhibitionist",
                         "nackt"
                      ]
                   }
@@ -11442,7 +11442,7 @@
                "name":"Pimpel",
                "required":true,
                "tags":[
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "ruhig",
                   "schüchtern"
                ]
@@ -11469,7 +11469,7 @@
                "name":"Schlafmütz",
                "required":false,
                "tags":[
-                  "Gammler*in",
+                  "Gammler",
                   "lazy",
                   "schläfrig"
                ]
@@ -11484,12 +11484,12 @@
                ]
             },
             {
-               "name":"Küchenchef*in",
+               "name":"Küchenchef",
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Anführer*in",
-                  "Planer*in",
+                  "Anführer",
+                  "Planer",
                   "smart",
                   "weise"
                ]
@@ -11546,7 +11546,7 @@
                   {
                      "role":5,
                      "question":"Wen würdest du dich eher operieren lassen?",
-                     "name":"Küchenchef*in",
+                     "name":"Küchenchef",
                      "idx":6
                   }
                ]
@@ -11558,7 +11558,7 @@
                      "role":5,
                      "question":"Was trägt Chef, was kein anderer Zwerg trägt?",
                      "correct":"eine Brille",
-                     "name":"Küchenchef*in",
+                     "name":"Küchenchef",
                      "altSpellings":[
                         "brille",
                         "Brille",
@@ -11594,7 +11594,7 @@
                "name":"\u201cSein oder nicht-Sein?\u201d",
                "required":true,
                "tags":[
-                  "Bedenkenträger*in",
+                  "Bedenkenträger",
                   "launisch"
                ]
             },
@@ -11603,7 +11603,7 @@
                "required":false,
                "tags":[
                   "zuverlässig",
-                  "Einzelgänger*in",
+                  "Einzelgänger",
                   "stark"
                ]
             },
@@ -11612,14 +11612,14 @@
                "required":true,
                "tags":[
                   "künstlerisch",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
                "name":"\u201cin der Kürze liegt die Würze\u201d",
                "required":false,
                "tags":[
-                  "Introvertierte*r",
+                  "Introvertierter",
                   "ruhig",
                   "smart"
                ]
@@ -11661,7 +11661,7 @@
                   },
                   {
                      "role":5,
-                     "question":"Beende diese Beleidigung, \u201cDeine Mutter ist so shakespearisch....\u201d",
+                     "question":"Beende diese Beleidigung, \u201cDeine Mutter ist so shakespearesk....\u201d",
                      "name":"\u201cSchurke, ich habe es mit deiner Mutter getrieben!\u201d",
                      "idx":5
                   }
@@ -11732,14 +11732,14 @@
                         {
                            "name":"Kürze ist umsichtig",
                            "tags":[
-                              "Intrigant*in",
+                              "Intrigant",
                               "smart"
                            ]
                         },
                         {
                            "name":"Brevity ist die einzige Möglichkeit",
                            "tags":[
-                              "Introvertierte*r",
+                              "Introvertierter",
                               "ruhig"
                            ]
                         }
@@ -11756,7 +11756,7 @@
                      "idx":6,
                      "tags":[
                         "Nett",
-                        "Künstler*in",
+                        "Künstler",
                         "tatsache"
                      ]
                   }
@@ -11765,8 +11765,8 @@
             }
          ],
          "id":56274,
-         "category":"übersetzte Shakespeare Zitate",
-         "prompt":"Welches Shakespeare-Zitat seid Ihr??"
+         "category":"übersetzte Shakespeare-Zitate",
+         "prompt":"Welches Shakespeare-Zitat seid ihr?"
       },
       {
          "roles":[
@@ -11783,8 +11783,8 @@
                "name":"<i>Grey\u2019s Anatomy<\/i>",
                "required":true,
                "tags":[
-                  "Akademiker*in",
-                  "Romantiker*in",
+                  "Akademiker",
+                  "Romantiker",
                   "smart"
                ]
             },
@@ -11793,15 +11793,15 @@
                "required":false,
                "tags":[
                   "Verloren",
-                  "Misteriös",
-                  "Entdecker*in"
+                  "Mysteriös",
+                  "Entdecker"
                ]
             },
             {
                "name":"<i>How to Get Away with Murder<\/i>",
                "required":false,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "gewalttätig"
                ]
             },
@@ -11819,7 +11819,7 @@
                "required":true,
                "tags":[
                   "niedlich",
-                  "monarch*in",
+                  "monarch",
                   "königlich"
                ]
             }
@@ -11840,13 +11840,13 @@
                   },
                   {
                      "role":0,
-                     "question":"Mit welchem Politiker/welcher Politikerin würdest du eine heiße und skandalöse geheime Affäre haben wollen?",
+                     "question":"Mit welchem Politiker würdest du eine heiße und skandalöse geheime Affäre haben wollen?",
                      "name":"<i>Scandal<\/i>",
                      "idx":7
                   },
                   {
                      "role":5,
-                     "question":"In welchem Land bist du wahrscheinlich die geheime Herrscherin?",
+                     "question":"In welchem Land bist du wahrscheinlich der geheime Herrscher?",
                      "name":"<i>The Princess Diaries 2: Royal Engagement<\/i>",
                      "idx":9
                   }
@@ -11947,7 +11947,7 @@
                "name":"Twitter",
                "required":true,
                "tags":[
-                  "Kämpfer*in",
+                  "Kämpfer",
                   "melodramatisch",
                   "spitzzüngig"
                ]
@@ -11973,7 +11973,7 @@
                "required":true,
                "tags":[
                   "vorsichtig",
-                  "misteriös",
+                  "mysteriös",
                   "phantom"
                ]
             },
@@ -12043,7 +12043,7 @@
                      "name":"MySpace",
                      "idx":0,
                      "tags":[
-                        "Älteste*r",
+                        "Ältester",
                         "unbeachtet"
                      ]
                   },
@@ -12052,7 +12052,7 @@
                      "idx":7,
                      "tags":[
                         "lästig",
-                        "Kämpfer*in"
+                        "Kämpfer"
                      ]
                   }
                ],
@@ -12089,7 +12089,7 @@
                "name":"Sporty Spice",
                "required":true,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "hart"
                ]
             },
@@ -12121,7 +12121,7 @@
                   "Blaumann",
                   "schroff",
                   "vom glück begünstigt",
-                  "Arbeiter*in"
+                  "Arbeiter"
                ]
             }
          ],
@@ -12237,7 +12237,7 @@
                "required":false,
                "tags":[
                   "künstlerisch",
-                  "Poet*in"
+                  "Poet"
                ]
             },
             {
@@ -12246,7 +12246,7 @@
                "required":false,
                "tags":[
                   "diva",
-                  "misteriös"
+                  "mysteriös"
                ]
             },
             {
@@ -12255,7 +12255,7 @@
                "required":false,
                "tags":[
                   "kindlich",
-                  "Partygänger*in"
+                  "Partygänger"
                ]
             },
             {
@@ -12371,7 +12371,7 @@
                      "idx":7,
                      "tags":[
                         "leicht zu vergessen",
-                        "Planer*in"
+                        "Planer"
                      ]
                   }
                ],
@@ -12389,7 +12389,7 @@
                "required":true,
                "tags":[
                   "zuverlässig",
-                  "Anführer*in",
+                  "Anführer",
                   "blau",
                   "seriös"
                ]
@@ -12399,7 +12399,7 @@
                "required":true,
                "tags":[
                   "lila",
-                  "wissenschaftler*in",
+                  "wissenschaftler",
                   "smart"
                ]
             },
@@ -12408,7 +12408,7 @@
                "required":true,
                "tags":[
                   "cool",
-                  "Rebell*in",
+                  "Rebell",
                   "rot",
                   "unhöflich"
                ]
@@ -12419,14 +12419,14 @@
                "tags":[
                   "orange",
                   "Party Typ",
-                  "radikale*r"
+                  "radikaler"
                ]
             },
             {
                "name":"April O\u2019Neil",
                "required":false,
                "tags":[
-                  "reporter*in",
+                  "reporter",
                   "Adrenalinjunkie",
                   "gelb"
                ]
@@ -12435,7 +12435,7 @@
                "name":"Splinter",
                "required":false,
                "tags":[
-                  "mentor*in",
+                  "mentor",
                   "ninja",
                   "weise"
                ]
@@ -12486,7 +12486,7 @@
                   },
                   {
                      "role":4,
-                     "question":"Wem würdet ihr vertrauen, dass er*sie die Nachrichten ehrlich überbringt?",
+                     "question":"Wem würdet ihr vertrauen, dass er die Nachrichten ehrlich überbringt?",
                      "name":"April O\u2019Neil",
                      "idx":4
                   }
@@ -12529,7 +12529,7 @@
                   "Mutig",
                   "zuverlässig",
                   "Held",
-                  "Anführer*in",
+                  "Anführer",
                   "patriotisch"
                ]
             },
@@ -12538,8 +12538,8 @@
                "required":true,
                "tags":[
                   "Held",
-                  "kampfkünstler*in",
-                  "Intrigant*in",
+                  "kampfkünstler",
+                  "Intrigant",
                   "gewieft",
                   "spy"
                ]
@@ -12549,9 +12549,9 @@
                "required":true,
                "tags":[
                   "badass",
-                  "Diplomat*in",
+                  "Diplomat",
                   "Held",
-                  "monarch*in",
+                  "monarch",
                   "nobel"
                ]
             },
@@ -12627,7 +12627,7 @@
                "prompts":[
                   {
                      "role":1,
-                     "question":"Wer wäre der bessere Kanzler*innenkandidat?",
+                     "question":"Wer wäre der bessere Kanzlerkandidat?",
                      "name":"Captain America",
                      "idx":0
                   },
@@ -12692,7 +12692,7 @@
                            "tags":[
                               "beschädigt",
                               "rau",
-                              "überlebende*r"
+                              "überlebender"
                            ]
                         }
                      ],
@@ -12725,7 +12725,7 @@
                "name":"John Lennon",
                "required":true,
                "tags":[
-                  "Träumer*in",
+                  "Träumer",
                   "hippie",
                   "smart"
                ]
@@ -12764,7 +12764,7 @@
                "tags":[
                   "organisiert",
                   "unbeachtet",
-                  "Planer*in",
+                  "Planer",
                   "Langweiler"
                ]
             },
@@ -12774,7 +12774,7 @@
                "tags":[
                   "künstlerisch",
                   "hippie",
-                  "Poet*in"
+                  "Poet"
                ]
             }
          ],
@@ -12816,13 +12816,13 @@
                "prompts":[
                   {
                      "role":2,
-                     "question":"Wer bekommt nicht genug Anerkennung für alles, was er*sie tut?",
+                     "question":"Wer bekommt nicht genug Anerkennung für alles, was er tut?",
                      "name":"George Harrison",
                      "idx":2
                   },
                   {
                      "role":4,
-                     "question":"Wer wird eher versuchen, Menschen zu beeindrucken, indem er*sie verrät, dass er*sie weiß, wer Brian Epstein ist?",
+                     "question":"Wer wird eher versuchen, Menschen zu beeindrucken, indem er verrät, dass er weiß, wer Brian Epstein ist?",
                      "name":"Brian Epstein",
                      "idx":4
                   },
@@ -12857,7 +12857,7 @@
                         {
                            "name":"Talentierter Paul",
                            "tags":[
-                              "Künstler*in",
+                              "Künstler",
                               "begabt"
                            ]
                         }
@@ -12875,7 +12875,7 @@
                      "tags":[
                         "kurzzeitig beliebt",
                         "arbeitslos",
-                        "Ausgestossene*r"
+                        "Ausgestoßener"
                      ]
                   }
                ],
@@ -12905,11 +12905,11 @@
                "required":true,
                "tags":[
                   "Mutig",
-                  "Detektiv*in",
+                  "Detektiv",
                   "grimmig",
                   "mürrisch",
                   "Held",
-                  "Planer*in"
+                  "Planer"
                ]
             },
             {
@@ -12927,7 +12927,7 @@
                "name":"The Flash",
                "required":false,
                "tags":[
-                  "Draufgänger*in",
+                  "Draufgänger",
                   "schnell",
                   "Held",
                   "Sprüche klopfend"
@@ -12940,7 +12940,7 @@
                   "künstlerisch",
                   "kreativ",
                   "Held",
-                  "Poet*in"
+                  "Poet"
                ]
             },
             {
@@ -13057,7 +13057,7 @@
                "required":true,
                "tags":[
                   "überwältigt",
-                  "Rebell*in"
+                  "Rebell"
                ]
             },
             {
@@ -13065,7 +13065,7 @@
                "short":"durch Fernsehen geschrumpft",
                "required":true,
                "tags":[
-                  "Angeber*in",
+                  "Angeber",
                   "winzig"
                ]
             },
@@ -13084,7 +13084,7 @@
                "required":false,
                "tags":[
                   "listig",
-                  "Intrigant*in",
+                  "Intrigant",
                   "unberechenbar"
                ]
             }
@@ -13157,7 +13157,7 @@
                   },
                   {
                      "role":1,
-                     "question":"Wer bekommt immer, was er*sie will?",
+                     "question":"Wer bekommt immer, was er will?",
                      "name":"als schlechtes Ei gekennzeichnet werden",
                      "idx":8
                   }
@@ -13168,7 +13168,7 @@
                "prompts":[
                   {
                      "role":0,
-                     "question":"Wer ist in den Schokoladenfluss gefallen, weil er*sie hungrig war, und wer war nur ungeschickt?",
+                     "question":"Wer ist in den Schokoladenfluss gefallen, weil er hungrig war, und wer war nur ungeschickt?",
                      "roles":[
                         {
                            "name":"sprang aus Hunger",
@@ -13180,7 +13180,7 @@
                         {
                            "name":"nur ungeschickt",
                            "tags":[
-                              "Stümper*in",
+                              "Stümper",
                               "dumm"
                            ]
                         }
@@ -13196,7 +13196,7 @@
                      "name":"wird zum Oompa Loompa",
                      "idx":9,
                      "tags":[
-                        "Berater*in",
+                        "Berater",
                         "musikalisch",
                         "ausgenutzt"
                      ]
@@ -13226,7 +13226,7 @@
                "tags":[
                   "Feigling",
                   "nervös",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -13235,7 +13235,7 @@
                "tags":[
                   "energisch",
                   "schnell",
-                  "Partygänger*in"
+                  "Partygänger"
                ]
             },
             {
@@ -13252,7 +13252,7 @@
                "required":false,
                "tags":[
                   "selbstbewusst",
-                  "Angeber*in",
+                  "Angeber",
                   "smart",
                   "weise"
                ]
@@ -13261,9 +13261,9 @@
                "name":"Christopher Robin",
                "required":false,
                "tags":[
-                  "Tierliebhaber*in",
+                  "Tierliebhaber",
                   "british",
-                  "Anführer*in"
+                  "Anführer"
                ]
             }
          ],
@@ -13346,7 +13346,7 @@
                            "name":"schlaue Eule",
                            "tags":[
                               "smart",
-                              "lehrer*in",
+                              "lehrer",
                               "weise"
                            ]
                         },
@@ -13354,7 +13354,7 @@
                            "name":"selbstbewusste Eule",
                            "tags":[
                               "selbstbewusst",
-                              "Angeber*in"
+                              "Angeber"
                            ]
                         }
                      ],
@@ -13396,9 +13396,9 @@
                "name":"\u201cThe years start coming and they don\u2019t stop coming\u201d",
                "required":false,
                "tags":[
-                  "Grosselternteil",
+                  "Großelternteil",
                   "nervös",
-                  "Bedenkenträger*in"
+                  "Bedenkenträger"
                ]
             },
             {
@@ -13406,7 +13406,7 @@
                "required":false,
                "tags":[
                   "mutig",
-                  "Intrigant*in",
+                  "Intrigant",
                   "gewieft"
                ]
             },
@@ -13415,7 +13415,7 @@
                "required":true,
                "tags":[
                   "boss",
-                  "Planer*in",
+                  "Planer",
                   "wohlhabend"
                ]
             },
@@ -13424,7 +13424,7 @@
                "required":false,
                "tags":[
                   "Party Typ",
-                  "Angeber*in"
+                  "Angeber"
                ]
             },
             {
@@ -13516,7 +13516,7 @@
                         {
                            "name":"gewiefte Seitenstraßen",
                            "tags":[
-                              "Intrigant*in",
+                              "Intrigant",
                               "gewieft"
                            ]
                         }
@@ -13551,7 +13551,7 @@
                "name":"Zack Morris",
                "required":true,
                "tags":[
-                  "Intrigant*in",
+                  "Intrigant",
                   "Sprüche klopfend"
                ]
             },
@@ -13560,7 +13560,7 @@
                "required":true,
                "tags":[
                   "niedlich",
-                  "Freund*in",
+                  "Freund",
                   "sweetheart"
                ]
             },
@@ -13585,7 +13585,7 @@
                "name":"A.C. Slater",
                "required":true,
                "tags":[
-                  "Athlet*in",
+                  "Athlet",
                   "Schwarm",
                   "hart"
                ]
@@ -13594,7 +13594,7 @@
                "name":"Jessie Spano",
                "required":true,
                "tags":[
-                  "Aktivist*in",
+                  "Aktivist",
                   "spitzzüngig"
                ]
             }
