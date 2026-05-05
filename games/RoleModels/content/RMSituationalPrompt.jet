@@ -13127,7 +13127,7 @@
                ]
             },
             {
-               "name": "Sport",
+               "name": "Sportsfreund",
                "required": false,
                "tags": [
                   "Klassiker",
@@ -13153,7 +13153,7 @@
                ]
             },
             {
-               "name": "der Papa",
+               "name": "Der Papa",
                "required": false,
                "tags": [
                   "Anführer",
@@ -13183,7 +13183,7 @@
                   {
                      "role": 1,
                      "question": "Was ist eine coole neue Idee für eine Sportart?",
-                     "name": "Sport",
+                     "name": "Sportsfreund",
                      "idx": 1
                   },
                   {
@@ -13223,7 +13223,7 @@
                   {
                      "role": 4,
                      "question": "Wer ist mehr eine Vaterfigur für die Gruppe?",
-                     "name": "der Papa",
+                     "name": "Der Papa",
                      "idx": 7
                   }
                ]
@@ -13233,7 +13233,7 @@
                "prompts": [
                   {
                      "role": 4,
-                     "question": "Welchem dieser Spieler würde man den Namen “der Papa” geben und wer würde sich den Spitznamen “der Papa” selbst geben?",
+                     "question": "Welchem dieser Spieler würde man den Namen “Der Papa” geben und wer würde sich den Spitznamen “Der Papa” selbst geben?",
                      "roles": [
                         {
                            "name": "der Papa genannt werden",
