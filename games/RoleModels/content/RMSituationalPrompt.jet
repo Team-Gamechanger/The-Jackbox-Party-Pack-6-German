@@ -10807,8 +10807,8 @@
         }
       ],
       "id": 56283,
-      "category": "Kitchen Utensils",
-      "prompt": "Which kitchen utensil best suits each of you?"
+      "category": "Küchenutensilien",
+      "prompt": "Welches Küchenutensil passt am besten zu jedem von euch?"
     },
     {
       "roles": [
@@ -14229,7 +14229,7 @@
         }
       ],
       "id": 56247,
-      "category": "Party People",
+      "category": "Partygänger",
       "prompt": "Wo würde jeder von euch am Ende einer großen Party stehen?"
     },
     {
@@ -19308,8 +19308,8 @@
         }
       ],
       "id": 56706,
-      "category": "Thinking Outside the Box",
-      "prompt": "Welche klischeehafte Business-Phrase beschreibt Sie?"
+      "category": "Bürojargon",
+      "prompt": "Welche klischeehafte Business-Phrase beschreibt euch?"
     },
     {
       "roles": [

@@ -327,7 +327,7 @@
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
         {
           "id": "standard"
