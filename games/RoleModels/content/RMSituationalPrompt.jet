@@ -385,7 +385,7 @@
             },
             {
               "role": 4,
-              "question": "Welche Pflanze empfiehlst du Paaren an Valetinstag?",
+              "question": "Welche Pflanze empfiehlst du Paaren an Valentinstag?",
               "name": "Leitet einen Blumenladen für Cannabispflanzen",
               "idx": 5
             }
@@ -559,63 +559,56 @@
     {
       "roles": [
         {
-          "name": "Drill-Sergeant",
+          "name": "Delfin",
           "required": false,
           "tags": [
-            "Schreihals",
-            "bestimmender",
-            "Anführer",
-            "direkter"
+            "Tierflüsterer",
+            "niedlicher",
+            "Süßi",
+            "verspielter"
           ]
         },
         {
-          "name": "Hacker",
+          "name": "Kleeblatt",
           "required": false,
           "tags": [
-            "hochbegabter",
-            "Stratege",
-            "technikaffiner",
-            "Tüfftler"
+            "glück habender",
+            "seltener",
+            "Glücksmensch"
           ]
         },
         {
-          "name": "Kanonenfutter",
+          "name": "Rose mit Dornen",
           "required": false,
           "tags": [
-            "Lauch",
-            "dummer",
-            "ahnungsloser",
-            "hilfloser"
+            "stacheliger",
+            "empfindlicher"
           ]
         },
         {
-          "name": "Ninja",
+          "name": "Hotdog",
           "required": false,
           "tags": [
-            "leiser",
-            "unsichtbarer",
-            "Trickser",
-            "Akrobat"
+            "Feinschmecker",
+            "alberner"
           ]
         },
         {
-          "name": "Sekretär",
+          "name": "Tweety der Vogel (Looney Tunes)",
           "required": false,
           "tags": [
-            "verantwortungsvoller",
-            "planungsfähiger",
-            "administrativer",
-            "Organisator"
-          ]
+            "nostalgischer",
+            "Liebling"
+          ],
+          "short": "Tweety"
         },
         {
-          "name": "Sprengkommando",
-          "required": false,
+          "name": "Illuminati-Zeichen",
+          "required": true,
           "tags": [
-            "zerstörerischer",
-            "wilder",
-            "unkomplizierter",
-            "Kommandeur"
+            "erleuchteter",
+            "geheimnisvoller",
+            "Illuminat"
           ]
         }
       ],
@@ -690,12 +683,13 @@
         {
           "roles": [
             {
-              "name": "Camper",
+              "name": "Coole Narbe, die etwas wie ein Tattoo aussieht",
               "idx": 8,
               "tags": [
-                "ruhiger",
-                "Hausbesetzer",
-                "fauler"
+                "cooler",
+                "vernarbter",
+                "Einzelgänger",
+                "einzigartiger"
               ]
             }
           ],
@@ -703,8 +697,8 @@
         }
       ],
       "id": 56695,
-      "category": "Jobs im Söldnertrupp",
-      "prompt": "Welche Tätigkeit würdet ihr in einer Söldnertruppe ausüben?"
+      "category": "Tattoos am Knöchel",
+      "prompt": "Welches süße kleine Knöcheltattoo passt am besten zu euch?"
     },
     {
       "roles": [
@@ -839,22 +833,22 @@
       "roles": [
         {
           "name": "Rentner, der Einkauf auf den Cent genau bezahlen will",
-          "short": "Rentner mit Kleingeld",
           "required": false,
           "tags": [
             "akribischer",
             "alter",
             "langsamer"
-          ]
+          ],
+          "short": "Rentner mit Kleingeld"
         },
         {
           "name": "Alleinerziehende Mutter mit 3 Kindern",
-          "short": "Mutter mit Kindern",
           "required": false,
           "tags": [
             "überforderter",
             "gestresster"
-          ]
+          ],
+          "short": "Mutter mit Kindern"
         },
         {
           "name": "Kassierer, der keinen Bock hat",
@@ -874,7 +868,7 @@
           ]
         },
         {
-          "name": "Typ, der 10 Leute vor lässt",
+          "name": "Typ, der 10 Leute vorlässt",
           "required": false,
           "tags": [
             "freundlicher",
@@ -1020,9 +1014,9 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Du hast den Namen einer Person auf einer Party vergessen... wie nennst du sie?",
+              "question": "Wenn du dir einen coolen neuen Namen geben könntest, wie würde er lauten?",
               "name": "Den Namen von jemandem vergessen",
-              "idx": 0
+              "idx": 5
             },
             {
               "role": 3,
@@ -1099,62 +1093,56 @@
     {
       "roles": [
         {
-          "name": "Ministerium für Migration und Flüchtlinge",
-          "short": "Migrationsminister",
+          "name": "Kingsize-Matratze",
           "required": false,
           "tags": [
-            "voreingenommener",
-            "gefühlloser",
-            "abweisender"
+            "großartiger",
+            "Monarch",
+            "majestätischer"
           ]
         },
         {
-          "name": "Ministerium für Digitales und Verkehr",
-          "short": "Vekehrsminister",
+          "name": "Wasserbett",
           "required": false,
           "tags": [
-            "altmodischer",
-            "Rentner",
-            "Arrogant"
+            "weicher",
+            "instabiler",
+            "wankelmütiger"
           ]
         },
         {
-          "name": "Ministerium für Vaterlandsschutz",
-          "short": "Staatsschutzminister",
+          "name": "klumpiger Futon",
           "required": false,
           "tags": [
-            "Patriot",
-            "Lügner",
-            "direkter"
+            "unbeholfener",
+            "Täuscher"
           ]
         },
         {
-          "name": "Ministerium für Lager und Gulagbeaufsichtigungen",
-          "short": "Justizminister",
-          "required": false,
+          "name": "Schlafsack",
+          "required": true,
           "tags": [
-            "Fetischist",
-            "sadistischer",
-            "strenger"
+            "abenteuerlustiger",
+            "Camper",
+            "schlichter"
           ]
         },
         {
-          "name": "Ministerium für Bildung und Forschung",
-          "short": "Bildungsminister",
+          "name": "flacher Stein",
           "required": false,
           "tags": [
-            "ungebildeter",
-            "abergläubischer",
-            "beschränkter"
+            "harter",
+            "natürlicher",
+            "Überlebenskünstler"
           ]
         },
         {
-          "name": "Ministerium für Abfall und Müllentsorgung",
-          "short": "Abfallminister",
-          "required": false,
+          "name": "aufrechter Sarg",
+          "required": true,
           "tags": [
-            "dreckiger",
-            "simpler"
+            "innerlich toter",
+            "unheimlicher",
+            "Vampir"
           ]
         }
       ],
@@ -1229,12 +1217,11 @@
         {
           "roles": [
             {
-              "name": "Ministerium für Steuerverschwendung",
-              "short": "Finanzminister",
+              "name": "Reizentzugskammer",
               "idx": 8,
               "tags": [
-                "verschwenderischer",
-                "Bonze"
+                "esoterischer",
+                "Spinner"
               ]
             }
           ],
@@ -1242,20 +1229,20 @@
         }
       ],
       "id": 56887,
-      "category": "Minister einer Regierung",
-      "prompt": "Für welchen Minister-Posten wird jeder von euch in einer Regierung berufen werden?"
+      "category": "Arten von Betten",
+      "prompt": "What kind of bed are each of you?"
     },
     {
       "roles": [
         {
           "name": "Brüllt um Mitternacht seinen Monitor an",
-          "short": "Rage-Kiddie",
           "required": false,
           "tags": [
             "aggressiver",
             "reizbarer",
             "kindischer"
-          ]
+          ],
+          "short": "Rage-Kiddie"
         },
         {
           "name": "Hobby-Handwerker",
@@ -1385,58 +1372,53 @@
     {
       "roles": [
         {
-          "name": "Der, der kurz 'AFK' geht",
-          "short": "AFK-Gänger",
-          "required": true,
-          "tags": [
-            "unverlässiger",
-            "Verplant",
-            "abwesender"
-          ]
-        },
-        {
-          "name": "Derjenige, der von der Technik überfordert ist",
-          "short": "Der Rentner",
-          "required": true,
-          "tags": [
-            "altmodischer",
-            "verwirrter",
-            "Steinzeitmensch"
-          ]
-        },
-        {
-          "name": "Der mit dem Dosenmikrofon",
+          "name": "Bart trimmen",
           "required": false,
           "tags": [
-            "armer",
-            "einfacher"
+            "knallharter",
+            "rustikaler",
+            "harter"
           ]
         },
         {
-          "name": "Der, der ständig Flachwitze macht",
-          "short": "Der Witzbold",
+          "name": "Bikini-Waxing",
           "required": false,
           "tags": [
-            "alberner",
-            "unwitziger"
+            "Modeheld",
+            "geschmeidiger"
           ]
         },
         {
-          "name": "Derjenige, der immer Backseat-Gaming betreibt",
-          "short": "Der Besserwisser",
+          "name": "Achseln rasieren",
           "required": false,
           "tags": [
-            "Klugscheißer",
-            "nerviger",
-            "rechthaberischer"
+            "geplagter",
+            "Arbeiter"
           ]
         },
         {
-          "name": "Der Memer",
+          "name": "Augenbrauen-Fadentechnik",
           "required": false,
           "tags": [
-            "kreativer",
-            "unberechenbarer"
+            "stilvoller",
+            "Influencer",
+            "Star"
+          ]
+        },
+        {
+          "name": "Nasenhaare zupfen",
+          "required": false,
+          "tags": [
+            "älterer",
+            "verantwortungsvoller"
+          ]
+        },
+        {
+          "name": "Unterarme enthaaren",
+          "required": false,
+          "tags": [
+            "zerstörerischer",
+            "Joker"
           ]
         }
       ],
@@ -1499,11 +1481,11 @@
         {
           "roles": [
             {
-              "name": "Der, der viel zu früh im Voice-Channel hockt",
+              "name": "Rogaine auftragen",
               "idx": 8,
               "tags": [
-                "überpünktlicher",
-                "einsamer"
+                "Träumer",
+                "hoffnungsvoller"
               ]
             }
           ],
@@ -1511,8 +1493,8 @@
         }
       ],
       "id": 56642,
-      "category": "Discord-Call-Teilnehmer",
-      "prompt": "Wer seid ihr in einem Discord-Call?"
+      "category": "Körperhaar-Pflege",
+      "prompt": "Welche Methode der Körperhaar-Pflege bist du?"
     },
     {
       "roles": [
@@ -1544,23 +1526,23 @@
         },
         {
           "name": "Der, der sich über den Staat beschwert",
-          "short": "Die Diva",
           "required": false,
           "tags": [
             "rebellischer",
             "kritischer",
             "rechthaberischer"
-          ]
+          ],
+          "short": "Die Diva"
         },
         {
           "name": "Der, der mehr Unterlagen dabei hat als nötig",
-          "short": "Der Akribische",
           "required": false,
           "tags": [
             "vorbereiteter",
             "gründlicher",
             "vorsorglicher"
-          ]
+          ],
+          "short": "Der Akribische"
         },
         {
           "name": "Der, der keinen Termin hat",
@@ -1776,63 +1758,62 @@
       ],
       "id": 56753,
       "category": "Zeitreise",
-      "prompt": "In welche Epoche würdet ihr euch teleportieren?"
+      "prompt": "In welche Epoche würdet ihr euch gerne teleportieren?"
     },
     {
       "roles": [
         {
-          "name": "Drill-Sergeant",
+          "name": "heißer Junge",
           "required": false,
           "tags": [
-            "machthaberischer",
-            "strenger",
-            "lauter"
+            "Schwarm",
+            "heißer",
+            "Prachtkerl"
           ]
         },
         {
-          "name": "Angsthase",
+          "name": "böser Junge",
           "required": false,
           "tags": [
-            "ängstlicher",
-            "pessimistischer",
-            "vorsichtiger"
+            "frecher",
+            "Unruhestifter"
           ]
         },
         {
-          "name": "Wachposten",
+          "name": "blitzsauberer Junge von nebenan",
           "required": false,
           "tags": [
-            "wachsamer",
-            "disziplinierter",
-            "zuverlässiger"
+            "sauberer",
+            "spießiger",
+            "liebenswerter"
+          ],
+          "short": "Junge von nebenan"
+        },
+        {
+          "name": "kleiner Baby-Junge",
+          "required": false,
+          "tags": [
+            "babyhafter",
+            "süßer"
           ]
         },
         {
-          "name": "Späher",
+          "name": "lustiger Junge",
           "required": false,
           "tags": [
-            "schneller",
-            "leiser",
-            "geschickter"
+            "witziger",
+            "Quatschkopf"
           ]
         },
         {
-          "name": "Koch",
+          "name": "Junge, der ersetzt wurde und niemand hat es bemerkt",
           "required": false,
           "tags": [
-            "kreativer",
-            "geduldiger",
-            "fürsorglicher"
-          ]
-        },
-        {
-          "name": "Faulpelz",
-          "required": false,
-          "tags": [
-            "bequemer",
-            "fauler",
-            "entspannter"
-          ]
+            "unauffälliger",
+            "Sonderling",
+            "Ersatzmann"
+          ],
+          "short": "Ersetzter Junge"
         }
       ],
       "x": false,
@@ -1900,11 +1881,11 @@
         {
           "roles": [
             {
-              "name": "Verwalter",
+              "name": "Bruder von einem der Jungs, der auch singt",
               "idx": 8,
               "tags": [
-                "organisierter",
-                "verantwortungsbewusster"
+                "Bruder",
+                "talentierter"
               ]
             }
           ],
@@ -1912,60 +1893,60 @@
         }
       ],
       "id": 56881,
-      "category": "Apokalypse-Bunker",
-      "prompt": "Welche Rolle übernehmt ihr in einem Bunker nach dem Weltuntergang?"
+      "category": "Boyband-Mitglieder",
+      "prompt": "Welches Boyband-Mitglied seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Derjenige, der laut telefoniert",
+          "name": "“Es liegt nicht an dir, es liegt an mir.”",
           "required": false,
           "tags": [
-            "lauter",
-            "egoistischer"
+            "klischeehafter",
+            "sensibler"
           ]
         },
         {
-          "name": "Der Alleinerzieher mit fünf Kindern",
+          "name": "“Ich muss mich auf mein Schreiben konzentrieren.”",
           "required": false,
           "tags": [
-            "gestresster",
-            "überforderter"
+            "künstlerischer",
+            "kreativer",
+            "gequälter"
           ]
         },
         {
-          "name": "Der, der das Zugabteil als Arbeitsplatz nutzt",
+          "name": "“Ich komme mit deinen Freunden nicht klar.”",
           "required": false,
           "tags": [
-            "fokussierter",
-            "produktiver"
+            "unsozialer",
+            "Einzelgänger"
           ]
         },
         {
-          "name": "Der, der sich ständig beim Zugpersonal beschwert",
+          "name": "“Wir müssen beide noch sehr an uns arbeiten.”",
           "required": false,
           "tags": [
-            "nörgeliger",
-            "unzufriedener",
-            "kritischer"
+            "Hippie",
+            "selbstreflektierter"
           ]
         },
         {
-          "name": "Der, der seinen Kopfhörer aufsetzt und dem alles egal ist",
-          "short": "Der Gleichgültige",
+          "name": "“Ich kann nicht mit jemandem zusammen sein, der Rammstein hasst.”",
+          "short": "“Kann nicht mit jemandem zusammen sein, der Rammstein hasst.”",
           "required": false,
           "tags": [
-            "desinteressierter",
-            "abweisender"
+            "prinzipientreuer",
+            "Rocker"
           ]
         },
         {
-          "name": "Der, der gesundheitlich angeschlagen Zug fährt",
-          "short": "Der Infizierte",
+          "name": "“PIEP Diese Nummer ist nicht mehr vergeben...”",
+          "short": "“Diese Nummer ist nicht mehr vergeben...”",
           "required": true,
           "tags": [
-            "rücksichtsloser",
-            "kranker"
+            "Feigling",
+            "Lügner"
           ]
         }
       ],
@@ -2034,12 +2015,12 @@
         {
           "roles": [
             {
-              "name": "Stammgast im Bordbistro",
+              "name": "“Ich muss auf meinen Heimatplaneten zurück.”",
               "idx": 6,
               "tags": [
-                "geselliger",
-                "genussfreudiger",
-                "unterhaltsamer"
+                "außerirdischer",
+                "kühner",
+                "unverschämter"
               ]
             }
           ],
@@ -2047,63 +2028,57 @@
         }
       ],
       "id": 56264,
-      "category": "ICE-Fahrgäste",
-      "prompt": "Welche Art von Fahrgast seid ihr in einem ICE?"
+      "category": "Trennungsausreden",
+      "prompt": "Welche furchtbare Trennungsausrede seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Zauberlehrling",
+          "name": "Fallschirmsprung",
           "required": false,
           "tags": [
-            "lernwilliger",
-            "neugieriger",
-            "ehrgeiziger"
+            "sorgloser",
+            "Draufgänger"
           ]
         },
         {
-          "name": "Verfluchte Prinzessin",
+          "name": "ganz Shakespeare lesen",
           "required": false,
           "tags": [
-            "verwöhnter",
-            "dramatischer",
-            "Arrogant"
+            "Dramafreund",
+            "literarischer"
           ]
         },
         {
-          "name": "Der weise Alte",
+          "name": "Italienisch lernen",
           "required": false,
           "tags": [
-            "allwissender",
-            "geduldiger",
-            "gebrechlicher"
+            "kultivierter",
+            "Reisender"
           ]
         },
         {
-          "name": "Die Stiefmutter",
+          "name": "ins Weltall fliegen",
           "required": false,
           "tags": [
-            "hinterhältiger",
-            "eifersüchtiger",
-            "kalter"
+            "Abenteurer",
+            "mutiger"
           ]
         },
         {
-          "name": "Böser Wolf",
+          "name": "einen Hai schlagen",
           "required": true,
           "tags": [
-            "behaarter",
-            "wilder",
-            "gefährlicher"
+            "gefährlicher",
+            "Adrenalinjunkie"
           ]
         },
         {
-          "name": "Tapferer Held",
+          "name": "niemals sterben",
           "required": false,
           "tags": [
-            "mutiger",
-            "edler",
-            "starker"
+            "Halbgott",
+            "unsterblicher"
           ]
         }
       ],
@@ -2117,9 +2092,9 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Welchen Zauber würdest du dir zuerst beibringen?",
+              "question": "Warum willst du ein Zauberer werden?",
               "name": "Zauberlehrling",
-              "idx": 0
+              "idx": 3
             },
             {
               "role": 0,
@@ -2178,12 +2153,11 @@
         {
           "roles": [
             {
-              "name": "Kolossaler Drache",
+              "name": "24 Stunden am Stück schlafen",
               "idx": 1,
               "tags": [
-                "mächtiger",
-                "angsteinflößender",
-                "feuriger"
+                "Faulenzer",
+                "schläfriger"
               ]
             }
           ],
@@ -2191,8 +2165,8 @@
         }
       ],
       "id": 56748,
-      "category": "Märchenwelt",
-      "prompt": "Welche Märchenfigur wärt ihr in einer Märchenwelt?"
+      "category": "Bucket-List-Ziele",
+      "prompt": "Welches Bucket-List-Ziel seid ihr?"
     },
     {
       "roles": [
@@ -2334,56 +2308,57 @@
     {
       "roles": [
         {
-          "name": "Der, der für den Fahrservice dankbar ist",
+          "name": "vierlagig",
           "required": false,
           "tags": [
-            "freundlicher",
-            "beliebter"
+            "bequemer",
+            "luxuriöser"
           ]
         },
         {
-          "name": "Der, der das Auto vollkotzt",
+          "name": "einlagig",
           "required": false,
           "tags": [
+            "sparsamer",
+            "geiziger",
+            "rauer",
+            "rauer",
+            "kratziger"
+          ]
+        },
+        {
+          "name": "Buchseite",
+          "required": false,
+          "tags": [
+            "Kritiker",
+            "literarischer"
+          ]
+        },
+        {
+          "name": "Notfallsocke",
+          "required": false,
+          "tags": [
+            "verzweifelter",
+            "Überlebender"
+          ]
+        },
+        {
+          "name": "Tannenzapfen",
+          "required": false,
+          "tags": [
+            "Pionier",
+            "scharfer",
+            "harter",
+            "unbequemer"
+          ]
+        },
+        {
+          "name": "gar nichts",
+          "required": false,
+          "tags": [
+            "sorgloser",
             "ekliger",
-            "kranker",
-            "besoffener"
-          ]
-        },
-        {
-          "name": "Der, der die gesamte Rückbank für sich beansprucht",
-          "required": false,
-          "tags": [
-            "egoistischer",
-            "Ignorant",
-            "fetter"
-          ]
-        },
-        {
-          "name": "Der Beifahrer",
-          "required": false,
-          "tags": [
-            "besserwisserischer",
-            "Arrogant"
-          ]
-        },
-        {
-          "name": "Der Fahrer",
-          "required": true,
-          "tags": [
-            "verantwortungsbewusster",
-            "genervter",
-            "gebildeter",
-            "hilfsbereiter"
-          ]
-        },
-        {
-          "name": "Der, der sich über das Auto lustig macht",
-          "required": false,
-          "tags": [
-            "sarkastischer",
-            "nerviger",
-            "chaotischer"
+            "Schlamper"
           ]
         }
       ],
@@ -2441,12 +2416,11 @@
         {
           "roles": [
             {
-              "name": "Der, der heimlich im Kofferraum mitfährt",
+              "name": "Giftefeu",
               "idx": 0,
               "tags": [
-                "verrückter",
-                "unberechenbarer",
-                "gefährlicher"
+                "verwechselter",
+                "giftiger"
               ]
             }
           ],
@@ -2454,61 +2428,60 @@
         }
       ],
       "id": 56422,
-      "category": "Mitfahrer im Auto",
-      "prompt": "Wer seid ihr im Auto?"
+      "category": "Material zum Hinternabwischen",
+      "prompt": "Seid ehrlich: Welches Material zum Hinternabwischen seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Pyrotechnik-Zünder",
+          "name": "Karussell",
           "required": false,
           "tags": [
-            "gefährlicher",
-            "verrückter",
-            "lauter"
+            "kindlicher",
+            "klassischer"
           ]
         },
         {
-          "name": "Raclette-Verfechter",
+          "name": "klapprige Achterbahn",
           "required": false,
           "tags": [
-            "kulinarischer",
-            "traditioneller"
+            "energiegeladener",
+            "närrischer",
+            "Adrenalinjunkie"
           ]
         },
         {
-          "name": "Derjenige, der am nächsten Morgen verkatert ist",
+          "name": "Enten-Angeln",
           "required": false,
           "tags": [
-            "betrunkener",
-            "chaotischer",
-            "unverantwortlicher"
+            "Athlet",
+            "Streichespieler",
+            "sprücheklopfender"
           ]
         },
         {
-          "name": "Bleigießer",
+          "name": "Spiegelkabinett",
           "required": false,
           "tags": [
-            "abergläubischer",
-            "kreativer",
-            "handwerklicher"
+            "geheimnisvoller",
+            "unheimlicher",
+            "Joker"
           ]
         },
         {
-          "name": "Der, der um 22 Uhr ins Bett geht",
+          "name": "Liebestunnel",
           "required": false,
           "tags": [
-            "Konsequent",
-            "genervter"
+            "Schwarm",
+            "romantischer"
           ]
         },
         {
-          "name": "Der, der Vorsätze macht und sie nie einhält",
+          "name": "30-Zentimeter-Hotdog",
           "required": false,
           "tags": [
-            "ehrgeiziger",
-            "unrealistischer",
-            "ungeduldiger"
+            "herausfordernder",
+            "übertriebener"
           ]
         }
       ],
@@ -2600,11 +2573,13 @@
         {
           "roles": [
             {
-              "name": "Der, der auch an Silvester arbeiten muss",
+              "name": "kleines Kind, das Zuckerwatte auskotzt",
               "idx": 8,
               "tags": [
-                "gestresster",
-                "unbeliebter"
+                "kindlicher",
+                "bunter",
+                "unschuldiger",
+                "Spektakeltyp"
               ]
             }
           ],
@@ -2612,63 +2587,75 @@
         }
       ],
       "id": 56683,
-      "category": "Silvester-Party",
-      "prompt": "Wer wärt ihr bei einer Silvester-Party?"
+      "category": "Jahrmarktattraktionen",
+      "prompt": "Welche Jahrmarktattraktion seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Der Hater",
+          "name": "machtgieriger Anwalt",
           "required": false,
           "tags": [
             "böser",
-            "kritischer",
-            "ungerechter"
-          ]
+            "gieriger",
+            "überzeugender",
+            "Intrigant",
+            "wohlhabender"
+          ],
+          "short": "Anwalt"
         },
         {
-          "name": "Wall-of-Text-Kommentator",
+          "name": "sexy Unruhestifter",
           "required": false,
           "tags": [
-            "gebildeter",
-            "belehrender",
-            "kreativer"
-          ]
+            "Schwarm",
+            "schelmischer",
+            "neckischer",
+            "Unruhestifter"
+          ],
+          "short": "Unruhestifter"
         },
         {
-          "name": "Stiller Zuschauer",
+          "name": "fünfjähriges Kind mit eiskaltem Blick",
           "required": false,
           "tags": [
-            "zurückhaltender",
-            "schüchterner"
-          ]
+            "kindlicher",
+            "dämonischer",
+            "unschuldiger",
+            "brodelnder"
+          ],
+          "short": "Kind"
         },
         {
-          "name": "Der, der sich über Werbung aufregt",
+          "name": "besessener Clown",
           "required": false,
           "tags": [
-            "gereizter",
-            "armer",
-            "unzufriedener"
-          ]
+            "hinterlistiger",
+            "Quatschkopf",
+            "Angeber"
+          ],
+          "short": "clown"
         },
         {
-          "name": "Der, der für den Algorithmus liked",
+          "name": "rothäutiges Biest mit Hörnern",
           "required": false,
           "tags": [
-            "freundlicher",
-            "optimistischer",
-            "hilfsbereiter"
-          ]
+            "bestialischer",
+            "bunter",
+            "Dramafreund",
+            "schockierender"
+          ],
+          "short": "Biest mit Hörnern"
         },
         {
-          "name": "Fan der ersten Stunde",
+          "name": "umherziehender Einzelgänger",
           "required": false,
           "tags": [
-            "loyaler",
-            "übermotivierter",
-            "reservierter"
-          ]
+            "unabhängiger",
+            "Einzelgänger",
+            "zurückhaltender"
+          ],
+          "short": "Einzelgänger"
         }
       ],
       "x": true,
@@ -2725,12 +2712,12 @@
         {
           "roles": [
             {
-              "name": "Der, der YouTube Premium nutzt",
+              "name": "richtig guter Geigenspieler",
               "idx": 0,
               "tags": [
-                "reicher",
-                "privilegierter",
-                "unbekümmerter"
+                "Künstler",
+                "ländlicher",
+                "musikalischer"
               ]
             }
           ],
@@ -2738,62 +2725,61 @@
         }
       ],
       "id": 56984,
-      "category": "YouTube-Zuschauer",
-      "prompt": "Welche Art von YouTube-Zuschauer seid ihr?"
+      "category": "Filmteufel",
+      "prompt": "Welche Art Filmteufel seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Der Dirigent",
+          "name": "Zirkusdirektor",
           "required": false,
           "tags": [
-            "verantwortungsbewusster",
-            "führungsstarker",
-            "charismatischer"
+            "Anführer",
+            "selbstbewusster",
+            "Angeber"
           ]
         },
         {
-          "name": "Triangel-Spieler",
-          "required": false,
-          "tags": [
-            "unbedeutender",
-            "kleingeistiger",
-            "überflüssiger"
-          ]
-        },
-        {
-          "name": "Trommler",
-          "required": false,
-          "tags": [
-            "energischer",
-            "lauter",
-            "rhythmischer"
-          ]
-        },
-        {
-          "name": "Violinist",
-          "required": false,
-          "tags": [
-            "künstlerischer",
-            "sensibler",
-            "romantischer"
-          ]
-        },
-        {
-          "name": "Chorstimme",
-          "required": false,
-          "tags": [
-            "harmonischer",
-            "lauter",
-            "teamfähiger"
-          ]
-        },
-        {
-          "name": "Trompetenspieler",
+          "name": "Fliegendes Trapez",
           "required": false,
           "tags": [
             "mutiger",
-            "auffälliger"
+            "luftiger",
+            "Flieger"
+          ]
+        },
+        {
+          "name": "Clown auf einem Hund",
+          "required": false,
+          "tags": [
+            "Alberner",
+            "alberner"
+          ]
+        },
+        {
+          "name": "Messerjonglage",
+          "required": false,
+          "tags": [
+            "Jongleur",
+            "riskanter",
+            "Joker"
+          ]
+        },
+        {
+          "name": "Schlangenmensch",
+          "required": false,
+          "tags": [
+            "flexibler",
+            "Akrobat"
+          ]
+        },
+        {
+          "name": "Menschliche Kanonenkugel",
+          "required": false,
+          "tags": [
+            "mutiger",
+            "todesmutiger",
+            "Adrenalinjunkie"
           ]
         }
       ],
@@ -2868,12 +2854,13 @@
         {
           "roles": [
             {
-              "name": "Der, der nur so tut als könne er ein Instrument spielen",
+              "name": "Typ, der blinkende Windräder verkauft",
               "idx": 8,
               "tags": [
-                "untalentierter",
-                "Hochstapler",
-                "peinlicher"
+                "sorgloser",
+                "leuchtender",
+                "Händler",
+                "verspielter"
               ]
             }
           ],
@@ -2881,8 +2868,8 @@
         }
       ],
       "id": 56145,
-      "category": "Orchester",
-      "prompt": "Welche Rolle übernehmt ihr in einem Orchester?"
+      "category": "Zirkusnummern",
+      "prompt": "Welche Zirkusnummer passt am besten zu euch?"
     },
     {
       "roles": [
@@ -2993,7 +2980,18 @@
               "role": 2,
               "question": "Wer macht am ehesten die Nacht zum Tag?",
               "name": "<i>Sternennacht</i> von Vincent van Gogh",
-              "idx": 9
+              "idx": 9,
+              "correct": "Leonardo da Vinci",
+              "altSpellings": [
+                "Leonardo Davinci",
+                "Leo Da Vinci",
+                "Leo DaVinci",
+                "Leonardo",
+                "Leonardo Devinci",
+                "Leonardo De Vinci",
+                "Da Vinci",
+                "Davinci"
+              ]
             }
           ]
         },
@@ -3003,23 +3001,6 @@
             {
               "role": 4,
               "question": "Wer schreit viel und wer schreit gar nicht?",
-              "roles": [
-                {
-                  "name": "Schreit viel",
-                  "tags": [
-                    "lauter",
-                    "dramatischer",
-                    "emotionaler"
-                  ]
-                },
-                {
-                  "name": "Schreit gar nicht",
-                  "tags": [
-                    "stummer",
-                    "besonnener"
-                  ]
-                }
-              ],
               "name": "<i>Der Schrei</i> von Edvard Munch",
               "idx": 8
             }
@@ -3047,56 +3028,56 @@
     {
       "roles": [
         {
-          "name": "Der, der sich strikt an die StVO hält",
+          "name": "Auto in Frischhaltefolie",
           "required": false,
           "tags": [
-            "vorsichtiger",
-            "disziplinierter",
-            "langweiliger"
+            "nerviger",
+            "Rotzbengel"
           ]
         },
         {
-          "name": "Der Drängler",
+          "name": "Telefonstreich",
           "required": true,
           "tags": [
-            "ungeduldiger",
-            "aggressiver",
-            "reizbarer"
+            "klassischer",
+            "Lügner",
+            "Partytyp",
+            "sprücheklopfender"
           ]
         },
         {
-          "name": "Mittelspurschleicher",
+          "name": "scharfer Kaugummi",
           "required": false,
           "tags": [
-            "lahmer",
-            "nerviger"
+            "giftiger",
+            "scharfer",
+            "überraschender"
           ]
         },
         {
-          "name": "Treuerpunkte-Sammler in Flensburg",
+          "name": "Furzkissen",
           "required": true,
           "tags": [
-            "straffälliger",
-            "risikofreudiger",
-            "chaotischer"
+            "kindlicher",
+            "Quatschkopf",
+            "Schlamper"
           ]
         },
         {
-          "name": "Der, der sich über Fahrradfahrer aufregt",
+          "name": "Geldschein am Faden",
           "required": false,
           "tags": [
-            "kritischer",
-            "informierter",
-            "deutscher"
+            "Aristokrat",
+            "hinterhältiger"
           ]
         },
         {
-          "name": "Der, dessen Auto gerade so durch den TÜV gekommen ist",
+          "name": "“Ihr Mann ist tot”",
           "required": true,
           "tags": [
-            "gefährlicher",
-            "unzuverlässiger",
-            "schlampiger"
+            "dämonischer",
+            "skandalöser",
+            "ernster"
           ]
         }
       ],
@@ -3160,11 +3141,12 @@
         {
           "roles": [
             {
-              "name": "Der Normale",
+              "name": "“Ein Loser sagt was?”",
               "idx": 7,
               "tags": [
-                "vernünftiger",
-                "unauffälliger"
+                "einfacher",
+                "doofer",
+                "närrischer"
               ]
             }
           ],
@@ -3172,8 +3154,8 @@
         }
       ],
       "id": 57323,
-      "category": "Autofahrer",
-      "prompt": "Welcher Typ von Autofahrer seid ihr?"
+      "category": "Klassische Streiche",
+      "prompt": "Welchen Streich würdet ihr am ehesten spielen?"
     },
     {
       "roles": [
@@ -3445,55 +3427,64 @@
     {
       "roles": [
         {
-          "name": "Glühwein-Trinker",
+          "name": "Tanzen und dabei ein Gespräch führen",
           "required": false,
           "tags": [
+            "Tänzer",
+            "Freigeist",
+            "lustiger",
+            "vielseitiger"
+          ],
+          "short": "Tanz-Unterhaltung"
+        },
+        {
+          "name": "Kopfunter am Bierfass",
+          "required": false,
+          "tags": [
+            "Angeber",
+            "flexibler",
             "betrunkener",
-            "warmherziger",
-            "kulinarischer",
-            "traditioneller"
+            "Partytyp"
+          ],
+          "short": "Säufer"
+        },
+        {
+          "name": "Hausaufgaben auf dem Sofa fertig machen",
+          "required": false,
+          "tags": [
+            "verlässlicher",
+            "hart arbeitender",
+            "intellektueller",
+            "Student"
+          ],
+          "short": "Hausaufgaben"
+        },
+        {
+          "name": "Im Bad weinen",
+          "short": "Weinen",
+          "required": false,
+          "tags": [
+            "emotionaler",
+            "sensibler",
+            "Wracktyp"
           ]
         },
         {
-          "name": "Crêpe-Genießer",
+          "name": "Unterschriften für Greenpeace sammeln",
           "required": false,
           "tags": [
-            "fetter",
-            "unsportlicher"
-          ]
+            "Hippie",
+            "Aktivist",
+            "nerviger"
+          ],
+          "short": "Greenpeace"
         },
         {
-          "name": "Lebkuchenherz-Käufer",
+          "name": "Ist da, studiert aber nicht dort",
+          "short": "Fremder",
           "required": false,
           "tags": [
-            "romantischer",
-            "konservativer"
-          ]
-        },
-        {
-          "name": "Der, der nur Gesellschaft sucht",
-          "short": "Der Soziale",
-          "required": false,
-          "tags": [
-            "freundlicher",
-            "kontaktfreudiger"
-          ]
-        },
-        {
-          "name": "Der Spaziergänger",
-          "required": false,
-          "tags": [
-            "ruhiger",
-            "nachdenklicher",
-            "zurückhaltender"
-          ]
-        },
-        {
-          "name": "Der, der sich verirrt hat",
-          "short": "Der Verirrte",
-          "required": false,
-          "tags": [
-            "verwirrter",
+            "Unruhestifter",
             "verlorener"
           ]
         }
@@ -3558,13 +3549,12 @@
         {
           "roles": [
             {
-              "name": "Der, der nicht rausgeht, weil es zu kalt ist",
-              "short": "Die Frostbeule",
+              "name": "Ordnungsamt",
               "idx": 8,
               "tags": [
-                "bequemer",
-                "fauler",
-                "sesshafter"
+                "Durchsetzer",
+                "moralischer",
+                "Spaßbremser"
               ]
             }
           ],
@@ -3572,63 +3562,62 @@
         }
       ],
       "id": 56286,
-      "category": "Weihnachtsmarkt-Besucher",
-      "prompt": "Wer seid ihr auf einem Weihnachtsmarkt?"
+      "category": "Studentenparty-Gäste",
+      "prompt": "Welche Person auf einer Studentenparty wärt ihr?"
     },
     {
       "roles": [
         {
-          "name": "Reinigungskraft",
+          "name": "GoFundMe",
           "required": false,
           "tags": [
-            "ungebildeter",
-            "unterbezahlter",
-            "einfacher"
+            "praktischer",
+            "Selbststarter"
           ]
         },
         {
-          "name": "Buchhalter",
+          "name": "Eine Show aufziehen!",
           "required": false,
           "tags": [
-            "Stringent",
-            "präziser",
-            "langweiliger"
+            "Angeber",
+            "Performer",
+            "talentierter"
           ]
         },
         {
-          "name": "PR-Manager",
+          "name": "einen Raub durchziehen",
           "required": true,
           "tags": [
-            "kreativer",
-            "gewiefter",
-            "kommunikativer"
+            "krimineller",
+            "hinterhältiger",
+            "Dieb"
           ]
         },
         {
-          "name": "Recruiter",
+          "name": "eine App erfinden",
           "required": true,
           "tags": [
-            "überzeugender",
-            "einfühlsamer",
-            "hilfsbereiter"
+            "Unternehmer",
+            "hart arbeitender",
+            "innovativer",
+            "kluger"
           ]
         },
         {
-          "name": "Rechtsexperte",
+          "name": "Deine Niere verkaufen",
           "required": false,
           "tags": [
-            "informierter",
-            "detailverliebter",
-            "vorsichtiger"
+            "Amateurchirurg",
+            "verzweifelter"
           ]
         },
         {
-          "name": "IT-Assistent",
+          "name": "eine reiche alte Person heiraten",
           "required": true,
           "tags": [
-            "analytischer",
-            "zurückhaltender",
-            "technikaffiner"
+            "listiger",
+            "Trophäenpartner",
+            "wohlhabender"
           ]
         }
       ],
@@ -3692,12 +3681,12 @@
         {
           "roles": [
             {
-              "name": "Der Chef",
+              "name": "viele Bilder von 100-Euro-Scheinen ausdrucken",
               "idx": 7,
               "tags": [
-                "Dominant",
-                "kontrollierender",
-                "charismatischer"
+                "närrischer",
+                "fehlgeleiteter",
+                "Intrigant"
               ]
             }
           ],
@@ -3705,8 +3694,8 @@
         }
       ],
       "id": 56787,
-      "category": "Firmengründung",
-      "prompt": "Welche Aufgabe würde jeder von euch übernehmen, wenn ihr zusammen eine Firma gründen würdet?"
+      "category": "Schnell an 50.000 Euro kommen",
+      "prompt": "Wenn ihr schnell 50.000 Euro auftreiben müsstest, wie würdet ihr das Geld beschaffen?"
     },
     {
       "roles": [
@@ -3838,59 +3827,58 @@
     {
       "roles": [
         {
-          "name": "Polizist",
-          "required": false,
-          "tags": [
-            "gesetzestreuer",
-            "beschützender",
-            "autoritärer"
-          ]
-        },
-        {
-          "name": "Cowboy",
-          "required": false,
-          "tags": [
-            "mutiger",
-            "abenteuerlustiger",
-            "wilder"
-          ]
-        },
-        {
-          "name": "Piratenkapitän",
-          "required": false,
-          "tags": [
-            "rebellischer",
-            "frecher",
-            "charismatischer"
-          ]
-        },
-        {
-          "name": "Geschlechtsorgan",
-          "required": false,
-          "tags": [
-            "komischer",
-            "kindischer",
-            "unreifer"
-          ]
-        },
-        {
-          "name": "Der, der Karneval hasst und sich nicht verkleidet",
-          "short": "Der Griesgram",
+          "name": "Der, der kurz 'AFK' geht",
           "required": true,
           "tags": [
-            "miesepetriger",
-            "brummiger",
-            "unfreundlicher"
+            "unverlässiger",
+            "Verplant",
+            "abwesender"
+          ],
+          "short": "AFK-Gänger"
+        },
+        {
+          "name": "Derjenige, der von der Technik überfordert ist",
+          "required": true,
+          "tags": [
+            "altmodischer",
+            "verwirrter",
+            "Steinzeitmensch"
+          ],
+          "short": "Der Rentner"
+        },
+        {
+          "name": "Der mit dem Dosenmikrofon",
+          "required": false,
+          "tags": [
+            "armer",
+            "einfacher"
           ]
         },
         {
-          "name": "Der, der Karneval nur als Ausrede zum Saufen sieht",
-          "short": "Der Saufkopf",
-          "required": true,
+          "name": "Der, der ständig Flachwitze macht",
+          "required": false,
           "tags": [
-            "lauter",
-            "betrunkener",
-            "langweiliger"
+            "alberner",
+            "unwitziger"
+          ],
+          "short": "Der Witzbold"
+        },
+        {
+          "name": "Derjenige, der immer Backseat-Gaming betreibt",
+          "short": "Der Besserwisser",
+          "required": false,
+          "tags": [
+            "Klugscheißer",
+            "nerviger",
+            "rechthaberischer"
+          ]
+        },
+        {
+          "name": "Der Memer",
+          "required": false,
+          "tags": [
+            "kreativer",
+            "unberechenbarer"
           ]
         }
       ],
@@ -3967,14 +3955,22 @@
                 "chaotischer",
                 "Riskant"
               ]
+            },
+            {
+              "idx": 8,
+              "name": "Der, der viel zu früh im Voice-Channel hockt",
+              "tags": [
+                "überpünktlicher",
+                "einsamer"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56256,
-      "category": "Karneval",
-      "prompt": "Welche Kostüme trägt jeder von euch bei einem Karnevalsumzug?"
+      "category": "Discord-Call-Teilnehmer",
+      "prompt": "Wer seid ihr in einem Discord-Call?"
     },
     {
       "roles": [
@@ -4105,59 +4101,58 @@
     {
       "roles": [
         {
-          "name": "Der Draufgänger",
+          "name": "<i>Grillen wie ein Cowboy</i>",
+          "required": false,
+          "tags": [
+            "knallharter",
+            "Cowboy",
+            "harter"
+          ]
+        },
+        {
+          "name": "<i>Desserts zuerst!</i>",
+          "required": false,
+          "tags": [
+            "kindlicher",
+            "Schokosüchtiger",
+            "liebenswerter",
+            "liebenswerter"
+          ]
+        },
+        {
+          "name": "<i>Gesundes Essen, gesundes Du</i>",
+          "required": false,
+          "tags": [
+            "Gesundheitsfanatiker",
+            "Hippie"
+          ]
+        },
+        {
+          "name": "<i>Es geht immer noch schärfer</i>",
           "required": false,
           "tags": [
             "mutiger",
-            "risikofreudiger",
-            "abenteuerlustiger"
+            "Angeber",
+            "Adrenalinjunkie"
           ]
         },
         {
-          "name": "Das Kanonenfutter",
+          "name": "<i>Wein zu einfach allem</i>",
           "required": false,
           "tags": [
-            "ängstlicher",
-            "schwacher",
-            "wertloser",
-            "nutzloser"
+            "stilvoller",
+            "betrunkener",
+            "Partytyp"
           ]
         },
         {
-          "name": "Das Weichei",
-          "required": false,
-          "tags": [
-            "zurückhaltender",
-            "unauffälliger",
-            "Inkompetent"
-          ]
-        },
-        {
-          "name": "Der Scharfschütze",
-          "required": false,
-          "tags": [
-            "geschickter",
-            "informierter",
-            "vorsichtiger"
-          ]
-        },
-        {
-          "name": "Der Anführer",
-          "required": false,
-          "tags": [
-            "charismatischer",
-            "entscheidungsfreudiger",
-            "verantwortungsbewusster"
-          ]
-        },
-        {
-          "name": "Der Alleskönner",
+          "name": "Anleitung auf der Packungsseite",
           "required": true,
           "tags": [
-            "vielseitiger",
-            "Intelligent",
-            "Kompetent",
-            "unaufhaltsamer"
+            "Anfänger",
+            "vorsichtiger",
+            "tollpatschiger",
+            "bescheidener"
           ]
         }
       ],
@@ -4215,12 +4210,13 @@
         {
           "roles": [
             {
-              "name": "Ein Zombie",
+              "name": "halb erinnertes Familienrezept",
               "idx": 4,
               "tags": [
-                "furchterregender",
-                "dummer",
-                "unaufhaltsamer"
+                "alter Liebling",
+                "altmodischer",
+                "riskanter",
+                "traditioneller"
               ]
             }
           ],
@@ -4228,62 +4224,68 @@
         }
       ],
       "id": 56747,
-      "category": "Zombie-Apokalypse",
-      "prompt": "Welche Rolle hättet ihr in einer Gruppe während einer Zombie-Apokalypse?"
+      "category": "Kochbücher",
+      "prompt": "Welches Rezeptbuch seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Skorpion",
-          "required": false,
+          "name": "69",
+          "required": true,
           "tags": [
-            "leidenschaftlicher",
-            "gefährlicher"
+            "erotischer",
+            "erregter",
+            "aufreizender",
+            "verführerischer"
           ]
         },
         {
-          "name": "Kaulquappe",
-          "required": false,
+          "name": "420",
+          "required": true,
           "tags": [
-            "junger",
-            "naiver",
-            "unerfahrener"
+            "entspannter",
+            "berauschter"
           ]
         },
         {
-          "name": "Regenwurm",
+          "name": "31",
           "required": false,
           "tags": [
-            "bodenständiger",
-            "ehrlicher",
-            "zuverlässiger"
+            "verräterischer",
+            "listiger",
+            "heimtückischer",
+            "hinterhältiger",
+            "Verräter"
           ]
         },
         {
-          "name": "Adler",
-          "required": false,
+          "name": "67",
+          "required": true,
           "tags": [
-            "stolzer",
-            "mutiger",
-            "schneller"
+            "kindischer",
+            "nerviger",
+            "alberner"
           ]
         },
         {
-          "name": "Qualle",
+          "name": "42, die Antwort auf alles",
           "required": false,
           "tags": [
-            "Intelligent",
-            "flexibler",
-            "entspannter"
-          ]
+            "Gott",
+            "mysteriöser",
+            "geheimnisvoller",
+            "allwissender"
+          ],
+          "short": "42"
         },
         {
-          "name": "Eisbär",
+          "name": "666",
           "required": false,
           "tags": [
-            "wilder",
-            "behaarter",
-            "starker"
+            "satanistischer",
+            "okkulter",
+            "dämonischer",
+            "bösartiger"
           ]
         }
       ],
@@ -4336,11 +4338,11 @@
         {
           "roles": [
             {
-              "name": "Amöbe",
+              "name": "404",
               "idx": 3,
               "tags": [
-                "kleiner",
-                "unscheinbarer"
+                "verlorener",
+                "verwirrter"
               ]
             }
           ],
@@ -4348,8 +4350,8 @@
         }
       ],
       "id": 56732,
-      "category": "Leben als Tier",
-      "prompt": "Welches Tier wärt ihr, wenn ihr in der Wildnis leben müsstet?"
+      "category": "Coole Zahlen",
+      "prompt": "Welche super coole Zahl seid ihr?"
     },
     {
       "roles": [
@@ -4475,56 +4477,56 @@
     {
       "roles": [
         {
-          "name": "Fiat Panda",
+          "name": "“Zum Brüllen komisch”",
           "required": false,
           "tags": [
-            "hässlicher",
-            "langsamer",
-            "unzuverlässiger"
+            "alberner",
+            "Witzbold",
+            "sprücheklopfender"
           ]
         },
         {
-          "name": "Polestar 4",
+          "name": "“Eine emotionale Achterbahnfahrt”",
           "required": false,
           "tags": [
-            "schneller",
-            "sportlicher"
+            "sensibler",
+            "Joker",
+            "launischer"
           ]
         },
         {
-          "name": "Hyundai IONIQ 6",
+          "name": "“Spaß für die ganze Familie”",
           "required": false,
           "tags": [
-            "futuristischer",
-            "schicker",
-            "leiser"
+            "Fürsorger",
+            "süßer",
+            "freundlicher",
+            "väterlicher"
           ]
         },
         {
-          "name": "VW Bulli",
+          "name": "“Man kann es vor Spannung kaum noch aushalten”",
           "required": false,
           "tags": [
-            "lässiger",
-            "altmodischer",
-            "entspannter"
+            "Adrenalinjunkie",
+            "wilder"
           ]
         },
         {
-          "name": "Cupra Formentor",
+          "name": "“Ein Spezialeffekte-Spektakel”",
           "required": false,
           "tags": [
-            "vielseitiger",
-            "hilfsbereiter",
-            "moderner"
+            "übertriebener",
+            "Partytyp",
+            "stilvoller"
           ]
         },
         {
-          "name": "Kramer KL 200",
+          "name": "“Hirn ausschalten und Spaß haben!”",
           "required": true,
           "tags": [
-            "nützlicher",
-            "robuster",
-            "alter"
+            "närrischer",
+            "Quatschkopf"
           ]
         }
       ],
@@ -4588,11 +4590,13 @@
         {
           "roles": [
             {
-              "name": "Harley-Davidson Street 750",
+              "name": "“Kritikern nicht vorgeführt!”",
               "idx": 6,
               "tags": [
-                "rebellischer",
-                "lauter"
+                "vorsichtiger",
+                "rätselhafter",
+                "geheimnisvoller",
+                "hinterhältiger"
               ]
             }
           ],
@@ -4600,61 +4604,61 @@
         }
       ],
       "id": 56273,
-      "category": "Automodelle",
-      "prompt": "Welche Autos wärt ihr?"
+      "category": "Kritikerzitate",
+      "prompt": "Was würden Filmkritiker über euch sagen?"
     },
     {
       "roles": [
         {
-          "name": "Architekt",
+          "name": "eine Leiche vergraben",
           "required": false,
           "tags": [
-            "charismatischer",
-            "kreativer",
-            "visionärer"
+            "krimineller",
+            "mörderischer",
+            "gewalttätiger"
           ]
         },
         {
-          "name": "Statiker",
+          "name": "Millionen veruntreut",
           "required": false,
           "tags": [
-            "analytischer",
-            "vorsichtiger"
+            "Intrigant",
+            "Dieb",
+            "wohlhabender"
           ]
         },
         {
-          "name": "Maurer",
+          "name": "geheime Familie",
           "required": false,
           "tags": [
-            "kräftiger",
-            "geduldiger",
-            "zuverlässiger"
+            "geheimnisvoller",
+            "Lügner",
+            "verschlagener"
           ]
         },
         {
-          "name": "Dachdecker",
+          "name": "in Wahrheit ein Alien",
           "required": false,
           "tags": [
-            "sportlicher",
-            "schwindelfreier",
-            "hartnäckiger"
+            "außerirdischer",
+            "jenseitiger"
           ]
         },
         {
-          "name": "Elektriker",
+          "name": "macht Ketchup auf Spaghetti",
           "required": false,
           "tags": [
-            "Intelligent",
-            "fingerfertiger"
+            "widerlicher",
+            "Spinner"
           ]
         },
         {
-          "name": "Verbringt 24/7 auf dem Dixi-Klo",
+          "name": "hasst die anderen Spieler",
           "required": false,
           "tags": [
-            "fauler",
-            "betrügerischer",
-            "unzuverlässiger"
+            "Rebell",
+            "verbitterter",
+            "schüchterner"
           ]
         }
       ],
@@ -4718,12 +4722,12 @@
         {
           "roles": [
             {
-              "name": "Beamter vom Bauamt",
+              "name": "hat gerade gefurzt",
               "idx": 3,
               "tags": [
-                "strenger",
-                "bürokratischer",
-                "langweiliger"
+                "ekliger",
+                "Streichespieler",
+                "beißender"
               ]
             }
           ],
@@ -4731,69 +4735,64 @@
         }
       ],
       "id": 56253,
-      "category": "Aufgaben auf einer Baustelle",
-      "prompt": "Wer übernimmt welche Aufgabe auf einer Baustelle?"
+      "category": "Dunkle Geheimnisse",
+      "prompt": "Was sind eure wahrscheinlichsten dunklen Geheimnisse?"
     },
     {
       "roles": [
         {
-          "name": "Ein Bild von der Gesamtsituation machen",
-          "short": "Der Analytiker",
+          "name": "gerahmtes Foto vom Ex",
           "required": false,
           "tags": [
-            "nachdenklicher",
-            "ruhiger",
-            "strukturierter"
+            "Romantiker",
+            "anhänglicher",
+            "untröstlicher"
           ]
         },
         {
-          "name": "Mit Gewalt kann man viel erreichen",
-          "short": "Der Gewalttätige",
+          "name": "wohnt bei den Eltern",
           "required": false,
           "tags": [
-            "aggressiver",
-            "lauter",
-            "impulsiver",
-            "unreifer"
+            "kindischer",
+            "Feigling",
+            "unreifer",
+            "jugendlicher",
+            "spießiger"
           ]
         },
         {
-          "name": "Die Anderen machen lassen",
-          "short": "Der Mitläufer",
+          "name": "besitzt mehrere Echsen",
+          "required": false,
+          "tags": [
+            "Tierfreund",
+            "gruseliger",
+            "unheimlicher"
+          ]
+        },
+        {
+          "name": "isst nur Chicken Nuggets",
           "required": false,
           "tags": [
             "vorsichtiger",
-            "Ignorant",
-            "fauler"
+            "Faulenzer",
+            "unkultivierter"
           ]
         },
         {
-          "name": "Auf Hinweise durch den Spielleiter warten",
-          "short": "Der Faule",
+          "name": "viele Kuscheltiere auf dem Bett",
           "required": false,
           "tags": [
-            "entspannter",
-            "dummer",
-            "lässiger"
+            "süßer",
+            "rührseliger",
+            "liebenswerter"
           ]
         },
         {
-          "name": "Die Regeln des Betreibers ignorieren",
-          "short": "Der Rebell",
+          "name": "hat zwei Handys",
           "required": false,
           "tags": [
-            "frecher",
-            "unkooperativer"
-          ]
-        },
-        {
-          "name": "Jeder für sich",
-          "short": "Der Egoist",
-          "required": false,
-          "tags": [
-            "egoistischer",
-            "selbstsüchtiger",
-            "unfreundlicher"
+            "krimineller",
+            "zwielichtiger"
           ]
         }
       ],
@@ -4846,12 +4845,12 @@
         {
           "roles": [
             {
-              "name": "Sich gar nicht erst in einen Escape Room begeben",
-              "short": "Der Angsthase",
+              "name": "erwähnt beiläufig Kannibalismus",
               "idx": 6,
               "tags": [
-                "ängstlicher",
-                "feiger"
+                "kulinarischer",
+                "hungriger",
+                "Serienkiller"
               ]
             }
           ],
@@ -4859,8 +4858,8 @@
         }
       ],
       "id": 56676,
-      "category": "Escape Room",
-      "prompt": "Wer von euch wählt welches Vorgehen in einem Escape Room?"
+      "category": "Dating-Red-Flags",
+      "prompt": "Welche Dating-Red-Flag seid ihr?"
     },
     {
       "roles": [
@@ -5089,9 +5088,9 @@
           "prompts": [
             {
               "role": 3,
-              "question": "Wer bekommt mehr Sachen nach Hause geliefert?",
+              "question": "Welcher Spieler macht die meisten Nickerchen?",
               "name": "Trägheit",
-              "idx": 1
+              "idx": 5
             },
             {
               "role": 3,
@@ -5776,57 +5775,54 @@
     {
       "roles": [
         {
-          "name": "Drache",
+          "name": "Promi-Hochzeitsmagazin",
           "required": false,
           "tags": [
-            "mächtiger",
-            "feuriger",
-            "furchtloser"
+            "bräutlicher",
+            "berühmter",
+            "schicker"
           ]
         },
         {
-          "name": "Phönix",
+          "name": "große Packung Kaugummi",
           "required": false,
           "tags": [
-            "Elegant",
-            "schneller",
-            "majestätischer"
+            "erfrischender",
+            "erfrischender"
           ]
         },
         {
-          "name": "Vampir",
+          "name": "überteuertes Handy-Ladegerät",
           "required": false,
           "tags": [
-            "Charmant",
-            "geheimnisvoller",
-            "mysteriöser"
+            "Geldsack",
+            "vorbereiteter"
           ]
         },
         {
-          "name": "Pegasus",
+          "name": "6-Euro-DVD von <i>Türkisch für Anfänger</i>",
           "required": true,
           "tags": [
-            "fröhlicher",
-            "optimistischer",
-            "freier"
-          ]
+            "süßer",
+            "Schwarm",
+            "romantischer"
+          ],
+          "short": "<i>Türkisch für Anfänger</i> DVD"
         },
         {
-          "name": "Meerjungfrau",
+          "name": "Monster-Energy-Drink",
           "required": false,
           "tags": [
-            "verführerischer",
-            "kreativer",
-            "träumerischer"
+            "aufgeputschter",
+            "Partytyp"
           ]
         },
         {
-          "name": "Dämon",
+          "name": "Grippeimpfung für unterwegs",
           "required": true,
           "tags": [
-            "gefährlicher",
-            "furchterregender",
-            "chaotischer"
+            "vorsichtiger",
+            "Gesundheitsfanatiker"
           ]
         }
       ],
@@ -5879,12 +5875,11 @@
         {
           "roles": [
             {
-              "name": "Zentaur",
+              "name": "Schwangerschaftstest",
               "idx": 8,
               "tags": [
-                "sportlicher",
-                "weiser",
-                "naturnaher"
+                "ängstlicher",
+                "Sorgenmacher"
               ]
             }
           ],
@@ -5892,63 +5887,60 @@
         }
       ],
       "id": 57449,
-      "category": "Fabelwesen",
-      "prompt": "Welches Fabelwesen wäre jeder von euch?"
+      "category": "Impulskäufe in der Drogerie",
+      "prompt": "Welcher überteuerte Impulskauf seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Horror",
+          "name": "Oben-ohne-Typ",
           "required": false,
           "tags": [
-            "ängstlicher",
-            "nervöser",
-            "schreckhafter"
+            "selbstbewusster",
+            "Fitnessstudio-Typ",
+            "Schwarm"
           ]
         },
         {
-          "name": "Action",
+          "name": "Typ mit Fisch in der Hand",
           "required": false,
           "tags": [
-            "mutiger",
-            "wilder",
-            "abenteuerlustiger"
+            "Naturfreund",
+            "sportlicher"
           ]
         },
         {
-          "name": "Komödie",
+          "name": "Selfie-im-Auto-Typ",
           "required": false,
           "tags": [
-            "witziger",
-            "lauter",
-            "lebendiger"
+            "Egoist",
+            "selbstverliebter"
           ]
         },
         {
-          "name": "Liebesfilm",
+          "name": "Typ auf einem Gruppenfoto bei einer Hochzeit",
           "required": false,
           "tags": [
-            "weichherziger",
-            "romantischer",
-            "emotionaler"
+            "freundlicher",
+            "Partytyp",
+            "unterstützender"
           ]
         },
         {
-          "name": "Fantasy",
+          "name": "Fallschirmsprung-Typ",
           "required": false,
           "tags": [
-            "vielseitiger",
-            "kreativer",
-            "träumerischer"
+            "sorgloser",
+            "Adrenalinjunkie"
           ]
         },
         {
-          "name": "Dokumentation",
-          "required": false,
+          "name": "Typ im Joker-Cosplay",
+          "required": true,
           "tags": [
-            "gebildeter",
-            "nachdenklicher",
-            "analytischer"
+            "gruseliger",
+            "Nerd",
+            "unheimlicher"
           ]
         }
       ],
@@ -6001,12 +5993,14 @@
         {
           "roles": [
             {
-              "name": "Seifenoper",
+              "name": "Typ ohne Foto, der “oberflächliche Menschen” hasst",
               "idx": 8,
               "tags": [
-                "dummer",
-                "Arrogant",
-                "dramatischer"
+                "Feigling",
+                "arroganter",
+                "rätselhafter",
+                "Introvertierter",
+                "unsichtbarer"
               ]
             }
           ],
@@ -6014,8 +6008,8 @@
         }
       ],
       "id": 56610,
-      "category": "Filmgenres",
-      "prompt": "Wenn ihr nur noch ein Genre in eurem Leben schauen könntet, welches wäre es?"
+      "category": "Typen auf Tinder",
+      "prompt": "Welcher dieser Typen auf Tinder seid ihr?"
     },
     {
       "roles": [
@@ -6141,61 +6135,59 @@
         }
       ],
       "id": 56469,
-      "category": "Zubereitungsarten von Eiern",
+      "category": "Zubereitung von Eiern",
       "prompt": "Welche Zubereitungsart von Ei spiegelt euch am besten wider?"
     },
     {
       "roles": [
         {
-          "name": "Kaffee",
+          "name": "riesige Augen",
           "required": false,
           "tags": [
-            "traditioneller",
-            "verantwortungsbewusster"
+            "Beobachter",
+            "wachsamer"
           ]
         },
         {
-          "name": "Tee",
+          "name": "angespannter Arm",
           "required": false,
           "tags": [
-            "ruhiger",
-            "besonnener",
-            "kluger"
+            "Athlet",
+            "starker"
           ]
         },
         {
-          "name": "Energy Drink",
+          "name": "Feuer",
           "required": false,
           "tags": [
-            "chaotischer",
-            "wilder",
-            "unberechenbarer"
+            "heißer",
+            "Abtrünniger"
           ]
         },
         {
-          "name": "Alkohol",
-          "required": false,
+          "name": "Kackhaufen",
+          "required": true,
           "tags": [
-            "dummer",
-            "betrunkener",
-            "lauter"
+            "mürrischer",
+            "Stinker"
           ]
         },
         {
-          "name": "Leitungswasser",
+          "name": "Diskette",
           "required": false,
           "tags": [
-            "einfacher",
-            "gesunder"
+            "altertümlicher",
+            "schlauer",
+            "Nerd"
           ]
         },
         {
-          "name": "Cola",
-          "required": false,
+          "name": "Aubergine",
+          "required": true,
           "tags": [
-            "süßer",
+            "Flirter",
             "frecher",
-            "unkomplizierter"
+            "Joker"
           ]
         }
       ],
@@ -6259,68 +6251,72 @@
                 "fancier",
                 "Spinner"
               ]
+            },
+            {
+              "idx": 8,
+              "name": "Zylinder",
+              "tags": [
+                "schicker",
+                "Spinner"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 57324,
-      "category": "Erstes Getränk am Morgen",
-      "prompt": "Was würde jeder von euch trinken, um morgens wach zu werden?"
+      "category": "Emoji",
+      "prompt": "Welches Emoji würdest du am ehesten in einer Nachricht verwenden?"
     },
     {
       "roles": [
         {
-          "name": "“Lasst mich durch, ich bin Arzt!”",
+          "name": "“Der Verkehr war die Hölle!”",
           "required": false,
           "tags": [
-            "heroischer",
-            "selbstloser"
+            "Pendler",
+            "geplagter"
           ]
         },
         {
-          "name": "“Meine Frau bekommt ein Baby!”",
+          "name": "“Mein Wecker hat nicht geklingelt.”",
           "required": false,
           "tags": [
-            "dramatischer",
-            "emotionaler",
+            "Faulenzer",
+            "schläfriger"
+          ]
+        },
+        {
+          "name": "“Ich habe die ganze Nacht gekotzt.”",
+          "required": false,
+          "tags": [
+            "Partytyp",
+            "kränklicher"
+          ]
+        },
+        {
+          "name": "“Musste mit meinem Hund zum Tierarzt.”",
+          "required": false,
+          "tags": [
+            "Tierfreund",
             "fürsorglicher"
           ]
         },
         {
-          "name": "“Ich habe einen wichtigen Termin!”",
+          "name": "“Bin ich zu spät? Wusste ich gar nicht.”",
           "required": false,
           "tags": [
-            "geschäftlicher",
-            "ehrgeiziger",
-            "zielstrebiger"
+            "ahnungsloser",
+            "Faulenzer"
           ]
         },
         {
-          "name": "“Meine Chicken Nuggets verbrennen!”",
-          "required": false,
+          "name": "“Vielleicht bist DU ja zu früh.”",
+          "required": true,
           "tags": [
-            "panischer",
-            "chaotischer",
-            "kindischer"
-          ]
-        },
-        {
-          "name": "“Ich bin wichtig, ich habe ein Vorrecht!”",
-          "required": false,
-          "tags": [
-            "egoistischer",
-            "Arrogant",
-            "selbstverliebter"
-          ]
-        },
-        {
-          "name": "“Ich muss dringend aufs Klo!”",
-          "required": false,
-          "tags": [
-            "unbeherrschter",
-            "nervöser",
-            "verzweifelter"
+            "selbstbewusster",
+            "defensiver",
+            "Intrigant"
           ]
         }
       ],
@@ -6384,12 +6380,12 @@
         {
           "roles": [
             {
-              "name": "In Ruhe darauf warten, dass man dran kommt",
+              "name": "*Unverständliches Schluchzen*",
               "idx": 6,
               "tags": [
-                "geduldiger",
-                "ruhiger",
-                "selbstbeherrschter"
+                "Heulsuse-Typ",
+                "unreifer",
+                "unverständlicher"
               ]
             }
           ],
@@ -6397,8 +6393,8 @@
         }
       ],
       "id": 56207,
-      "category": "Ausreden um sich vorzudrängeln",
-      "prompt": "Welche Ausrede würdet ihr nutzen, um euch vorzudrängeln?"
+      "category": "Ausreden fürs Zuspätkommen",
+      "prompt": "Welche Ausrede fürs Zuspätkommen passt am besten zu euch?"
     },
     {
       "roles": [
@@ -6517,6 +6513,14 @@
                 "heimatverbundener",
                 "zurückhaltender"
               ]
+            },
+            {
+              "idx": 7,
+              "name": "“Neues Handy. Wer ist da?”",
+              "tags": [
+                "ahnungsloser",
+                "Einzelgänger"
+              ]
             }
           ],
           "id": "Consolation"
@@ -6530,62 +6534,62 @@
       "roles": [
         {
           "name": "Der, der so tut, als ob er trainiert",
-          "short": "Der Simulant",
           "required": false,
           "tags": [
             "Ignorant",
             "verblendeter"
-          ]
+          ],
+          "short": "Der Simulant"
         },
         {
           "name": "Der Dicke, der es ernst meint",
-          "short": "Der Dicke",
           "required": false,
           "tags": [
             "unsportlicher",
             "fettsüchtiger",
             "ehrgeiziger"
-          ]
+          ],
+          "short": "Der Dicke"
         },
         {
           "name": "Der, der voll mit Steroide gepumpt ist",
-          "short": "Das Muskelpaket",
           "required": false,
           "tags": [
             "starker",
             "aggressiver",
             "Dominant"
-          ]
+          ],
+          "short": "Das Muskelpaket"
         },
         {
           "name": "Der, der das Abo bezahlt, aber nicht hingeht",
-          "short": "Der Faulenzer",
           "required": false,
           "tags": [
             "fauler",
             "unmotivierter",
             "reicher"
-          ]
+          ],
+          "short": "Der Faulenzer"
         },
         {
           "name": "Der, der wegen guten Vorsätzen um Silvester hingeht",
-          "short": "Der Neujahrs-Gänger",
           "required": false,
           "tags": [
             "ehrgeiziger",
             "motivierter",
             "Verplant"
-          ]
+          ],
+          "short": "Der Neujahrs-Gänger"
         },
         {
           "name": "Der, der denkt, er sei der krasseste, aber nix macht",
-          "short": "Der Ego-Pumper",
           "required": false,
           "tags": [
             "selbstverliebter",
             "dummer",
             "lauter"
-          ]
+          ],
+          "short": "Der Ego-Pumper"
         }
       ],
       "x": true,
@@ -6643,13 +6647,13 @@
           "roles": [
             {
               "name": "Der, für den es nur ein Gerät im Studio gibt",
-              "short": "Der Fokussierte",
               "idx": 3,
               "tags": [
                 "zielstrebiger",
                 "disziplinierter",
                 "fokussierter"
-              ]
+              ],
+              "short": "Der Fokussierte"
             }
           ],
           "id": "Consolation"
@@ -6657,7 +6661,7 @@
       ],
       "id": 56257,
       "category": "Im Fitnessstudio",
-      "prompt": "Welche Art von Fitnessstudio-Gänger wärst ihr?"
+      "prompt": "Welche Art von Fitnessstudio-Gänger wärt ihr?"
     },
     {
       "roles": [
@@ -7460,7 +7464,7 @@
         },
         {
           "name": "Paranoia",
-          "required": false,
+          "required": true,
           "tags": [
             "misstrauischer",
             "ängstlicher",
@@ -7940,58 +7944,56 @@
     {
       "roles": [
         {
-          "name": "<i>69</i>",
+          "name": "RTL",
           "required": false,
           "tags": [
-            "erotischer",
-            "erregter",
-            "aufreizender",
-            "verführerischer"
+            "assozialer",
+            "dummer",
+            "lauter"
           ]
         },
         {
-          "name": "<i>420</i>",
+          "name": "ARD",
           "required": false,
           "tags": [
-            "entspannter",
-            "berauschter"
+            "konservativer",
+            "informativer",
+            "altmodischer"
           ]
         },
         {
-          "name": "<i>31</i>",
+          "name": "Pro7",
           "required": false,
           "tags": [
-            "verräterischer",
-            "listiger",
-            "heimtückischer",
-            "hinterhältiger"
+            "aggressiver",
+            "unterhaltsamer",
+            "schneller"
           ]
         },
         {
-          "name": "<i>13</i>",
+          "name": "KiKA",
           "required": false,
           "tags": [
-            "unglücklicher",
-            "dummer"
+            "kindlicher",
+            "fröhlicher",
+            "naiver"
           ]
         },
         {
-          "name": "<i>666</i>",
+          "name": "arte",
           "required": false,
           "tags": [
-            "satanistischer",
-            "okkulter",
-            "dämonischer",
-            "bösartiger"
+            "gebildeter",
+            "kreativer",
+            "künstlerischer"
           ]
         },
         {
-          "name": "<i>888</i>",
+          "name": "Super RTL",
           "required": false,
           "tags": [
-            "glücklicher",
-            "wohlhabender",
-            "zufriedener"
+            "junger",
+            "moderner"
           ]
         }
       ],
@@ -8049,11 +8051,11 @@
         {
           "roles": [
             {
-              "name": "<i>404</i>",
+              "name": "Netflix",
               "idx": 6,
               "tags": [
-                "verlorener",
-                "verwirrter"
+                "vielseitiger",
+                "populärer"
               ]
             }
           ],
@@ -8061,62 +8063,62 @@
         }
       ],
       "id": 57047,
-      "category": "Mehrdeutige Zahlen",
-      "prompt": "?"
+      "category": "Fernsehsender",
+      "prompt": "Welcher Fernsehsender beschreibt jeden von euch am besten?"
     },
     {
       "roles": [
         {
-          "name": "RTL",
-          "required": false,
+          "name": "Oma",
+          "required": true,
           "tags": [
-            "assozialer",
-            "dummer",
-            "lauter"
+            "klassischer",
+            "spießiger",
+            "traditioneller"
           ]
         },
         {
-          "name": "ARD",
-          "required": false,
+          "name": "Ommi",
+          "required": true,
           "tags": [
-            "konservativer",
-            "informativer",
-            "altmodischer"
+            "volkstümlicher",
+            "entspannter",
+            "liebenswerter"
           ]
         },
         {
-          "name": "Pro7",
+          "name": "Moni",
           "required": false,
           "tags": [
-            "aggressiver",
-            "unterhaltsamer",
-            "schneller"
+            "cooler",
+            "Hipster",
+            "großstädtischer"
           ]
         },
         {
-          "name": "KIKA",
+          "name": "Babuschka",
           "required": false,
           "tags": [
-            "kindlicher",
-            "fröhlicher",
-            "naiver"
+            "Fürsorger",
+            "kultivierter",
+            "altweltlicher"
           ]
         },
         {
-          "name": "arte",
+          "name": "Waltraud",
           "required": false,
           "tags": [
-            "gebildeter",
-            "kreativer",
-            "künstlerischer"
+            "Quatschkopf",
+            "alberner",
+            "durchgeknallter"
           ]
         },
         {
-          "name": "Super RTL",
+          "name": "Helga",
           "required": false,
           "tags": [
-            "junger",
-            "moderner"
+            "förmlicher",
+            "professioneller"
           ]
         }
       ],
@@ -8180,21 +8182,29 @@
                 "vielseitiger",
                 "populärer"
               ]
+            },
+            {
+              "idx": 9,
+              "name": "Gruselige alte Renate",
+              "tags": [
+                "gruseliger",
+                "gespenstischer"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56479,
-      "category": "Fernsehsender",
-      "prompt": "Welcher Fernsehsender beschreibt jeden von euch am besten?"
+      "category": "Oma-Namen",
+      "prompt": "Welcher Oma-Name passt am besten zu euch?"
     },
     {
       "roles": [
         {
           "name": "Jupiter, der König der Götter",
           "short": "Jupiter",
-          "required": false,
+          "required": true,
           "tags": [
             "mächtiger",
             "charismatischer",
@@ -8234,7 +8244,7 @@
         {
           "name": "Pluto, der Gott der Unterwelt",
           "short": "Pluto",
-          "required": false,
+          "required": true,
           "tags": [
             "düsterer",
             "böser",
@@ -8244,7 +8254,7 @@
         {
           "name": "Bacchus, der Gott des Weins",
           "short": "Bacchus",
-          "required": false,
+          "required": true,
           "tags": [
             "betrunkener",
             "ekstatischer",
@@ -8325,62 +8335,59 @@
     {
       "roles": [
         {
-          "name": "Chaotisch Böse (Chaotic Evil)",
-          "short": "Chaotisch Böse",
+          "name": "traditioneller Handschlag",
+          "short": "Handschlag",
           "required": false,
           "tags": [
-            "bösartiger",
-            "manipulativer",
-            "unberechenbarer"
+            "klassischer",
+            "förmlicher",
+            "respektvoller",
+            "spießiger"
           ]
         },
         {
-          "name": "Neutral Böse (Neutral Evil)",
-          "short": "Neutral Böse",
+          "name": "Faustgruß",
           "required": false,
           "tags": [
-            "rücksichtsloser",
-            "kalter"
+            "lässiger",
+            "cooler"
           ]
         },
         {
-          "name": "Rechtschaffen Böse (Lawful Evil)",
-          "short": "Rechtschaffen Böse",
+          "name": "mehrere Wangenküsse",
+          "short": "Wangenküsse",
           "required": false,
           "tags": [
-            "ehrgeiziger",
-            "machtgieriger",
-            "kontrollierender"
+            "zärtlicher",
+            "tantenhafter"
           ]
         },
         {
-          "name": "Chaotisch Gut (Chaotic Good)",
-          "short": "Chaotisch Gut",
+          "name": "zarter Fingerschüttler",
+          "short": "Fingerschüttler",
           "required": false,
           "tags": [
-            "kreativer",
-            "wilder",
-            "rebellischer"
+            "zierlicher",
+            "Sonderling",
+            "schräger"
           ]
         },
         {
-          "name": "Rechtschaffen Gut (Lawful Good)",
-          "short": "Rechtschaffen Gut",
+          "name": "warme Umarmung",
+          "short": "Umarmung",
           "required": false,
           "tags": [
-            "hilfsbereiter",
-            "moralischer",
-            "ehrlicher"
+            "fürsorglicher",
+            "liebenswerter"
           ]
         },
         {
-          "name": "Neutral Gut (Neutral Good)",
-          "short": "Neutral Gut",
+          "name": "das berührungslose “Hallo”",
+          "short": "Nur hallo",
           "required": false,
           "tags": [
-            "freundlicher",
-            "mitfühlender",
-            "altruistischer"
+            "vorsichtiger",
+            "Keimphobiker"
           ]
         }
       ],
@@ -8438,13 +8445,12 @@
         {
           "roles": [
             {
-              "name": "Wahrlich Neutral (True Neutral)",
-              "short": "Wahrlich Neutral",
+              "name": "kommuniziert nur über Anwälte",
               "idx": 0,
               "tags": [
-                "selbstsüchtiger",
-                "anpassungsfähiger",
-                "ausgeglichener"
+                "geschäftsmäßiger",
+                "Geschäftsmann",
+                "defensiver"
               ]
             }
           ],
@@ -8452,8 +8458,8 @@
         }
       ],
       "id": 56653,
-      "category": "Rollenspiel-Gesinnungen (engl. Alignments)",
-      "prompt": "Welche dieser Gesinnungen würdet ihr jedem von euch zuordnen?"
+      "category": "Begrüßungen",
+      "prompt": "Welche persönliche Begrüßung seid ihr?"
     },
     {
       "roles": [
@@ -8484,7 +8490,7 @@
           ]
         },
         {
-          "name": "Der, der nur Kontakt knüpfen will",
+          "name": "Der, der nur Kontakte knüpfen will",
           "required": false,
           "tags": [
             "sozialer",
@@ -8577,61 +8583,58 @@
         }
       ],
       "id": 57357,
-      "category": "Spielemesse",
-      "prompt": "Welcher Videospielmessen-Besucher ist jeder von euch?"
+      "category": "Gamescom",
+      "prompt": "Welcher Gamescom-Besucher ist jeder von euch?"
     },
     {
       "roles": [
         {
-          "name": "Note 1",
-          "required": false,
+          "name": "Daumen",
+          "required": true,
           "tags": [
-            "Intelligent",
-            "analytischer",
-            "strategischer"
+            "selbstbewusster",
+            "Influencer",
+            "vielseitiger"
           ]
         },
         {
-          "name": "Note 2",
-          "required": false,
+          "name": "Zeigefinger",
+          "required": true,
           "tags": [
-            "fleißiger",
-            "engagierter"
+            "verlässlicher",
+            "Arbeiter"
           ]
         },
         {
-          "name": "Note 3",
-          "required": false,
+          "name": "Mittelfinger",
+          "required": true,
           "tags": [
-            "durchschnittlicher",
-            "anpassungsfähiger"
+            "Griesgram",
+            "vulgärer"
           ]
         },
         {
-          "name": "Note 4",
+          "name": "Ringfinger",
           "required": false,
           "tags": [
-            "praktischer",
-            "fauler",
-            "realistischer"
+            "Modeheld",
+            "romantischer"
           ]
         },
         {
-          "name": "Note 6",
-          "required": false,
+          "name": "kleiner Finger",
+          "required": true,
           "tags": [
-            "unmotivierter",
-            "desinteressierter"
+            "süßer",
+            "winziger"
           ]
         },
         {
-          "name": "Schwänzt die Klausur, um eine einfachere Nachholprüfung zu bekommen",
-          "short": "Schwänzt die Klausur",
+          "name": "Fingerknöchel",
           "required": false,
           "tags": [
-            "dummer",
-            "strategischer",
-            "listiger"
+            "Kämpfer",
+            "harter"
           ]
         }
       ],
@@ -8689,12 +8692,12 @@
         {
           "roles": [
             {
-              "name": "Ist der Mathe-Lehrer",
+              "name": "schwitzige Handfläche",
               "idx": 4,
               "tags": [
-                "gebildeter",
-                "motivierter",
-                "hilfsbereiter"
+                "nervöser",
+                "schwitziger",
+                "Sorgenmacher"
               ]
             }
           ],
@@ -8702,62 +8705,60 @@
         }
       ],
       "id": 56558,
-      "category": "Mathe-Klausur",
-      "prompt": "Wenn ihr alle eine Mathe-Prüfung schreiben müsstet, welche Note würde jeder von euch bekommen?"
+      "category": "Handteile",
+      "prompt": "Welcher Teil einer Hand beschreibt euch am besten?"
     },
     {
       "roles": [
         {
-          "name": "Hofnarr",
-          "required": false,
+          "name": "#blessed",
+          "required": true,
           "tags": [
-            "witziger",
-            "tollpatschiger",
-            "beliebter"
+            "unzerstörbarer",
+            "magischer",
+            "Auserwählter"
           ]
         },
         {
-          "name": "Inquisitor",
+          "name": "#nofilter",
           "required": false,
           "tags": [
-            "strenger",
-            "unbarmherziger",
-            "furchteinflößender"
+            "mutiger",
+            "Angeber"
           ]
         },
         {
-          "name": "Klerus",
-          "required": false,
+          "name": "#YOLO",
+          "required": true,
+          "tags": [
+            "Partytyp",
+            "Adrenalinjunkie"
+          ]
+        },
+        {
+          "name": "#HochDieHände",
+          "required": true,
           "tags": [
             "spiritueller",
-            "religiöser",
-            "frommer"
+            "Mentor",
+            "kluger"
           ]
         },
         {
-          "name": "Henker",
+          "name": "#followme",
           "required": false,
           "tags": [
-            "grausamer",
-            "düsterer",
-            "furchtbarer"
+            "Influencer",
+            "Anführer",
+            "freundlicher"
           ]
         },
         {
-          "name": "Ritter",
+          "name": "#legday",
           "required": false,
           "tags": [
-            "edler",
-            "tapferer",
-            "ehrenhafter"
-          ]
-        },
-        {
-          "name": "Bäcker",
-          "required": false,
-          "tags": [
-            "kräftiger",
-            "begabter"
+            "starker",
+            "Gesundheitsfanatiker"
           ]
         }
       ],
@@ -8815,13 +8816,13 @@
         {
           "roles": [
             {
-              "name": "König",
+              "name": "#werbung",
               "idx": 6,
               "tags": [
-                "mächtiger",
-                "reicher",
-                "charismatischer",
-                "Dominant"
+                "Hochstapler",
+                "Geldmacher",
+                "Intrigant",
+                "spammiger"
               ]
             }
           ],
@@ -8829,61 +8830,64 @@
         }
       ],
       "id": 56129,
-      "category": "Im Mittelalter",
-      "prompt": "Welche Tätigkeit würdet ihr im Mittelalter ausüben?"
+      "category": "Hashtags",
+      "prompt": "Welcher klassische Hashtag passt am besten zu euch?"
     },
     {
       "roles": [
         {
-          "name": "Streifenpolizist",
+          "name": "Baseballkappe",
           "required": false,
           "tags": [
-            "aufmerksamer",
-            "durchsetzungsfähiger",
-            "teamfähiger"
+            "Athlet",
+            "lässiger",
+            "fauler",
+            "sportlicher"
           ]
         },
         {
-          "name": "Kriminalkommissar",
+          "name": "Zylinder",
           "required": false,
           "tags": [
-            "analytischer",
-            "detailorientierter",
-            "aufmerksamer"
+            "würdiger",
+            "altmodischer",
+            "Gesellschaftsmensch"
           ]
         },
         {
-          "name": "Hundeführer",
+          "name": "Barett",
           "required": false,
           "tags": [
-            "tierlieber",
-            "einfühlsamer",
-            "geduldiger"
+            "Künstler",
+            "Hipster",
+            "prätentiöser"
           ]
         },
         {
-          "name": "Forensiker",
+          "name": "Cowboyhut",
           "required": false,
           "tags": [
-            "wissenschaftlicher",
-            "präziser"
+            "Cowboy",
+            "rustikaler"
           ]
         },
         {
-          "name": "Cyber-Ermittler",
+          "name": "Hipster-Beanie",
           "required": false,
           "tags": [
-            "technikaffiner",
-            "kreativer"
+            "Hipster",
+            "Millennial-Typ",
+            "Faulenzer"
           ]
         },
         {
-          "name": "SEK-Mitglied",
+          "name": "Fischerhut",
           "required": false,
           "tags": [
-            "lauter",
-            "aggressiver",
-            "furchtloser"
+            "selbstbewusster",
+            "kecker",
+            "Partytyp",
+            "trendiger"
           ]
         }
       ],
@@ -8941,12 +8945,12 @@
         {
           "roles": [
             {
-              "name": "Polizei-Pressesprecher",
+              "name": "Bauarbeiterhelm",
               "idx": 6,
               "tags": [
-                "kommunikativer",
-                "redegewandter",
-                "überzeugender"
+                "vorsichtiger",
+                "hart arbeitender",
+                "Arbeiter"
               ]
             }
           ],
@@ -8954,8 +8958,8 @@
         }
       ],
       "id": 56141,
-      "category": "Bei der Polizei",
-      "prompt": "Wenn jeder von euch bei der Polizei wäre, welchen Job würdet ihr ausüben?"
+      "category": "Hüte",
+      "prompt": "Welcher Hut passt am besten zu euch?"
     },
     {
       "roles": [
@@ -9216,7 +9220,7 @@
       ],
       "id": 56451,
       "category": "Schul-AGs",
-      "prompt": "Welche Schul-AG wärt ihr jeweils?"
+      "prompt": "Welche Schul-AG wärt ihr?"
     },
     {
       "roles": [
@@ -9508,7 +9512,7 @@
           "required": false,
           "tags": [
             "metallischer",
-            "starker",
+            "stärkerer",
             "Trendsetter"
           ]
         },
@@ -9518,7 +9522,7 @@
           "tags": [
             "königlicher",
             "Partylöwe",
-            "softer"
+            "weicherer"
           ]
         },
         {
@@ -9565,9 +9569,9 @@
           "prompts": [
             {
               "role": 3,
-              "question": "Bitte beschreib, was die Clowns in deinem Bild machen.",
+              "question": "Wie lange dauert es normalerweise, bis jemand stirbt, nachdem er in die Augen der Clownmalerei geblickt hat?",
               "name": "Clownmalerei",
-              "idx": 0
+              "idx": 4
             },
             {
               "role": 5,
@@ -9642,7 +9646,7 @@
         {
           "roles": [
             {
-              "name": "dekoratives Schild mit der Aufschrift “SCHOKOHOLIC”",
+              "name": "dekoratives Schild mit der Aufschrift “SCHOKOHOLIKER”",
               "idx": 8,
               "tags": [
                 "Feinschmecker",
@@ -9655,7 +9659,7 @@
         }
       ],
       "id": 56505,
-      "category": "dekorative Akzentstücke für das Haus",
+      "category": "Dekorative Akzente für das Haus",
       "prompt": "Welcher dekorative Einrichtungsgegenstand passt am besten zu jedem von Ihnen?"
     },
     {
@@ -9899,7 +9903,7 @@
             },
             {
               "role": 1,
-              "question": "Antwort als Kaffee: Warum sollte man nicht mit jemandem reden, bevor man dich hat?",
+              "question": "Antworte als Kaffee: Warum sollte man nicht mit jemandem reden, bevor man dich hat?",
               "name": "Kaffee",
               "idx": 1
             }
@@ -10253,7 +10257,7 @@
           ]
         },
         {
-          "name": "Cinco de Mayo",
+          "name": "Rosenmontag",
           "required": false,
           "tags": [
             "Party Typ",
@@ -10269,7 +10273,7 @@
           ]
         },
         {
-          "name": "Earth Day",
+          "name": "Weltumwelttag",
           "required": false,
           "tags": [
             "Hippie",
@@ -10342,47 +10346,12 @@
             {
               "role": 0,
               "question": "Wer ist wegen der Kostüme dabei und wer wegen der Süßigkeiten?",
-              "roles": [
-                {
-                  "name": "Halloween Kostüme",
-                  "tags": [
-                    "Modeguru",
-                    "lustiger",
-                    "wilder"
-                  ]
-                },
-                {
-                  "name": "Halloween Süßigkeiten",
-                  "tags": [
-                    "chocoholicer",
-                    "begehrender",
-                    "hungriger"
-                  ]
-                }
-              ],
               "name": "Halloween",
               "idx": 1
             },
             {
               "role": 3,
               "question": "Wer ist der unschuldige, harmlose Streich und wer ist der Streich, der jemanden zum Weinen bringt?",
-              "roles": [
-                {
-                  "name": "harmloser Aprilscherz",
-                  "tags": [
-                    "Freund",
-                    "lustiger",
-                    "alberner"
-                  ]
-                },
-                {
-                  "name": "verletzender Aprilscherz",
-                  "tags": [
-                    "Schuft",
-                    "spitzbübischer"
-                  ]
-                }
-              ],
               "name": "erster April",
               "idx": 5
             }
@@ -10403,8 +10372,8 @@
         }
       ],
       "id": 56409,
-      "category": "Informelle Feiertage",
-      "prompt": "Welcher nicht-staatliche Feiertag ist für jeden von euch am besten geeignet?"
+      "category": "Feiertage",
+      "prompt": "Welcher nicht-gesetzliche Feiertag seid ihr?"
     },
     {
       "roles": [
@@ -11230,57 +11199,58 @@
     {
       "roles": [
         {
-          "name": "lauter Sex",
+          "name": "Derjenige, der laut telefoniert",
           "required": false,
           "tags": [
-            "selbstbewusster",
-            "Schwarm",
-            "offenkundig sexueller"
+            "lauter",
+            "egoistischer"
           ]
         },
         {
-          "name": "lauter EDM DJ",
+          "name": "Der Alleinerzieher mit fünf Kindern",
           "required": false,
           "tags": [
-            "Angeber",
-            "künstlerischer"
+            "gestresster",
+            "überforderter"
           ]
         },
         {
-          "name": "lautes Hundegebell",
+          "name": "Der, der das Zugabteil als Arbeitsplatz nutzt",
           "required": false,
           "tags": [
-            "Tierliebhaber",
-            "lauter"
+            "fokussierter",
+            "produktiver"
           ]
         },
         {
-          "name": "lautes, betrunkenes Streiten",
+          "name": "Der, der sich ständig beim Zugpersonal beschwert",
           "required": false,
           "tags": [
-            "aggressiver",
-            "Chaot"
+            "nörgeliger",
+            "unzufriedener",
+            "kritischer"
           ]
         },
         {
-          "name": "laute Küchenrenovierung",
+          "name": "Der, der seinen Kopfhörer aufsetzt und dem alles egal ist",
           "required": false,
           "tags": [
-            "Aristokrat",
-            "stylisher"
-          ]
+            "desinteressierter",
+            "abweisender"
+          ],
+          "short": "Der Gleichgültige"
         },
         {
-          "name": "lautes geigenübendes Kind",
-          "required": false,
+          "name": "Der, der gesundheitlich angeschlagen Zug fährt",
+          "required": true,
           "tags": [
-            "musikalischer",
-            "elterlicher",
-            "Unterstützer"
-          ]
+            "rücksichtsloser",
+            "kranker"
+          ],
+          "short": "Der Infizierte"
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
         {
           "id": "standard"
@@ -11334,12 +11304,12 @@
         {
           "roles": [
             {
-              "name": "lauter einsamer Schrei in der Nacht",
+              "name": "Stammgast im Bordbistro",
               "idx": 6,
               "tags": [
-                "mysteriöser",
-                "unheimlicher",
-                "Unruhestifter"
+                "geselliger",
+                "genussfreudiger",
+                "unterhaltsamer"
               ]
             }
           ],
@@ -11347,13 +11317,13 @@
         }
       ],
       "id": 57209,
-      "category": "Laute Nachbarn",
-      "prompt": "Welcher laute Nachbar seid ihr jeweils?"
+      "category": "ICE-Fahrgäste",
+      "prompt": "Welche Art von Fahrgast seid ihr in einem ICE?"
     },
     {
       "roles": [
         {
-          "name": "SIX",
+          "name": "H&M",
           "required": false,
           "tags": [
             "niedlicher",
@@ -11477,7 +11447,7 @@
       ],
       "id": 56651,
       "category": "Läden im Einkaufszentrum",
-      "prompt": "Welcher Einkaufszentrumsladen seid ihr?"
+      "prompt": "Welcher Laden im Einkaufszentrum seid ihr?"
     },
     {
       "roles": [
@@ -11610,51 +11580,57 @@
     {
       "roles": [
         {
-          "name": "Meagan",
+          "name": "Zauberlehrling",
           "required": false,
           "tags": [
-            "niedlicher",
-            "Influencer"
+            "lernwilliger",
+            "neugieriger",
+            "ehrgeiziger"
           ]
         },
         {
-          "name": "Meghan",
+          "name": "Verfluchte Prinzessin",
           "required": false,
           "tags": [
-            "Boss",
-            "Klassiker"
+            "verwöhnter",
+            "dramatischer",
+            "Arrogant"
           ]
         },
         {
-          "name": "Maygan",
+          "name": "Der weise Alte",
           "required": false,
           "tags": [
-            "künstlerischer",
-            "Freigeist"
+            "allwissender",
+            "geduldiger",
+            "gebrechlicher"
           ]
         },
         {
-          "name": "Meighan",
+          "name": "Die Stiefmutter",
           "required": false,
           "tags": [
-            "Rebell",
-            "skurriler"
+            "hinterhältiger",
+            "eifersüchtiger",
+            "kalter"
           ]
         },
         {
-          "name": "Margarine",
-          "required": false,
+          "name": "Böser Wolf",
+          "required": true,
           "tags": [
-            "wohltuender",
-            "Feinschmecker"
+            "behaarter",
+            "wilder",
+            "gefährlicher"
           ]
         },
         {
-          "name": "Peggy",
+          "name": "Tapferer Held",
           "required": false,
           "tags": [
-            "Opa",
-            "unbeachteter"
+            "mutiger",
+            "edler",
+            "starker"
           ]
         }
       ],
@@ -11719,14 +11695,23 @@
                 "massiver",
                 "gewalttätiger"
               ]
+            },
+            {
+              "idx": 1,
+              "name": "Kolossaler Drache",
+              "tags": [
+                "mächtiger",
+                "angsteinflößender",
+                "feuriger"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56263,
-      "category": "Megans",
-      "prompt": "Welche Schreibweise von Megan seid ihr?"
+      "category": "Märchenwelt",
+      "prompt": "Welche Märchenfigur wärt ihr in einer Märchenwelt?"
     },
     {
       "roles": [
@@ -11860,7 +11845,7 @@
       ],
       "id": 56789,
       "category": "Metal Genres",
-      "prompt": "Welches Genre von Metal sind Sie?"
+      "prompt": "Welches Metal-Genre seid ihr?"
     },
     {
       "roles": [
@@ -11992,7 +11977,7 @@
         }
       ],
       "id": 56727,
-      "category": "Methoden zum Verstecken von Genitalien",
+      "category": "Verstecken von Genitalien",
       "prompt": "Welche Methode zum Verstecken von Genitalien seid ihr?"
     },
     {
@@ -12128,7 +12113,7 @@
         }
       ],
       "id": 56575,
-      "category": "Mid-Life Crises",
+      "category": "Mid-Life Crisis",
       "prompt": "Welche Midlife-Crisis passt zu jedem von euch?"
     },
     {
@@ -12368,9 +12353,9 @@
             },
             {
               "role": 5,
-              "question": "Wer würde nur dann zur Lösung eines Konflikts eingreifen, wenn es unbedingt notwendig ist?",
+              "question": "Wenn du ein Remake des Films <i>Alles Routine</i> machen würdest, wer würde den Vorgesetzten Bill Lumbergh spielen?",
               "name": "“kontrollieren”",
-              "idx": 7
+              "idx": 8
             },
             {
               "role": 5,
@@ -13032,9 +13017,9 @@
           "prompts": [
             {
               "role": 2,
-              "question": "Was ist dein Lieblingssong oder -album von Vampire Weekend, The Black Keys oder Radiohead?",
+              "question": "Was ist das richtige Gefäß zum Trinken von Kaffee?",
               "name": "dünner schwarzer Hipster",
-              "idx": 0
+              "idx": 6
             },
             {
               "role": 2,
@@ -13327,15 +13312,15 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Wer war die Person, von der du in der Schulzeit nicht wolltest, dass sie dich nackt sieht?",
+              "question": "Was ist das absolut schlimmste Fach, in dem man nackt sein kann?",
               "name": "Nackt vor der Klasse",
-              "idx": 0
+              "idx": 6
             },
             {
               "role": 2,
-              "question": "Wovon bist du gestresst?",
+              "question": "Wenn du deine verlorenen Zähne durch irgendetwas auf der Welt ersetzen könntest, was wäre es?",
               "name": "Ausfallende Zähne",
-              "idx": 2
+              "idx": 7
             },
             {
               "role": 3,
@@ -13536,55 +13521,56 @@
     {
       "roles": [
         {
-          "name": "in der Wildnis verloren",
+          "name": "“Lasst mich durch, ich bin Arzt!”",
           "required": false,
           "tags": [
-            "Entdecker",
-            "verlorener"
+            "heroischer",
+            "selbstloser"
           ]
         },
         {
-          "name": "im Duell getötet",
+          "name": "“Meine Frau bekommt ein Baby!”",
           "required": false,
           "tags": [
-            "Aristokrat",
-            "nobler"
+            "dramatischer",
+            "emotionaler",
+            "fürsorglicher"
           ]
         },
         {
-          "name": "altertümliche Geschlechtskrankheit",
+          "name": "“Ich habe einen wichtigen Termin!”",
           "required": false,
           "tags": [
-            "unbekümmerter",
-            "Flirtprofi",
-            "Freigeist"
+            "geschäftlicher",
+            "ehrgeiziger",
+            "zielstrebiger"
           ]
         },
         {
-          "name": "ärztlich verordneter Aderlass",
+          "name": "“Meine Chicken Nuggets verbrennen!”",
           "required": false,
           "tags": [
-            "blutiger",
-            "Blutsauger"
+            "panischer",
+            "chaotischer",
+            "kindischer"
           ]
         },
         {
-          "name": "als Hexe verbrannt",
+          "name": "“Ich bin wichtig, ich habe ein Vorrecht!”",
           "required": false,
           "tags": [
-            "unabhängiger",
-            "missverstandener",
-            "Mystiker"
+            "egoistischer",
+            "Arrogant",
+            "selbstverliebter"
           ]
         },
         {
-          "name": "Seeungeheuer",
+          "name": "“Ich muss dringend aufs Klo!”",
           "required": false,
           "tags": [
-            "Unmensch",
-            "mutiger",
-            "fischiger",
-            "legendärer"
+            "unbeherrschter",
+            "nervöser",
+            "verzweifelter"
           ]
         }
       ],
@@ -13677,14 +13663,23 @@
                 "Trottel",
                 "unglücklicher"
               ]
+            },
+            {
+              "idx": 6,
+              "name": "In Ruhe darauf warten, dass man dran kommt",
+              "tags": [
+                "geduldiger",
+                "ruhiger",
+                "selbstbeherrschter"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56259,
-      "category": "mittelalterliche Tode",
-      "prompt": "Wie wäre jeder von euch im Jahr 1610 gestorben?"
+      "category": "Ausreden um sich vorzudrängeln",
+      "prompt": "Welche Ausrede würdet ihr nutzen, um euch vorzudrängeln?"
     },
     {
       "roles": [
@@ -13796,54 +13791,56 @@
     {
       "roles": [
         {
-          "name": "Schrecklich gut",
+          "name": "Metal",
           "required": false,
           "tags": [
-            "schrecklich guter",
-            "Schatz"
+            "lauter",
+            "düsterer",
+            "rebellischer"
           ]
         },
         {
-          "name": "Definitiv vielleicht",
-          "required": true,
-          "tags": [
-            "vorsichtiger",
-            "unentschlossener",
-            "Schwafler"
-          ]
-        },
-        {
-          "name": "Lebender Toter",
-          "required": true,
-          "tags": [
-            "watschelnder",
-            "Zombie"
-          ]
-        },
-        {
-          "name": "Intensiv apathisch",
+          "name": "Rock",
           "required": false,
           "tags": [
-            "unbekümmerter",
-            "Freigeist",
-            "intensiv apathischer"
+            "cooler",
+            "lässiger",
+            "authentischer"
           ]
         },
         {
-          "name": "Jumbo shrimp",
-          "required": true,
-          "tags": [
-            "frittierter",
-            "fischiger",
-            "Wirbelloser"
-          ]
-        },
-        {
-          "name": "Bittersüß",
+          "name": "Pop",
           "required": false,
           "tags": [
-            "bittersüßer",
-            "altseeliger"
+            "bunter",
+            "fröhlicher",
+            "langweiliger",
+            "normaler"
+          ]
+        },
+        {
+          "name": "Rap",
+          "required": false,
+          "tags": [
+            "frecher",
+            "dreckiger",
+            "chaotischer"
+          ]
+        },
+        {
+          "name": "Country",
+          "required": false,
+          "tags": [
+            "bodenständiger",
+            "ehrlicher"
+          ]
+        },
+        {
+          "name": "Hardstyle",
+          "required": false,
+          "tags": [
+            "aggressiver",
+            "moderner"
           ]
         }
       ],
@@ -13946,14 +13943,23 @@
                 "extraer",
                 "Lügner"
               ]
+            },
+            {
+              "idx": 6,
+              "name": "Klassik",
+              "tags": [
+                "altmodischer",
+                "entspannter",
+                "kultivierter"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 57162,
-      "category": "Oxymorone",
-      "prompt": "Welches Oxymoron beschreibt euch am besten?"
+      "category": "Musikgenre",
+      "prompt": "Welches Musikgenre beschreibt jeden von euch?"
     },
     {
       "roles": [
@@ -14050,9 +14056,9 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Welcher Spieler würde einen besseren Eindruck hinterlassen, wenn er zu einem Abendessen mit Queen Elizabeth eingeladen würde?",
+              "question": "Welcher Spieler wäscht wohl öfter seine Bettwäsche?",
               "name": "passendes Set",
-              "idx": 0
+              "idx": 7
             },
             {
               "role": 4,
@@ -14332,9 +14338,9 @@
             },
             {
               "role": 2,
-              "question": "Welcher Spieler hat mehr Kunst an seinen Wänden?",
+              "question": "Welcher Spieler spricht “Künstler” eher als “Kühnstler” aus?",
               "name": "Kunstsammeln",
-              "idx": 4
+              "idx": 7
             },
             {
               "role": 5,
@@ -15188,57 +15194,60 @@
     {
       "roles": [
         {
-          "name": "reicher Geschäftsmann",
+          "name": "Polizist",
           "required": false,
           "tags": [
-            "Influencer",
-            "wohlhabender"
+            "gesetzestreuer",
+            "beschützender",
+            "autoritärer"
           ]
         },
         {
-          "name": "Held der Heimatstadt",
-          "required": false,
-          "tags": [
-            "Kraftprotz",
-            "zuverlässiger",
-            "netter",
-            "demütiger"
-          ]
-        },
-        {
-          "name": "untoter Krieger",
+          "name": "Cowboy",
           "required": false,
           "tags": [
             "mutiger",
-            "böser",
-            "unheimlicher",
-            "Krieger"
+            "abenteuerlustiger",
+            "wilder"
           ]
         },
         {
-          "name": "intriganter Handlanger",
+          "name": "Piratenkapitän",
           "required": false,
           "tags": [
-            "Intrigant",
-            "Kumpel"
+            "rebellischer",
+            "frecher",
+            "charismatischer"
           ]
         },
         {
-          "name": "ungehobelter Partylöwe",
+          "name": "Geschlechtsorgan",
           "required": false,
           "tags": [
-            "Party Typ",
-            "Unruhestifter"
+            "komischer",
+            "kindischer",
+            "unreifer"
           ]
         },
         {
-          "name": "trägt eine lebende Schlange",
-          "required": false,
+          "name": "Der, der Karneval hasst und sich nicht verkleidet",
+          "required": true,
           "tags": [
-            "Tierliebhaber",
-            "Schönling",
-            "stylisher"
-          ]
+            "miesepetriger",
+            "brummiger",
+            "unfreundlicher"
+          ],
+          "short": "Der Griesgram"
+        },
+        {
+          "name": "Der, der Karneval nur als Ausrede zum Saufen sieht",
+          "required": true,
+          "tags": [
+            "lauter",
+            "betrunkener",
+            "langweiliger"
+          ],
+          "short": "Der Saufkopf"
         }
       ],
       "x": false,
@@ -15318,14 +15327,23 @@
                 "Anwalt",
                 "rücksichtsloser"
               ]
+            },
+            {
+              "idx": 6,
+              "name": "Etwas Verbotenes",
+              "tags": [
+                "geheimnisvoller",
+                "chaotischer",
+                "Riskant"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56459,
-      "category": "Profi-Wrestling-Markenzeichen",
-      "prompt": "Wenn du ein professioneller Wrestler wärst, was davon wäre dein Markenzeichen?"
+      "category": "Karneval",
+      "prompt": "Welche Kostüme trägt jeder von euch bei einem Karnevalsumzug?"
     },
     {
       "roles": [
@@ -15654,7 +15672,7 @@
           "name": "Drogenmissbrauch",
           "required": false,
           "tags": [
-            "Party Typ",
+            "Party-Typ",
             "Unruhestifter"
           ]
         },
@@ -15685,9 +15703,9 @@
           "prompts": [
             {
               "role": 1,
-              "question": "Wo ist der interessanteste Ort, an dem du nackt warst?",
+              "question": "Erkläre den Punkt, an dem einfache Nacktheit zu grafischer Nacktheit wird.",
               "name": "grafische Nacktheit",
-              "idx": 1
+              "idx": 3
             },
             {
               "role": 1,
@@ -16122,9 +16140,9 @@
           "prompts": [
             {
               "role": 1,
-              "question": "Wer würde sich schnell ein Versteck suchen, wenn plötzlich ein Nachbar auftaucht, um Hallo zu sagen?",
+              "question": "Wer macht die meisten Nickerchen?",
               "name": "als Katze zurückkehren",
-              "idx": 0
+              "idx": 9
             },
             {
               "role": 4,
@@ -16197,55 +16215,61 @@
     {
       "roles": [
         {
-          "name": "Lieber",
+          "name": "Reinigungskraft",
           "required": false,
           "tags": [
-            "Begleiter",
-            "lieber"
+            "ungebildeter",
+            "unterbezahlter",
+            "einfacher"
           ]
         },
         {
-          "name": "Schnuckelchen",
-          "required": true,
-          "tags": [
-            "liebenswerter",
-            "Schatz"
-          ]
-        },
-        {
-          "name": "Sugar",
-          "required": true,
-          "tags": [
-            "ländlicher",
-            "Schatz"
-          ]
-        },
-        {
-          "name": "Mein Liebling",
+          "name": "Buchhalter",
           "required": false,
           "tags": [
-            "Engel",
-            "reizender"
+            "Stringent",
+            "präziser",
+            "langweiliger"
           ]
         },
         {
-          "name": "Schatz",
-          "required": false,
-          "tags": [
-            "Kumpel",
-            "frecher"
-          ]
-        },
-        {
-          "name": "Kumpel",
+          "name": "PR-Manager",
           "required": true,
           "tags": [
-            "lässiger",
-            "Typ"
+            "kreativer",
+            "gewiefter",
+            "kommunikativer"
+          ]
+        },
+        {
+          "name": "Recruiter",
+          "required": true,
+          "tags": [
+            "überzeugender",
+            "einfühlsamer",
+            "hilfsbereiter"
+          ]
+        },
+        {
+          "name": "Rechtsexperte",
+          "required": false,
+          "tags": [
+            "informierter",
+            "detailverliebter",
+            "vorsichtiger"
+          ]
+        },
+        {
+          "name": "IT-Assistent",
+          "required": true,
+          "tags": [
+            "analytischer",
+            "zurückhaltender",
+            "technikaffiner"
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
         {
           "id": "standard"
@@ -16310,11 +16334,12 @@
         {
           "roles": [
             {
-              "name": "“gut genug”",
+              "name": "Der Chef",
               "idx": 7,
               "tags": [
-                "langweiliger",
-                "Stubenhocker"
+                "Dominant",
+                "kontrollierender",
+                "charismatischer"
               ]
             }
           ],
@@ -16322,8 +16347,8 @@
         }
       ],
       "id": 56391,
-      "category": "Beziehungs-Spitznamen",
-      "prompt": "Welcher Beziehungs-Kosename passt am besten zu jedem?"
+      "category": "Firmengründung",
+      "prompt": "Welche Aufgabe würde jeder von euch übernehmen, wenn ihr zusammen eine Firma gründen würdet?"
     },
     {
       "roles": [
@@ -16452,62 +16477,60 @@
     {
       "roles": [
         {
-          "name": "fährt das Auto",
-          "short": "Fahrer",
-          "required": true,
-          "tags": [
-            "zuverlässiger",
-            "Fahrer",
-            "praktischer"
-          ]
-        },
-        {
-          "name": "setzt sich frech nach vorne",
-          "short": "vorne sitzen",
-          "required": true,
-          "tags": [
-            "mutiger",
-            "furchtloser",
-            "Menschenfreund"
-          ]
-        },
-        {
-          "name": "mit Sonnenbrille und leise weinend",
-          "short": "weinend",
+          "name": "Der, der sich strikt an die StVO hält",
           "required": false,
           "tags": [
-            "emotionaler",
-            "Chaot"
+            "vorsichtiger",
+            "disziplinierter",
+            "langweiliger"
           ]
         },
         {
-          "name": "telefoniert lautstark",
+          "name": "Der Drängler",
           "required": true,
           "tags": [
-            "vergesslicher",
-            "Schwätzer"
+            "ungeduldiger",
+            "aggressiver",
+            "reizbarer"
           ]
         },
         {
-          "name": "erbricht heftig",
-          "short": "erbricht heftig",
+          "name": "Mittelspurschleicher",
           "required": false,
           "tags": [
-            "Party Typ",
-            "kranker"
+            "lahmer",
+            "nerviger"
           ]
         },
         {
-          "name": "ist ins falsche Auto gestiegen",
-          "short": "falsches Auto",
+          "name": "Treuerpunkte-Sammler in Flensburg",
+          "required": true,
+          "tags": [
+            "straffälliger",
+            "risikofreudiger",
+            "chaotischer"
+          ]
+        },
+        {
+          "name": "Der, der sich über Fahrradfahrer aufregt",
           "required": false,
           "tags": [
-            "Pfuscher",
-            "ratloser"
+            "kritischer",
+            "informierter",
+            "deutscher"
+          ]
+        },
+        {
+          "name": "Der, dessen Auto gerade so durch den TÜV gekommen ist",
+          "required": true,
+          "tags": [
+            "gefährlicher",
+            "unzuverlässiger",
+            "schlampiger"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
         {
           "id": "standard"
@@ -16584,14 +16607,22 @@
                 "Feinschmecker",
                 "erfrischender"
               ]
+            },
+            {
+              "idx": 7,
+              "name": "Der Normale",
+              "tags": [
+                "vernünftiger",
+                "unauffälliger"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56661,
-      "category": "Personen in einer Mitfahrgemeinschaft",
-      "prompt": "Welche Person in dieser Fahrgemeinschaft seid ihr?"
+      "category": "Autofahrer",
+      "prompt": "Welcher Typ von Autofahrer seid ihr?"
     },
     {
       "roles": [
@@ -17609,23 +17640,25 @@
     {
       "roles": [
         {
-          "name": "“Befriedigt”",
+          "name": "\"Quadratisch. Praktisch. Gut.\"",
           "required": true,
           "tags": [
-            "selbstbewusster",
-            "Angeber"
+            "quadratischer",
+            "Feinschmecker"
           ]
         },
         {
-          "name": "“Der Snack, der zurücklächelt”",
+          "name": "“Der Morgen macht den Tag”",
           "required": true,
           "tags": [
-            "netter",
-            "Schwarm"
+            "fürsorglicher",
+            "liebenswerter",
+            "empfindlicher",
+            "Schatz"
           ]
         },
         {
-          "name": "“Gimmie a break”",
+          "name": "“Die wahrscheinlich längste Praline der Welt”",
           "required": true,
           "tags": [
             "überwältigter",
@@ -17654,13 +17687,11 @@
           ]
         },
         {
-          "name": "“Die beste Zutat ist Liebe”",
+          "name": "\"Du bist nicht du, wenn du hungrig bist\"",
           "required": false,
           "tags": [
-            "fürsorglicher",
-            "liebenswerter",
-            "empfindlicher",
-            "Schatz"
+            "nussiger",
+            "Diva"
           ]
         }
       ],
@@ -17932,7 +17963,7 @@
         }
       ],
       "id": 56717,
-      "category": "Seifenoper Archetypen",
+      "category": "Seifenoper-Charaktere",
       "prompt": "Welche Standard-Figur aus einer Seifenoper seid ihr?"
     },
     {
@@ -18198,11 +18229,11 @@
           ]
         },
         {
-          "name": "U Turn erlaubt",
+          "name": "Tempo 70 Schild",
           "required": false,
           "tags": [
-            "gewiefter",
-            "strateger"
+            "flotter",
+            "Tempomat"
           ]
         },
         {
@@ -18215,7 +18246,7 @@
           ]
         },
         {
-          "name": "Keine Abfälle",
+          "name": "Absolutes Halteverbot",
           "required": false,
           "tags": [
             "Spielverderber",
@@ -18223,10 +18254,10 @@
           ]
         },
         {
-          "name": "Schul-Zone",
+          "name": "Spielstraße",
           "required": false,
           "tags": [
-            "Pädagog",
+            "Pädagoge",
             "ethischer"
           ]
         },
@@ -18860,9 +18891,9 @@
             },
             {
               "role": 2,
-              "question": "Wenn du einen Spinning-Kurs leiten würdest, wie würdest du ihn nennen?",
+              "question": "Welche tägliche Aktivität würde durch einen wütenden, verschwitzten Ausbilder, der dich anschreit, am meisten verbessert werden?",
               "name": "wöchentlicher Spinning-Kurs",
-              "idx": 2
+              "idx": 9
             },
             {
               "role": 3,
@@ -18983,7 +19014,7 @@
           ]
         },
         {
-          "name": "1992 <i>Ferne Welt</i> Seite-am-Tag",
+          "name": "Motivationssprüche",
           "required": false,
           "tags": [
             "nostalgischer",
@@ -19040,7 +19071,7 @@
         {
           "roles": [
             {
-              "name": "Werbegeschenk der lokalen Bankdrücken",
+              "name": "Werbegeschenk der lokalen Bank",
               "idx": 6,
               "tags": [
                 "reicher",
@@ -19145,9 +19176,9 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Gib dein Bestes, um das Wechselgeld im Trockner nachzumachen.",
+              "question": "Macht euch so klein wie möglich.",
               "name": "Kleingeld",
-              "idx": 0
+              "idx": 5
             },
             {
               "role": 0,
@@ -19189,56 +19220,56 @@
     {
       "roles": [
         {
-          "name": "“bis an die Grenze gehen”",
+          "name": "Der Dirigent",
           "required": false,
           "tags": [
-            "Rebell",
-            "Riskant",
-            "Adrenalinjunkie"
+            "verantwortungsbewusster",
+            "führungsstarker",
+            "charismatischer"
           ]
         },
         {
-          "name": "“Paradigmenwechsel”",
+          "name": "Triangel-Spieler",
           "required": false,
           "tags": [
-            "radikaler",
-            "Unruhestifter"
+            "unbedeutender",
+            "kleingeistiger",
+            "simpler"
           ]
         },
         {
-          "name": "“Lasst uns zurückkehren”",
+          "name": "Trommler",
           "required": false,
           "tags": [
-            "Anführer",
-            "vorsichtiger",
-            "Bedenkenträger"
-          ]
-        },
-        {
-          "name": "“tiefhängendes Obst”",
-          "required": false,
-          "tags": [
-            "unbeachteter",
-            "ausgenutzter",
-            "Faulpelz"
-          ]
-        },
-        {
-          "name": "“Zukunftsdenken”",
-          "required": false,
-          "tags": [
-            "kreativer",
-            "Träumer",
-            "inspirativer"
-          ]
-        },
-        {
-          "name": "“Zukunftsdenken”",
-          "required": true,
-          "tags": [
-            "Diplomat",
             "energischer",
-            "Verkäufer"
+            "lauter",
+            "rhythmischer"
+          ]
+        },
+        {
+          "name": "Violinist",
+          "required": false,
+          "tags": [
+            "künstlerischer",
+            "sensibler",
+            "romantischer"
+          ]
+        },
+        {
+          "name": "Chorstimme",
+          "required": false,
+          "tags": [
+            "harmonischer",
+            "lauter",
+            "teamfähiger"
+          ]
+        },
+        {
+          "name": "Trompetenspieler",
+          "required": false,
+          "tags": [
+            "mutiger",
+            "auffälliger"
           ]
         }
       ],
@@ -19302,14 +19333,23 @@
                 "tollpatschiger",
                 "aussichtsloser"
               ]
+            },
+            {
+              "idx": 8,
+              "name": "Der, der nur so tut als könne er ein Instrument spielen",
+              "tags": [
+                "untalentierter",
+                "Hochstapler",
+                "peinlicher"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56706,
-      "category": "Bürojargon",
-      "prompt": "Welche klischeehafte Business-Phrase beschreibt euch?"
+      "category": "Orchester",
+      "prompt": "Welche Rolle übernehmt ihr in einem Orchester?"
     },
     {
       "roles": [
@@ -19334,7 +19374,7 @@
           "name": "Umdrehen und in die Kamera lächeln",
           "required": false,
           "tags": [
-            "Charmant",
+            "charmanter",
             "netter",
             "Kumpel"
           ]
@@ -19344,7 +19384,7 @@
           "required": true,
           "tags": [
             "Heiler",
-            "smarter"
+            "klügerer"
           ]
         },
         {
@@ -19353,7 +19393,7 @@
           "tags": [
             "Boss",
             "cooler",
-            "inspirativer"
+            "inspirierender"
           ]
         },
         {
@@ -19465,11 +19505,11 @@
         {
           "roles": [
             {
-              "name": "special guest star Kreisrahmen",
+              "name": "“Special Guest Star”-Kreisrahmen",
               "idx": 3,
               "tags": [
-                "divaer",
-                "extraer"
+                "divenhafter",
+                "extravaganter"
               ]
             }
           ],
@@ -19491,7 +19531,7 @@
           ]
         },
         {
-          "name": "Es war eine reinigende Qual!",
+          "name": "Es war alles nur ein Traum!",
           "required": false,
           "tags": [
             "Freigeist",
@@ -19681,9 +19721,9 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Was ist dein Wahlkampfslogan?",
+              "question": "Beende den Reim, “Roter Himmel bei Nacht....”",
               "name": "gewählter Amtsträger",
-              "idx": 0
+              "idx": 8
             },
             {
               "role": 3,
@@ -19782,7 +19822,8 @@
           "tags": [
             "Einzelgänger",
             "empfindlicher"
-          ]
+          ],
+          "short": "Steineflitscher"
         },
         {
           "name": "Essen eines Fertiggereichts über der Spüle",
@@ -19798,7 +19839,8 @@
           "tags": [
             "Partylöwe",
             "wohlhabender"
-          ]
+          ],
+          "short": "Reiche Prominente"
         },
         {
           "name": "Zukunftspläne mit dem Uber-Fahrer machen",
@@ -19896,55 +19938,60 @@
     {
       "roles": [
         {
-          "name": "Nebraska",
+          "name": "Schleswig-Holstein",
           "required": false,
           "tags": [
-            "erfrischender",
-            "Langweiler",
-            "heilsamer"
+            "norddeutscher",
+            "gelassener",
+            "windiger",
+            "Seebär"
           ]
         },
         {
-          "name": "California",
+          "name": "Nordrhein-Westfalen",
           "required": false,
           "tags": [
-            "Hippie",
-            "radikaler",
-            "Surfer"
+            "direkter",
+            "fleißiger",
+            "Malocher"
           ]
         },
         {
-          "name": "Texas",
+          "name": "Bayern",
           "required": false,
           "tags": [
-            "Cowboy",
-            "sturer"
+            "traditioneller",
+            "stolzer",
+            "Säufer"
           ]
         },
         {
-          "name": "Colorado",
+          "name": "Sachsen",
           "required": false,
           "tags": [
-            "unabhängiger",
-            "felsiger",
-            "rustikaler"
+            "eigensinniger",
+            "sparsamer",
+            "konservativer",
+            "Besserwisser"
           ]
         },
         {
-          "name": "Florida",
+          "name": "Berlin",
           "required": false,
           "tags": [
             "furchtloser",
             "Chaot",
-            "impulsiver"
+            "impulsiver",
+            "Hipster"
           ]
         },
         {
-          "name": "New Jersey",
+          "name": "Saarland",
           "required": false,
           "tags": [
-            "Griesgram",
-            "spitzzüngiger"
+            "familiärer",
+            "direkter",
+            "Familienmensch"
           ]
         }
       ],
@@ -20031,11 +20078,12 @@
         {
           "roles": [
             {
-              "name": "Alaska",
+              "name": "Hamburg",
               "idx": 2,
               "tags": [
-                "unabhängiger",
-                "cooler"
+                "eleganter",
+                "cooler",
+                "Kapitän"
               ]
             }
           ],
@@ -20043,31 +20091,32 @@
         }
       ],
       "id": 56206,
-      "category": "U.S. Bundesstaaten",
-      "prompt": "Welcher US-Bundesstaat passt am besten zu jedem von euch?"
+      "category": "Bundesländer",
+      "prompt": "Welches deutsche Bundesland passt am besten zu euch?"
     },
     {
       "roles": [
         {
-          "name": "<i>Unendlicher Spaß</i>",
+          "name": "Der Manga",
           "required": true,
           "tags": [
-            "zusammenhangsloser",
+            "gezeichneter",
             "Sonderling",
-            "sprücheklopfender"
-          ]
+            "japanischer"
+          ],
+          "short": "Manga"
         },
         {
-          "name": "<i>Eine kurze Geschichte der Zeit</i>",
+          "name": "<i>Die unendliche Geschichte</i>",
           "required": true,
           "tags": [
-            "neugieriger",
-            "Wissenschaftler",
-            "smarter"
+            "märchenhafter",
+            "Abenteurer",
+            "fantastischer"
           ]
         },
         {
-          "name": "<i>Ulysses</i>",
+          "name": "<i>Faust</i>",
           "required": true,
           "tags": [
             "künstlerischer",
@@ -20076,16 +20125,17 @@
           ]
         },
         {
-          "name": "<i>Eat, Pray, Love</i>",
+          "name": "Der Fitzek-Roman",
           "required": true,
           "tags": [
-            "Hippie",
-            "spiritueller"
-          ]
+            "Verbrecher",
+            "spannender"
+          ],
+          "short": "Fitzek-Roman"
         },
         {
-          "name": "die Anleitung für meinen Sous-Vide-Kocher",
-          "short": "sous vide manual",
+          "name": "Die Anleitung für meinen Thermomix",
+          "short": "Thermomix-Anleitung",
           "required": false,
           "tags": [
             "Küchenchef",
@@ -20419,7 +20469,7 @@
     {
       "roles": [
         {
-          "name": "Freeganer",
+          "name": "",
           "required": false,
           "tags": [
             "Freigeist",
@@ -20495,9 +20545,9 @@
             },
             {
               "role": 1,
-              "question": "Was für ein Hund ist der BESTE HUND?",
+              "question": "Warum sind Hunde besser als Menschenkinder?",
               "name": "Pflegehund-Elternteil",
-              "idx": 1
+              "idx": 5
             },
             {
               "role": 2,
@@ -20593,7 +20643,7 @@
           ]
         },
         {
-          "name": "“Alles fügt sich zusammen”",
+          "name": "\"Und so schließt der Kreis!\"",
           "required": false,
           "tags": [
             "glücksbegünstigter",
@@ -20824,61 +20874,60 @@
     {
       "roles": [
         {
-          "name": "Stein",
-          "required": true,
-          "tags": [
-            "badasser",
-            "harter",
-            "harter"
-          ]
-        },
-        {
-          "name": "Marshmallows",
-          "required": true,
-          "tags": [
-            "Träumer",
-            "softer",
-            "süßer"
-          ]
-        },
-        {
-          "name": "Eisendornen",
+          "name": "Der Hater",
           "required": false,
           "tags": [
-            "gefährlicher",
-            "Kämpfer",
-            "scharfkantiger"
+            "böser",
+            "kritischer",
+            "ungerechter"
           ]
         },
         {
-          "name": "recyceltem Mais",
+          "name": "Wall-of-Text-Kommentator",
           "required": false,
           "tags": [
-            "Hippie",
-            "kostengünstiger",
-            "natürlicher"
+            "gebildeter",
+            "belehrender",
+            "kreativer"
           ]
         },
         {
-          "name": "dunkler Materie",
+          "name": "Stiller Zuschauer",
           "required": false,
           "tags": [
-            "Alien",
-            "mysteriöser",
-            "ruchloser"
+            "zurückhaltender",
+            "schüchterner"
           ]
         },
         {
-          "name": "Aspartam",
-          "required": true,
+          "name": "Der, der sich über Werbung aufregt",
+          "required": false,
           "tags": [
-            "künstlicher",
-            "betrügerischer",
-            "Lügner"
+            "gereizter",
+            "armer",
+            "unzufriedener"
+          ]
+        },
+        {
+          "name": "Der, der für den Algorithmus liked",
+          "required": false,
+          "tags": [
+            "freundlicher",
+            "optimistischer",
+            "hilfsbereiter"
+          ]
+        },
+        {
+          "name": "Fan der ersten Stunde",
+          "required": false,
+          "tags": [
+            "loyaler",
+            "übermotivierter",
+            "reservierter"
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
         {
           "id": "standard"
@@ -20938,14 +20987,23 @@
                 "praktischer",
                 "Arbeiter"
               ]
+            },
+            {
+              "idx": 0,
+              "name": "Der, der YouTube Premium nutzt",
+              "tags": [
+                "reicher",
+                "privilegierter",
+                "unbekümmerter"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56254,
-      "category": "Woraus besteht ihr?",
-      "prompt": "Woraus seid ihr gemacht?"
+      "category": "YouTube-Zuschauer",
+      "prompt": "Welche Art von YouTube-Zuschauer seid ihr?"
     },
     {
       "roles": [
@@ -21136,7 +21194,7 @@
             },
             {
               "role": 3,
-              "question": "Wann ist der ungünstigste Zeitpunkt, an dem der Akku Ihres Telefons leer geht?",
+              "question": "Wann ist der ungünstigste Zeitpunkt, an dem der Akku deines Telefons leer geht?",
               "name": "angeschlossen, weil der Akku scheiße ist",
               "idx": 3
             },
@@ -21192,60 +21250,59 @@
     {
       "roles": [
         {
-          "name": "sanfter Merlot",
+          "name": "Pyrotechnik-Zünder",
           "required": false,
           "tags": [
-            "lockerer",
-            "Klatschmaul",
-            "verspielter"
+            "gefährlicher",
+            "verrückter",
+            "lauter"
           ]
         },
         {
-          "name": "kalter Champagner",
+          "name": "Raclette-Verfechter",
           "required": false,
           "tags": [
-            "Aristokrat",
-            "extraer",
-            "fancier"
+            "kulinarischer",
+            "traditioneller"
           ]
         },
         {
-          "name": "trockener Sherry",
+          "name": "Derjenige, der am nächsten Morgen verkatert ist",
           "required": false,
           "tags": [
-            "stilvoller",
-            "Sensibelchen"
+            "betrunkener",
+            "chaotischer",
+            "unverantwortlicher"
           ]
         },
         {
-          "name": "dunkler Pinot Noir",
+          "name": "Bleigießer",
           "required": false,
           "tags": [
-            "komplexer",
-            "Kraftprotz"
+            "abergläubischer",
+            "kreativer",
+            "handwerklicher"
           ]
         },
         {
-          "name": "Chardonnay mit einem einzelnen Eiswürfel",
-          "short": "Weißer mit Eiswürfel",
+          "name": "Der, der um 22 Uhr ins Bett geht",
           "required": false,
           "tags": [
-            "regulärer",
-            "Vater"
+            "Konsequent",
+            "genervter"
           ]
         },
         {
-          "name": "Wassermelonen-Weinkühler",
-          "short": "Weinkühler",
-          "required": true,
+          "name": "Der, der Vorsätze macht und sie nie einhält",
+          "required": false,
           "tags": [
-            "Dummkopf",
-            "Party Typ",
-            "süßer"
+            "ehrgeiziger",
+            "unrealistischer",
+            "ungeduldiger"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
         {
           "id": "standard"
@@ -21306,19 +21363,27 @@
                 "praktischer",
                 "sparsamer"
               ]
+            },
+            {
+              "idx": 8,
+              "name": "Der, der auch an Silvester arbeiten muss",
+              "tags": [
+                "gestresster",
+                "unbeliebter"
+              ]
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 57339,
-      "category": "Weine",
-      "prompt": "Welcher Wein passt zu eurer Persönlichkeit?"
+      "category": "Silvester-Party",
+      "prompt": "Wer wärt ihr bei einer Silvester-Party?"
     },
     {
       "roles": [
         {
-          "name": "Stift",
+          "name": "Bleistift",
           "required": false,
           "tags": [
             "fleißiger",
@@ -21726,7 +21791,7 @@
       ],
       "id": 57203,
       "category": "Letzte Worte",
-      "prompt": "Was wären wahrscheinlich eure jeweils letzten Worte?"
+      "prompt": "Was wären wahrscheinlich eure letzten Worte?"
     }
   ]
 }

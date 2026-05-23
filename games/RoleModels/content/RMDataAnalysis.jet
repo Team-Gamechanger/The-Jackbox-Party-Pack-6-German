@@ -3,7 +3,7 @@
   "content": [
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler",
         "stylisher",
         "Sonderling",
@@ -14,7 +14,7 @@
       "x": false,
       "opposite": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -26,7 +26,7 @@
       "prompt": "Wenn du unendlich viel Geld auf einer einstündigen Shoppingtour ausgeben könntest, was würdest du kaufen?",
       "contradiction": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -77,7 +77,7 @@
     },
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler",
         "aggressiver",
         "Schatz",
@@ -87,7 +87,7 @@
       "x": false,
       "opposite": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -107,7 +107,7 @@
       "prompt": "Du und deine Single-Freunde sind im Club und feiern. Was hast du dir für den Abend vorgenommen?",
       "contradiction": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -128,7 +128,7 @@
       "same": [
         "Schwarm",
         "unheimlicher",
-        "Party Typ",
+        "Party-Typ",
         "Unruhestifter"
       ],
       "x": true,
@@ -138,7 +138,7 @@
           "unheimlicher"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ],
@@ -150,7 +150,7 @@
           "unheimlicher"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ]
@@ -528,7 +528,7 @@
         ]
       ],
       "id": 57485,
-      "prompt": "Was ist das Coolste, was man beim Fallschirmspringen laut rufen kann, wenn man aus dem Flugzeug springt?",
+      "prompt": "Was ist das Coolste, das man beim Fallschirmspringen laut rufen kann, während man aus dem Flugzeug springt?",
       "contradiction": [
         [
           "vorsichtiger",
@@ -599,7 +599,7 @@
         ]
       ],
       "id": 57481,
-      "prompt": "Du stehst kurz davor, in den Ring zu steigen. Du sollst dich einschüchternd anziehen. Was ziehst du an?",
+      "prompt": "Du stehst kurz davor, in den Boxring zu steigen. Du sollst dich einschüchternd anziehen. Was ziehst du an?",
       "contradiction": [
         [
           "stylisher",
@@ -672,7 +672,7 @@
         ]
       ],
       "id": 57477,
-      "prompt": "Als du die Eltern deines Partners kennen lernst, erkennst du sie aus <i>Aktenzeichen XY ... ungelöst</i>. Was machst du?",
+      "prompt": "Als du die Eltern deines Partners kennenlernst, realisierst du, dass du sie auf einem Fahndungsplakat der Polizei gesehen hast. Was machst du?",
       "contradiction": [
         [
           "ethischer",
@@ -708,7 +708,7 @@
         ]
       ],
       "id": 57476,
-      "prompt": "Im Restaurant ist dein Essen angebrannt. Der Kellner fragt, ob alles in Ordnung sei. Was antwortest du?",
+      "prompt": "Im Restaurant ist dein Essen angebrannt. Der Kellner fragt, ob alles in Ordnung ist. Was antwortest du?",
       "contradiction": [
         [
           "aggressiver",
@@ -839,7 +839,7 @@
         ]
       ],
       "id": 57467,
-      "prompt": "Worauf achtest du zuerst, wenn du ein neues Auto kaufst?",
+      "prompt": "Worauf achtest du zuerst, wenn du ein Auto kaufst?",
       "contradiction": [
         [
           "kindischer",
@@ -901,7 +901,7 @@
     },
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler",
         "niedlicher",
         "unheimlicher"
@@ -909,7 +909,7 @@
       "x": false,
       "opposite": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -921,7 +921,7 @@
       "prompt": "Welche drei Dinge braucht man für einen perfekten Samstagabend?",
       "contradiction": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -955,7 +955,7 @@
         ]
       ],
       "id": 57463,
-      "prompt": "Was ist ein nonverbales Zeichen dafür, dass du das Gespräch mit jemandem beendet hast?",
+      "prompt": "Was ist ein nonverbales Zeichen, um ein Gespräch zu beenden?",
       "contradiction": [
         [
           "netter",
@@ -990,7 +990,7 @@
         ]
       ],
       "id": 57462,
-      "prompt": "Deine Freunde helfen dir beim Umzug. Was bietest du als Bezahlung für die körperliche Arbeit an?",
+      "prompt": "Deine Freunde helfen dir beim Umzug. Was bietest du als Bezahlung für ihre körperliche Arbeit an?",
       "contradiction": [
         [
           "zuverlässiger",
@@ -1056,7 +1056,7 @@
         ]
       ],
       "id": 57460,
-      "prompt": "Du bist als Kinderclown engagiert worden. Wie unterhältst du die Kinder?",
+      "prompt": "Du bist als Geburtstagsclown engagiert worden. Wie unterhältst du die Kinder?",
       "contradiction": [
         [
           "witziger",
@@ -1171,7 +1171,7 @@
         ]
       ],
       "id": 57424,
-      "prompt": "Du bist ein Spion. Ein attraktiver Gegenspion hat die Geheimakte. Wie bekommst du sie?",
+      "prompt": "Du bist ein Spion. Ein attraktiver Gegenspion hat die Geheimakte, die du brauchst. Wie bekommst du sie?",
       "contradiction": [
         [
           "aggressiver",
@@ -1238,14 +1238,14 @@
     },
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Sonderling",
         "Schwarm"
       ],
       "x": true,
       "opposite": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -1256,7 +1256,7 @@
       "id": 57422,
       "prompt": "Wenn eine Bar einen Drink nach dir benennen würde, was wäre dann drin?",
       "contradiction": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler"
       ]
     },
@@ -1279,7 +1279,7 @@
         ]
       ],
       "id": 57421,
-      "prompt": "Vervollständige den Satz: In einem Teenie-Film würde ich mit den “_____” Kindern essen.",
+      "prompt": "Vervollständige den Satz: In einem Teenie-Film würde ich mit den „_____“ Kindern essen.",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1313,7 +1313,7 @@
       "prompt": "Du bist beim Speed-Dating. Mit welchem ersten Satz versuchst du aufzufallen?",
       "contradiction": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -1339,7 +1339,7 @@
         "ängstlicher"
       ],
       "id": 57419,
-      "prompt": "Wie würde der Rosamunde-Pilcher-Film heißen, der auf deinem Leben basiert?",
+      "prompt": "Wie würde der kitschige Liebesfilm heißen, der auf deinem Leben basiert?",
       "contradiction": [
         "selbstbewusster",
         "ängstlicher"
@@ -1356,7 +1356,7 @@
         "Unmensch",
         "stylisher"
       ],
-      "x": false,
+      "x": true,
       "opposite": [
         [
           "selbstbewusster",
@@ -1372,7 +1372,7 @@
         ]
       ],
       "id": 57418,
-      "prompt": "Welches Outfit würdest du bei einem Blind Date tragen?",
+      "prompt": "Welches Outfit würdest du bei einem Blind-Date tragen?",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1396,7 +1396,7 @@
         "Schwarm",
         "Unmensch"
       ],
-      "x": false,
+      "x": true,
       "opposite": [
         "selbstbewusster",
         "ängstlicher"
@@ -1427,7 +1427,7 @@
         ]
       ],
       "id": 57416,
-      "prompt": "Du hast kein Geld mehr, bist dir aber sicher, dass dein Pokerblatt das deines Gegners schlägt. Was setzt du?",
+      "prompt": "Du hast kein Geld mehr, bist dir aber sicher, dass dein Pokerblatt das deines Gegners schlagen wird. Was setzt du?",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1550,7 +1550,7 @@
       "same": [
         "netter",
         "mürrischer",
-        "Party Typ",
+        "Party-Typ",
         "Typ",
         "Einzelgänger",
         "nerviger"
@@ -1562,8 +1562,8 @@
           "mürrischer"
         ],
         [
-          "Party Typ",
-          "Party Typ"
+          "Party-Typ",
+          "Party-Typ"
         ]
       ],
       "id": 57411,
@@ -1574,7 +1574,7 @@
           "mürrischer"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ]
@@ -1721,7 +1721,7 @@
         ]
       ],
       "id": 57406,
-      "prompt": "Welchen Dienst kannst du deiner Gruppe von Überlebenden anbieten, nachdem die Welt zusammengebrochen ist?",
+      "prompt": "Welchen Dienst könntest du deiner Gruppe von Überlebenden anbieten, nachdem die Welt zusammengebrochen ist?",
       "contradiction": [
         [
           "fauler",
@@ -1790,7 +1790,7 @@
         ]
       ],
       "id": 57403,
-      "prompt": "Du bekommst einen Wunsch... aber du musst ihn ganz genau formulieren. Was wünschst du dir?",
+      "prompt": "Du bekommst einen Wunsch erfüllt... aber du musst ihn ganz genau formulieren. Was wünschst du dir?",
       "contradiction": [
         [
           "cleverer",
@@ -1822,7 +1822,7 @@
         ]
       ],
       "id": 57402,
-      "prompt": "Dein Büro will dem Chef einen Streich spielen. Welche Idee bringst du zum Brainstorming mit?",
+      "prompt": "Deine Bürokollegen wollen dem Chef einen Streich spielen. Welche Idee bringst du zum Brainstorming mit?",
       "contradiction": [
         [
           "witziger",
@@ -1891,14 +1891,14 @@
         "Einzelgänger",
         "ängstlicher"
       ],
-      "x": false,
+      "x": true,
       "opposite": [
         [
           "Angeber",
           "zurückhaltender"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ],
@@ -1910,7 +1910,7 @@
           "zurückhaltender"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ]
@@ -1918,7 +1918,7 @@
     {
       "same": [
         "zurückhaltender",
-        "Party Typ",
+        "Party-Typ",
         "Einzelgänger",
         "nerviger"
       ],
@@ -1929,7 +1929,7 @@
           "zurückhaltender"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ],
@@ -1941,7 +1941,7 @@
           "zurückhaltender"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ]
@@ -1950,7 +1950,7 @@
       "same": [
         "Angeber",
         "zurückhaltender",
-        "Party Typ",
+        "Party-Typ",
         "Langweiler",
         "Schwarm",
         "Einzelgänger"
@@ -1962,7 +1962,7 @@
           "zurückhaltender"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ],
@@ -1974,7 +1974,7 @@
           "zurückhaltender"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ]
@@ -2025,7 +2025,7 @@
           "reifer"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -2034,14 +2034,14 @@
         ]
       ],
       "id": 57395,
-      "prompt": "Du bist in einem historischen Museum gefangen, in dem die Ausstellung zum Leben erwacht. Mit wem triffst du dich?",
+      "prompt": "Du bist in einem Wachsfigurenkabinett gefangen, in dem die Figuren zum Leben erwachen. Mit wem triffst du dich?",
       "contradiction": [
         [
           "kindischer",
           "reifer"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -2143,7 +2143,7 @@
         ]
       ],
       "id": 57391,
-      "prompt": "Was ziehst du an, wenn du zu einer “Alles außer Kleidung”-Party eingeladen bist?",
+      "prompt": "Was ziehst du an, wenn du zu einer „Alles außer Kleidung“-Party eingeladen bist?",
       "contradiction": [
         [
           "stylisher",
@@ -2320,7 +2320,7 @@
         "sorgenschwerer"
       ],
       "id": 57384,
-      "prompt": "Was ist deine Vorstellung von einem perfekten stressfreien Urlaub?",
+      "prompt": "Was ist deine Vorstellung von einem perfekten, stressfreien Urlaub?",
       "contradiction": [
         "unbekümmerter",
         "sorgenschwerer"
@@ -2329,7 +2329,7 @@
     {
       "same": [
         "Schatz",
-        "Party Typ"
+        "Party-Typ"
       ],
       "x": false,
       "opposite": [
@@ -2338,7 +2338,7 @@
           "sorgenschwerer"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ],
@@ -2380,57 +2380,57 @@
     },
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Schatz"
       ],
       "x": false,
       "opposite": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler"
       ],
       "id": 57381,
       "prompt": "Was ist der perfekte Party-Snack?",
       "contradiction": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler"
       ]
     },
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler",
         "Angeber",
         "Sonderling"
       ],
       "x": false,
       "opposite": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler"
       ],
       "id": 57380,
       "prompt": "Die Stimmung auf der Party kippt. Wie bringst du sie wieder in Schwung?",
       "contradiction": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler"
       ]
     },
     {
       "same": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler",
         "kreativer",
         "Sonderling"
       ],
       "x": false,
       "opposite": [
-        "Party Typ",
+        "Party-Typ",
         "Langweiler"
       ],
       "id": 57379,
       "prompt": "Bei der Arbeit darfst du wirklich anziehen, was du willst. Was ziehst du an?",
       "contradiction": [
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ],
         [
@@ -2485,7 +2485,7 @@
         "Schatz"
       ],
       "id": 57376,
-      "prompt": "Wie würde der Slogan deines Actionfilms lauten?",
+      "prompt": "Wie würde die Tagline deines Actionfilms lauten?",
       "contradiction": [
         "aggressiver",
         "Schatz"
@@ -2585,7 +2585,7 @@
           "zuverlässiger"
         ],
         [
-          "Party Typ",
+          "Party-Typ",
           "Langweiler"
         ]
       ]
