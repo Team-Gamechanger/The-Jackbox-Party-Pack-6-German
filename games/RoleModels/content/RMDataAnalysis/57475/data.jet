@@ -1,1 +1,1 @@
-{"fields":[{"t":"B","v":"true","n":"HasPrompt"},{"s":"Du hast im Supermarkt ein großes Glas Gurken zerbrochen. Was machst du jetzt?","t":"A","v":"831506_1","n":"Prompt"}]}
+{"fields":[{"t":"B","v":"true","n":"HasPrompt"},{"s":"Du hast im Supermarkt ein großes Glas Gurken zerbrochen. Was machst du jetzt?","t":"A","v":"prompt","n":"Prompt"}]}

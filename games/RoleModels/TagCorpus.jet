@@ -19,9 +19,19 @@
         "proto_tag": "ABERGLÄUBISCHER",
         "proto_tag_type": "adjective"
     },
+    "ABGEHOBENER": {
+        "word_type": "adjective",
+        "proto_tag": "ABGEHOBENER",
+        "proto_tag_type": "adjective"
+    },
     "ABGELENKTER": {
         "word_type": "adjective",
         "proto_tag": "ABGELENKTER",
+        "proto_tag_type": "adjective"
+    },
+    "ABGESICHERTER": {
+        "word_type": "adjective",
+        "proto_tag": "ABGESICHERTER",
         "proto_tag_type": "adjective"
     },
     "ABHÄNGIGER": {
@@ -54,6 +64,16 @@
         "proto_tag": "ABWESENDER",
         "proto_tag_type": "adjective"
     },
+    "ACHTERBAHN-FAN": {
+        "word_type": "noun",
+        "proto_tag": "ACHTERBAHN-FAN",
+        "proto_tag_type": "noun"
+    },
+    "ADELIGER": {
+        "word_type": "adjective",
+        "proto_tag": "ADELIGER",
+        "proto_tag_type": "adjective"
+    },
     "ADMINISTRATOR": {
         "word_type": "noun",
         "proto_tag": "ADMINISTRATOR",
@@ -63,6 +83,11 @@
         "word_type": "noun",
         "proto_tag": "ADRENALINJUNKIE",
         "proto_tag_type": "noun"
+    },
+    "AFFIGER": {
+        "word_type": "adjective",
+        "proto_tag": "AFFIGER",
+        "proto_tag_type": "adjective"
     },
     "AGGRESSIVER": {
         "word_type": "adjective",
@@ -110,9 +135,9 @@
         "proto_tag_type": "noun"
     },
     "ALBERNER": {
-        "word_type": "noun",
+        "word_type": "adjective",
         "proto_tag": "ALBERNER",
-        "proto_tag_type": "noun"
+        "proto_tag_type": "adjective"
     },
     "ALIEN": {
         "word_type": "noun",
@@ -164,11 +189,6 @@
         "proto_tag": "ALTER",
         "proto_tag_type": "adjective"
     },
-    "ALTER LIEBLING": {
-        "word_type": "adjective",
-        "proto_tag": "ALTER LIEBLING",
-        "proto_tag_type": "adjective"
-    },
     "ALTER-EGOHAFTER": {
         "word_type": "adjective",
         "proto_tag": "ALTER-EGOHAFTER",
@@ -209,10 +229,10 @@
         "proto_tag": "AMBITIONIERTER",
         "proto_tag_type": "adjective"
     },
-    "AMÜSANT": {
-        "word_type": "noun",
-        "proto_tag": "AMÜSANT",
-        "proto_tag_type": "noun"
+    "AMÜSANER": {
+        "word_type": "adjective",
+        "proto_tag": "AMÜSANER",
+        "proto_tag_type": "adjective"
     },
     "ANALYTISCHER": {
         "word_type": "adjective",
@@ -294,6 +314,11 @@
         "proto_tag": "ANNEHMBARER",
         "proto_tag_type": "adjective"
     },
+    "ANPASSUNGSFÄHIG": {
+        "word_type": "adjective",
+        "proto_tag": "ANPASSUNGSFÄHIG",
+        "proto_tag_type": "adjective"
+    },
     "ANPASSUNGSFÄHIGER": {
         "word_type": "adjective",
         "proto_tag": "ANPASSUNGSFÄHIGER",
@@ -347,6 +372,11 @@
     "ARBEITSMENSCH": {
         "word_type": "noun",
         "proto_tag": "ARBEITSMENSCH",
+        "proto_tag_type": "noun"
+    },
+    "ARCHITEKT": {
+        "word_type": "noun",
+        "proto_tag": "ARCHITEKT",
         "proto_tag_type": "noun"
     },
     "ARGWÖHNISCHER": {
@@ -404,6 +434,11 @@
         "proto_tag": "ATHLETISCHER",
         "proto_tag_type": "adjective"
     },
+    "ATTRAKTIVER": {
+        "word_type": "adjective",
+        "proto_tag": "ATTRAKTIVER",
+        "proto_tag_type": "adjective"
+    },
     "AUFBRAUSENDER": {
         "word_type": "adjective",
         "proto_tag": "AUFBRAUSENDER",
@@ -434,6 +469,11 @@
         "proto_tag": "AUFGEHEIZTER",
         "proto_tag_type": "adjective"
     },
+    "AUFGEPUMPTER": {
+        "word_type": "adjective",
+        "proto_tag": "AUFGEPUMPTER",
+        "proto_tag_type": "adjective"
+    },
     "AUFGEPUTSCHTER": {
         "word_type": "adjective",
         "proto_tag": "AUFGEPUTSCHTER",
@@ -442,11 +482,6 @@
     "AUFGERÄUMTER": {
         "word_type": "adjective",
         "proto_tag": "AUFGERÄUMTER",
-        "proto_tag_type": "adjective"
-    },
-    "AUFMERKSAMER": {
-        "word_type": "adjective",
-        "proto_tag": "AUFMERKSAMER",
         "proto_tag_type": "adjective"
     },
     "AUFMERKSAMKEITS-JUNKIE": {
@@ -459,14 +494,29 @@
         "proto_tag": "AUFMÜPFIGER",
         "proto_tag_type": "adjective"
     },
+    "AUFOPFERNDER": {
+        "word_type": "adjective",
+        "proto_tag": "AUFOPFERNDER",
+        "proto_tag_type": "adjective"
+    },
+    "AUFREIBENDER": {
+        "word_type": "adjective",
+        "proto_tag": "AUFREIBENDER",
+        "proto_tag_type": "adjective"
+    },
+    "AUFREIßER": {
+        "word_type": "noun",
+        "proto_tag": "AUFREIßER",
+        "proto_tag_type": "noun"
+    },
     "AUFREIZENDER": {
         "word_type": "adjective",
         "proto_tag": "AUFREIZENDER",
         "proto_tag_type": "adjective"
     },
-    "AUFWECKER": {
+    "AUFTRAGSKILLER": {
         "word_type": "noun",
-        "proto_tag": "AUFWECKER",
+        "proto_tag": "AUFTRAGSKILLER",
         "proto_tag_type": "noun"
     },
     "AUSDAUERNDER": {
@@ -539,6 +589,16 @@
         "proto_tag": "AUTHENTISCHER",
         "proto_tag_type": "adjective"
     },
+    "AUTISTISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "AUTISTISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "AUTODIEB": {
+        "word_type": "noun",
+        "proto_tag": "AUTODIEB",
+        "proto_tag_type": "noun"
+    },
     "AUTOR": {
         "word_type": "noun",
         "proto_tag": "AUTOR",
@@ -579,14 +639,19 @@
         "proto_tag": "BASTARD",
         "proto_tag_type": "noun"
     },
-    "BAUMEISTER": {
+    "BAUER": {
         "word_type": "noun",
-        "proto_tag": "BAUMEISTER",
+        "proto_tag": "BAUER",
         "proto_tag_type": "noun"
     },
     "BEÄNGSTIGENDER": {
         "word_type": "adjective",
         "proto_tag": "BEÄNGSTIGENDER",
+        "proto_tag_type": "adjective"
+    },
+    "BEDACHTER": {
+        "word_type": "adjective",
+        "proto_tag": "BEDACHTER",
         "proto_tag_type": "adjective"
     },
     "BEDENKENTRÄGER": {
@@ -659,6 +724,11 @@
         "proto_tag": "BEIßENDER",
         "proto_tag_type": "adjective"
     },
+    "BEKANNTER": {
+        "word_type": "adjective",
+        "proto_tag": "BEKANNTER",
+        "proto_tag_type": "adjective"
+    },
     "BELEHRENDER": {
         "word_type": "adjective",
         "proto_tag": "BELEHRENDER",
@@ -709,6 +779,11 @@
         "proto_tag": "BERECHNENDER",
         "proto_tag_type": "adjective"
     },
+    "BERÜCHTIGTER": {
+        "word_type": "adjective",
+        "proto_tag": "BERÜCHTIGTER",
+        "proto_tag_type": "adjective"
+    },
     "BERUHIGENDER": {
         "word_type": "adjective",
         "proto_tag": "BERUHIGENDER",
@@ -753,6 +828,11 @@
         "word_type": "noun",
         "proto_tag": "BESCHÜTZER",
         "proto_tag_type": "noun"
+    },
+    "BESITZERGREIFENDER": {
+        "word_type": "adjective",
+        "proto_tag": "BESITZERGREIFENDER",
+        "proto_tag_type": "adjective"
     },
     "BESOFFENER": {
         "word_type": "adjective",
@@ -809,6 +889,11 @@
         "proto_tag": "BETRUNKENER",
         "proto_tag_type": "adjective"
     },
+    "BETTNÄSSER": {
+        "word_type": "noun",
+        "proto_tag": "BETTNÄSSER",
+        "proto_tag_type": "noun"
+    },
     "BEVORTEILTER": {
         "word_type": "adjective",
         "proto_tag": "BEVORTEILTER",
@@ -849,16 +934,6 @@
         "proto_tag": "BLAUER",
         "proto_tag_type": "adjective"
     },
-    "BLAUMANN": {
-        "word_type": "noun",
-        "proto_tag": "BLAUMANN",
-        "proto_tag_type": "noun"
-    },
-    "BLITZ": {
-        "word_type": "noun",
-        "proto_tag": "BLITZ",
-        "proto_tag_type": "noun"
-    },
     "BLONDSCHOPF": {
         "word_type": "noun",
         "proto_tag": "BLONDSCHOPF",
@@ -869,9 +944,9 @@
         "proto_tag": "BLÜHENDER",
         "proto_tag_type": "adjective"
     },
-    "BLUTIGER": {
+    "BLUTRÜJNSTIGER": {
         "word_type": "adjective",
-        "proto_tag": "BLUTIGER",
+        "proto_tag": "BLUTRÜJNSTIGER",
         "proto_tag_type": "adjective"
     },
     "BLUTRÜNSTIGER": {
@@ -888,6 +963,11 @@
         "word_type": "adjective",
         "proto_tag": "BODENSTÄNDIGER",
         "proto_tag_type": "adjective"
+    },
+    "BOOMER": {
+        "word_type": "noun",
+        "proto_tag": "BOOMER",
+        "proto_tag_type": "noun"
     },
     "BÖSARTIGER": {
         "word_type": "adjective",
@@ -964,10 +1044,20 @@
         "proto_tag": "BRODELNDER",
         "proto_tag_type": "adjective"
     },
+    "BRUCHPILOT": {
+        "word_type": "noun",
+        "proto_tag": "BRUCHPILOT",
+        "proto_tag_type": "noun"
+    },
     "BRUDER": {
         "word_type": "noun",
         "proto_tag": "BRUDER",
         "proto_tag_type": "noun"
+    },
+    "BRUMMELIGER": {
+        "word_type": "adjective",
+        "proto_tag": "BRUMMELIGER",
+        "proto_tag_type": "adjective"
     },
     "BRUMMIGER": {
         "word_type": "adjective",
@@ -983,11 +1073,6 @@
         "word_type": "noun",
         "proto_tag": "BÜCHERWURM",
         "proto_tag_type": "noun"
-    },
-    "BULLIGER": {
-        "word_type": "adjective",
-        "proto_tag": "BULLIGER",
-        "proto_tag_type": "adjective"
     },
     "BUNTER": {
         "word_type": "adjective",
@@ -1074,6 +1159,11 @@
         "proto_tag": "COWBOY",
         "proto_tag_type": "noun"
     },
+    "CREMIGER": {
+        "word_type": "adjective",
+        "proto_tag": "CREMIGER",
+        "proto_tag_type": "adjective"
+    },
     "CRINGYER": {
         "word_type": "adjective",
         "proto_tag": "CRINGYER",
@@ -1129,11 +1219,6 @@
         "proto_tag": "DENKER",
         "proto_tag_type": "noun"
     },
-    "DEPPERTER": {
-        "word_type": "adjective",
-        "proto_tag": "DEPPERTER",
-        "proto_tag_type": "adjective"
-    },
     "DESASTER": {
         "word_type": "noun",
         "proto_tag": "DESASTER",
@@ -1174,14 +1259,29 @@
         "proto_tag": "DEZENT",
         "proto_tag_type": "noun"
     },
+    "DICHTER": {
+        "word_type": "noun",
+        "proto_tag": "DICHTER",
+        "proto_tag_type": "noun"
+    },
     "DICKER": {
         "word_type": "adjective",
         "proto_tag": "DICKER",
         "proto_tag_type": "adjective"
     },
+    "DICKKOPF": {
+        "word_type": "noun",
+        "proto_tag": "DICKKOPF",
+        "proto_tag_type": "noun"
+    },
     "DIEB": {
         "word_type": "noun",
         "proto_tag": "DIEB",
+        "proto_tag_type": "noun"
+    },
+    "DIENER": {
+        "word_type": "noun",
+        "proto_tag": "DIENER",
         "proto_tag_type": "noun"
     },
     "DIPLOMAT": {
@@ -1264,10 +1364,25 @@
         "proto_tag": "DREIST",
         "proto_tag_type": "noun"
     },
+    "DREISTER": {
+        "word_type": "adjective",
+        "proto_tag": "DREISTER",
+        "proto_tag_type": "adjective"
+    },
     "DROHNENPILOT": {
         "word_type": "noun",
         "proto_tag": "DROHNENPILOT",
         "proto_tag_type": "noun"
+    },
+    "DUELLFREUDIGER": {
+        "word_type": "adjective",
+        "proto_tag": "DUELLFREUDIGER",
+        "proto_tag_type": "adjective"
+    },
+    "DUFTENDER": {
+        "word_type": "adjective",
+        "proto_tag": "DUFTENDER",
+        "proto_tag_type": "adjective"
     },
     "DUMMBATZ": {
         "word_type": "noun",
@@ -1287,6 +1402,11 @@
     "DUNKLER": {
         "word_type": "adjective",
         "proto_tag": "DUNKLER",
+        "proto_tag_type": "adjective"
+    },
+    "DÜNNER": {
+        "word_type": "adjective",
+        "proto_tag": "DÜNNER",
         "proto_tag_type": "adjective"
     },
     "DURCHDACHTER": {
@@ -1324,19 +1444,14 @@
         "proto_tag": "DURCHTRIEBENER",
         "proto_tag_type": "adjective"
     },
-    "DUSSEL": {
-        "word_type": "noun",
-        "proto_tag": "DUSSEL",
-        "proto_tag_type": "noun"
+    "DURSTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "DURSTIGER",
+        "proto_tag_type": "adjective"
     },
     "DÜSTERER": {
         "word_type": "adjective",
         "proto_tag": "DÜSTERER",
-        "proto_tag_type": "adjective"
-    },
-    "ECHTER": {
-        "word_type": "adjective",
-        "proto_tag": "ECHTER",
         "proto_tag_type": "adjective"
     },
     "EDLER": {
@@ -1348,6 +1463,11 @@
         "word_type": "noun",
         "proto_tag": "EFFIZIENT",
         "proto_tag_type": "noun"
+    },
+    "EFFIZIENTER": {
+        "word_type": "adjective",
+        "proto_tag": "EFFIZIENTER",
+        "proto_tag_type": "adjective"
     },
     "EGOIST": {
         "word_type": "noun",
@@ -1362,6 +1482,11 @@
     "EGOZENTRISCHER": {
         "word_type": "adjective",
         "proto_tag": "EGOZENTRISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "EHRENHAFTER": {
+        "word_type": "adjective",
+        "proto_tag": "EHRENHAFTER",
         "proto_tag_type": "adjective"
     },
     "EHRGEIZIGER": {
@@ -1434,11 +1559,6 @@
         "proto_tag": "EINFALLSREICHER",
         "proto_tag_type": "adjective"
     },
-    "EINFARBIGER": {
-        "word_type": "adjective",
-        "proto_tag": "EINFARBIGER",
-        "proto_tag_type": "adjective"
-    },
     "EINFLUSSREICHER": {
         "word_type": "adjective",
         "proto_tag": "EINFLUSSREICHER",
@@ -1449,24 +1569,9 @@
         "proto_tag": "EINFÜHLSAMER",
         "proto_tag_type": "adjective"
     },
-    "EINGÄNGIGER": {
-        "word_type": "adjective",
-        "proto_tag": "EINGÄNGIGER",
-        "proto_tag_type": "adjective"
-    },
-    "EINGEBILDETER": {
-        "word_type": "adjective",
-        "proto_tag": "EINGEBILDETER",
-        "proto_tag_type": "adjective"
-    },
     "EINGESCHRÄNKTER": {
         "word_type": "adjective",
         "proto_tag": "EINGESCHRÄNKTER",
-        "proto_tag_type": "adjective"
-    },
-    "EINHEITLICHER": {
-        "word_type": "adjective",
-        "proto_tag": "EINHEITLICHER",
         "proto_tag_type": "adjective"
     },
     "EINSAMER": {
@@ -1482,6 +1587,11 @@
     "EINZIGARTIGER": {
         "word_type": "adjective",
         "proto_tag": "EINZIGARTIGER",
+        "proto_tag_type": "adjective"
+    },
+    "EISERNER": {
+        "word_type": "adjective",
+        "proto_tag": "EISERNER",
         "proto_tag_type": "adjective"
     },
     "EITLER": {
@@ -1544,6 +1654,11 @@
         "proto_tag": "EMPFINDLICHER",
         "proto_tag_type": "adjective"
     },
+    "EMSIGER": {
+        "word_type": "adjective",
+        "proto_tag": "EMSIGER",
+        "proto_tag_type": "adjective"
+    },
     "ENERGIEGELADENER": {
         "word_type": "adjective",
         "proto_tag": "ENERGIEGELADENER",
@@ -1559,20 +1674,10 @@
         "proto_tag": "ENGAGIERTER",
         "proto_tag_type": "adjective"
     },
-    "ENGEL": {
-        "word_type": "noun",
-        "proto_tag": "ENGEL",
-        "proto_tag_type": "noun"
-    },
     "ENGELCHEN": {
         "word_type": "noun",
         "proto_tag": "ENGELCHEN",
         "proto_tag_type": "noun"
-    },
-    "ENGELSGLEICHER": {
-        "word_type": "adjective",
-        "proto_tag": "ENGELSGLEICHER",
-        "proto_tag_type": "adjective"
     },
     "ENTDECKER": {
         "word_type": "noun",
@@ -1583,11 +1688,6 @@
         "word_type": "noun",
         "proto_tag": "ENTERTAINER",
         "proto_tag_type": "noun"
-    },
-    "ENTFERNTER": {
-        "word_type": "adjective",
-        "proto_tag": "ENTFERNTER",
-        "proto_tag_type": "adjective"
     },
     "ENTHUSIASTISCHER": {
         "word_type": "adjective",
@@ -1602,6 +1702,11 @@
     "EPISCHER": {
         "word_type": "adjective",
         "proto_tag": "EPISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "EPOCHALER": {
+        "word_type": "adjective",
+        "proto_tag": "EPOCHALER",
         "proto_tag_type": "adjective"
     },
     "ERDIGER": {
@@ -1619,6 +1724,11 @@
         "proto_tag": "ERFAHRENER",
         "proto_tag_type": "adjective"
     },
+    "ERFINDER": {
+        "word_type": "noun",
+        "proto_tag": "ERFINDER",
+        "proto_tag_type": "noun"
+    },
     "ERFINDERISCHER": {
         "word_type": "adjective",
         "proto_tag": "ERFINDERISCHER",
@@ -1627,6 +1737,11 @@
     "ERFRISCHENDER": {
         "word_type": "adjective",
         "proto_tag": "ERFRISCHENDER",
+        "proto_tag_type": "adjective"
+    },
+    "ERGEBENER": {
+        "word_type": "adjective",
+        "proto_tag": "ERGEBENER",
         "proto_tag_type": "adjective"
     },
     "ERHABENER": {
@@ -1709,6 +1824,11 @@
         "proto_tag": "ETHISCHER",
         "proto_tag_type": "adjective"
     },
+    "EUPHORISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "EUPHORISCHER",
+        "proto_tag_type": "adjective"
+    },
     "EXHIBITIONIST": {
         "word_type": "noun",
         "proto_tag": "EXHIBITIONIST",
@@ -1717,6 +1837,11 @@
     "EXOTISCHER": {
         "word_type": "adjective",
         "proto_tag": "EXOTISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "EXPERIEMENTIERFREUDIGER": {
+        "word_type": "adjective",
+        "proto_tag": "EXPERIEMENTIERFREUDIGER",
         "proto_tag_type": "adjective"
     },
     "EXPERIMENTIERFREUDIGER": {
@@ -1779,6 +1904,11 @@
         "proto_tag": "FADER",
         "proto_tag_type": "adjective"
     },
+    "FÄHIGER": {
+        "word_type": "adjective",
+        "proto_tag": "FÄHIGER",
+        "proto_tag_type": "adjective"
+    },
     "FAHRER": {
         "word_type": "noun",
         "proto_tag": "FAHRER",
@@ -1814,6 +1944,11 @@
         "proto_tag": "FAMILIENMENSCH",
         "proto_tag_type": "noun"
     },
+    "FAMILIENVATER": {
+        "word_type": "noun",
+        "proto_tag": "FAMILIENVATER",
+        "proto_tag_type": "noun"
+    },
     "FANATISCHER": {
         "word_type": "adjective",
         "proto_tag": "FANATISCHER",
@@ -1829,10 +1964,10 @@
         "proto_tag": "FANTASTISCHER",
         "proto_tag_type": "adjective"
     },
-    "FARMER": {
-        "word_type": "noun",
-        "proto_tag": "FARMER",
-        "proto_tag_type": "noun"
+    "FARBENFROHER": {
+        "word_type": "adjective",
+        "proto_tag": "FARBENFROHER",
+        "proto_tag_type": "adjective"
     },
     "FASSUNGSLOSER": {
         "word_type": "adjective",
@@ -1857,6 +1992,11 @@
     "FEHLENDER": {
         "word_type": "adjective",
         "proto_tag": "FEHLENDER",
+        "proto_tag_type": "adjective"
+    },
+    "FEHLERBEHAFTETER": {
+        "word_type": "adjective",
+        "proto_tag": "FEHLERBEHAFTETER",
         "proto_tag_type": "adjective"
     },
     "FEHLGELEITETER": {
@@ -1924,6 +2064,11 @@
         "proto_tag": "FIESLING",
         "proto_tag_type": "noun"
     },
+    "FINANZIER": {
+        "word_type": "noun",
+        "proto_tag": "FINANZIER",
+        "proto_tag_type": "noun"
+    },
     "FISCHIGER": {
         "word_type": "adjective",
         "proto_tag": "FISCHIGER",
@@ -1989,11 +2134,6 @@
         "proto_tag": "FLOTTER",
         "proto_tag_type": "adjective"
     },
-    "FLÜCHTIGER": {
-        "word_type": "noun",
-        "proto_tag": "FLÜCHTIGER",
-        "proto_tag_type": "noun"
-    },
     "FOKUSSIERTER": {
         "word_type": "adjective",
         "proto_tag": "FOKUSSIERTER",
@@ -2014,11 +2154,6 @@
         "proto_tag": "FÖRMLICHER",
         "proto_tag_type": "adjective"
     },
-    "FRAUENTYP": {
-        "word_type": "noun",
-        "proto_tag": "FRAUENTYP",
-        "proto_tag_type": "noun"
-    },
     "FRECHER": {
         "word_type": "adjective",
         "proto_tag": "FRECHER",
@@ -2037,6 +2172,11 @@
     "FREIGEISTIGER": {
         "word_type": "adjective",
         "proto_tag": "FREIGEISTIGER",
+        "proto_tag_type": "adjective"
+    },
+    "FREMDARTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "FREMDARTIGER",
         "proto_tag_type": "adjective"
     },
     "FREUND": {
@@ -2069,11 +2209,6 @@
         "proto_tag": "FRISCHLUFTBRINGER",
         "proto_tag_type": "noun"
     },
-    "FRISEUR": {
-        "word_type": "noun",
-        "proto_tag": "FRISEUR",
-        "proto_tag_type": "noun"
-    },
     "FRÖHLICHER": {
         "word_type": "adjective",
         "proto_tag": "FRÖHLICHER",
@@ -2093,6 +2228,11 @@
         "word_type": "adjective",
         "proto_tag": "FRUCHTBARER",
         "proto_tag_type": "adjective"
+    },
+    "FRÜHAUFSTEHER": {
+        "word_type": "noun",
+        "proto_tag": "FRÜHAUFSTEHER",
+        "proto_tag_type": "noun"
     },
     "FRÜHREIFER": {
         "word_type": "adjective",
@@ -2139,11 +2279,6 @@
         "proto_tag": "FUTURISTISCHER",
         "proto_tag_type": "adjective"
     },
-    "GACKERNDER": {
-        "word_type": "adjective",
-        "proto_tag": "GACKERNDER",
-        "proto_tag_type": "adjective"
-    },
     "GALAKTISCHER": {
         "word_type": "adjective",
         "proto_tag": "GALAKTISCHER",
@@ -2152,11 +2287,6 @@
     "GAMMLER": {
         "word_type": "noun",
         "proto_tag": "GAMMLER",
-        "proto_tag_type": "noun"
-    },
-    "GASTGEBER": {
-        "word_type": "noun",
-        "proto_tag": "GASTGEBER",
         "proto_tag_type": "noun"
     },
     "GAUNER": {
@@ -2180,9 +2310,9 @@
         "proto_tag_type": "adjective"
     },
     "GEDULDIGER": {
-        "word_type": "adjective",
+        "word_type": "noun",
         "proto_tag": "GEDULDIGER",
-        "proto_tag_type": "adjective"
+        "proto_tag_type": "noun"
     },
     "GEFÄHRLICHER": {
         "word_type": "adjective",
@@ -2212,6 +2342,11 @@
     "GEIST": {
         "word_type": "noun",
         "proto_tag": "GEIST",
+        "proto_tag_type": "noun"
+    },
+    "GEISTERFAHRER": {
+        "word_type": "noun",
+        "proto_tag": "GEISTERFAHRER",
         "proto_tag_type": "noun"
     },
     "GEISTESABWESENDER": {
@@ -2254,6 +2389,16 @@
         "proto_tag": "GELBER",
         "proto_tag_type": "adjective"
     },
+    "GELDGEILER": {
+        "word_type": "adjective",
+        "proto_tag": "GELDGEILER",
+        "proto_tag_type": "adjective"
+    },
+    "GELDGIERIGER": {
+        "word_type": "adjective",
+        "proto_tag": "GELDGIERIGER",
+        "proto_tag_type": "adjective"
+    },
     "GELDMACHER": {
         "word_type": "noun",
         "proto_tag": "GELDMACHER",
@@ -2264,14 +2409,14 @@
         "proto_tag": "GELDSACK",
         "proto_tag_type": "noun"
     },
-    "GELDVERDIENER": {
-        "word_type": "noun",
-        "proto_tag": "GELDVERDIENER",
-        "proto_tag_type": "noun"
-    },
     "GELEHRTER": {
         "word_type": "adjective",
         "proto_tag": "GELEHRTER",
+        "proto_tag_type": "adjective"
+    },
+    "GEMÄCHLICHER": {
+        "word_type": "adjective",
+        "proto_tag": "GEMÄCHLICHER",
         "proto_tag_type": "adjective"
     },
     "GEMEINER": {
@@ -2303,6 +2448,16 @@
         "word_type": "noun",
         "proto_tag": "GENIE",
         "proto_tag_type": "noun"
+    },
+    "GENIEßER": {
+        "word_type": "noun",
+        "proto_tag": "GENIEßER",
+        "proto_tag_type": "noun"
+    },
+    "GENIEßERISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "GENIEßERISCHER",
+        "proto_tag_type": "adjective"
     },
     "GENUSSFREUDIGER": {
         "word_type": "adjective",
@@ -2339,6 +2494,11 @@
         "proto_tag": "GEREIZTER",
         "proto_tag_type": "adjective"
     },
+    "GERISSENER": {
+        "word_type": "adjective",
+        "proto_tag": "GERISSENER",
+        "proto_tag_type": "adjective"
+    },
     "GESANDTER": {
         "word_type": "noun",
         "proto_tag": "GESANDTER",
@@ -2369,6 +2529,11 @@
         "proto_tag": "GESCHICHTENERZÄHLER",
         "proto_tag_type": "noun"
     },
+    "GESCHICHTSTRÄCHTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "GESCHICHTSTRÄCHTIGER",
+        "proto_tag_type": "adjective"
+    },
     "GESCHICKTER": {
         "word_type": "adjective",
         "proto_tag": "GESCHICKTER",
@@ -2382,6 +2547,11 @@
     "GESCHMACKLOSER": {
         "word_type": "adjective",
         "proto_tag": "GESCHMACKLOSER",
+        "proto_tag_type": "adjective"
+    },
+    "GESCHMACKSVOLLER": {
+        "word_type": "adjective",
+        "proto_tag": "GESCHMACKSVOLLER",
         "proto_tag_type": "adjective"
     },
     "GESCHMACKVOLLER": {
@@ -2479,6 +2649,11 @@
         "proto_tag": "GEZEICHNETER",
         "proto_tag_type": "adjective"
     },
+    "GEZWUNGENER": {
+        "word_type": "adjective",
+        "proto_tag": "GEZWUNGENER",
+        "proto_tag_type": "adjective"
+    },
     "GIERIGER": {
         "word_type": "adjective",
         "proto_tag": "GIERIGER",
@@ -2489,11 +2664,6 @@
         "proto_tag": "GIFTIGER",
         "proto_tag_type": "adjective"
     },
-    "GIFTZWERG": {
-        "word_type": "noun",
-        "proto_tag": "GIFTZWERG",
-        "proto_tag_type": "noun"
-    },
     "GLAMOURÖSER": {
         "word_type": "adjective",
         "proto_tag": "GLAMOURÖSER",
@@ -2502,6 +2672,11 @@
     "GLATTER": {
         "word_type": "adjective",
         "proto_tag": "GLATTER",
+        "proto_tag_type": "adjective"
+    },
+    "GLATZKÖPFIGER": {
+        "word_type": "adjective",
+        "proto_tag": "GLATZKÖPFIGER",
         "proto_tag_type": "adjective"
     },
     "GLÄUBIGER": {
@@ -2529,6 +2704,11 @@
         "proto_tag": "GLÜCKSMENSCH",
         "proto_tag_type": "noun"
     },
+    "GLÜCKSPILZ": {
+        "word_type": "noun",
+        "proto_tag": "GLÜCKSPILZ",
+        "proto_tag_type": "noun"
+    },
     "GLÜCKSSPIELER": {
         "word_type": "noun",
         "proto_tag": "GLÜCKSSPIELER",
@@ -2539,9 +2719,19 @@
         "proto_tag": "GOTT",
         "proto_tag_type": "noun"
     },
+    "GÖTTLICHER": {
+        "word_type": "adjective",
+        "proto_tag": "GÖTTLICHER",
+        "proto_tag_type": "adjective"
+    },
     "GRANDIOSER": {
         "word_type": "adjective",
         "proto_tag": "GRANDIOSER",
+        "proto_tag_type": "adjective"
+    },
+    "GRÄSSLICHER": {
+        "word_type": "adjective",
+        "proto_tag": "GRÄSSLICHER",
         "proto_tag_type": "adjective"
     },
     "GRAUSAMER": {
@@ -2549,15 +2739,15 @@
         "proto_tag": "GRAUSAMER",
         "proto_tag_type": "adjective"
     },
+    "GRAZILER": {
+        "word_type": "adjective",
+        "proto_tag": "GRAZILER",
+        "proto_tag_type": "adjective"
+    },
     "GREIFER": {
         "word_type": "noun",
         "proto_tag": "GREIFER",
         "proto_tag_type": "noun"
-    },
-    "GRIECHISCHER": {
-        "word_type": "adjective",
-        "proto_tag": "GRIECHISCHER",
-        "proto_tag_type": "adjective"
     },
     "GRIESGRAM": {
         "word_type": "noun",
@@ -2569,9 +2759,9 @@
         "proto_tag": "GRIESGRÄMIGER",
         "proto_tag_type": "adjective"
     },
-    "GRIMMIGER": {
+    "GRIEßGRÄMIGER": {
         "word_type": "adjective",
-        "proto_tag": "GRIMMIGER",
+        "proto_tag": "GRIEßGRÄMIGER",
         "proto_tag_type": "adjective"
     },
     "GRINSEBACKE": {
@@ -2604,6 +2794,11 @@
         "proto_tag": "GROßMAUL",
         "proto_tag_type": "noun"
     },
+    "GROßSPURIGER": {
+        "word_type": "adjective",
+        "proto_tag": "GROßSPURIGER",
+        "proto_tag_type": "adjective"
+    },
     "GROßSTÄDTISCHER": {
         "word_type": "adjective",
         "proto_tag": "GROßSTÄDTISCHER",
@@ -2624,11 +2819,6 @@
         "proto_tag": "GRUSELIGER",
         "proto_tag_type": "adjective"
     },
-    "GUIDE": {
-        "word_type": "noun",
-        "proto_tag": "GUIDE",
-        "proto_tag_type": "noun"
-    },
     "GURU": {
         "word_type": "noun",
         "proto_tag": "GURU",
@@ -2639,9 +2829,9 @@
         "proto_tag": "GUT AUSGERUHTER",
         "proto_tag_type": "adjective"
     },
-    "GUT GEWARTETER": {
+    "GUTER": {
         "word_type": "adjective",
-        "proto_tag": "GUT GEWARTETER",
+        "proto_tag": "GUTER",
         "proto_tag_type": "adjective"
     },
     "GUTGLÄUBIGER": {
@@ -2684,9 +2874,24 @@
         "proto_tag": "HALBGOTT",
         "proto_tag_type": "noun"
     },
+    "HALUNKE": {
+        "word_type": "noun",
+        "proto_tag": "HALUNKE",
+        "proto_tag_type": "noun"
+    },
+    "HANDELSFREUDIGER": {
+        "word_type": "adjective",
+        "proto_tag": "HANDELSFREUDIGER",
+        "proto_tag_type": "adjective"
+    },
     "HÄNDLER": {
         "word_type": "noun",
         "proto_tag": "HÄNDLER",
+        "proto_tag_type": "noun"
+    },
+    "HANDWERKER": {
+        "word_type": "noun",
+        "proto_tag": "HANDWERKER",
         "proto_tag_type": "noun"
     },
     "HANDWERKLICHER": {
@@ -2759,6 +2964,11 @@
         "proto_tag": "HEIßER",
         "proto_tag_type": "adjective"
     },
+    "HEKTISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "HEKTISCHER",
+        "proto_tag_type": "adjective"
+    },
     "HELD": {
         "word_type": "noun",
         "proto_tag": "HELD",
@@ -2777,6 +2987,11 @@
     "HELLSEHER": {
         "word_type": "noun",
         "proto_tag": "HELLSEHER",
+        "proto_tag_type": "noun"
+    },
+    "HERAUSFORDER": {
+        "word_type": "noun",
+        "proto_tag": "HERAUSFORDER",
         "proto_tag_type": "noun"
     },
     "HERAUSFORDERNDER": {
@@ -2804,6 +3019,11 @@
         "proto_tag": "HERZENSBRECHER",
         "proto_tag_type": "noun"
     },
+    "HERZENSGUTER": {
+        "word_type": "adjective",
+        "proto_tag": "HERZENSGUTER",
+        "proto_tag_type": "adjective"
+    },
     "HERZHAFTER": {
         "word_type": "adjective",
         "proto_tag": "HERZHAFTER",
@@ -2813,6 +3033,11 @@
         "word_type": "noun",
         "proto_tag": "HEULSUSE-TYP",
         "proto_tag_type": "noun"
+    },
+    "HIILFSBEREITER": {
+        "word_type": "adjective",
+        "proto_tag": "HIILFSBEREITER",
+        "proto_tag_type": "adjective"
     },
     "HILFREICHER": {
         "word_type": "adjective",
@@ -2884,30 +3109,20 @@
         "proto_tag": "HITZIGER",
         "proto_tag_type": "adjective"
     },
-    "HITZKOPF": {
-        "word_type": "noun",
-        "proto_tag": "HITZKOPF",
-        "proto_tag_type": "noun"
-    },
     "HITZKÖPFIGER": {
         "word_type": "adjective",
         "proto_tag": "HITZKÖPFIGER",
+        "proto_tag_type": "adjective"
+    },
+    "HOCHBEGABTER": {
+        "word_type": "adjective",
+        "proto_tag": "HOCHBEGABTER",
         "proto_tag_type": "adjective"
     },
     "HOCHSTAPLER": {
         "word_type": "noun",
         "proto_tag": "HOCHSTAPLER",
         "proto_tag_type": "noun"
-    },
-    "HOCKEYSPIELER": {
-        "word_type": "noun",
-        "proto_tag": "HOCKEYSPIELER",
-        "proto_tag_type": "noun"
-    },
-    "HOFFNUNGSLOSER": {
-        "word_type": "adjective",
-        "proto_tag": "HOFFNUNGSLOSER",
-        "proto_tag_type": "adjective"
     },
     "HOFFNUNGSVOLLER": {
         "word_type": "adjective",
@@ -2924,11 +3139,6 @@
         "proto_tag": "HOHER",
         "proto_tag_type": "adjective"
     },
-    "HOHLKOPF": {
-        "word_type": "noun",
-        "proto_tag": "HOHLKOPF",
-        "proto_tag_type": "noun"
-    },
     "HÖLZERNER": {
         "word_type": "adjective",
         "proto_tag": "HÖLZERNER",
@@ -2938,11 +3148,6 @@
         "word_type": "adjective",
         "proto_tag": "HOLZKÖPFIGER",
         "proto_tag_type": "adjective"
-    },
-    "HOSENTRÄGER": {
-        "word_type": "noun",
-        "proto_tag": "HOSENTRÄGER",
-        "proto_tag_type": "noun"
     },
     "HÜBSCHER": {
         "word_type": "adjective",
@@ -2987,6 +3192,16 @@
     "ILLUMINAT": {
         "word_type": "noun",
         "proto_tag": "ILLUMINAT",
+        "proto_tag_type": "noun"
+    },
+    "IMMOBILIENBESITZER": {
+        "word_type": "noun",
+        "proto_tag": "IMMOBILIENBESITZER",
+        "proto_tag_type": "noun"
+    },
+    "IMPROVISATIONSMEISTER": {
+        "word_type": "noun",
+        "proto_tag": "IMPROVISATIONSMEISTER",
         "proto_tag_type": "noun"
     },
     "IMPROVISATOR": {
@@ -3060,9 +3275,9 @@
         "proto_tag_type": "adjective"
     },
     "INTELLEKTUELLER": {
-        "word_type": "noun",
+        "word_type": "adjective",
         "proto_tag": "INTELLEKTUELLER",
-        "proto_tag_type": "noun"
+        "proto_tag_type": "adjective"
     },
     "INTELLIGENT": {
         "word_type": "noun",
@@ -3118,6 +3333,11 @@
         "word_type": "noun",
         "proto_tag": "JÄGER",
         "proto_tag_type": "noun"
+    },
+    "JÄHZORNIGER": {
+        "word_type": "adjective",
+        "proto_tag": "JÄHZORNIGER",
+        "proto_tag_type": "adjective"
     },
     "JAMMERLAPPEN": {
         "word_type": "noun",
@@ -3194,6 +3414,11 @@
         "proto_tag": "KAMPFKÜNSTLER",
         "proto_tag_type": "noun"
     },
+    "KAMPFLUSTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "KAMPFLUSTIGER",
+        "proto_tag_type": "adjective"
+    },
     "KANTIGER": {
         "word_type": "adjective",
         "proto_tag": "KANTIGER",
@@ -3214,10 +3439,10 @@
         "proto_tag": "KATZENLIEBHABER",
         "proto_tag_type": "noun"
     },
-    "KATZENMENSCH": {
-        "word_type": "noun",
-        "proto_tag": "KATZENMENSCH",
-        "proto_tag_type": "noun"
+    "KÄUFLICHER": {
+        "word_type": "adjective",
+        "proto_tag": "KÄUFLICHER",
+        "proto_tag_type": "adjective"
     },
     "KECKER": {
         "word_type": "adjective",
@@ -3227,11 +3452,6 @@
     "KEIMPHOBIKER": {
         "word_type": "noun",
         "proto_tag": "KEIMPHOBIKER",
-        "proto_tag_type": "noun"
-    },
-    "KEKSFAN": {
-        "word_type": "noun",
-        "proto_tag": "KEKSFAN",
         "proto_tag_type": "noun"
     },
     "KENNER": {
@@ -3259,6 +3479,11 @@
         "proto_tag": "KINDLICHER",
         "proto_tag_type": "adjective"
     },
+    "KINDSKOPF": {
+        "word_type": "noun",
+        "proto_tag": "KINDSKOPF",
+        "proto_tag_type": "noun"
+    },
     "KITSCHIGER": {
         "word_type": "adjective",
         "proto_tag": "KITSCHIGER",
@@ -3279,6 +3504,11 @@
         "proto_tag": "KLATSCHMAUL",
         "proto_tag_type": "noun"
     },
+    "KLEBRIGER": {
+        "word_type": "adjective",
+        "proto_tag": "KLEBRIGER",
+        "proto_tag_type": "adjective"
+    },
     "KLEINER": {
         "word_type": "adjective",
         "proto_tag": "KLEINER",
@@ -3293,6 +3523,11 @@
         "word_type": "noun",
         "proto_tag": "KLEINKIND",
         "proto_tag_type": "noun"
+    },
+    "KLEINWÜCHSIGER": {
+        "word_type": "adjective",
+        "proto_tag": "KLEINWÜCHSIGER",
+        "proto_tag_type": "adjective"
     },
     "KLISCHEEHAFTER": {
         "word_type": "adjective",
@@ -3314,6 +3549,11 @@
         "proto_tag": "KLUGSCHEIßER",
         "proto_tag_type": "noun"
     },
+    "KNACKIGER": {
+        "word_type": "adjective",
+        "proto_tag": "KNACKIGER",
+        "proto_tag_type": "adjective"
+    },
     "KNALLHARTER": {
         "word_type": "adjective",
         "proto_tag": "KNALLHARTER",
@@ -3333,6 +3573,11 @@
         "word_type": "noun",
         "proto_tag": "KOCH",
         "proto_tag_type": "noun"
+    },
+    "KOLOSSALER": {
+        "word_type": "adjective",
+        "proto_tag": "KOLOSSALER",
+        "proto_tag_type": "adjective"
     },
     "KOMFORTABLER": {
         "word_type": "adjective",
@@ -3367,6 +3612,11 @@
     "KOMPLEXER": {
         "word_type": "adjective",
         "proto_tag": "KOMPLEXER",
+        "proto_tag_type": "adjective"
+    },
+    "KONFLIKTFREUDIGER": {
+        "word_type": "adjective",
+        "proto_tag": "KONFLIKTFREUDIGER",
         "proto_tag_type": "adjective"
     },
     "KONFRONTATIVER": {
@@ -3484,6 +3734,11 @@
         "proto_tag": "KRITISCHER",
         "proto_tag_type": "adjective"
     },
+    "KRÖSUS": {
+        "word_type": "noun",
+        "proto_tag": "KRÖSUS",
+        "proto_tag_type": "noun"
+    },
     "KRUDER": {
         "word_type": "adjective",
         "proto_tag": "KRUDER",
@@ -3549,6 +3804,16 @@
         "proto_tag": "KUNSTLIEBHABER",
         "proto_tag_type": "noun"
     },
+    "KURZARMIGER": {
+        "word_type": "adjective",
+        "proto_tag": "KURZARMIGER",
+        "proto_tag_type": "adjective"
+    },
+    "KURZER": {
+        "word_type": "adjective",
+        "proto_tag": "KURZER",
+        "proto_tag_type": "adjective"
+    },
     "LAHMER": {
         "word_type": "adjective",
         "proto_tag": "LAHMER",
@@ -3567,6 +3832,11 @@
     "LANGATMIGER": {
         "word_type": "adjective",
         "proto_tag": "LANGATMIGER",
+        "proto_tag_type": "adjective"
+    },
+    "LANGER": {
+        "word_type": "adjective",
+        "proto_tag": "LANGER",
         "proto_tag_type": "adjective"
     },
     "LANGSAMER": {
@@ -3739,6 +4009,11 @@
         "proto_tag": "LIEBESKRANKER",
         "proto_tag_type": "adjective"
     },
+    "LIEBEVOLLER": {
+        "word_type": "adjective",
+        "proto_tag": "LIEBEVOLLER",
+        "proto_tag_type": "adjective"
+    },
     "LIEBLING": {
         "word_type": "noun",
         "proto_tag": "LIEBLING",
@@ -3764,9 +4039,9 @@
         "proto_tag": "LOCKERER",
         "proto_tag_type": "adjective"
     },
-    "LOGISCHER": {
+    "LÖSUNGSORIENTIERTER": {
         "word_type": "adjective",
-        "proto_tag": "LOGISCHER",
+        "proto_tag": "LÖSUNGSORIENTIERTER",
         "proto_tag_type": "adjective"
     },
     "LOYALER": {
@@ -3787,6 +4062,11 @@
     "LUSTIGER": {
         "word_type": "adjective",
         "proto_tag": "LUSTIGER",
+        "proto_tag_type": "adjective"
+    },
+    "LUSTLOSER": {
+        "word_type": "adjective",
+        "proto_tag": "LUSTLOSER",
         "proto_tag_type": "adjective"
     },
     "LUXURIÖSER": {
@@ -3822,6 +4102,16 @@
     "MACHTVOLLER": {
         "word_type": "adjective",
         "proto_tag": "MACHTVOLLER",
+        "proto_tag_type": "adjective"
+    },
+    "MAFIABOSS": {
+        "word_type": "noun",
+        "proto_tag": "MAFIABOSS",
+        "proto_tag_type": "noun"
+    },
+    "MAGIEBEGABTER": {
+        "word_type": "adjective",
+        "proto_tag": "MAGIEBEGABTER",
         "proto_tag_type": "adjective"
     },
     "MAGIER": {
@@ -3909,6 +4199,11 @@
         "proto_tag": "MEDIENBEGEISTERTER",
         "proto_tag_type": "adjective"
     },
+    "MEDIZINER": {
+        "word_type": "noun",
+        "proto_tag": "MEDIZINER",
+        "proto_tag_type": "noun"
+    },
     "MEISTERHAFTER": {
         "word_type": "adjective",
         "proto_tag": "MEISTERHAFTER",
@@ -3959,6 +4254,11 @@
         "proto_tag": "METALLISCHER",
         "proto_tag_type": "adjective"
     },
+    "MEUCHELMÖRDER": {
+        "word_type": "noun",
+        "proto_tag": "MEUCHELMÖRDER",
+        "proto_tag_type": "noun"
+    },
     "MIESEPETER": {
         "word_type": "noun",
         "proto_tag": "MIESEPETER",
@@ -3973,6 +4273,11 @@
         "word_type": "adjective",
         "proto_tag": "MIESER",
         "proto_tag_type": "adjective"
+    },
+    "MILITARIST": {
+        "word_type": "noun",
+        "proto_tag": "MILITARIST",
+        "proto_tag_type": "noun"
     },
     "MILLENNIAL-TYP": {
         "word_type": "noun",
@@ -4009,14 +4314,29 @@
         "proto_tag": "MITLÄUFER",
         "proto_tag_type": "noun"
     },
-    "MITTAGSSCHLÄFER": {
-        "word_type": "noun",
-        "proto_tag": "MITTAGSSCHLÄFER",
-        "proto_tag_type": "noun"
+    "MITLEIDSERREGENDER": {
+        "word_type": "adjective",
+        "proto_tag": "MITLEIDSERREGENDER",
+        "proto_tag_type": "adjective"
+    },
+    "MITTEILUNGSBEDÜRFTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "MITTEILUNGSBEDÜRFTIGER",
+        "proto_tag_type": "adjective"
     },
     "MITTELALTERLICHER": {
         "word_type": "adjective",
         "proto_tag": "MITTELALTERLICHER",
+        "proto_tag_type": "adjective"
+    },
+    "MÖCHTEGERN-MUSIKER": {
+        "word_type": "noun",
+        "proto_tag": "MÖCHTEGERN-MUSIKER",
+        "proto_tag_type": "noun"
+    },
+    "MODEBEWUSSTER": {
+        "word_type": "adjective",
+        "proto_tag": "MODEBEWUSSTER",
         "proto_tag_type": "adjective"
     },
     "MODEGURU": {
@@ -4049,15 +4369,15 @@
         "proto_tag": "MONARCH",
         "proto_tag_type": "noun"
     },
-    "MONDÄNER": {
-        "word_type": "adjective",
-        "proto_tag": "MONDÄNER",
-        "proto_tag_type": "adjective"
-    },
     "MORALISCHER": {
         "word_type": "adjective",
         "proto_tag": "MORALISCHER",
         "proto_tag_type": "adjective"
+    },
+    "MÖRDER": {
+        "word_type": "noun",
+        "proto_tag": "MÖRDER",
+        "proto_tag_type": "noun"
     },
     "MÖRDERISCHER": {
         "word_type": "adjective",
@@ -4084,6 +4404,11 @@
         "proto_tag": "MÜLLSAMMLER",
         "proto_tag_type": "noun"
     },
+    "MULTITASKINGFÄHIGER": {
+        "word_type": "adjective",
+        "proto_tag": "MULTITASKINGFÄHIGER",
+        "proto_tag_type": "adjective"
+    },
     "MUNTERER": {
         "word_type": "adjective",
         "proto_tag": "MUNTERER",
@@ -4099,6 +4424,11 @@
         "proto_tag": "MUSIKALISCHER",
         "proto_tag_type": "adjective"
     },
+    "MUSIKANT": {
+        "word_type": "noun",
+        "proto_tag": "MUSIKANT",
+        "proto_tag_type": "noun"
+    },
     "MUSIKER": {
         "word_type": "noun",
         "proto_tag": "MUSIKER",
@@ -4108,6 +4438,11 @@
         "word_type": "noun",
         "proto_tag": "MUSIKLIEBHABER",
         "proto_tag_type": "noun"
+    },
+    "MUSIZIERENDER": {
+        "word_type": "adjective",
+        "proto_tag": "MUSIZIERENDER",
+        "proto_tag_type": "adjective"
     },
     "MUSKELBEPACKTER": {
         "word_type": "adjective",
@@ -4144,11 +4479,6 @@
         "proto_tag": "NACHTMENSCH",
         "proto_tag_type": "noun"
     },
-    "NACKTER": {
-        "word_type": "adjective",
-        "proto_tag": "NACKTER",
-        "proto_tag_type": "adjective"
-    },
     "NÄHRSTOFFREICHER": {
         "word_type": "adjective",
         "proto_tag": "NÄHRSTOFFREICHER",
@@ -4169,9 +4499,9 @@
         "proto_tag": "NASALER",
         "proto_tag_type": "adjective"
     },
-    "NASCHER": {
+    "NATUR-FREUND": {
         "word_type": "noun",
-        "proto_tag": "NASCHER",
+        "proto_tag": "NATUR-FREUND",
         "proto_tag_type": "noun"
     },
     "NATURALIST": {
@@ -4213,6 +4543,11 @@
         "word_type": "adjective",
         "proto_tag": "NEGATIVER",
         "proto_tag_type": "adjective"
+    },
+    "NEIDER": {
+        "word_type": "noun",
+        "proto_tag": "NEIDER",
+        "proto_tag_type": "noun"
     },
     "NEIDISCHER": {
         "word_type": "adjective",
@@ -4269,10 +4604,15 @@
         "proto_tag": "NEUROTISCHER",
         "proto_tag_type": "adjective"
     },
-    "NICER": {
+    "NEUTRALER": {
         "word_type": "adjective",
-        "proto_tag": "NICER",
+        "proto_tag": "NEUTRALER",
         "proto_tag_type": "adjective"
+    },
+    "NEWCOMER": {
+        "word_type": "noun",
+        "proto_tag": "NEWCOMER",
+        "proto_tag_type": "noun"
     },
     "NICHTSKÖNNER": {
         "word_type": "noun",
@@ -4332,6 +4672,11 @@
     "NOSTALGISCHER": {
         "word_type": "adjective",
         "proto_tag": "NOSTALGISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "NOTDÜRFTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "NOTDÜRFTIGER",
         "proto_tag_type": "adjective"
     },
     "NUSSIGER": {
@@ -4404,6 +4749,11 @@
         "proto_tag": "OPA",
         "proto_tag_type": "noun"
     },
+    "OPPORTUNIST": {
+        "word_type": "noun",
+        "proto_tag": "OPPORTUNIST",
+        "proto_tag_type": "noun"
+    },
     "OPTIMIST": {
         "word_type": "noun",
         "proto_tag": "OPTIMIST",
@@ -4437,6 +4787,16 @@
     "ORIENTIERUNGSLOSER": {
         "word_type": "adjective",
         "proto_tag": "ORIENTIERUNGSLOSER",
+        "proto_tag_type": "adjective"
+    },
+    "ORIGINELLER": {
+        "word_type": "adjective",
+        "proto_tag": "ORIGINELLER",
+        "proto_tag_type": "adjective"
+    },
+    "OSTDEUTSCHER": {
+        "word_type": "adjective",
+        "proto_tag": "OSTDEUTSCHER",
         "proto_tag_type": "adjective"
     },
     "OUTDOORLIEBENDER": {
@@ -4509,6 +4869,11 @@
         "proto_tag": "PATRIOTISCHER",
         "proto_tag_type": "adjective"
     },
+    "PAZIFISTISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "PAZIFISTISCHER",
+        "proto_tag_type": "adjective"
+    },
     "PEDANTISCHER": {
         "word_type": "adjective",
         "proto_tag": "PEDANTISCHER",
@@ -4524,11 +4889,6 @@
         "proto_tag": "PENDLER",
         "proto_tag_type": "noun"
     },
-    "PEPPIGER": {
-        "word_type": "adjective",
-        "proto_tag": "PEPPIGER",
-        "proto_tag_type": "adjective"
-    },
     "PERFEKTIONIST": {
         "word_type": "noun",
         "proto_tag": "PERFEKTIONIST",
@@ -4539,10 +4899,20 @@
         "proto_tag": "PERFORMER",
         "proto_tag_type": "noun"
     },
+    "PESSIMIST": {
+        "word_type": "noun",
+        "proto_tag": "PESSIMIST",
+        "proto_tag_type": "noun"
+    },
     "PESSIMISTISCHER": {
         "word_type": "adjective",
         "proto_tag": "PESSIMISTISCHER",
         "proto_tag_type": "adjective"
+    },
+    "PFENNIGFUCHS": {
+        "word_type": "noun",
+        "proto_tag": "PFENNIGFUCHS",
+        "proto_tag_type": "noun"
     },
     "PFLEGENDER": {
         "word_type": "adjective",
@@ -4594,10 +4964,10 @@
         "proto_tag": "POLITISCHER",
         "proto_tag_type": "adjective"
     },
-    "POP-EXPERTE": {
-        "word_type": "noun",
-        "proto_tag": "POP-EXPERTE",
-        "proto_tag_type": "noun"
+    "POLYGAMER": {
+        "word_type": "adjective",
+        "proto_tag": "POLYGAMER",
+        "proto_tag_type": "adjective"
     },
     "POPULÄRER": {
         "word_type": "adjective",
@@ -4619,6 +4989,16 @@
         "proto_tag": "PRACHTKERL",
         "proto_tag_type": "noun"
     },
+    "PRAGMATIKER": {
+        "word_type": "noun",
+        "proto_tag": "PRAGMATIKER",
+        "proto_tag_type": "noun"
+    },
+    "PRAGMATISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "PRAGMATISCHER",
+        "proto_tag_type": "adjective"
+    },
     "PRAHLHANS": {
         "word_type": "noun",
         "proto_tag": "PRAHLHANS",
@@ -4627,11 +5007,6 @@
     "PRAKTISCHER": {
         "word_type": "adjective",
         "proto_tag": "PRAKTISCHER",
-        "proto_tag_type": "adjective"
-    },
-    "PRÄSIDENTIELLER": {
-        "word_type": "adjective",
-        "proto_tag": "PRÄSIDENTIELLER",
         "proto_tag_type": "adjective"
     },
     "PRÄTENTIÖSER": {
@@ -4658,11 +5033,6 @@
         "word_type": "adjective",
         "proto_tag": "PRIMITIVER",
         "proto_tag_type": "adjective"
-    },
-    "PRINZ": {
-        "word_type": "noun",
-        "proto_tag": "PRINZ",
-        "proto_tag_type": "noun"
     },
     "PRINZIPIENTREUER": {
         "word_type": "adjective",
@@ -4694,10 +5064,20 @@
         "proto_tag": "PROFESSIONELLER",
         "proto_tag_type": "adjective"
     },
+    "PROJEKTLEITER": {
+        "word_type": "noun",
+        "proto_tag": "PROJEKTLEITER",
+        "proto_tag_type": "noun"
+    },
     "PROPHET": {
         "word_type": "noun",
         "proto_tag": "PROPHET",
         "proto_tag_type": "noun"
+    },
+    "PROTZIGER": {
+        "word_type": "adjective",
+        "proto_tag": "PROTZIGER",
+        "proto_tag_type": "adjective"
     },
     "PROVOKANT": {
         "word_type": "noun",
@@ -4714,10 +5094,25 @@
         "proto_tag": "PSYCHO",
         "proto_tag_type": "noun"
     },
+    "PSYCHOPATH": {
+        "word_type": "noun",
+        "proto_tag": "PSYCHOPATH",
+        "proto_tag_type": "noun"
+    },
+    "PSYCHOPATISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "PSYCHOPATISCHER",
+        "proto_tag_type": "adjective"
+    },
     "PÜNKTLICHER": {
         "word_type": "adjective",
         "proto_tag": "PÜNKTLICHER",
         "proto_tag_type": "adjective"
+    },
+    "PUTZTEUFEL": {
+        "word_type": "noun",
+        "proto_tag": "PUTZTEUFEL",
+        "proto_tag_type": "noun"
     },
     "PUZZLER": {
         "word_type": "noun",
@@ -4734,15 +5129,15 @@
         "proto_tag": "QUATSCHKOPF",
         "proto_tag_type": "noun"
     },
+    "RABIATER": {
+        "word_type": "adjective",
+        "proto_tag": "RABIATER",
+        "proto_tag_type": "adjective"
+    },
     "RACHSÜCHTIGER": {
         "word_type": "adjective",
         "proto_tag": "RACHSÜCHTIGER",
         "proto_tag_type": "adjective"
-    },
-    "RÄDELSFÜHRER": {
-        "word_type": "noun",
-        "proto_tag": "RÄDELSFÜHRER",
-        "proto_tag_type": "noun"
     },
     "RADIKALER": {
         "word_type": "adjective",
@@ -4784,10 +5179,10 @@
         "proto_tag": "RAUER",
         "proto_tag_type": "adjective"
     },
-    "REALIST": {
-        "word_type": "noun",
-        "proto_tag": "REALIST",
-        "proto_tag_type": "noun"
+    "REAKTIONSSCHNELLER": {
+        "word_type": "adjective",
+        "proto_tag": "REAKTIONSSCHNELLER",
+        "proto_tag_type": "adjective"
     },
     "REBELL": {
         "word_type": "noun",
@@ -4809,10 +5204,25 @@
         "proto_tag": "RECHTSCHAFFENER",
         "proto_tag_type": "adjective"
     },
-    "REDNER": {
+    "RECYCLER": {
         "word_type": "noun",
-        "proto_tag": "REDNER",
+        "proto_tag": "RECYCLER",
         "proto_tag_type": "noun"
+    },
+    "REDEGEWANDTER": {
+        "word_type": "adjective",
+        "proto_tag": "REDEGEWANDTER",
+        "proto_tag_type": "adjective"
+    },
+    "REDSELIGER": {
+        "word_type": "adjective",
+        "proto_tag": "REDSELIGER",
+        "proto_tag_type": "adjective"
+    },
+    "REGNERISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "REGNERISCHER",
+        "proto_tag_type": "adjective"
     },
     "REGULÄRER": {
         "word_type": "adjective",
@@ -5114,6 +5524,11 @@
         "proto_tag": "SCHLÄGER",
         "proto_tag_type": "noun"
     },
+    "SCHLÄGERTYP": {
+        "word_type": "noun",
+        "proto_tag": "SCHLÄGERTYP",
+        "proto_tag_type": "noun"
+    },
     "SCHLAMPER": {
         "word_type": "noun",
         "proto_tag": "SCHLAMPER",
@@ -5124,14 +5539,29 @@
         "proto_tag": "SCHLAMPIGER",
         "proto_tag_type": "adjective"
     },
+    "SCHLANKER": {
+        "word_type": "adjective",
+        "proto_tag": "SCHLANKER",
+        "proto_tag_type": "adjective"
+    },
     "SCHLAUER": {
         "word_type": "adjective",
         "proto_tag": "SCHLAUER",
         "proto_tag_type": "adjective"
     },
+    "SCHLECHTER": {
+        "word_type": "adjective",
+        "proto_tag": "SCHLECHTER",
+        "proto_tag_type": "adjective"
+    },
     "SCHLECKERMAUL": {
         "word_type": "noun",
         "proto_tag": "SCHLECKERMAUL",
+        "proto_tag_type": "noun"
+    },
+    "SCHLEIMER": {
+        "word_type": "noun",
+        "proto_tag": "SCHLEIMER",
         "proto_tag_type": "noun"
     },
     "SCHLEIMIGER": {
@@ -5144,15 +5574,15 @@
         "proto_tag": "SCHLICHTER",
         "proto_tag_type": "adjective"
     },
-    "SCHLINGEL": {
-        "word_type": "noun",
-        "proto_tag": "SCHLINGEL",
-        "proto_tag_type": "noun"
-    },
     "SCHLUCKER": {
         "word_type": "noun",
         "proto_tag": "SCHLUCKER",
         "proto_tag_type": "noun"
+    },
+    "SCHMERZBEFREITER": {
+        "word_type": "adjective",
+        "proto_tag": "SCHMERZBEFREITER",
+        "proto_tag_type": "adjective"
     },
     "SCHMIERENSCHAUSPIELER": {
         "word_type": "noun",
@@ -5187,6 +5617,11 @@
     "SCHOCKIERENDER": {
         "word_type": "adjective",
         "proto_tag": "SCHOCKIERENDER",
+        "proto_tag_type": "adjective"
+    },
+    "SCHOCKIERTER": {
+        "word_type": "adjective",
+        "proto_tag": "SCHOCKIERTER",
         "proto_tag_type": "adjective"
     },
     "SCHOKOSÜCHTIGER": {
@@ -5249,6 +5684,11 @@
         "proto_tag": "SCHUPPIGER",
         "proto_tag_type": "adjective"
     },
+    "SCHUSSELIGER": {
+        "word_type": "adjective",
+        "proto_tag": "SCHUSSELIGER",
+        "proto_tag_type": "adjective"
+    },
     "SCHWACHKOPF": {
         "word_type": "noun",
         "proto_tag": "SCHWACHKOPF",
@@ -5268,11 +5708,6 @@
         "word_type": "noun",
         "proto_tag": "SCHWARM",
         "proto_tag_type": "noun"
-    },
-    "SCHWEBENDER": {
-        "word_type": "adjective",
-        "proto_tag": "SCHWEBENDER",
-        "proto_tag_type": "adjective"
     },
     "SCHWELENDER": {
         "word_type": "adjective",
@@ -5327,6 +5762,11 @@
     "SELBSTBEWUSSTER": {
         "word_type": "adjective",
         "proto_tag": "SELBSTBEWUSSTER",
+        "proto_tag_type": "adjective"
+    },
+    "SELBSTGERECHTER": {
+        "word_type": "adjective",
+        "proto_tag": "SELBSTGERECHTER",
         "proto_tag_type": "adjective"
     },
     "SELBSTLOSER": {
@@ -5434,10 +5874,10 @@
         "proto_tag": "SMARTER",
         "proto_tag_type": "adjective"
     },
-    "SOFTER": {
-        "word_type": "adjective",
-        "proto_tag": "SOFTER",
-        "proto_tag_type": "adjective"
+    "SNOB": {
+        "word_type": "noun",
+        "proto_tag": "SNOB",
+        "proto_tag_type": "noun"
     },
     "SOFTIE": {
         "word_type": "noun",
@@ -5452,6 +5892,11 @@
     "SONDERLING": {
         "word_type": "noun",
         "proto_tag": "SONDERLING",
+        "proto_tag_type": "noun"
+    },
+    "SONNTAGSFAHRER": {
+        "word_type": "noun",
+        "proto_tag": "SONNTAGSFAHRER",
         "proto_tag_type": "noun"
     },
     "SORGENDER": {
@@ -5499,6 +5944,11 @@
         "proto_tag": "SPANNER",
         "proto_tag_type": "noun"
     },
+    "SPARFUCHS": {
+        "word_type": "noun",
+        "proto_tag": "SPARFUCHS",
+        "proto_tag_type": "noun"
+    },
     "SPARSAMER": {
         "word_type": "adjective",
         "proto_tag": "SPARSAMER",
@@ -5507,6 +5957,11 @@
     "SPAßBREMSER": {
         "word_type": "noun",
         "proto_tag": "SPAßBREMSER",
+        "proto_tag_type": "noun"
+    },
+    "SPAßVOGEL": {
+        "word_type": "noun",
+        "proto_tag": "SPAßVOGEL",
         "proto_tag_type": "noun"
     },
     "SPEKTAKELTYP": {
@@ -5539,10 +5994,20 @@
         "proto_tag": "SPION",
         "proto_tag_type": "noun"
     },
+    "SPIONIERENDER": {
+        "word_type": "adjective",
+        "proto_tag": "SPIONIERENDER",
+        "proto_tag_type": "adjective"
+    },
     "SPIRITUELLER": {
         "word_type": "adjective",
         "proto_tag": "SPIRITUELLER",
         "proto_tag_type": "adjective"
+    },
+    "SPIRITUOSENEXPERTE": {
+        "word_type": "noun",
+        "proto_tag": "SPIRITUOSENEXPERTE",
+        "proto_tag_type": "noun"
     },
     "SPITZER": {
         "word_type": "adjective",
@@ -5552,6 +6017,11 @@
     "SPITZZÜNGIGER": {
         "word_type": "adjective",
         "proto_tag": "SPITZZÜNGIGER",
+        "proto_tag_type": "adjective"
+    },
+    "SPONTAN": {
+        "word_type": "adjective",
+        "proto_tag": "SPONTAN",
         "proto_tag_type": "adjective"
     },
     "SPONTANER": {
@@ -5579,10 +6049,10 @@
         "proto_tag": "SPRÜCHEKLOPFENDER",
         "proto_tag_type": "adjective"
     },
-    "SPRUDELNDER": {
-        "word_type": "adjective",
-        "proto_tag": "SPRUDELNDER",
-        "proto_tag_type": "adjective"
+    "SPÜRNASE": {
+        "word_type": "noun",
+        "proto_tag": "SPÜRNASE",
+        "proto_tag_type": "noun"
     },
     "STABILER": {
         "word_type": "adjective",
@@ -5593,11 +6063,6 @@
         "word_type": "adjective",
         "proto_tag": "STACHELIGER",
         "proto_tag_type": "adjective"
-    },
-    "STÄDTER": {
-        "word_type": "noun",
-        "proto_tag": "STÄDTER",
-        "proto_tag_type": "noun"
     },
     "STANDHAFTER": {
         "word_type": "adjective",
@@ -5617,6 +6082,11 @@
     "STÄRKERER": {
         "word_type": "adjective",
         "proto_tag": "STÄRKERER",
+        "proto_tag_type": "adjective"
+    },
+    "STAUBIGER": {
+        "word_type": "adjective",
+        "proto_tag": "STAUBIGER",
         "proto_tag_type": "adjective"
     },
     "STEIFER": {
@@ -5694,6 +6164,11 @@
         "proto_tag": "STRANDTYP",
         "proto_tag_type": "noun"
     },
+    "STRAßENGANGSTER": {
+        "word_type": "noun",
+        "proto_tag": "STRAßENGANGSTER",
+        "proto_tag_type": "noun"
+    },
     "STRATEGE": {
         "word_type": "noun",
         "proto_tag": "STRATEGE",
@@ -5759,6 +6234,11 @@
         "proto_tag": "STUDENT",
         "proto_tag_type": "noun"
     },
+    "STUMMER": {
+        "word_type": "adjective",
+        "proto_tag": "STUMMER",
+        "proto_tag_type": "adjective"
+    },
     "STÜMPER": {
         "word_type": "noun",
         "proto_tag": "STÜMPER",
@@ -5768,16 +6248,6 @@
         "word_type": "adjective",
         "proto_tag": "STURER",
         "proto_tag_type": "adjective"
-    },
-    "STÜRMISCHER": {
-        "word_type": "adjective",
-        "proto_tag": "STÜRMISCHER",
-        "proto_tag_type": "adjective"
-    },
-    "STÜTZPFEILER": {
-        "word_type": "noun",
-        "proto_tag": "STÜTZPFEILER",
-        "proto_tag_type": "noun"
     },
     "STYLISHER": {
         "word_type": "adjective",
@@ -5797,6 +6267,11 @@
     "SÜNDER": {
         "word_type": "noun",
         "proto_tag": "SÜNDER",
+        "proto_tag_type": "noun"
+    },
+    "SUPERGENIUS": {
+        "word_type": "noun",
+        "proto_tag": "SUPERGENIUS",
         "proto_tag_type": "noun"
     },
     "SUPERSTAR": {
@@ -5819,9 +6294,24 @@
         "proto_tag": "SWINGER",
         "proto_tag_type": "noun"
     },
+    "SYMPATHISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "SYMPATHISCHER",
+        "proto_tag_type": "adjective"
+    },
     "SYMPATISCHER": {
         "word_type": "adjective",
         "proto_tag": "SYMPATISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "TAKTIKER": {
+        "word_type": "noun",
+        "proto_tag": "TAKTIKER",
+        "proto_tag_type": "noun"
+    },
+    "TAKTISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "TAKTISCHER",
         "proto_tag_type": "adjective"
     },
     "TALENTIERTER": {
@@ -5869,6 +6359,11 @@
         "proto_tag": "TECHNIKFREAK",
         "proto_tag_type": "noun"
     },
+    "TECHNISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "TECHNISCHER",
+        "proto_tag_type": "adjective"
+    },
     "TECHNOLOGIEAFFINER": {
         "word_type": "adjective",
         "proto_tag": "TECHNOLOGIEAFFINER",
@@ -5877,11 +6372,6 @@
     "TEENAGER": {
         "word_type": "noun",
         "proto_tag": "TEENAGER",
-        "proto_tag_type": "noun"
-    },
-    "TEILNEHMER": {
-        "word_type": "noun",
-        "proto_tag": "TEILNEHMER",
         "proto_tag_type": "noun"
     },
     "TEMPERAMENTVOLLER": {
@@ -5899,6 +6389,11 @@
         "proto_tag": "TEMPOSÜNDER",
         "proto_tag_type": "noun"
     },
+    "TERRORIST": {
+        "word_type": "noun",
+        "proto_tag": "TERRORIST",
+        "proto_tag_type": "noun"
+    },
     "TEUFELSKERL": {
         "word_type": "noun",
         "proto_tag": "TEUFELSKERL",
@@ -5907,6 +6402,16 @@
     "TEUFLISCHER": {
         "word_type": "adjective",
         "proto_tag": "TEUFLISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "TEURER": {
+        "word_type": "adjective",
+        "proto_tag": "TEURER",
+        "proto_tag_type": "adjective"
+    },
+    "TIEFENENTSPANNTER": {
+        "word_type": "adjective",
+        "proto_tag": "TIEFENENTSPANNTER",
         "proto_tag_type": "adjective"
     },
     "TIERFLÜSTERER": {
@@ -5964,9 +6469,19 @@
         "proto_tag": "TÖLPEL",
         "proto_tag_type": "noun"
     },
+    "TORKELNDER": {
+        "word_type": "adjective",
+        "proto_tag": "TORKELNDER",
+        "proto_tag_type": "adjective"
+    },
     "TOTAL GESTRESSTER": {
         "word_type": "adjective",
         "proto_tag": "TOTAL GESTRESSTER",
+        "proto_tag_type": "adjective"
+    },
+    "TOXISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "TOXISCHER",
         "proto_tag_type": "adjective"
     },
     "TRADITIONALIST": {
@@ -5984,6 +6499,11 @@
         "proto_tag": "TRÄGER",
         "proto_tag_type": "adjective"
     },
+    "TRAGISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "TRAGISCHER",
+        "proto_tag_type": "adjective"
+    },
     "TRAMPEL": {
         "word_type": "noun",
         "proto_tag": "TRAMPEL",
@@ -5994,19 +6514,29 @@
         "proto_tag": "TRASHIGER",
         "proto_tag_type": "adjective"
     },
+    "TRAUERNDER": {
+        "word_type": "adjective",
+        "proto_tag": "TRAUERNDER",
+        "proto_tag_type": "adjective"
+    },
+    "TRAUMATISIERTER": {
+        "word_type": "adjective",
+        "proto_tag": "TRAUMATISIERTER",
+        "proto_tag_type": "adjective"
+    },
     "TRÄUMER": {
         "word_type": "noun",
         "proto_tag": "TRÄUMER",
         "proto_tag_type": "noun"
     },
-    "TRAUMTÄNZER": {
-        "word_type": "noun",
-        "proto_tag": "TRAUMTÄNZER",
-        "proto_tag_type": "noun"
-    },
     "TRAURIGER": {
         "word_type": "adjective",
         "proto_tag": "TRAURIGER",
+        "proto_tag_type": "adjective"
+    },
+    "TREFFSICHERER": {
+        "word_type": "adjective",
+        "proto_tag": "TREFFSICHERER",
         "proto_tag_type": "adjective"
     },
     "TRENDIGER": {
@@ -6018,6 +6548,11 @@
         "word_type": "noun",
         "proto_tag": "TRENDSETTER",
         "proto_tag_type": "noun"
+    },
+    "TREUER": {
+        "word_type": "adjective",
+        "proto_tag": "TREUER",
+        "proto_tag_type": "adjective"
     },
     "TRICKBETRÜGER": {
         "word_type": "noun",
@@ -6032,6 +6567,11 @@
     "TRINKER": {
         "word_type": "noun",
         "proto_tag": "TRINKER",
+        "proto_tag_type": "noun"
+    },
+    "TRITTBRETTFAHRER": {
+        "word_type": "noun",
+        "proto_tag": "TRITTBRETTFAHRER",
         "proto_tag_type": "noun"
     },
     "TROCKENER": {
@@ -6139,6 +6679,11 @@
         "proto_tag": "ÜBERZEUGTER",
         "proto_tag_type": "adjective"
     },
+    "UMSICHTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "UMSICHTIGER",
+        "proto_tag_type": "adjective"
+    },
     "UMWELTBEWUSSTER": {
         "word_type": "adjective",
         "proto_tag": "UMWELTBEWUSSTER",
@@ -6177,11 +6722,6 @@
     "UNBARMHERZIGER": {
         "word_type": "adjective",
         "proto_tag": "UNBARMHERZIGER",
-        "proto_tag_type": "adjective"
-    },
-    "UNBEABSICHTIGTER": {
-        "word_type": "adjective",
-        "proto_tag": "UNBEABSICHTIGTER",
         "proto_tag_type": "adjective"
     },
     "UNBEACHTETER": {
@@ -6229,6 +6769,11 @@
         "proto_tag": "UNBERECHENBARER",
         "proto_tag_type": "adjective"
     },
+    "UNBESCHWERTER": {
+        "word_type": "adjective",
+        "proto_tag": "UNBESCHWERTER",
+        "proto_tag_type": "adjective"
+    },
     "UNBESTÄNDIGER": {
         "word_type": "adjective",
         "proto_tag": "UNBESTÄNDIGER",
@@ -6237,6 +6782,11 @@
     "UNBETEILIGTER": {
         "word_type": "adjective",
         "proto_tag": "UNBETEILIGTER",
+        "proto_tag_type": "adjective"
+    },
+    "UNBEUGSAMER": {
+        "word_type": "adjective",
+        "proto_tag": "UNBEUGSAMER",
         "proto_tag_type": "adjective"
     },
     "UNBEWEGLICHER": {
@@ -6272,6 +6822,11 @@
     "UNERSÄTTLICHER": {
         "word_type": "adjective",
         "proto_tag": "UNERSÄTTLICHER",
+        "proto_tag_type": "adjective"
+    },
+    "UNERSCHROCKENER": {
+        "word_type": "adjective",
+        "proto_tag": "UNERSCHROCKENER",
         "proto_tag_type": "adjective"
     },
     "UNERSCHÜTTERLICHER": {
@@ -6318,6 +6873,11 @@
         "word_type": "adjective",
         "proto_tag": "UNGEDULDIGER",
         "proto_tag_type": "adjective"
+    },
+    "UNGEHEUER": {
+        "word_type": "noun",
+        "proto_tag": "UNGEHEUER",
+        "proto_tag_type": "noun"
     },
     "UNGEHORSAMER": {
         "word_type": "adjective",
@@ -6509,6 +7069,11 @@
         "proto_tag": "UNTERHALTSAMER",
         "proto_tag_type": "adjective"
     },
+    "UNTERKÜHLTER": {
+        "word_type": "adjective",
+        "proto_tag": "UNTERKÜHLTER",
+        "proto_tag_type": "adjective"
+    },
     "UNTERNEHMER": {
         "word_type": "noun",
         "proto_tag": "UNTERNEHMER",
@@ -6634,11 +7199,6 @@
         "proto_tag": "UNZUVERLÄSSIGER",
         "proto_tag_type": "adjective"
     },
-    "URHEBER": {
-        "word_type": "noun",
-        "proto_tag": "URHEBER",
-        "proto_tag_type": "noun"
-    },
     "VAMPIR": {
         "word_type": "noun",
         "proto_tag": "VAMPIR",
@@ -6657,6 +7217,11 @@
     "VÄTERLICHER": {
         "word_type": "adjective",
         "proto_tag": "VÄTERLICHER",
+        "proto_tag_type": "adjective"
+    },
+    "VEGANER": {
+        "word_type": "adjective",
+        "proto_tag": "VEGANER",
         "proto_tag_type": "adjective"
     },
     "VERALTETER": {
@@ -6694,11 +7259,6 @@
         "proto_tag": "VERBRECHER",
         "proto_tag_type": "noun"
     },
-    "VERDECKTER": {
-        "word_type": "adjective",
-        "proto_tag": "VERDECKTER",
-        "proto_tag_type": "adjective"
-    },
     "VERFLUCHTER": {
         "word_type": "adjective",
         "proto_tag": "VERFLUCHTER",
@@ -6722,11 +7282,6 @@
     "VERGÄNGLICHER": {
         "word_type": "adjective",
         "proto_tag": "VERGÄNGLICHER",
-        "proto_tag_type": "adjective"
-    },
-    "VERGESSENER": {
-        "word_type": "adjective",
-        "proto_tag": "VERGESSENER",
         "proto_tag_type": "adjective"
     },
     "VERGESSLICHER": {
@@ -6779,6 +7334,11 @@
         "proto_tag": "VERNARBTER",
         "proto_tag_type": "adjective"
     },
+    "VERNEBELTER": {
+        "word_type": "adjective",
+        "proto_tag": "VERNEBELTER",
+        "proto_tag_type": "adjective"
+    },
     "VERNETZTER": {
         "word_type": "adjective",
         "proto_tag": "VERNETZTER",
@@ -6787,6 +7347,11 @@
     "VERNÜNFTIGER": {
         "word_type": "adjective",
         "proto_tag": "VERNÜNFTIGER",
+        "proto_tag_type": "adjective"
+    },
+    "VERPEILTER": {
+        "word_type": "adjective",
+        "proto_tag": "VERPEILTER",
         "proto_tag_type": "adjective"
     },
     "VERPLANT": {
@@ -6829,9 +7394,14 @@
         "proto_tag": "VERSCHLOSSENER",
         "proto_tag_type": "adjective"
     },
-    "VERSCHWENDERISCHER": {
+    "VERSCHOLLENER": {
         "word_type": "adjective",
-        "proto_tag": "VERSCHWENDERISCHER",
+        "proto_tag": "VERSCHOLLENER",
+        "proto_tag_type": "adjective"
+    },
+    "VERSIERTER": {
+        "word_type": "adjective",
+        "proto_tag": "VERSIERTER",
         "proto_tag_type": "adjective"
     },
     "VERSPIELTER": {
@@ -6854,10 +7424,10 @@
         "proto_tag": "VERSTREUTER",
         "proto_tag_type": "adjective"
     },
-    "VERTEIDIGER": {
-        "word_type": "noun",
-        "proto_tag": "VERTEIDIGER",
-        "proto_tag_type": "noun"
+    "VERTRAUENSWÜRDIGER": {
+        "word_type": "adjective",
+        "proto_tag": "VERTRAUENSWÜRDIGER",
+        "proto_tag_type": "adjective"
     },
     "VERTRÄUMTER": {
         "word_type": "adjective",
@@ -6893,11 +7463,6 @@
         "word_type": "adjective",
         "proto_tag": "VERZWEIFELTER",
         "proto_tag_type": "adjective"
-    },
-    "VIEHZÜCHTER": {
-        "word_type": "noun",
-        "proto_tag": "VIEHZÜCHTER",
-        "proto_tag_type": "noun"
     },
     "VIELFÄLTIGER": {
         "word_type": "adjective",
@@ -6939,6 +7504,11 @@
         "proto_tag": "VOLLSTRECKER",
         "proto_tag_type": "noun"
     },
+    "VORAUSDENKENDER": {
+        "word_type": "adjective",
+        "proto_tag": "VORAUSDENKENDER",
+        "proto_tag_type": "adjective"
+    },
     "VORAUSSCHAUENDER": {
         "word_type": "adjective",
         "proto_tag": "VORAUSSCHAUENDER",
@@ -6947,6 +7517,11 @@
     "VORBEREITETER": {
         "word_type": "adjective",
         "proto_tag": "VORBEREITETER",
+        "proto_tag_type": "adjective"
+    },
+    "VORGELOGENER": {
+        "word_type": "adjective",
+        "proto_tag": "VORGELOGENER",
         "proto_tag_type": "adjective"
     },
     "VORSICHTIGER": {
@@ -6979,9 +7554,9 @@
         "proto_tag": "WAFFENMEISTER",
         "proto_tag_type": "noun"
     },
-    "WÄHLERISCHER": {
+    "WAGHALSIGER": {
         "word_type": "adjective",
-        "proto_tag": "WÄHLERISCHER",
+        "proto_tag": "WAGHALSIGER",
         "proto_tag_type": "adjective"
     },
     "WAHNHAFTER": {
@@ -6999,6 +7574,16 @@
         "proto_tag": "WAHRSCHEINLICH WICHTIGER",
         "proto_tag_type": "adjective"
     },
+    "WALDSPAZIERGÄNGER": {
+        "word_type": "noun",
+        "proto_tag": "WALDSPAZIERGÄNGER",
+        "proto_tag_type": "noun"
+    },
+    "WANDERWÜTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "WANDERWÜTIGER",
+        "proto_tag_type": "adjective"
+    },
     "WANKELMÜTIGER": {
         "word_type": "adjective",
         "proto_tag": "WANKELMÜTIGER",
@@ -7007,6 +7592,11 @@
     "WARMER": {
         "word_type": "adjective",
         "proto_tag": "WARMER",
+        "proto_tag_type": "adjective"
+    },
+    "WEHRLOSER": {
+        "word_type": "adjective",
+        "proto_tag": "WEHRLOSER",
         "proto_tag_type": "adjective"
     },
     "WEICHER": {
@@ -7029,11 +7619,6 @@
         "proto_tag": "WELTGEWANDTER",
         "proto_tag_type": "adjective"
     },
-    "WELTRAUMKADETT": {
-        "word_type": "noun",
-        "proto_tag": "WELTRAUMKADETT",
-        "proto_tag_type": "noun"
-    },
     "WELTVERBESSERER": {
         "word_type": "noun",
         "proto_tag": "WELTVERBESSERER",
@@ -7043,6 +7628,11 @@
         "word_type": "noun",
         "proto_tag": "WESTKÜSTENTYP",
         "proto_tag_type": "noun"
+    },
+    "WICHTIGTUERISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "WICHTIGTUERISCHER",
+        "proto_tag_type": "adjective"
     },
     "WIDERLICHER": {
         "word_type": "adjective",
@@ -7054,9 +7644,19 @@
         "proto_tag": "WILDER",
         "proto_tag_type": "adjective"
     },
+    "WILLENSSTARKER": {
+        "word_type": "adjective",
+        "proto_tag": "WILLENSSTARKER",
+        "proto_tag_type": "adjective"
+    },
     "WINDIGER": {
         "word_type": "adjective",
         "proto_tag": "WINDIGER",
+        "proto_tag_type": "adjective"
+    },
+    "WINDSCHNITTIGER": {
+        "word_type": "adjective",
+        "proto_tag": "WINDSCHNITTIGER",
         "proto_tag_type": "adjective"
     },
     "WINZIGER": {
@@ -7144,6 +7744,11 @@
         "proto_tag": "ZAHNLOSER",
         "proto_tag_type": "adjective"
     },
+    "ZAPPELNDER": {
+        "word_type": "adjective",
+        "proto_tag": "ZAPPELNDER",
+        "proto_tag_type": "adjective"
+    },
     "ZÄRTLICHER": {
         "word_type": "adjective",
         "proto_tag": "ZÄRTLICHER",
@@ -7159,14 +7764,29 @@
         "proto_tag": "ZEITLOSER",
         "proto_tag_type": "adjective"
     },
+    "ZERMÜRBER": {
+        "word_type": "noun",
+        "proto_tag": "ZERMÜRBER",
+        "proto_tag_type": "noun"
+    },
     "ZERSTÖRERISCHER": {
         "word_type": "adjective",
         "proto_tag": "ZERSTÖRERISCHER",
         "proto_tag_type": "adjective"
     },
+    "ZERSTÖRIERISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "ZERSTÖRIERISCHER",
+        "proto_tag_type": "adjective"
+    },
     "ZERSTÖRISCHER": {
         "word_type": "adjective",
         "proto_tag": "ZERSTÖRISCHER",
+        "proto_tag_type": "adjective"
+    },
+    "ZICKIGER": {
+        "word_type": "adjective",
+        "proto_tag": "ZICKIGER",
         "proto_tag_type": "adjective"
     },
     "ZIELGERICHTETER": {
@@ -7197,11 +7817,6 @@
     "ZOMBIE": {
         "word_type": "noun",
         "proto_tag": "ZOMBIE",
-        "proto_tag_type": "noun"
-    },
-    "ZOPFTRÄGER": {
-        "word_type": "noun",
-        "proto_tag": "ZOPFTRÄGER",
         "proto_tag_type": "noun"
     },
     "ZOTTELIGER": {
@@ -7244,6 +7859,11 @@
         "proto_tag": "ZURÜCKFEDERNDER",
         "proto_tag_type": "adjective"
     },
+    "ZURÜCKGELEHNTER": {
+        "word_type": "adjective",
+        "proto_tag": "ZURÜCKGELEHNTER",
+        "proto_tag_type": "adjective"
+    },
     "ZURÜCKGEZOGENER": {
         "word_type": "adjective",
         "proto_tag": "ZURÜCKGEZOGENER",
@@ -7277,6 +7897,11 @@
     "ZWIELICHTIGER": {
         "word_type": "adjective",
         "proto_tag": "ZWIELICHTIGER",
+        "proto_tag_type": "adjective"
+    },
+    "ZYNISCHER": {
+        "word_type": "adjective",
+        "proto_tag": "ZYNISCHER",
         "proto_tag_type": "adjective"
     }
 }

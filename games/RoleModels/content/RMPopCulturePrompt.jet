@@ -66,9 +66,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -200,9 +197,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -330,9 +324,6 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -358,17 +349,6 @@
               "question": "Was ist dafür an deinem Körper besonders groß?",
               "name": "Kleine Genitalien",
               "idx": 8
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Spiele nach, wie du als Affe Essen bestellen würdest.",
-              "name": "Behaart wie ein Primat",
-              "idx": 7
             }
           ]
         },
@@ -401,7 +381,7 @@
               "name": "Ist ein Autist",
               "idx": 3,
               "tags": [
-                "Intelligent",
+                "intelligenter",
                 "beschränkter",
                 "spezieller",
                 "unvoreingenommener"
@@ -477,9 +457,6 @@
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -631,9 +608,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -691,7 +665,7 @@
               "idx": 6,
               "tags": [
                 "selbstverliebter",
-                "Arrogant",
+                "arroganter",
                 "Alleskönner"
               ]
             }
@@ -769,9 +743,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -842,7 +813,7 @@
               "idx": 8,
               "tags": [
                 "gemeiner",
-                "Arrogant",
+                "arroganter",
                 "Besserwisser",
                 "Faulpelz"
               ]
@@ -923,9 +894,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -1075,9 +1043,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -1146,80 +1111,61 @@
     {
       "roles": [
         {
-          "name": "Frasier",
+          "name": "Michael Scofield",
           "required": true,
           "tags": [
-            "Berater",
-            "Arrogant",
-            "stilvoller",
-            "selbstbewusster",
-            "wohlhabender",
-            "weiser"
-          ]
-        },
-        {
-          "name": "Niles",
-          "required": true,
-          "tags": [
-            "ängstlicher",
-            "tollpatschiger",
             "vorsichtiger",
-            "fancier",
-            "Introvertierter",
-            "Langweiler",
-            "Bedenkenträger"
+            "hochbegabter",
+            "Planer"
           ]
         },
         {
-          "name": "Martin",
-          "required": false,
-          "tags": [
-            "aggressiver",
-            "Ältester",
-            "ethischer",
-            "mürrischer",
-            "unordentlicher",
-            "altmodischer",
-            "harter"
-          ]
-        },
-        {
-          "name": "Daphne",
+          "name": "Lincoln Burrows",
           "required": true,
           "tags": [
-            "britisher",
-            "zuverlässiger",
-            "Schwarm",
-            "hilfreicher",
-            "organisierter",
-            "Unterstützer"
+            "unschuldiger",
+            "gejagter",
+            "Schlägertyp"
           ]
         },
         {
-          "name": "Eddie (der Hund)",
+          "name": "Fernando Sucre",
           "required": true,
           "tags": [
-            "Animal",
-            "lazier",
-            "Maskottchen-Träger"
+            "loyaler",
+            "herzensguter",
+            "Kumpel"
           ]
         },
         {
-          "name": "Seattle (die Stadt)",
+          "name": "Sara Tancredi",
           "required": false,
           "tags": [
-            "mondäner",
-            "hipper",
-            "stürmischer",
-            "Städter"
+            "mitfühlender",
+            "Mediziner"
+          ]
+        },
+        {
+          "name": "John Abruzzi",
+          "required": false,
+          "tags": [
+            "skrupelloser",
+            "rachsüchtiger",
+            "Mafiaboss"
+          ]
+        },
+        {
+          "name": "Brad Bellick",
+          "required": false,
+          "tags": [
+            "machtbesessener",
+            "feiger",
+            "Mitläufer"
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -1274,12 +1220,12 @@
         {
           "roles": [
             {
-              "name": "der Stuhl",
+              "name": "T-Bag",
               "idx": 2,
               "tags": [
-                "komfortabler",
-                "Gammler",
-                "lazier"
+                "hinterlistiger",
+                "schleimiger",
+                "Mörder"
               ]
             }
           ],
@@ -1287,8 +1233,8 @@
         }
       ],
       "id": 56960,
-      "category": "<i>Frasier</i>",
-      "prompt": "Welche Figur aus <i>Frasier</i> passt am besten zu euch"
+      "category": "<i>Prison Break</i>",
+      "prompt": "Welche Figur aus <i>Prison Break</i> passt am besten zu euch?"
     },
     {
       "roles": [
@@ -1347,15 +1293,12 @@
             "dummer",
             "Schwarm",
             "unordentlicher",
-            "Party Typ"
+            "Party-Typ"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -1378,13 +1321,13 @@
           "prompts": [
             {
               "role": 5,
-              "question": "Sag “Was geht ab?”",
+              "question": "Sag “Was geht ab?”.",
               "name": "Joey",
               "idx": 0
             },
             {
               "role": 1,
-              "question": "Zeige dem Raum, wie du tanzen würdewt, wenn du in einem Musikvideo von Bruce Springsteen mitspielst.",
+              "question": "Zeige dem Raum, wie du tanzen würdest, wenn du in einem Musikvideo von Bruce Springsteen mitspielst.",
               "name": "Monica",
               "idx": 5
             }
@@ -1495,9 +1438,6 @@
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -1663,9 +1603,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -1746,7 +1683,7 @@
               "name": "Haus Frey",
               "idx": 6,
               "tags": [
-                "Party Typ",
+                "Party-Typ",
                 "rachsüchtiger"
               ]
             }
@@ -1762,7 +1699,7 @@
       "roles": [
         {
           "name": "Gryffindor",
-          "required": false,
+          "required": true,
           "tags": [
             "mutiger",
             "Adrenalinjunkie"
@@ -1770,7 +1707,7 @@
         },
         {
           "name": "Ravenclaw",
-          "required": false,
+          "required": true,
           "tags": [
             "künstlerischer",
             "cleverer",
@@ -1779,7 +1716,7 @@
         },
         {
           "name": "Hufflepuff",
-          "required": false,
+          "required": true,
           "tags": [
             "doofer",
             "loyaler",
@@ -1788,7 +1725,7 @@
         },
         {
           "name": "Slytherin",
-          "required": false,
+          "required": true,
           "tags": [
             "Intrigant",
             "launischer"
@@ -1814,9 +1751,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -1947,9 +1881,6 @@
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "MethodAct",
           "prompts": [
@@ -2113,9 +2044,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -2242,9 +2170,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -2363,68 +2288,59 @@
     {
       "roles": [
         {
-          "name": "Jonathan der Gepflegte",
-          "short": "der Gepflegte",
+          "name": "Michael De Santa",
           "required": false,
           "tags": [
-            "Friseur",
-            "gepflegter",
-            "gut gewarteter"
+            "reicher",
+            "Familienvater"
           ]
         },
         {
-          "name": "Tan der Typ mit Stil",
-          "short": "der Styler",
-          "required": true,
-          "tags": [
-            "Designer",
-            "stylisher"
-          ]
-        },
-        {
-          "name": "Bobby der Bauarbeiter",
-          "short": "Bauarbeiter",
+          "name": "Franklin Clinton",
           "required": false,
           "tags": [
-            "Baumeister",
-            "praktischer",
-            "fleißiger"
+            "professioneller",
+            "vernünftiger",
+            "Autodieb"
           ]
         },
         {
-          "name": "Karamo der Kulturtyp",
-          "short": "der Kulturelle",
-          "required": true,
+          "name": "Trevor Philips",
+          "required": false,
           "tags": [
-            "kreativer",
-            "kultivierter",
-            "Pop-Experte"
+            "verrückter",
+            "aggressiver",
+            "Psychopath"
           ]
         },
         {
-          "name": "Antoni der Ernährungsexperte",
-          "short": "der Ernährungsexperte",
-          "required": true,
+          "name": "CJ",
+          "required": false,
           "tags": [
-            "Küchenchef",
-            "kulinarischer"
+            "loyaler",
+            "Straßengangster"
           ]
         },
         {
-          "name": "die Person, die ihre Hilfe braucht",
-          "short": "needs help",
-          "required": true,
+          "name": "Niko Bellic",
+          "required": false,
           "tags": [
-            "doofer",
-            "hoffnungsloser"
+            "traumatisierter",
+            "zynischer",
+            "Auftragskiller"
+          ]
+        },
+        {
+          "name": "Tommy Vercetti",
+          "required": false,
+          "tags": [
+            "hitzköpfiger",
+            "Mafiaboss"
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -2491,11 +2407,12 @@
         {
           "roles": [
             {
-              "name": "Carson Kressley, der für ein Cameo zurückkommt",
+              "name": "Claude",
               "idx": 8,
               "tags": [
-                "kühner",
-                "Schönling"
+                "emotionsloser",
+                "stummer",
+                "Einzelgänger"
               ]
             }
           ],
@@ -2503,73 +2420,68 @@
         }
       ],
       "id": 56636,
-      "category": "<i>Queer Eye</i>",
-      "prompt": "Welche Figur aus <i>Queer Eye</i> seid ihr?"
+      "category": "<i>Grand Theft Auto</i>",
+      "prompt": "Welche Figur aus <i>Grand Theft Auto</i> seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Archie",
-          "required": true,
+          "name": "Circuit de Spa-Francorchamps (Belgien)",
+          "required": false,
           "tags": [
-            "Romantiker",
-            "tollpatschiger",
-            "Schwarm"
-          ]
+            "unberechenbarer",
+            "fokussierter"
+          ],
+          "short": "Spa"
         },
         {
-          "name": "Jughead",
-          "required": true,
+          "name": "Suzuka International Racing Course (Japan)",
+          "required": false,
           "tags": [
-            "hungriger",
-            "Faulpelz",
-            "sprücheklopfender"
-          ]
+            "Achterbahn-Fan",
+            "präziser"
+          ],
+          "short": "Suzuka"
         },
         {
-          "name": "Betty",
-          "required": true,
+          "name": "Red Bull Ring (Österreich)",
+          "required": false,
           "tags": [
             "zuverlässiger",
-            "Freund",
-            "praktischer",
-            "kontaktfreudiger"
-          ]
+            "kurzer"
+          ],
+          "short": "Red Bull Ring"
         },
         {
-          "name": "Veronica",
-          "required": true,
-          "tags": [
-            "spitzzüngiger",
-            "stylisher",
-            "Aristokrat",
-            "wohlhabender"
-          ]
-        },
-        {
-          "name": "Josie",
+          "name": "Hungaroring (Ungarn)",
           "required": false,
           "tags": [
-            "Detektiv",
-            "musikalischer",
-            "begabter"
-          ]
+            "staubiger",
+            "einfacher"
+          ],
+          "short": "Hungaroring"
         },
         {
-          "name": "Sabrina the Teenage Witch",
-          "short": "Sabrina",
+          "name": "Circuit Gilles-Villeneuve (Kanada)",
           "required": false,
           "tags": [
-            "magischer",
-            "Adrenalinjunkie"
+            "rabiater",
+            "Natur-Freund"
+          ],
+          "short": "Circuit Gilles-Villeneuve"
+        },
+        {
+          "name": "Silverstone Circuit (Großbritannien)",
+          "short": "Silverstone Circuit",
+          "required": false,
+          "tags": [
+            "regnerischer",
+            "windschnittiger"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -2617,38 +2529,14 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Wie lautet der Nachname von Veronica?",
-              "correct": "Lodge",
-              "name": "Veronica",
-              "altSpellings": [
-                "lodge"
-              ],
-              "idx": 7
-            },
-            {
-              "role": 4,
-              "question": "Welches Instrument spielt Melody?",
-              "correct": "Schlagzeug",
-              "name": "Josie",
-              "altSpellings": [
-                "schlagzeug"
-              ],
-              "idx": 6
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "Moose",
+              "name": "Circuit de Monaco",
               "idx": 8,
               "tags": [
-                "Athlet",
-                "hoher"
+                "kontaktfreudiger",
+                "protziger",
+                "Snob"
               ]
             }
           ],
@@ -2656,8 +2544,8 @@
         }
       ],
       "id": 56686,
-      "category": "<i>Riverdale</i>",
-      "prompt": "Welche klassische Archie-Comic-Figur seid ihr?"
+      "category": "Formel-1-Rennstrecken",
+      "prompt": "Welche Formel-1-Rennstrecke repräsentiert euch?"
     },
     {
       "roles": [
@@ -2717,9 +2605,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -2777,24 +2662,6 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Welcher <i>Drag Race</i>-Teilnehmer ist berühmt für den Satz “Not today, Satan”?",
-              "correct": "Bianca Del Rio",
-              "name": "“Not today, Satan!”",
-              "altSpellings": [
-                "Bianca De Rio",
-                "Bainca Del Rio",
-                "Bianca Del Ria",
-                "Bianca De Ria"
-              ],
-              "idx": 7
-            }
-          ]
-        },
-        {
           "roles": [
             {
               "name": "Der Spielleiter",
@@ -2811,7 +2678,7 @@
       ],
       "id": 56684,
       "category": "<i>Dungeons & Dragons</i>-Monster",
-      "prompt": "Welches Monster aus <i>Dungeons & Dragons</i> ist jeder von euch?"
+      "prompt": "Welches Monster aus <i>Dungeons & Dragons</i> seid ihr?"
     },
     {
       "roles": [
@@ -2871,9 +2738,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -2944,7 +2808,6 @@
               "idx": 8,
               "tags": [
                 "mysteriöser",
-                "Maschine",
                 "angetriebener"
               ]
             }
@@ -2959,74 +2822,66 @@
     {
       "roles": [
         {
-          "name": "Jerry",
-          "required": true,
-          "tags": [
-            "Komiker",
-            "ordentlicher",
-            "wählerischer",
-            "sprücheklopfender"
-          ]
-        },
-        {
-          "name": "Elaine",
-          "required": true,
-          "tags": [
-            "durchsetzungsfähiger",
-            "Hitzkopf",
-            "ausgenutzter",
-            "spitzzüngiger"
-          ]
-        },
-        {
-          "name": "George",
-          "required": true,
-          "tags": [
-            "Lügner",
-            "Intrigant"
-          ]
-        },
-        {
-          "name": "Kramer",
-          "required": true,
-          "tags": [
-            "tollpatschiger",
-            "energischer",
-            "unberechenbarer"
-          ]
-        },
-        {
-          "name": "Newman",
+          "name": "Der, der nach wenigen Stunden stockbesoffen ist",
           "required": false,
           "tags": [
-            "böser",
+            "betrunkener",
+            "torkelnder"
+          ],
+          "short": "Der Besoffene"
+        },
+        {
+          "name": "Der, der eigentlich gar keine Lust auf Karneval hat",
+          "required": false,
+          "tags": [
+            "griesgrämiger",
+            "lustloser",
+            "gezwungener"
+          ],
+          "short": "Der Party-Muffel"
+        },
+        {
+          "name": "Der, der auf den letzten Drücker ein Kostüm zusammenbastelt",
+          "required": false,
+          "tags": [
+            "unvorbereiteter",
+            "Improvisationsmeister"
+          ],
+          "short": "Der Impro-Kostümierer"
+        },
+        {
+          "name": "Der, der ohne Rücksicht auf Verluste Süßigkeiten sammelt",
+          "required": false,
+          "tags": [
+            "gieriger",
+            "rücksichtsloser"
+          ],
+          "short": "Der Süßigkeiten-Jäger"
+        },
+        {
+          "name": "Der, der bei jedem Lied seine Gruppe zum Schunkeln anstiftet",
+          "required": false,
+          "tags": [
+            "ausdauernder",
             "Unruhestifter"
-          ]
+          ],
+          "short": "Der Schunkler"
         },
         {
-          "name": "J. Peterman",
+          "name": "Der, der Karneval feiert, um Kontakte zu knüpfen",
           "required": false,
           "tags": [
-            "Anführer",
-            "lauter",
-            "stylisher"
-          ]
+            "charmanter",
+            "Aufreißer"
+          ],
+          "short": "Der Soziale"
         }
       ],
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 0,
-              "question": "Schreibe eine deiner geistreichen Anmerkungen, beginnend mit “Ist Euch schon mal aufgefallen...”",
-              "name": "Jerry",
-              "idx": 1
-            },
             {
               "role": 3,
               "question": "Was ist dein bester Plan, um schnell reich zu werden?",
@@ -3045,22 +2900,10 @@
           "id": "MethodAct",
           "prompts": [
             {
-              "role": 3,
-              "question": "Sürzt sofort in den Raum!",
-              "name": "Kramer",
-              "idx": 0
-            },
-            {
               "role": 1,
               "question": "Tanz so schlecht wie möglich.",
               "name": "Elaine",
               "idx": 2
-            },
-            {
-              "role": 5,
-              "question": "Beschreibe dein Outfit mit einer tiefen, beruhigenden Stimme.",
-              "name": "J. Peterman",
-              "idx": 5
             }
           ]
         },
@@ -3082,45 +2925,23 @@
           ]
         },
         {
-          "id": "Split",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Wer ist das reine Böse und wer ist nur ein kleiner Schuft?",
-              "roles": [
-                {
-                  "name": "böser Newman",
-                  "tags": [
-                    "böser",
-                    "Bösewicht"
-                  ]
-                },
-                {
-                  "name": "Schuft Newman",
-                  "tags": "Unruhestifter"
-                }
-              ],
-              "name": "Newman",
-              "idx": 4
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "Onkel Leo",
+              "name": "Der, der aus einer Stadt kommt, die kein Karneval feiert",
               "idx": 6,
               "tags": [
-                "streitsüchtiger"
-              ]
+                "überforderter",
+                "verwirrter"
+              ],
+              "short": "Der Tourist"
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56217,
-      "category": "<i>Seinfeld</i>",
-      "prompt": "Welcher <i>Seinfeld</i> Charakter passt jeweils am besten zu euch?"
+      "category": "Karnevalstypen",
+      "prompt": "Wer seid ihr, wenn ihr Karneval feiert?"
     },
     {
       "roles": [
@@ -3146,7 +2967,7 @@
           "name": "Krümelmonster",
           "required": false,
           "tags": [
-            "Party Typ",
+            "Party-Typ",
             "hungriger",
             "lauter"
           ]
@@ -3157,7 +2978,6 @@
           "tags": [
             "stylisher",
             "analytischer",
-            "extraer",
             "Vampir"
           ]
         },
@@ -3182,9 +3002,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -3263,98 +3080,59 @@
     {
       "roles": [
         {
-          "name": "Carrie",
-          "required": true,
+          "name": "Bugatti Chiron",
+          "required": false,
           "tags": [
             "neugieriger",
-            "Partylöwe",
+            "windschnittiger",
             "stylisher"
           ]
         },
         {
-          "name": "Mr. Big",
+          "name": "Kramer KL200",
           "required": false,
           "tags": [
-            "Schwarm",
-            "beeindruckender"
+            "konservativer",
+            "unverwüstlicher"
           ]
         },
         {
-          "name": "Furiosa",
-          "required": true,
+          "name": "General Abrams M1",
+          "required": false,
           "tags": [
-            "badasser",
-            "Held",
+            "zerstörerischer",
             "Kraftprotz",
             "starker"
           ]
         },
         {
-          "name": "Samantha",
+          "name": "Piaggio Ape",
           "required": false,
           "tags": [
-            "spitzzüngiger",
-            "Adrenalinjunkie"
+            "auseinanderfallender",
+            "alter"
           ]
         },
         {
-          "name": "Immortan Joe",
-          "required": false,
+          "name": "Bobby-Car",
+          "required": true,
           "tags": [
-            "böser",
+            "tiefergelegter",
             "lauter",
-            "Bösewicht"
+            "Bruchpilot"
           ]
         },
         {
-          "name": "Überraschende Liza Minnelli Cameo",
-          "short": "Liza Minnelli Cameo",
+          "name": "DAF-Showtruck",
           "required": false,
           "tags": [
-            "Ikonentyp",
+            "gemütlicher",
             "unerwarteter"
           ]
         }
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Was wäre der Titel deines Ratgeber-Blogs?",
-              "name": "Carrie",
-              "idx": 0
-            },
-            {
-              "role": 4,
-              "question": "Was wäre dein Spitzname im Stil von <i>Mad Max</i>?",
-              "name": "Immortan Joe",
-              "idx": 2
-            },
-            {
-              "role": 2,
-              "question": "Welches Körperteil würdest du am liebsten durch eine Maschine ersetzen?",
-              "name": "Furiosa",
-              "idx": 4
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 5,
-              "question": "Setz dich auf einen Stuhl... im Kabarett-Stil!",
-              "name": "Überraschende Liza Minnelli Cameo",
-              "idx": 5
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -3367,64 +3145,23 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Wer hat Samantha in<i>Sex and the City</i> gespielt?",
-              "correct": "Kim Cattrall",
-              "name": "Samantha",
-              "altSpellings": [
-                "Kim Catrall",
-                "Kim Catral",
-                "Kim Cattral"
-              ],
-              "idx": 3
-            }
-          ]
-        },
-        {
-          "id": "Split",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Wer ist die sarkastische Samantha und wer ist die sexy Samantha?",
-              "roles": [
-                {
-                  "name": "Sarkastische Samantha",
-                  "tags": [
-                    "frecher",
-                    "spitzzüngiger"
-                  ]
-                },
-                {
-                  "name": "Sexy Samantha",
-                  "tags": "Adrenalinjunkie"
-                }
-              ],
-              "name": "Samantha",
-              "idx": 6
-            }
-          ]
-        },
-        {
+          "id": "Consolation",
           "roles": [
             {
-              "name": "Harry Goldenblatt angezogen wie ein War Boy",
-              "idx": 7,
+              "idx": 6,
+              "name": "Dacia Sandero",
               "tags": [
-                "wissenschaftlicher",
-                "sinnlicher",
-                "Adrenalinjunkie"
+                "unspektakulärer",
+                "lustiger",
+                "Meme-Liebling"
               ]
             }
-          ],
-          "id": "Consolation"
+          ]
         }
       ],
       "id": 56260,
-      "category": "<i>Sex and the City</i> + <i>Mad Max</i>",
-      "prompt": "Welche Figur aus <i>Sex and the City</i> ODER <i>Mad Max: Fury Road</i> seid ihr?"
+      "category": "Ikonische Vehikel",
+      "prompt": "Welches dieser ikonischen Vehikel würdet ihr bei einem Rennen wählen?"
     },
     {
       "roles": [
@@ -3497,9 +3234,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -3723,9 +3457,6 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -3838,7 +3569,6 @@
           "name": "Obi-Wan Kenobi",
           "required": false,
           "tags": [
-            "britischer",
             "Berater",
             "magischer",
             "weiser"
@@ -3856,9 +3586,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -3942,7 +3669,7 @@
                 {
                   "name": "Obi-Wan der nur weise klingt",
                   "tags": [
-                    "britisher",
+                    "britischer",
                     "Angeber"
                   ]
                 }
@@ -3955,7 +3682,7 @@
         {
           "roles": [
             {
-              "name": "Anakin als Kind",
+              "name": "Phasma",
               "idx": 8,
               "tags": [
                 "Bengel",
@@ -4030,9 +3757,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -4057,12 +3781,6 @@
               "question": "Teile der Gruppe etwas Trauriges mit, das allen den Spaß verderben wird.",
               "name": "Enie van de Meiklokjes’ Dampfnudeln",
               "idx": 1
-            },
-            {
-              "role": 5,
-              "question": "Rufe Dampfnudel als wäre es ein Schimpfwort.",
-              "name": "Enie van de Meiklokjes’ Dampfnudeln",
-              "idx": 6
             }
           ]
         },
@@ -4086,21 +3804,6 @@
               "question": "Wer taucht eher am falschen Tag zu einem Treffen auf?",
               "name": "Enie van de Meiklokjes’ Durcheinander",
               "idx": 5
-            }
-          ]
-        },
-        {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Welches Modeaccessoire hat eine Variation namens: “pork pie”?",
-              "correct": "Hut",
-              "name": "Enie van de Meiklokjes’ Schweinefleischpasteten",
-              "altSpellings": [
-                "hut"
-              ],
-              "idx": 7
             }
           ]
         },
@@ -4179,9 +3882,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -4322,9 +4022,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -4428,92 +4125,62 @@
     {
       "roles": [
         {
-          "name": "Tibby",
+          "name": "Wir sind Papst!",
           "required": true,
           "tags": [
-            "Urheber",
-            "rebellischer",
-            "sarkastischer"
+            "heiliger",
+            "spiritueller",
+            "religiöser"
           ]
         },
         {
-          "name": "Lena",
+          "name": "Der Westen tut NICHTS!",
           "required": true,
           "tags": [
-            "griechischer",
-            "Künstler",
-            "schüchterner"
+            "wütender",
+            "Kritiker",
+            "machtloser"
           ]
         },
         {
-          "name": "Carmen",
+          "name": "Der Mond ist jetzt ein Ami",
           "required": true,
           "tags": [
-            "leidenschaftlicher",
-            "Giftzwerg",
-            "nachdenklicher"
+            "abgehobener",
+            "Entdecker",
+            "besitzergreifender"
           ]
         },
         {
-          "name": "Bridget",
+          "name": "Guten Morgen, Deutschland - Es war ein schönes Wochenende",
           "required": true,
           "tags": [
-            "Athlet",
-            "athletischer",
-            "impulsiver"
-          ]
+            "euphorischer",
+            "Frühaufsteher",
+            "epochaler"
+          ],
+          "short": "Guten Morgen, Deutschland"
         },
         {
-          "name": "Kostos",
+          "name": "War es Samenraub?",
           "required": false,
           "tags": [
-            "bulliger",
-            "Traumtänzer",
+            "leichtgläubiger",
+            "skeptischer",
             "Schwarm"
           ]
         },
         {
-          "name": "die Hose",
+          "name": "Rudi, haudi Saudi",
           "required": true,
           "tags": [
-            "zauberhafter",
-            "Hosenträger"
+            "sportlicher",
+            "kampflustiger"
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Was würdest du schreien, wenn du einen Stein durch das Fenster deiner Stiefmutter wirfst?",
-              "name": "Carmen",
-              "idx": 2
-            },
-            {
-              "role": 5,
-              "question": "Was würdest du schreien, wenn du einen Stein durch das Fenster deiner Stiefmutter wirfst?",
-              "name": "die Hose",
-              "idx": 5
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Zeige deinen besten griechischen Akzent.",
-              "name": "Kostos",
-              "idx": 6
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -4534,23 +4201,6 @@
               "question": "Welcher Spieler wird in einer Biografie seines Lebens eher von Blake Lively gespielt?",
               "name": "Bridget",
               "idx": 3
-            }
-          ]
-        },
-        {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Wie heißt die Hauptstadt von Griechenland?",
-              "correct": "Athen",
-              "name": "Kostos",
-              "altSpellings": [
-                "atthen",
-                "athen",
-                "Atthen"
-              ],
-              "idx": 4
             }
           ]
         },
@@ -4584,12 +4234,12 @@
         {
           "roles": [
             {
-              "name": "Autor des Originalromans Ann Brashares",
+              "name": "Großer Gott, steh uns bei!",
               "idx": 8,
               "tags": [
-                "Autor",
-                "Intellektueller",
-                "smarter"
+                "schockierter",
+                "Pessimist",
+                "panischer"
               ]
             }
           ],
@@ -4597,8 +4247,8 @@
         }
       ],
       "id": 57317,
-      "category": "<i>Eine für 4</i>",
-      "prompt": "Welche Figur aus<i>Eine für 4</i> seid ihr?"
+      "category": "<i>BILD</i>-Schlagzeilen",
+      "prompt": "Welche <i>BILD</i>-Schlagzeile passt jeweils am besten zu euch?"
     },
     {
       "roles": [
@@ -4655,9 +4305,6 @@
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -4826,44 +4473,11 @@
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 0,
-              "question": "Wenn du eines der Kinder deiner Freunde adoptieren müsstest, welches wäre es?",
-              "name": "fauler Mautstellen-Kassierer",
-              "idx": 2
-            },
-            {
-              "role": 1,
-              "question": "Wie heißt dein Netflix Comedy Special?",
-              "name": "Hollywood Talentsucher",
-              "idx": 3
-            },
-            {
-              "role": 2,
-              "question": "Ein Großstadt-Reporter will dich ins Visier nehmen. Für wen gibt er sich aus, um dein Vertrauen zu gewinnen?",
-              "name": "Pizzabäcker der reich wird",
-              "idx": 4
-            },
-            {
-              "role": 3,
-              "question": "Du musst jemanden bekämpfen, wobei du nur deine Füße einsetzen kannst. Welche Schuhe trägst du?",
-              "name": "geheimer Antiterrorismus-Agent",
-              "idx": 5
-            },
-            {
-              "role": 4,
-              "question": "Wenn ehemaliger NFL-Quarterback nicht klappt, was wäre deine Backup Adam Sandler Figur?",
-              "name": "ehemaliger NFL-Quarterback",
-              "idx": 6
-            },
             {
               "role": 5,
               "question": "Welches Schnellrestaurant sollte Adam Sandler in seinem nächsten großen Film bewerben?",
@@ -4873,26 +4487,7 @@
           ]
         },
         {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 5,
-              "question": "Sagt etwas Böses in der schlimmsten Adam-Sandler-Stimme, die man sich vorstellen kann",
-              "name": "gutgemeinte Ausgeburt Satans",
-              "idx": 0
-            }
-          ]
-        },
-        {
           "roles": [
-            {
-              "name": "Dracula",
-              "idx": 1,
-              "tags": [
-                "Geist",
-                "unheimlicher"
-              ]
-            },
             {
               "idx": 8,
               "name": "Orbitalsatellit",
@@ -4906,8 +4501,8 @@
         }
       ],
       "id": 56665,
-      "category": "Abschlussserien aus <i>Call of Duty</i>",
-      "prompt": "Welche Abschussserie aus <i>Call of Dutyy</i> repräsentiert jeden von euch?"
+      "category": "Abschussserien aus <i>Call of Duty</i>",
+      "prompt": "Welche Abschussserie aus <i>Call of Duty</i> repräsentiert jeden von euch?"
     },
     {
       "roles": [
@@ -4965,9 +4560,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -5116,9 +4708,6 @@
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -5273,9 +4862,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -5291,13 +4877,13 @@
           "prompts": [
             {
               "role": 2,
-              "question": "Mache eine Fastfood Bestellung mit deiner besten Christian Bale Batman Stimme.",
+              "question": "Mache eine Fastfood-Bestellung mit deiner besten Christian-Bale-Batman-Stimme.",
               "name": "Christian Bale Batman",
               "idx": 2
             },
             {
               "role": 5,
-              "question": "Sag, “Ich bin Batman” mit deiner charmantesten Stimme",
+              "question": "Sag, “Ich bin Batman” mit deiner charmantesten Stimme.",
               "name": "Robert Pattinson Batman",
               "idx": 5
             }
@@ -5327,25 +4913,6 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 1,
-              "question": "Wer hat Michael Keaton’s Batman’s Gegenüber Catwoman gespielt?",
-              "correct": "Michelle Pfeiffer",
-              "name": "Michael Keaton Batman",
-              "altSpellings": [
-                "Michelle Feiffer",
-                "Michelle Peiffer",
-                "Michelle Pfeifer",
-                "Michelle Pfieffer",
-                "Michelle Fieffer"
-              ],
-              "idx": 0
-            }
-          ]
-        },
-        {
           "roles": [
             {
               "name": "Adam West Batman",
@@ -5368,61 +4935,58 @@
     {
       "roles": [
         {
-          "name": "“Crazy in Love”",
+          "name": "Zummi",
           "required": false,
           "tags": [
-            "Romantiker",
-            "unbekümmerter"
+            "schusseliger",
+            "vergesslicher"
           ]
         },
         {
-          "name": "“Single Ladies”",
+          "name": "Grammi",
           "required": false,
           "tags": [
-            "unabhängiger",
-            "Einzelgänger",
-            "starker"
+            "fürsorglicher",
+            "strenger"
           ]
         },
         {
-          "name": "“Bills, Bills, Bills”",
+          "name": "Gruffi",
           "required": false,
           "tags": [
-            "Geldverdiener",
-            "ausgenutzter",
-            "verantwortungsbewusster"
+            "brummeliger",
+            "Handwerker",
+            "vorsichtiger"
           ]
         },
         {
-          "name": "“Run the World”",
+          "name": "Tummi",
           "required": false,
           "tags": [
-            "Anführer",
-            "Kraftprotz"
+            "gemütlicher",
+            "Vielfraß",
+            "gutmütiger"
           ]
         },
         {
-          "name": "“Bootylicious”",
+          "name": "Sunni",
           "required": false,
           "tags": [
-            "niedlicher",
-            "Schwarm"
+            "aufmüpfiger",
+            "abenteuerlustiger"
           ]
         },
         {
-          "name": "“Drunk in Love”",
+          "name": "Herzog Igzorn",
           "required": false,
           "tags": [
-            "Idiot",
-            "melodramatischer"
+            "jähzorniger",
+            "intriganter"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -5489,12 +5053,12 @@
         {
           "roles": [
             {
-              "name": "“Hey Goldmember” aus <i>Austin Powers In Goldständer</i>",
+              "name": "Toadwart",
               "idx": 6,
               "tags": [
-                "eingängiger",
-                "peinlicher",
-                "Dussel"
+                "unterwürfiger",
+                "tollpatschiger",
+                "Schleimer"
               ]
             }
           ],
@@ -5502,68 +5066,67 @@
         }
       ],
       "id": 56666,
-      "category": "Beyoncé Songs",
-      "prompt": "Welches Lied von Beyoncé seid ihr?"
+      "category": "<i>Disney's Gummibärenbande</i>",
+      "prompt": "Welches Mitglied aus <i>Disneys Gummibärenbande</i> wärt ihr?"
     },
     {
       "roles": [
         {
-          "name": "Angelina Jolie",
-          "required": true,
-          "tags": [
-            "Berater",
-            "divaer",
-            "elterlicher"
-          ]
-        },
-        {
-          "name": "Gwyneth Paltrow",
-          "required": true,
-          "tags": [
-            "himmlischer",
-            "Gesundheitsfanatiker",
-            "Hippie"
-          ]
-        },
-        {
-          "name": "Jennifer Aniston",
-          "required": true,
-          "tags": [
-            "niedlicher",
-            "Modeguru",
-            "Freund"
-          ]
-        },
-        {
-          "name": "Thandie Newton",
+          "name": "Titanic (1997)",
           "required": false,
           "tags": [
-            "britisher",
-            "Wissenschaftler"
+            "Romantiker",
+            "zerstörierischer"
           ]
         },
         {
-          "name": "Christina Applegate",
+          "name": "Der Herr der Ringe: Die Rückkehr des Königs (2003)",
           "required": false,
           "tags": [
-            "Partygänger",
-            "sprücheklopfender"
+            "epischer",
+            "wanderwütiger",
+            "Held"
+          ],
+          "short": "Der Herr der Ringe (2003)"
+        },
+        {
+          "name": "Forrest Gump (1994)",
+          "required": false,
+          "tags": [
+            "Glückspilz",
+            "gutgläubiger",
+            "autistischer"
           ]
         },
         {
-          "name": "Juliette Lewis",
+          "name": "Der König der Löwen (1994)",
           "required": false,
           "tags": [
-            "vielseitiger",
-            "gewalttätiger"
+            "königlicher",
+            "Schreihals",
+            "trauernder"
+          ]
+        },
+        {
+          "name": "Das Schweigen der Lämmer (1991)",
+          "required": false,
+          "tags": [
+            "blutrüjnstiger",
+            "psychopatischer"
+          ]
+        },
+        {
+          "name": "Der Pate (1972)",
+          "required": false,
+          "tags": [
+            "einflussreicher",
+            "skrupelloser",
+            "Familienmensch"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -5618,50 +5181,17 @@
               "question": "Wer würde den Ruhm für eine interessante Gelegenheit opfern?",
               "name": "Juliette Lewis",
               "idx": 7
-            },
-            {
-              "role": 4,
-              "question": "Wer könnte sich gegen Will Ferrell behaupten?",
-              "name": "Christina Applegate",
-              "idx": 8
-            }
-          ]
-        },
-        {
-          "id": "Split",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Wer ist die Pin-up-Lara Croft Jolie und wer ist die sozialaktivistische Mutter Jolie?",
-              "roles": [
-                {
-                  "name": "Lara Croft Jolie",
-                  "tags": [
-                    "abenteuerlustiger",
-                    "Schwarm"
-                  ]
-                },
-                {
-                  "name": "Sozialaktivistische Mutter Jolie",
-                  "tags": [
-                    "Influencer",
-                    "Vater"
-                  ]
-                }
-              ],
-              "name": "Angelina Jolie",
-              "idx": 9
             }
           ]
         },
         {
           "roles": [
             {
-              "name": "Demi Moore vielleicht",
-              "idx": 1,
+              "idx": 10,
+              "name": "Krieg der Sterne (1977)",
               "tags": [
-                "Ikonentyp",
-                "smarter"
+                "machtvoller",
+                "Krieger"
               ]
             }
           ],
@@ -5669,74 +5199,62 @@
         }
       ],
       "id": 56306,
-      "category": "Brad Pitt Exes",
-      "prompt": "Wer ist welcher Ex von Bratt Pitt am ähnlichsten?"
+      "category": "Filme mit Oscar",
+      "prompt": "Welcher Oscar-Gewinner repräsentiert euch jeweils am besten?"
     },
     {
       "roles": [
         {
-          "name": "Im Wolkenkratzer mit Terroristen gefangen",
-          "short": "gefangen im Wolkenkratzer",
-          "required": true,
-          "tags": [
-            "verzweifelter",
-            "Einzelgänger"
-          ]
-        },
-        {
-          "name": "Ich bin ein Boxer, der nicht k.o. geht",
-          "short": "nicht k.o. gehen",
-          "required": true,
-          "tags": [
-            "ethischer",
-            "Kämpfer"
-          ]
-        },
-        {
-          "name": "Ich sprenge einen Asteroiden",
-          "short": "Asteroiden sprengen",
+          "name": "Skispringen",
           "required": false,
           "tags": [
-            "Adrenalinjunkie",
-            "gewagter"
+            "todesmutiger",
+            "windschnittiger"
           ]
         },
         {
-          "name": "Ich versuche mein zukünftiges Ich zu töten",
-          "short": "zukünftiges Ich töten",
-          "required": true,
-          "tags": [
-            "Flüchtiger",
-            "unzeitgemäßer",
-            "Abtrünniger"
-          ]
-        },
-        {
-          "name": "Ich bin die Gedanken eines Babys",
-          "short": "Gedanken eines Babys",
+          "name": "Curling",
           "required": false,
           "tags": [
-            "Säugling",
-            "kindlicher"
+            "präziser",
+            "taktischer"
           ]
         },
         {
-          "name": "Ich war die ganze Zeit tot",
-          "short": "die gnaze Zeit tot",
-          "required": true,
+          "name": "Bobfahren",
+          "required": false,
           "tags": [
-            "Leichnam",
-            "Geist",
-            "mysteriöser",
-            "jenseitiger"
+            "waghalsiger",
+            "flinker"
+          ]
+        },
+        {
+          "name": "Biathlon",
+          "required": false,
+          "tags": [
+            "fokussierter",
+            "entspannter"
+          ]
+        },
+        {
+          "name": "Eiskunstlauf",
+          "required": false,
+          "tags": [
+            "eleganter",
+            "graziler"
+          ]
+        },
+        {
+          "name": "Eishockey",
+          "required": false,
+          "tags": [
+            "brutaler",
+            "vielseitiger"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -5761,23 +5279,6 @@
           ]
         },
         {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Sage deine Lieblingszeile aus <i>Stirb langsam</i> mit einer Babystimme!",
-              "name": "Ich bin die Gedanken eines Babys",
-              "idx": 0
-            },
-            {
-              "role": 5,
-              "question": "Zeige dem Raum deinen besten schockierten Horrorblick wenn du erkennst, dass du ein Geist bist.",
-              "name": "Ich war die ganze Zeit tot",
-              "idx": 5
-            }
-          ]
-        },
-        {
           "id": "FightTiebreaker",
           "prompts": [
             {
@@ -5797,11 +5298,10 @@
         {
           "roles": [
             {
-              "name": "Worüber <i>Surrogates</i> auch immer ging",
+              "name": "Der Sportreporter",
               "idx": 6,
               "tags": [
-                "rätsler",
-                "mysteriöser",
+                "unsportlicher",
                 "unwissender"
               ]
             }
@@ -5810,8 +5310,8 @@
         }
       ],
       "id": 56290,
-      "category": "Bruce Willis Plots",
-      "prompt": "Wenn du ein Bruce Willis wärst, welcher wärst du?"
+      "category": "Olympische Winter-Sportarten",
+      "prompt": "Welche olympische Wintersportart seid ihr?"
     },
     {
       "roles": [
@@ -5874,9 +5374,6 @@
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -5969,115 +5466,60 @@
     {
       "roles": [
         {
-          "name": "Someday by Justin Bieber",
-          "short": "Someday",
+          "name": "Tim",
           "required": false,
           "tags": [
-            "Träumer",
-            "hoffnungsvoller"
+            "kampflustiger",
+            "Anführer",
+            "selbstgerechter"
           ]
         },
         {
-          "name": "Fame by Lady Gaga",
-          "short": "Fame",
+          "name": "Karl",
           "required": false,
           "tags": [
-            "Angeber",
-            "ehrgeiziger",
-            "Star"
+            "kluger",
+            "einzigartiger"
           ]
         },
         {
-          "name": "Meow by Katy Perry",
-          "short": "Meow",
+          "name": "Klößchen",
           "required": false,
           "tags": [
-            "niedlicher",
-            "Katzenmensch"
+            "gemütlicher",
+            "fetter"
           ]
         },
         {
-          "name": "Unforgivable by Sean Combs",
-          "short": "Unforgivable",
+          "name": "Gaby",
           "required": false,
           "tags": [
-            "ungezogener",
-            "Sünder"
+            "mitfühlender",
+            "gerechter"
           ]
         },
         {
-          "name": "Electric Youth by Debbie Gibson",
-          "short": "Electric Youth",
+          "name": "Kommissar Glockner",
           "required": false,
           "tags": [
-            "Schatz",
-            "junger"
+            "überforderter",
+            "verpeilter"
           ]
         },
         {
-          "name": "Jennifer Aniston by Jennifer Aniston",
-          "short": "Jennifer Aniston",
-          "required": true,
+          "name": "Der namenlose Verbrecher",
+          "required": false,
           "tags": [
-            "Frauentyp",
-            "Klassiker"
+            "zwielichtiger",
+            "Halunke"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Was ist deine heimlcihe Hoffnung, was du “someday” tun wirst?",
-              "name": "Someday by Justin Bieber",
-              "idx": 1
-            },
-            {
-              "role": 2,
-              "question": "Wenn eine Katze plötzlich sprechen könnte, was wäre das erste was sie sagen würde?",
-              "name": "Meow by Katy Perry",
-              "idx": 3
-            },
-            {
-              "role": 5,
-              "question": "Wofür hast du dein ganzes <i>Friends</i>-Geld ausgegeben, Jennifer?",
-              "name": "Jennifer Aniston by Jennifer Aniston",
-              "idx": 5
-            },
-            {
-              "role": 1,
-              "question": "Du bist sehr sehr bekannt. Aber wofür?",
-              "name": "Fame by Lady Gaga",
-              "idx": 7
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Miaue wie eine Katze, die eine Existenzkrise hat.",
-              "name": "Meow by Katy Perry",
-              "idx": 6
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
-            {
-              "role": 4,
-              "question": "Wer hat als Kind wahrscheinlich an einen elektrischen Zaun gepinkelt?",
-              "name": "Electric Youth by Debbie Gibson",
-              "idx": 0
-            },
             {
               "role": 1,
               "question": "Über wen würde in Boulevardzeitungen geschrieben werden ?",
@@ -6095,11 +5537,11 @@
         {
           "roles": [
             {
-              "name": "Bruce Willis by Bruce Willis",
-              "idx": 8,
+              "idx": 7,
+              "name": "Oskar",
               "tags": [
-                "Held",
-                "mittelalterlicher"
+                "treuer",
+                "struppiger"
               ]
             }
           ],
@@ -6107,140 +5549,73 @@
         }
       ],
       "id": 56277,
-      "category": "Promi-Parfüms",
-      "prompt": "Welcher Promi-Duft seid ihr?"
+      "category": "<i>TKKG</i>",
+      "prompt": "Wer aus <i>TKKG</i> seid ihr jeweils?"
     },
     {
       "roles": [
         {
-          "name": "Energie der Wildbeere",
+          "name": "Tilted Towers aus <i>Fortnite</i>",
           "required": false,
           "tags": [
-            "Blitz",
-            "wilder",
-            "peppiger"
+            "hektischer",
+            "zielstrebiger",
+            "Ingenieur"
           ]
         },
         {
-          "name": "Authentisches Grün",
+          "name": "Kaer Morhen aus <i>The Witcher</i>",
           "required": false,
           "tags": [
-            "echter",
-            "Hippie",
-            "Realist"
+            "einsamer",
+            "magiebegabter",
+            "geschichtsträchtiger"
           ]
         },
         {
-          "name": "Schlafenszeit",
+          "name": "Nuketown aus <i>Call of Duty</i>",
           "required": false,
           "tags": [
-            "schläfriger",
-            "lazier",
-            "Mittagsschläfer"
+            "explosiver",
+            "reaktionsschneller"
           ]
         },
         {
-          "name": "Zitronen-Ingwer Jam",
+          "name": "Kluft der Beschwörer aus <i>League of Legends</i>",
           "required": false,
           "tags": [
-            "Hohlkopf",
-            "musikalischer"
+            "toxischer",
+            "ausdauernder",
+            "Taktiker"
           ]
         },
         {
-          "name": "Morgendonnern",
+          "name": "Siofra-Fluss aus <i>Elden Ring</i>",
           "required": false,
           "tags": [
-            "lauter",
-            "Aufwecker"
+            "geduldiger",
+            "mysteriöser"
           ]
         },
         {
-          "name": "Süßer Nussknacker",
-          "required": true,
+          "name": "Hyrule aus <i>The Legend of Zelda</i>",
+          "required": false,
           "tags": [
-            "aggressiver",
-            "Nascher",
-            "köstlicher"
+            "abenteuerlustiger",
+            "zeitloser"
           ]
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Was ist der beste Snack vor dem Schlafengehen?",
-              "name": "Schlafenszeit",
-              "idx": 2
-            },
-            {
-              "role": 4,
-              "question": "Wie lautet dein Schlachtruf als Morgendonnern-Gott an einem Wochentag?",
-              "name": "Morgendonnern",
-              "idx": 3
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Zeige jedem wie du tanzt, wenn die Luft nach Patschuli riecht und die Musik glatt und frisch ist.",
-              "name": "Zitronen-Ingwer Jam",
-              "idx": 6
-            },
-            {
-              "role": 2,
-              "question": "Demonstriere die nervtötendste Art zu schlafen.",
-              "name": "Schlafenszeit",
-              "idx": 7
-            }
-          ]
-        },
-        {
-          "id": "FightTiebreaker",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Wer haut die härtesten Sprüche raus?",
-              "name": "Energie der Wildbeere",
-              "idx": 0
-            },
-            {
-              "role": 1,
-              "question": "Wem würdest du als Zeugen vor Gericht vertrauen?",
-              "name": "Authentisches Grün",
-              "idx": 1
-            },
-            {
-              "role": 5,
-              "question": "Wer macht die wohlüberlegtesten und persönlichsten Geschenke zu den Feiertagen?",
-              "name": "Süßer Nussknacker",
-              "idx": 4
-            },
-            {
-              "role": 3,
-              "question": "Wer würde eher damit anfangen, einer Band hinterherzufahren und dann nie wieder gesehen zu werden?",
-              "name": "Zitronen-Ingwer Jam",
-              "idx": 5
-            }
-          ]
-        },
         {
           "roles": [
             {
-              "name": "heißes klares Wasser",
+              "name": "Night City aus Cyberpunk 2077</i>",
               "idx": 8,
               "tags": [
-                "regulärer",
-                "Langweiler"
+                "glamouröser",
+                "moderner"
               ]
             }
           ],
@@ -6248,8 +5623,8 @@
         }
       ],
       "id": 56144,
-      "category": "Himmlische Gewürztees",
-      "prompt": "Welcher Tee seid ihr?"
+      "category": "Orte in Videospielen",
+      "prompt": "Welcher Ort in einem Videospiel passt am besten zu jedem von euch?"
     },
     {
       "roles": [
@@ -6306,9 +5681,6 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -6325,7 +5697,7 @@
             },
             {
               "role": 3,
-              "question": "Was hast du getan um ohne Abendessen ins Bett geschickt zu werden?",
+              "question": "Was hast du getan, um ohne Abendessen ins Bett geschickt zu werden?",
               "name": "<i>Wo die wilden Kerle wohnen</i>",
               "idx": 4
             }
@@ -6444,23 +5816,8 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 0,
-              "question": "Was war dein rebellischster Akt in der Schulzeit?",
-              "name": "“Fight the Power”",
-              "idx": 0
-            },
-            {
-              "role": 2,
-              "question": "Wen hättest du lieber als Feature bei deinem Hip Hop Track?",
-              "name": "“Nuthin’ but a G Thing”",
-              "idx": 2
-            },
             {
               "role": 4,
               "question": "Welches ist das Spiel, das man alleine spielen kann?",
@@ -6509,7 +5866,7 @@
       ],
       "id": 57335,
       "category": "Deutschrap",
-      "prompt": "Welcher Deutschrap-Song passt zu jedem von euch?"
+      "prompt": "Welcher Deutschrap-Song passt am besten zu euch?"
     },
     {
       "roles": [
@@ -6569,31 +5926,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Schreibe die erste Zeile deines Entschuldigungsschreibens an die Dorfbewohner, am Morgen nach einem Vollmond.",
-              "name": "Werwolf",
-              "idx": 2
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 1,
-              "question": "Zeige deine beste Frankenstein-Imitation.",
-              "name": "Frankensteins Monster",
-              "idx": 1
-            }
-          ]
-        },
-        {
           "id": "FightTiebreaker",
           "prompts": [
             {
@@ -6638,7 +5970,7 @@
       ],
       "id": 56154,
       "category": "Bekannte Monster",
-      "prompt": "Welches bekannte Monster passt am besten zu jedem von euch?"
+      "prompt": "Welches bekannte Monster passt am besten zu euch?"
     },
     {
       "roles": [
@@ -6702,17 +6034,8 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 5,
-              "question": "Was ist die geheimnisvolle Visitenkarte, die du nach einem Abenteuer zurücklassen würdest?",
-              "name": "Zorro",
-              "idx": 0
-            },
             {
               "role": 0,
               "question": "Was ist eine wirklich scharfe Bemerkung, die man zu seinem bösen Vater sagen könnte?",
@@ -6832,9 +6155,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -7010,9 +6330,6 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -7092,106 +6409,68 @@
       ],
       "id": 56687,
       "category": "RTL-Sendungen",
-      "prompt": "Welche RTL-Sendung seid ihr?"
+      "prompt": "Welche <i>RTL</i>-Sendung seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "<i>Hannah Montana</i>",
-          "required": false,
-          "tags": [
-            "divaer",
-            "melodramatischer"
-          ]
-        },
-        {
-          "name": "<i>Raven blickt durch</i>",
+          "name": "E.T. the Extra-Terrestrial (Atari 2600, 1982)",
           "required": true,
           "tags": [
-            "Träumer",
-            "doofer",
-            "magischer"
-          ]
+            "verschollener",
+            "grässlicher"
+          ],
+          "short": "E.T."
         },
         {
-          "name": "<i>Lizzy McGuire</i>",
+          "name": "Superman 64 (Nintendo 64, 1999)",
           "required": false,
           "tags": [
-            "Romantiker",
+            "Bruchpilot",
+            "vernebelter"
+          ],
+          "short": "Superman 64"
+        },
+        {
+          "name": "Big Rigs: Over the Road Racing (PC, 2003)",
+          "required": false,
+          "tags": [
+            "Geisterfahrer",
             "spitzzüngiger"
-          ]
+          ],
+          "short": "Big Rigs"
         },
         {
-          "name": "<i>Even Stevens</i>",
+          "name": "Arcania - Gothic 4 (2010)",
           "required": false,
           "tags": [
-            "Unruhestifter",
-            "sprücheklopfender"
-          ]
+            "fehlerbehafteter",
+            "unlustiger"
+          ],
+          "short": "Arcania"
         },
         {
-          "name": "<i>Die Prouds</i>",
+          "name": "The Day Before (PC, 2023)",
           "required": false,
           "tags": [
-            "inspirativer",
-            "liebenswerter",
-            "Stützpfeiler"
-          ]
+            "dreister",
+            "Hochstapler",
+            "vorgelogener"
+          ],
+          "short": "The Day Before "
         },
         {
-          "name": "<i>Zack & Cody an Board</i>",
-          "required": false,
+          "name": "The Lord of the Rings: Gollum (2023)",
+          "required": true,
           "tags": [
-            "glücksbegünstigter",
-            "wohlhabender"
-          ]
+            "hässlicher",
+            "mitleidserregender"
+          ],
+          "short": "Gollum "
         }
       ],
-      "x": false,
+      "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Wenn du heimlich ein Teenie-Popstar wärst, wie würde dein Künstlername lauten?",
-              "name": "<i>Hannah Montana</i>",
-              "idx": 3
-            },
-            {
-              "role": 1,
-              "question": "Raven kann in die Zukunft sehen. Sage die Zukunft der Person zu deiner Linken voraus.",
-              "name": "<i>Raven blickt durch</i>",
-              "idx": 4
-            },
-            {
-              "role": 4,
-              "question": "Nenne etwas, worauf du wirklich stolz bist?",
-              "name": "<i>Die Prouds</i>",
-              "idx": 7
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Um diesen Gleichstand zu überwinden, sagt Shia Labouef 10 Mal hintereinander. Die schnellste Person gewinnt.",
-              "name": "<i>Even Stevens</i>",
-              "idx": 5
-            },
-            {
-              "role": 0,
-              "question": "Mache uns vor, wie Miley Cyrus beim McDonald's drive thru bestellt.",
-              "name": "<i>Hannah Montana</i>",
-              "idx": 8
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -7218,20 +6497,21 @@
         {
           "roles": [
             {
-              "name": "<i>Einfach Cory!</i>",
+              "name": "Bubsy 3D (PlayStation 1, 1996)",
               "idx": 0,
               "tags": [
-                "Scherzkeks",
-                "präsidentieller"
-              ]
+                "orientierungsloser",
+                "Schreihals"
+              ],
+              "short": "Bubsy 3D"
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 56202,
-      "category": "Disney Channel Originals",
-      "prompt": "Welche Disney Channel Sendung seid ihr?"
+      "category": "Schlechte Videospiele",
+      "prompt": "Welches schlechte Videospiel repräsentiert euch jeweils?"
     },
     {
       "roles": [
@@ -7292,9 +6572,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -7363,91 +6640,63 @@
       ],
       "id": 56231,
       "category": "Disney Prinzessinnen",
-      "prompt": "Welche Disney Prinzessin passt jeweils am besten zu euch?"
+      "prompt": "Welche Disney-Prinzessin passt jeweils am besten zu euch?"
     },
     {
       "roles": [
         {
-          "name": "Barbie",
+          "name": "Avatar Aang",
           "required": false,
           "tags": [
-            "Klassiker",
-            "Influencer",
-            "stylisher"
+            "pazifistischer",
+            "unbeschwerter",
+            "hiilfsbereiter"
           ]
         },
         {
-          "name": "Raggedy Ann",
+          "name": "Katara",
           "required": false,
           "tags": [
-            "netter",
-            "Dummbatz"
+            "fürsorglicher",
+            "willensstarker"
           ]
         },
         {
-          "name": "American Girl",
+          "name": "Sokka",
           "required": false,
           "tags": [
-            "altmodischer",
-            "Patriot"
+            "sarkastischer",
+            "Erfinder"
           ]
         },
         {
-          "name": "Bratz",
+          "name": "Toph",
           "required": false,
           "tags": [
-            "cooler",
-            "harter",
-            "Trendsetter"
+            "rabiater",
+            "unerschrockener",
+            "Dickkopf"
           ]
         },
         {
-          "name": "Emily Erdbeer",
+          "name": "Zuko",
           "required": false,
           "tags": [
-            "Küchenchef",
-            "niedlicher",
-            "süßer"
+            "ehrenhafter",
+            "missverstandener"
           ]
         },
         {
-          "name": "Annabelle",
+          "name": "Onkel Iroh",
           "required": true,
           "tags": [
-            "magischer",
-            "unheimlicher",
-            "Bösewicht"
+            "tiefenentspannter",
+            "weiser"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Was ist dein Lieblings Accessoire?",
-              "name": "Barbie",
-              "idx": 0
-            },
-            {
-              "role": 2,
-              "question": "Gib kurz deine fiktive Hintergrundgeschichte an!",
-              "name": "American Girl",
-              "idx": 2
-            },
-            {
-              "role": 3,
-              "question": "Wenn du eine Bratz Puppe wärst, wärst du bekannt als “Die _____ ”",
-              "name": "Bratz",
-              "idx": 3
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -7474,12 +6723,11 @@
         {
           "roles": [
             {
-              "name": "pinkelndes Baby Puppe",
+              "name": "Appa",
               "idx": 6,
               "tags": [
-                "grober",
-                "Säugling",
-                "unordentlicher"
+                "gutmütiger",
+                "ergebener"
               ]
             }
           ],
@@ -7487,8 +6735,8 @@
         }
       ],
       "id": 57330,
-      "category": "Puppen",
-      "prompt": "Welcher Puppentyp seid ihr?"
+      "category": "<i>Avatar: Der Herr der Elemente</i>",
+      "prompt": "Welcher Charakter aus <i>Avatar: Der Herr der Elemente</i> seid ihr jeweils?"
     },
     {
       "roles": [
@@ -7498,14 +6746,14 @@
           "tags": [
             "Feinschmecker",
             "hungriger",
-            "spitzzüngiger"
+            "fetter"
           ]
         },
         {
           "name": "Grinsekatze",
           "required": true,
           "tags": [
-            "Guide",
+            "freundlicher",
             "mysteriöser",
             "unheimlicher"
           ]
@@ -7515,7 +6763,6 @@
           "required": true,
           "tags": [
             "Griesgram",
-            "Meme-Macher",
             "launischer",
             "ausgenutzter"
           ]
@@ -7525,7 +6772,6 @@
           "required": true,
           "tags": [
             "niedlicher",
-            "Ikonentyp",
             "liebenswerter"
           ]
         },
@@ -7542,16 +6788,12 @@
           "required": false,
           "tags": [
             "Influencer",
-            "Meme-Macher",
             "musikalischer"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -7670,9 +6912,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -7689,13 +6928,13 @@
             },
             {
               "role": 3,
-              "question": "Was würdest du auf magische Art transformieren um andere Leute umzuhauen?",
+              "question": "Was würdest du auf magische Art transformieren, um andere Leute umzuhauen?",
               "name": "Kürbis, der in eine Kutsche verwandelt wurde",
               "idx": 7
             },
             {
               "role": 5,
-              "question": "Welches essenbasierte Fahrzeug würdest du entwickeln?",
+              "question": "Welches essensbasierte Fahrzeug würdest du entwickeln?",
               "name": "Oscar Mayer Wienermobil",
               "idx": 8
             }
@@ -7712,7 +6951,7 @@
             },
             {
               "role": 3,
-              "question": "Singe irgendein Lied aus <i>Cinderella</i>",
+              "question": "Singe irgendein Lied aus <i>Cinderella</i>.",
               "name": "Kürbis, der in eine Kutsche verwandelt wurde",
               "idx": 5
             }
@@ -7723,13 +6962,13 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Wer hat am ehesten eine Geheimidentität",
+              "question": "Wer hat am ehesten eine Geheimidentität?",
               "name": "Batmobil",
               "idx": 0
             },
             {
               "role": 4,
-              "question": "If there was something strange in your neighborhood, who would you call?",
+              "question": "Wenn in deiner Nachbarschaft etwas Seltsames passieren würde, wen würdest du anrufen?",
               "name": "Ghostbusters’ Ecto-1",
               "idx": 9
             }
@@ -7787,7 +7026,7 @@
           "name": "“Ich bin der mächtigste Jedi”",
           "required": false,
           "tags": [
-            "badasser",
+            "übernatürlicher",
             "Kraftprotz"
           ]
         },
@@ -7839,9 +7078,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -7870,7 +7106,7 @@
             },
             {
               "role": 0,
-              "question": "Gegen welche <i>Star Wars</i> Figur trittst du in dieser Fanfic in einem finalen Lichtschwertkampf an?",
+              "question": "Gegen welche <i>Star Wars</i>-Figur trittst du in dieser Fanfic in einem finalen Lichtschwertkampf an?",
               "name": "“Ich bin der mächtigste Jedi”",
               "idx": 8
             }
@@ -7892,7 +7128,7 @@
           "prompts": [
             {
               "role": 2,
-              "question": "Welcher Spieler hätte tatsächlich gerne eine <i>Harry Potter</i>Themenhochzeit?",
+              "question": "Welcher Spieler hätte tatsächlich gerne eine <i>Harry Potter</i>-Themenhochzeit?",
               "name": "“Ich habe Harry Potter geheiratet”",
               "idx": 9
             },
@@ -7904,7 +7140,7 @@
             },
             {
               "role": 2,
-              "question": "Welcher Spieler hätte tatsächlich gerne eine <i>Harry Potter</i>Themenhochzeit?",
+              "question": "Welcher Spieler hätte tatsächlich gerne eine <i>Harry Potter</i>-Themenhochzeit?",
               "name": "“Ich habe Harry Potter geheiratet”",
               "idx": 9
             }
@@ -7952,7 +7188,7 @@
           "name": "menschliche Fackel",
           "required": true,
           "tags": [
-            "Party Typ",
+            "Party-Typ",
             "Held",
             "Angeber"
           ]
@@ -7980,16 +7216,13 @@
           "name": "Silver Surfer",
           "required": false,
           "tags": [
-            "Hippie",
+            "muskelbepackter",
             "spiritueller"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -8056,7 +7289,7 @@
               "roles": [
                 {
                   "name": "Chris Evans menschliche Fackel",
-                  "tags": "Party Typ"
+                  "tags": "Party-Typ"
                 },
                 {
                   "name": "Michael B Jordan menschliche Fackel",
@@ -8074,7 +7307,7 @@
               "name": "dieser trottelige kleine Roboter-Helfer",
               "idx": 6,
               "tags": [
-                "depperter",
+                "dummer",
                 "Roboter",
                 "Kumpel"
               ]
@@ -8090,67 +7323,61 @@
     {
       "roles": [
         {
-          "name": "Ronald McDonald",
-          "required": true,
-          "tags": [
-            "Dummbatz",
-            "Witzbold",
-            "begabter"
-          ]
-        },
-        {
-          "name": "The Burger King",
-          "required": true,
-          "tags": [
-            "Monarch",
-            "ruhiger",
-            "unheimlicher"
-          ]
-        },
-        {
-          "name": "Wendy",
-          "required": true,
-          "tags": [
-            "kindlicher",
-            "Freund",
-            "angenehmer"
-          ]
-        },
-        {
-          "name": "The Colonel",
-          "required": true,
-          "tags": [
-            "stilvoller",
-            "wohltuender",
-            "ländlicher",
-            "Partylöwe"
-          ]
-        },
-        {
-          "name": "Starbucks Meerjungfrau",
+          "name": "Haribo-Goldbär",
           "required": false,
           "tags": [
-            "energischer",
-            "fischiger",
-            "magischer",
-            "Seefahrer"
+            "freundlicher",
+            "Genießer",
+            "süßer"
           ]
         },
         {
-          "name": "ein kleiner Chihuahua",
+          "name": "Käpt'n Iglo",
           "required": false,
           "tags": [
-            "Tiermensch",
-            "unbeachteter",
-            "spitzzüngiger"
+            "Seebär",
+            "verlässlicher"
+          ]
+        },
+        {
+          "name": "Bernd das Brot",
+          "required": false,
+          "tags": [
+            "griesgrämiger",
+            "Pessimist",
+            "kurzarmiger"
+          ]
+        },
+        {
+          "name": "Bausparfuchs (Schwäbisch Hall)",
+          "required": false,
+          "tags": [
+            "schlauer",
+            "vorausdenkender"
+          ],
+          "short": "Bausparfuchs"
+        },
+        {
+          "name": "Meister Proper",
+          "required": false,
+          "tags": [
+            "muskulöser",
+            "glatzköpfiger",
+            "sauberer"
+          ]
+        },
+        {
+          "name": "Michelin-Männchen",
+          "required": false,
+          "tags": [
+            "aufgepumpter",
+            "fetter",
+            "gemütlicher"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -8165,18 +7392,6 @@
               "question": "Welche unübliche Formhätten deine Burger?",
               "name": "Wendy",
               "idx": 2
-            },
-            {
-              "role": 4,
-              "question": "In welcher seltsamen Flüssigkeit würdest du als Meerjungfrau leben wollen?",
-              "name": "Starbucks Meerjungfrau",
-              "idx": 8
-            },
-            {
-              "role": 4,
-              "question": "In welcher seltsamen Flüssigkeit würdest du als Meerjungfrau leben wollen?",
-              "name": "Starbucks Meerjungfrau",
-              "idx": 8
             }
           ]
         },
@@ -8209,48 +7424,22 @@
           ]
         },
         {
-          "id": "Split",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Wer ist der originale Colonel Sanders und wer ist nur Reba McEntire in einem Kostüm?",
-              "roles": [
-                {
-                  "name": "original Colonel",
-                  "tags": [
-                    "volkstümlicher",
-                    "Partylöwe"
-                  ]
-                },
-                {
-                  "name": "Reba McEntire",
-                  "tags": [
-                    "ländlicher",
-                    "Ikonentyp"
-                  ]
-                }
-              ],
-              "name": "The Colonel",
-              "idx": 7
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "der kleine Hunger",
+              "name": "Die Maus (vom WDR)",
               "idx": 3,
               "tags": [
-                "lästiger",
-                "hungriger"
-              ]
+                "kluger",
+                "Entdecker"
+              ],
+              "short": "Die Maus"
             }
           ],
           "id": "Consolation"
         }
       ],
       "id": 57002,
-      "category": "Fast Food Maskottchen",
+      "category": "Markenmaskottchen",
       "prompt": "Welche Fast-Food-Ikone bringt eure Persönlichkeiten am besten auf den Punkt?"
     },
     {
@@ -8309,20 +7498,17 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
               "role": 1,
-              "question": "Was würdest du deiem Nachfolger Jan Hahn auf dem Sterbebett beichten?",
+              "question": "Was würdest du deinem Nachfolger Jan Hahn auf dem Sterbebett beichten?",
               "name": "Frederic Meisner",
               "idx": 1
             },
             {
               "role": 1,
-              "question": "Was würdest du deiem Nachfolger Jan Hahn auf dem Sterbebett beichten?",
+              "question": "Was würdest du deinem Nachfolger Jan Hahn auf dem Sterbebett beichten?",
               "name": "Frederic Meisner",
               "idx": 1
             },
@@ -8345,7 +7531,7 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Singe eine a Capella Verison der <i>Wer wird Millionär</i> Titelmelodie.",
+              "question": "Singe eine a-Capella-Version der <i>Wer wird Millionär</i>-Titelmelodie.",
               "name": "Günther Jauch",
               "idx": 2
             },
@@ -8401,18 +7587,18 @@
     {
       "roles": [
         {
-          "name": "Godzilla",
+          "name": "Leviathan",
           "required": true,
           "tags": [
-            "unzerstörbarer",
-            "Anführer"
+            "kolossaler",
+            "Ungeheuer"
           ]
         },
         {
           "name": "King Kong",
-          "required": true,
+          "required": false,
           "tags": [
-            "Animal",
+            "affiger",
             "empfindlicher"
           ]
         },
@@ -8426,18 +7612,18 @@
           ]
         },
         {
-          "name": "Cthulhu",
-          "required": false,
+          "name": "Die Midgardschlange",
+          "required": true,
           "tags": [
-            "böser",
-            "Intrigant"
+            "langer",
+            "zerstörerischer"
           ]
         },
         {
           "name": "Smaug der Drache",
           "required": false,
           "tags": [
-            "britischer",
+            "feuriger",
             "gieriger"
           ]
         },
@@ -8453,22 +7639,13 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
               "role": 4,
-              "question": "Gold wirkt unbequem. Womit würdest du deine Schatzkammer füllen?",
+              "question": "Womit würdest du deine Schatzkammer füllen?",
               "name": "Smaug der Drache",
               "idx": 0
-            },
-            {
-              "role": 3,
-              "question": "Was würdest du jemandem ins Ohr flüstern um ihn verrückt zu machen?",
-              "name": "Cthulhu",
-              "idx": 6
             },
             {
               "role": 5,
@@ -8483,7 +7660,7 @@
           "prompts": [
             {
               "role": 1,
-              "question": "Zeige uns deine beste Affen-Imitation",
+              "question": "Zeige uns deine beste Affen-Imitation.",
               "name": "King Kong",
               "idx": 3
             }
@@ -8551,113 +7728,66 @@
     {
       "roles": [
         {
-          "name": "Schoko-Minze",
+          "name": "OREO",
           "required": false,
           "tags": [
-            "Klassiker",
-            "cooler",
-            "Stützpfeiler",
+            "Trendsetter",
+            "süßer",
+            "cremiger"
+          ]
+        },
+        {
+          "name": "Dominostein",
+          "required": false,
+          "tags": [
+            "traditioneller",
             "erfrischender"
           ]
         },
         {
-          "name": "Kokosmakronen",
+          "name": "Prinzen-Rolle",
           "required": false,
           "tags": [
-            "unordentlicher",
-            "Party Typ"
-          ]
-        },
-        {
-          "name": "Erdnussbutter Tagalongs",
-          "required": false,
-          "tags": [
-            "kindlicher",
+            "adeliger",
             "niedlicher"
           ]
         },
         {
-          "name": "Butterkekse",
+          "name": "<i>Leibniz</i>-Butterkeks",
           "required": false,
           "tags": [
-            "vorsichtiger",
-            "Langweiler"
+            "knackiger",
+            "origineller"
           ]
         },
         {
-          "name": "Rosinencookies",
+          "name": "Glückskeks",
           "required": false,
           "tags": [
-            "Ältester",
-            "Gesundheitsfanatiker"
+            "spiritueller",
+            "mystischer"
           ]
         },
         {
-          "name": "Mango Crèmes mit “Nutrifusion”",
+          "name": "Amarettino",
           "required": false,
           "tags": [
-            "ethischer",
-            "Hippie",
+            "winziger",
             "Naturalist"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Wenn dich ein Kannibale essen würde, welcher Teil von dir schmeckt am minzigsten?",
-              "name": "Schoko-Minze",
-              "idx": 0
-            },
-            {
-              "role": 1,
-              "question": "Die Leute lieben oder hassen dich. Warum ist das so?",
-              "name": "Kokosmakronen",
-              "idx": 2
-            },
-            {
-              "role": 2,
-              "question": "Wer wäre der schlimmste fiktionale Charakter, den man zum Spieleabend mitnehmen könnte?",
-              "name": "Erdnussbutter Tagalongs",
-              "idx": 3
-            },
-            {
-              "role": 3,
-              "question": "Du winkst mit deinem Zauberstab und sagst das Zuberwort: “Butterkeks”.  Was passiert?",
-              "name": "Butterkekse",
-              "idx": 4
-            },
-            {
-              "role": 4,
-              "question": "Nenne eine Sache, in der du schmerzhaft durchschnittlich bist.",
-              "name": "Rosinencookies",
-              "idx": 5
-            },
-            {
-              "role": 5,
-              "question": "Gib eine Wörterbuchdefinition des Wortes “Nutrifusion”.",
-              "name": "Mango Crèmes mit “Nutrifusion”",
-              "idx": 6
-            }
-          ]
-        },
         {
           "roles": [
             {
-              "name": "Tante Debbies “genau so gute” nachgemachte Versionen",
+              "name": "Die Reiswaffel",
               "idx": 1,
               "tags": [
-                "Stubenhocker",
-                "Angeber",
-                "Intrigant",
-                "sparsamer"
+                "neutraler",
+                "trockener",
+                "schlanker"
               ]
             }
           ],
@@ -8665,108 +7795,63 @@
         }
       ],
       "id": 57353,
-      "category": "Pfadfinderkekse",
-      "prompt": "Welcher Pfadfinderkeks seid ihr?"
+      "category": "Bekannte Kekse",
+      "prompt": "Welcher bekannte Keks seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "“großartig um unterhalten zu werden”",
+          "name": "N64 Kalimari-Wüste",
           "required": false,
           "tags": [
-            "netter",
-            "Gastgeber",
-            "begabter"
+            "staubiger",
+            "gemächlicher",
+            "heißer"
           ]
         },
         {
-          "name": "“erfordert viel Arbeit”",
+          "name": "MK8 Zuckersüßer Canyon",
           "required": true,
           "tags": [
-            "Athlet",
-            "Gesundheitsfanatiker"
+            "farbenfroher",
+            "fetter"
           ]
         },
         {
-          "name": "“hat eine gewisse Anziehungskraft”",
+          "name": "DS Fliegende Festung",
           "required": false,
           "tags": [
-            "niedlicher",
-            "Schönling",
-            "stylisher"
+            "harter",
+            "radikaler"
           ]
         },
         {
-          "name": "“Mir gefällt die Offenheit”",
+          "name": "Wii Koopa-Kap",
           "required": true,
           "tags": [
-            "Hippie",
-            "unbekümmerter"
+            "spritziger",
+            "tiefenentspannter"
           ]
         },
         {
-          "name": "“nicht sehr kinderfreundlich”",
+          "name": "3DS Warios Galeonenwrack",
           "required": false,
           "tags": [
             "Griesgram",
-            "reifer",
-            "vulgärer"
+            "düsterer"
           ]
         },
         {
-          "name": "“Das ideale Männerzimmer”",
+          "name": "GCN Sorbet-Land",
           "required": false,
           "tags": [
-            "Party Typ",
+            "unterkühlter",
             "Faulpelz"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Was ist die beste Art, eine Wand einzureißen?",
-              "name": "“Mir gefällt die Offenheit”",
-              "idx": 3
-            },
-            {
-              "role": 5,
-              "question": "Mit welchem Köder würdest du einen Mann in eine Höhle locken?",
-              "name": "“Das ideale Männerzimmer”",
-              "idx": 5
-            },
-            {
-              "role": 4,
-              "question": "Was ist das Schlimmste an Kindern?",
-              "name": "“nicht sehr kinderfreundlich”",
-              "idx": 4
-            },
-            {
-              "role": 1,
-              "question": "Was ist das Schlimmste, das man in einem Haus finden kann, das man gerade gekauft hat?",
-              "name": "“erfordert viel Arbeit”",
-              "idx": 7
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Zeig uns dein Immoblienmaklerlächeln und die dazugehörige Körperhaltung.",
-              "name": "“hat eine gewisse Anziehungskraft”",
-              "idx": 6
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -8793,13 +7878,12 @@
         {
           "roles": [
             {
-              "name": "“Ich kann es kaum erwarten hier alles umzukrempeln”",
-              "idx": 8,
+              "idx": 6,
+              "name": "SNES Regenbogen-Boulevard",
               "tags": [
                 "agiler",
                 "energischer",
-                "Unternehmer",
-                "Verkäufer"
+                "einzigartiger"
               ]
             }
           ],
@@ -8807,8 +7891,8 @@
         }
       ],
       "id": 56685,
-      "category": "Heim und Garten TV",
-      "prompt": "Wie würde euch eine Heimwerkersendung beschreiben?"
+      "category": "<i>Mario Kart</i>-Strecken",
+      "prompt": "Welche <i>Mario Kart</i>-Strecke beschreibt euch jeweils am besten?"
     },
     {
       "roles": [
@@ -8854,13 +7938,11 @@
           ]
         },
         {
-          "name": "Chucky",
+          "name": "Michael Myers",
           "required": false,
           "tags": [
-            "unheimlicher",
-            "Intrigant",
-            "winziger",
-            "Unruhestifter"
+            "Spanner",
+            "stiller"
           ]
         },
         {
@@ -8877,9 +7959,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -8887,12 +7966,6 @@
               "question": "Was war dein schlimmster Alptraum?",
               "name": "Freddy Krueger",
               "idx": 1
-            },
-            {
-              "role": 4,
-              "question": "Welches wäre das schlimmste lebendig gewordene Spielzeug, das dich umbringen will?",
-              "name": "Chucky",
-              "idx": 4
             },
             {
               "role": 5,
@@ -8942,23 +8015,6 @@
             {
               "role": 0,
               "question": "Wer ist Jason mit einer Sackleinenmaske und wer ist Jason mit einer Torwartmaske?",
-              "roles": [
-                {
-                  "name": "Sackleinen Jason",
-                  "tags": [
-                    "ländlicher",
-                    "Farmer"
-                  ]
-                },
-                {
-                  "name": "Torwartmasken Jason",
-                  "tags": [
-                    "Athlet",
-                    "Verteidiger",
-                    "Hockeyspieler"
-                  ]
-                }
-              ],
               "name": "Jason Voorhees",
               "idx": 7
             }
@@ -8967,12 +8023,13 @@
         {
           "roles": [
             {
-              "name": "Der tote Lebkuchenmann",
+              "name": "Chucky",
               "idx": 8,
               "tags": [
-                "gackernder",
-                "Keksfan",
-                "köstlicher"
+                "unheimlicher",
+                "Intrigant",
+                "winziger",
+                "Unruhestifter"
               ]
             }
           ],
@@ -9047,9 +8104,6 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -9113,7 +8167,7 @@
               "name": "ein richtiger Tausendfüßler",
               "idx": 8,
               "tags": [
-                "Käfer",
+                "wilder",
                 "natürlicher"
               ]
             }
@@ -9140,12 +8194,12 @@
           ]
         },
         {
-          "name": "“Let’s Get It On” - Marvin Gaye",
-          "short": "“Let’s Get It On”",
+          "name": "“Tequila” - The Champs",
+          "short": "“Tequila”",
           "required": false,
           "tags": [
-            "Flirtprofi",
-            "Romantiker"
+            "besoffener",
+            "Langweiler"
           ]
         },
         {
@@ -9181,16 +8235,13 @@
           "required": true,
           "tags": [
             "betrunkener",
-            "Party Typ",
+            "Party-Typ",
             "besoffener"
           ]
         }
       ],
       "x": true,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -9253,7 +8304,7 @@
           "prompts": [
             {
               "role": 5,
-              "question": "Was kommt zu erst im Lied “Tubthumping”:  ein Schluck  Whiskey oder ein Schluck Vodka?",
+              "question": "Was kommt zuerst im Lied “Tubthumping”:  ein Schluck Whiskey oder ein Schluck Vodka?",
               "correct": "Schluck Whiskey",
               "name": "“Tubthumping” - Chumbawamba",
               "altSpellings": [
@@ -9308,12 +8359,11 @@
           ]
         },
         {
-          "name": "<i>Bill & Ted’s verrückte Reise durch die Zeit</i>",
-          "short": "<i>Bill & Ted</i>",
+          "name": "<i>47 Ronin</i>",
           "required": true,
           "tags": [
-            "Party Typ",
-            "unbekümmerter",
+            "traditioneller",
+            "aufopfernder",
             "unzeitgemäßer"
           ]
         },
@@ -9346,9 +8396,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -9434,64 +8481,59 @@
     {
       "roles": [
         {
-          "name": "Eleven/Elfie",
-          "required": true,
-          "tags": [
-            "magischer",
-            "Unhold",
-            "Kraftprotz"
-          ]
-        },
-        {
-          "name": "Michelle Tanner",
-          "required": true,
-          "tags": [
-            "niedlicher",
-            "Influencer",
-            "Maskottchen-Träger"
-          ]
-        },
-        {
-          "name": "Dustin Henderson",
-          "required": true,
-          "tags": [
-            "kindlicher",
-            "Dummbatz",
-            "smarter"
-          ]
-        },
-        {
-          "name": "DJ Tanner",
-          "required": true,
-          "tags": [
-            "Modeguru",
-            "Patriarch",
-            "angenehmer"
-          ]
-        },
-        {
-          "name": "Mike Wheeler",
+          "name": "Doodle Jump",
           "required": false,
           "tags": [
-            "Anführer",
+            "unermüdlicher",
+            "einfacher",
+            "außergewöhnlicher"
+          ]
+        },
+        {
+          "name": "Temple Run",
+          "required": false,
+          "tags": [
+            "gehetzter",
+            "flinker",
+            "Dieb"
+          ]
+        },
+        {
+          "name": "Jetpack Joyride",
+          "required": false,
+          "tags": [
+            "reicher",
+            "technikaffiner",
+            "Muskelprotz"
+          ]
+        },
+        {
+          "name": "Angry Birds",
+          "required": false,
+          "tags": [
+            "jähzorniger",
+            "zerstörerischer"
+          ]
+        },
+        {
+          "name": "Fruit Ninja",
+          "required": false,
+          "tags": [
+            "präziser",
             "mutiger"
           ]
         },
         {
-          "name": "Stephanie Tanner",
+          "name": "Flappy Bird",
           "required": false,
           "tags": [
             "unbeachteter",
-            "sprücheklopfender",
-            "Bedenkenträger"
+            "frustrierter"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -9546,13 +8588,11 @@
         {
           "roles": [
             {
-              "name": "Kimmy Gibbler die den Demogorgon reitet",
+              "name": "Tamagotchi",
               "idx": 0,
               "tags": [
-                "lästiger",
-                "Unmensch",
-                "beängstigender",
-                "uneingeladener"
+                "fürsorglicher",
+                "beängstigender"
               ]
             }
           ],
@@ -9560,83 +8600,66 @@
         }
       ],
       "id": 57604,
-      "category": "<i>Stranger Things</i> + <i>Full House</i>",
-      "prompt": "Welches Kind aus <i>Stranger Things</i> oder <i>Full House</i> seid ihr?"
+      "category": "Handyspiel-Klassiker",
+      "prompt": "Welches bekannte Handyspiel seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "<i>Fremder in meinem Bett</i>",
+          "name": "Caipirinha",
           "required": true,
           "tags": [
-            "Schwarm",
-            "Riskant",
+            "erfrischender",
             "verführerischer"
           ]
         },
         {
-          "name": "<i>17 und auf der Flucht</i>",
+          "name": "Bloody Mary",
           "required": true,
           "tags": [
-            "Jugendlicher",
-            "Abtrünniger"
+            "würziger",
+            "gewöhnungsbedürftiger"
           ]
         },
         {
-          "name": "<i>Lügen, um perfekt zu sein</i>",
+          "name": "Piña Colada",
           "required": true,
           "tags": [
             "ängstlicher",
-            "Prahlhans",
             "Egoist",
-            "Lügner"
+            "süßer"
           ]
         },
         {
-          "name": "<i>Tödliche Gelübde</i>",
+          "name": "Long Island Iced Tea",
           "required": false,
           "tags": [
             "todesmutiger",
-            "Romantiker"
+            "gnadenloser"
           ]
         },
         {
-          "name": "<i>Baby zu verkaufen</i>",
+          "name": "Tequila Sunrise",
           "required": false,
           "tags": [
             "teuflischer",
-            "Intrigant"
+            "Nachtschwärmer"
           ]
         },
         {
-          "name": "<i>Verrückt nach Weihnachten</i>",
+          "name": "Espresso Martini",
           "required": true,
           "tags": [
-            "magischer",
-            "heilsamer"
+            "belebender",
+            "stilvoller"
           ]
         }
       ],
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 1,
-              "question": "Welches “Verbrechen” hast du mit 17 begangen?",
-              "name": "<i>17 und auf der Flucht</i>",
-              "idx": 1
-            },
-            {
-              "role": 2,
-              "question": "Schreibe eine sehr glaubwürdige Lüge über sich selbst!",
-              "name": "<i>Lügen, um perfekt zu sein</i>",
-              "idx": 2
-            },
             {
               "role": 3,
               "question": "Was ist das einzige Hochzeitsgelübde, das du niemals ablegen könntest?",
@@ -9671,13 +8694,11 @@
         {
           "roles": [
             {
-              "name": "<i>Psycho Oma</i>",
+              "name": "Alkoholfreier Ipanema",
               "idx": 6,
               "tags": [
-                "Ältester",
-                "Opa",
-                "Killer",
-                "Psycho"
+                "verantwortungsbewusster",
+                "Lügner"
               ]
             }
           ],
@@ -9685,99 +8706,62 @@
         }
       ],
       "id": 57332,
-      "category": "Lifetime Movies",
-      "prompt": "Welcher Lifetime Original Filmtitel beschreibt eure Leben?"
+      "category": "Cocktails",
+      "prompt": "Welcher Cocktail repräsentiert jeden von euch am besten?"
     },
     {
       "roles": [
         {
-          "name": "Welpe isst einen Cupcake",
+          "name": "Krieger",
           "required": false,
           "tags": [
-            "hungriger",
-            "Schlingel"
+            "eiserner",
+            "unbeugsamer"
           ]
         },
         {
-          "name": "Kätzchen trägt eine Tiara",
+          "name": "Magier",
           "required": false,
           "tags": [
-            "Prinz",
-            "royaler"
+            "gelehrter",
+            "mysteriöser"
           ]
         },
         {
-          "name": "Orca springt einen Regenbogen",
+          "name": "Schurke",
           "required": false,
           "tags": [
-            "kühner",
-            "Angeber"
+            "gerissener",
+            "Meuchelmörder"
           ]
         },
         {
-          "name": "Einhorn-Wahrsagerin",
+          "name": "Kleriker",
           "required": false,
           "tags": [
-            "mystischer",
+            "göttlicher",
             "Prophet"
           ]
         },
         {
-          "name": "Bären-Zauberer",
+          "name": "Waldläufer",
           "required": false,
           "tags": [
-            "zauberhafter",
-            "Performer"
+            "naturverbundener",
+            "treffsicherer"
           ]
         },
         {
-          "name": "Leoparden-Engel",
+          "name": "Paladin",
           "required": false,
           "tags": [
-            "engelsgleicher",
-            "Schatz"
+            "ehrenhafter",
+            "Kämpfer"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Was ist die liebenswerteste Art und Weise, wie man um einen zusätzlichen Cupcake bitten kann?",
-              "name": "Welpe isst einen Cupcake",
-              "idx": 0
-            },
-            {
-              "role": 4,
-              "question": "Welche Ihrer Zaubertricks lieben die Zuschauer am meisten?",
-              "name": "Bären-Zauberer",
-              "idx": 4
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Sage “Ta da!” wie ein Bär.",
-              "name": "Bären-Zauberer",
-              "idx": 6
-            },
-            {
-              "role": 2,
-              "question": "Mach ein Geräusch wie ein Wal, der nach drei gescheiterten Versuchen endlich über einen Regenbogen springt.",
-              "name": "Orca springt einen Regenbogen",
-              "idx": 7
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -9810,11 +8794,11 @@
         {
           "roles": [
             {
-              "name": "Ein Rollerskate",
-              "idx": 8,
+              "idx": 6,
+              "name": "Dorfbewohner",
               "tags": [
-                "simpler",
-                "Reisender"
+                "wehrloser",
+                "Bauer"
               ]
             }
           ],
@@ -9822,101 +8806,66 @@
         }
       ],
       "id": 56147,
-      "category": "Lisa Frank Designs",
-      "prompt": "Welches Lisa-Frank-Design ist jeder von euch?"
+      "category": "Typische Rollenspiel-Klassen",
+      "prompt": "Welche Klasse wäre jeder von euch jeweils?"
     },
     {
       "roles": [
         {
-          "name": "Madonna in <i>Eine Klasse für sich</i>",
-          "short": "<i>Eine Klasse für sich</i>",
+          "name": "<i>DuckTales – Neues aus Entenhausen</i>",
+          "short": "<i>DuckTales</i>",
           "required": false,
           "tags": [
-            "Athlet",
-            "sportlicher"
+            "geldgieriger",
+            "abenteuerlustiger"
           ]
         },
         {
-          "name": "Madonna in <i>Dick Tracy</i>",
-          "short": "<i>Dick Tracy</i>",
+          "name": "<i>Darkwing Duck</i>",
           "required": false,
           "tags": [
             "mysteriöser",
-            "Sänger"
+            "theatralischer"
           ]
         },
         {
-          "name": "Madonna in <i>Evita</i>",
-          "short": "<i>Evita</i>",
+          "name": "<i>Chip & Chap – Die Ritter des Rechts</i>",
+          "short": "<i>Chip & Chap</i>",
           "required": false,
           "tags": [
-            "Anführer",
+            "selbstdarstellerischer",
             "mutiger",
             "wuchtiger"
           ]
         },
         {
-          "name": "Madonna in <i>Material Girl</i>",
-          "short": "<i>Material Girl</i>",
+          "name": "<i>Fillmore!</i>",
           "required": true,
           "tags": [
             "unersättlicher",
-            "Shoppingfan",
-            "wohlhabender"
+            "gesetzestreuer",
+            "prinzipientreuer"
           ]
         },
         {
-          "name": "Madonna in <i>Like a Prayer</i>",
-          "short": "<i>Like a Prayer</i>",
+          "name": "<i>Käpt’n Balu und seine tollkühne Crew</i>",
           "required": false,
           "tags": [
-            "Guru",
-            "spiritueller"
+            "gemütlicher",
+            "Bruchpilot"
           ]
         },
         {
-          "name": "Seltsame britische Madonna",
-          "short": "Seltsame Britin",
+          "name": "<i>Kim Possible</i>",
           "required": true,
           "tags": [
             "exzentrischer",
-            "Sonderling"
+            "vielbeschäftigter"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Was war das Letzte, worüber du geprahlt hast?",
-              "name": "Madonna in <i>Material Girl</i>",
-              "idx": 4
-            },
-            {
-              "role": 4,
-              "question": "Wovon hast du zuletzt geträumt?",
-              "name": "Madonna in <i>Like a Prayer</i>",
-              "idx": 7
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 1,
-              "question": "Madonna spielte Breathless.  Haltet die Luft so lange wie möglich an.",
-              "name": "Madonna in <i>Dick Tracy</i>",
-              "idx": 1
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -9947,31 +8896,13 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 0,
-              "question": "Madonnas Figur spielte in dem Film für die Rockford _____.",
-              "correct": "Peaches",
-              "name": "Madonna in <i>Eine Klasse für sich</i>",
-              "altSpellings": [
-                "peaches",
-                "the peaches",
-                "The Peaches",
-                "Rockford Peaches"
-              ],
-              "idx": 2
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "Madonna in <i>Susan... verzweifelt gesucht</i>",
+              "name": "<i>Disneys Große Pause</i>",
               "idx": 8,
               "tags": [
                 "verzweifelter",
-                "unberechenbarer"
+                "rebellischer"
               ]
             }
           ],
@@ -9979,69 +8910,69 @@
         }
       ],
       "id": 56266,
-      "category": "Madonna",
-      "prompt": "Welche Madonna seid ihr?"
+      "category": "Kinderserien von Disney",
+      "prompt": "Welche Kinderserie von Disney seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "“Du wirst glauben, dass ein Mann fliegen kann”",
+          "name": "“Möge die Macht mit dir sein.”",
           "required": false,
           "tags": [
-            "inspirativer",
-            "Kraftprotz"
+            "spiritueller",
+            "mächtiger",
+            "guter",
+            "Krieger"
           ]
         },
         {
-          "name": "“Habt Angst. Sehr viel Angst”",
+          "name": "\"Mein Name ist Bond, James Bond.\"",
           "required": false,
           "tags": [
-            "Feigling",
-            "unheimlicher",
-            "Bedenkenträger"
+            "geheimnisvoller",
+            "charmanter",
+            "unerschrockener"
           ]
         },
         {
-          "name": "“Sex. Klamotten. Beliebtheit. Was auch immer.”",
+          "name": "\"Houston, wir haben ein Problem.\"",
           "required": false,
           "tags": [
-            "Schwarm",
-            "stylisher"
+            "intelligenter",
+            "technikaffiner"
           ]
         },
         {
-          "name": "“Who ya gonna call?”",
+          "name": "\"Ich bin der König der Welt!\"",
           "required": false,
           "tags": [
-            "zuverlässiger",
-            "Unterstützer"
+            "romantischer",
+            "emotionaler",
+            "tragischer"
           ]
         },
         {
-          "name": "“Don’t get mad. Get everything.”",
+          "name": "\"E.T. nach Hause telefonieren.\"",
           "required": false,
           "tags": [
-            "Intrigant",
-            "rachsüchtiger"
+            "niedlicher",
+            "fremdartiger",
+            "friedlicher"
           ]
         },
         {
-          "name": "“Eine romantische Komödie. Mit Zombies.”",
+          "name": "\"Verkaufen sie mir diesen Stift!\"",
           "required": false,
           "tags": [
-            "blutiger",
-            "britisher",
-            "Witzbold",
-            "Romantiker",
-            "überraschender"
+            "manipulativer",
+            "geldgeiler",
+            "skrupelloser",
+            "Finanzier"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -10157,11 +9088,12 @@
         {
           "roles": [
             {
-              "name": "“Wer auch immer gewinnt, wir verlieren.”",
+              "name": "\"Ich bin nur eine Darmgrippe von meinem Traumgewicht entfernt.\"",
               "idx": 9,
               "tags": [
-                "aggressiver",
-                "Kämpfer"
+                "oberflächlicher",
+                "dünner",
+                "materialistischer"
               ]
             }
           ],
@@ -10175,156 +9107,78 @@
     {
       "roles": [
         {
-          "name": "“Ich bin ein Genie”",
+          "name": "Die unendliche Geschichte",
           "required": false,
           "tags": [
-            "kluger",
-            "Mastermind",
-            "smarter"
+            "grenzenloser",
+            "Träumer",
+            "belesener"
           ]
         },
         {
-          "name": "“Ich bin zu schön”",
+          "name": "Momo",
           "required": false,
           "tags": [
             "selbstbewusster",
-            "Ikonentyp",
+            "barfüßiger",
             "Model",
             "hübscher"
           ]
         },
         {
-          "name": "“Ich habe eine übernatürliche Gabe”",
+          "name": "Jim Knopf und Lukas der Lokomotivführer",
           "required": false,
           "tags": [
-            "Hellseher",
+            "reiselustiger",
             "unheimlicher"
           ]
         },
         {
-          "name": "“Ich führe ein Doppelleben”",
+          "name": "Der satanarchäolügenialkohöllische Wunschpunsch",
           "required": false,
           "tags": [
             "Intrigant",
-            "gewiefter"
-          ]
+            "gewiefter",
+            "boshafter"
+          ],
+          "short": "Der Wunschpunsch"
         },
         {
-          "name": "“Ich trete einer Kommune bei”",
+          "name": "Das Traumfresserchen",
           "required": false,
           "tags": [
-            "Hippie",
-            "Mitläufer",
-            "netzferner"
+            "hungriger",
+            "schlafloser"
           ]
         },
         {
-          "name": "“Ich bin ein erwachsenes Baby”",
-          "required": true,
+          "name": "Der Spiegel im Spiegel",
+          "required": false,
           "tags": [
-            "Säugling",
-            "unreifer",
-            "jugendlich wirkender"
+            "rätselhafter",
+            "philosophischer"
           ]
         }
       ],
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Wie heißt der Geist, der die ganze Zeit mit im Raum ist?",
-              "name": "“Ich habe eine übernatürliche Gabe”",
-              "idx": 0
-            },
-            {
-              "role": 1,
-              "question": "Welche Marke sollte dich als Social Media Botschafter einstellen?",
-              "name": "“Ich bin zu schön”",
-              "idx": 8
-            },
-            {
-              "role": 0,
-              "question": "In drei Wörtern: Was ist der Sinn des Lebens?",
-              "name": "“Ich bin ein Genie”",
-              "idx": 2
-            },
-            {
-              "role": 3,
-              "question": "Welche Arbeit hast du in deinem anderen Leben?",
-              "name": "“Ich führe ein Doppelleben”",
-              "idx": 4
-            },
-            {
-              "role": 4,
-              "question": "Beschreibe die Uniformen deiner Kommune.",
-              "name": "“Ich trete einer Kommune bei”",
-              "idx": 9
-            },
-            {
-              "role": 1,
-              "question": "Welche Marke sollte dich als Social Media Botschafter einstellen?",
-              "name": "“Ich bin zu schön”",
-              "idx": 8
-            },
-            {
-              "role": 4,
-              "question": "Beschreibe die Uniformen deiner Kommune.",
-              "name": "“Ich trete einer Kommune bei”",
-              "idx": 9
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Tätschel deinen Bauch und streichel deinen Kopf zur selben Zeit.",
-              "name": "“Ich führe ein Doppelleben”",
-              "idx": 3
-            }
-          ]
-        },
-        {
-          "id": "FightTiebreaker",
-          "prompts": [
-            {
-              "role": 5,
-              "question": "Wer weint, wenn er nicht bekommt, was er will?",
-              "name": "“Ich bin ein erwachsenes Baby”",
-              "idx": 6
-            },
-            {
-              "role": 2,
-              "question": "Wer wird am meisten von seiner Vergangenheit heimgesucht?",
-              "name": "“Ich habe eine übernatürliche Gabe”",
-              "idx": 7
-            }
-          ]
-        },
-        {
+          "id": "Consolation",
           "roles": [
             {
-              "name": "Eine <i>Singled Out</i> Episode",
-              "idx": 10,
+              "idx": 6,
+              "name": "Die Grauen Herren (aus Momo)",
               "tags": [
-                "Flirtprofi",
-                "sexier"
+                "Bürokrat",
+                "Raucher"
               ]
             }
-          ],
-          "id": "Consolation"
+          ]
         }
       ],
       "id": 56885,
-      "category": "MTV <i>True Life</i> Episoden",
-      "prompt": "Welche MTV <i>True Life</i> Episode ist jeder von euch?"
+      "category": "Romane von Michael Ende",
+      "prompt": "Welches Werk von Michael Ende repräsentiert jeden von euch am besten?"
     },
     {
       "roles": [
@@ -10333,9 +9187,7 @@
           "required": true,
           "tags": [
             "zuverlässiger",
-            "Anführer",
-            "Bedenkenträger",
-            "Held"
+            "Anführer"
           ]
         },
         {
@@ -10343,13 +9195,13 @@
           "required": true,
           "tags": [
             "Angeber",
-            "divaer",
+            "exzentrischer",
             "stylisher"
           ]
         },
         {
           "name": "Fozzie Bär",
-          "required": true,
+          "required": false,
           "tags": [
             "Dummbatz",
             "Kumpel",
@@ -10361,16 +9213,14 @@
           "required": false,
           "tags": [
             "nasaler",
-            "Alien",
             "mutiger",
             "Adrenalinjunkie"
           ]
         },
         {
           "name": "Tier",
-          "required": true,
+          "required": false,
           "tags": [
-            "Animal",
             "Unruhestifter",
             "wilder"
           ]
@@ -10388,14 +9238,11 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
               "role": 2,
-              "question": "Wer kann das beste Bärenwortspiel machen?",
+              "question": "Erzähle den flachesten Witz, den du kennst.",
               "name": "Fozzie Bär",
               "idx": 0
             },
@@ -10412,7 +9259,7 @@
           "prompts": [
             {
               "role": 0,
-              "question": "Mache dein bestes Kermit “Yaaayyy!”",
+              "question": "Mache dein bestes Kermit “Applaus, Applaus, Applaaaus!”",
               "name": "Kermit der Frosch",
               "idx": 1
             },
@@ -10447,12 +9294,11 @@
             {
               "role": 4,
               "question": "Welches Instrument spielt Tier?",
-              "correct": "Drums",
+              "correct": "Schlagzeug",
               "name": "Tier",
               "altSpellings": [
-                "drums",
-                "drum",
-                "Drum"
+                "Trommel",
+                "Trommeln"
               ],
               "idx": 3
             },
@@ -10492,86 +9338,71 @@
     {
       "roles": [
         {
-          "name": "Patriots",
+          "name": "Hamburger SV",
           "required": false,
           "tags": [
-            "patriotischer",
-            "Unterstützer"
+            "traditioneller",
+            "leidenschaftlicher",
+            "großer"
           ]
         },
         {
-          "name": "Saints",
+          "name": "Red Bull Leipzig",
           "required": false,
           "tags": [
-            "Engel",
-            "Träumer",
-            "ethischer",
-            "religiöser"
+            "reicher",
+            "oberflächlicher",
+            "unbeliebter"
           ]
         },
         {
-          "name": "Cowboys",
+          "name": "1. FC Heidenheim",
           "required": false,
           "tags": [
-            "Naturalist",
-            "Viehzüchter",
-            "Rebell",
-            "rustikaler"
+            "kleiner",
+            "sympatischer",
+            "unbekannter"
           ]
         },
         {
-          "name": "Packers",
+          "name": "Union Berlin",
           "required": false,
           "tags": [
-            "Blaumann",
-            "starker",
-            "Arbeiter"
+            "Arbeiter",
+            "rustikaler",
+            "ostdeutscher"
           ]
         },
         {
-          "name": "Browns",
+          "name": "Schalke 04",
           "required": false,
           "tags": [
-            "einfarbiger",
-            "unbeachteter",
-            "einfacher",
-            "Langweiler"
+            "riesiger",
+            "Malocher",
+            "traditioneller",
+            "alter"
           ]
         },
         {
-          "name": "Titans",
+          "name": "Elversberg",
           "required": false,
           "tags": [
-            "Kämpfer",
-            "massiver"
+            "kluger",
+            "Newcomer",
+            "emsiger"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 1,
-              "question": "Eine große Spinne läuft über deine Fensterbank. Was tust du dagegen?",
-              "name": "Saints",
-              "idx": 2
-            },
             {
               "role": 3,
               "question": "Sie sind ein stolzes, eingetragenes Mitglied einer Gewerkschaft. Welcher Gewerkschaft?",
               "name": "Packers",
               "idx": 4
-            },
-            {
-              "role": 4,
-              "question": "Beschreibe die Vorzüge der Farbe Braun.",
-              "name": "Browns",
-              "idx": 5
             }
           ]
         },
@@ -10635,12 +9466,12 @@
         {
           "roles": [
             {
-              "name": "Raiders",
-              "idx": 0,
+              "idx": 11,
+              "name": "Tasmania Berlin",
               "tags": [
-                "destruktiver",
-                "Dieb",
-                "Bösewicht"
+                "berüchtigter",
+                "verlorener",
+                "schlechter"
               ]
             }
           ],
@@ -10648,91 +9479,64 @@
         }
       ],
       "id": 56280,
-      "category": "NFL Teams",
-      "prompt": "Welches NFL-Team passt am besten zu jedem von euch?"
+      "category": "Bundesliga-Teams",
+      "prompt": "Welches Bundesliga Team passt am besten zu euch?"
     },
     {
       "roles": [
         {
-          "name": "<i>Hier & Jetzt</i>",
+          "name": "ungespielt",
           "required": false,
           "tags": [
-            "aufmerksamer",
-            "Teilnehmer"
+            "veganer",
+            "Immobilienbesitzer"
           ]
         },
         {
-          "name": "<i>der Planet Geld</i>",
+          "name": "Gronkh",
           "required": false,
           "tags": [
-            "Unternehmer",
-            "wohlhabender"
+            "alter",
+            "Onkel"
           ]
         },
         {
-          "name": "<i>Frische Luft</i>",
+          "name": "Paluten",
           "required": false,
           "tags": [
-            "luftiger",
-            "Freigeist",
-            "natürlicher"
+            "netter",
+            "Projektleiter"
           ]
         },
         {
-          "name": "<i>Happy Hour der Popkultur</i>",
+          "name": "GermanLetsPlay",
           "required": false,
           "tags": [
-            "Amüsant",
+            "amüsanter",
             "lustiger",
-            "Party Typ"
+            "Party-Typ"
           ]
         },
         {
-          "name": "<i>Verborgenes Gehirn</i>",
+          "name": "TheJoCraft",
           "required": false,
           "tags": [
             "kluger",
-            "verdeckter",
-            "Genie"
+            "intelligenter",
+            "Nerd"
           ]
         },
         {
-          "name": "<i>Warte warte...Nicht verraten!</i>",
+          "name": "GommeHD",
           "required": false,
           "tags": [
-            "Klatschmaul",
-            "vergesslicher"
+            "bekannter",
+            "versierter"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 1,
-              "question": "Wenn es den Planeten Geld wirklich geben würde, wie würde sein Mond heißen?",
-              "name": "<i>der Planet Geld</i>",
-              "idx": 1
-            },
-            {
-              "role": 3,
-              "question": "Was wäre ein großartiger Fernsehsendungsbezogener Cocktail?",
-              "name": "<i>Happy Hour der Popkultur</i>",
-              "idx": 3
-            },
-            {
-              "role": 4,
-              "question": "Wo ist der beste Ort, um ein Gehirn zu verstecken?",
-              "name": "<i>Verborgenes Gehirn</i>",
-              "idx": 5
-            }
-          ]
-        },
         {
           "id": "MethodAct",
           "prompts": [
@@ -10768,40 +9572,13 @@
           ]
         },
         {
-          "id": "Split",
-          "prompts": [
-            {
-              "role": 5,
-              "question": "Wer ist “sagt es mir nicht, weil ich es nicht wissen will” und wer ist “sagt es mir nicht, weil ich es bereits weiß”?",
-              "roles": [
-                {
-                  "name": "Warte Warte, Ich will es gar nicht wissen",
-                  "tags": [
-                    "Zuschauer",
-                    "ratloser"
-                  ]
-                },
-                {
-                  "name": "Warte Warte, Ich weiß es schon",
-                  "tags": [
-                    "Klatschmaul",
-                    "Omnipotent"
-                  ]
-                }
-              ],
-              "name": "<i>Warte warte...Nicht verraten!</i>",
-              "idx": 7
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "die jährliche Spendenaktion",
+              "name": "BastiGHG",
               "idx": 8,
               "tags": [
-                "Charmeur",
-                "bedürftiger"
+                "Herausforderer",
+                "duellfreudiger"
               ]
             }
           ],
@@ -10809,8 +9586,8 @@
         }
       ],
       "id": 56563,
-      "category": "Radio Sendungen",
-      "prompt": "Welche Radiosendung passt am besten zu euch?"
+      "category": "Deutsche Minecraft-YouTuber",
+      "prompt": "Welcher deutscher Minecraft-Youtuber bist du?"
     },
     {
       "roles": [
@@ -10869,9 +9646,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -10946,18 +9720,16 @@
       ],
       "id": 56729,
       "category": "Olympische Sommer-Sportarten",
-      "prompt": "Welche Olympische Sommer-Sportart seid ihr?"
+      "prompt": "Welche olympische Sommersportart seid ihr?"
     },
     {
       "roles": [
         {
-          "name": "Jimdo",
+          "name": "NordVPN",
           "required": false,
           "tags": [
-            "Künstler",
-            "kreativer",
-            "Unternehmer",
-            "Langweiler"
+            "abgesicherter",
+            "Hacker"
           ]
         },
         {
@@ -10980,19 +9752,19 @@
         },
         {
           "name": "Audible",
-          "required": true,
+          "required": false,
           "tags": [
             "kultivierter",
             "Leser"
           ]
         },
         {
-          "name": "Lieferando",
-          "required": false,
+          "name": "Holy",
+          "required": true,
           "tags": [
             "kulinarischer",
             "Feinschmecker",
-            "hungriger"
+            "durstiger"
           ]
         },
         {
@@ -11008,9 +9780,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -11047,17 +9816,16 @@
           "tags": [
             "niedlicher",
             "Detektiv",
-            "energischer",
-            "Kumpel"
+            "energischer"
           ]
         },
         {
-          "name": "kleiner Drache",
+          "name": "Aufgeblasenes Kaugummi auf einem Stein",
           "required": false,
           "tags": [
-            "Unmensch",
+            "klebriger",
             "destruktiver",
-            "feuriger"
+            "Unruhestifter"
           ]
         },
         {
@@ -11065,15 +9833,16 @@
           "required": false,
           "tags": [
             "Hippie",
-            "stylisher"
+            "hübscher"
           ]
         },
         {
-          "name": "sprechende kriminelle Katze",
+          "name": "Sprechende, kriminelle Katze",
           "required": false,
           "tags": [
             "Intrigant",
-            "Unruhestifter"
+            "redseliger",
+            "geldgieriger"
           ]
         },
         {
@@ -11085,20 +9854,17 @@
           ]
         },
         {
-          "name": "nutzloser Fisch",
+          "name": "Hüpfender Fisch",
           "required": false,
           "tags": [
             "ungeschickter",
-            "demütiger",
-            "Naturliebhaber"
+            "zappelnder",
+            "Nichtskönner"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -11109,33 +9875,10 @@
               "idx": 7
             },
             {
-              "role": 4,
-              "question": "Welches Lied würdest du singen, um jemanden in Schlaf zu versetzen?",
-              "name": "singender Marshmallow",
-              "idx": 4
-            },
-            {
-              "role": 2,
-              "question": "Welcher berühmte Verbrecher hat deiner Meinung nach Hunde gehasst und Katzen geliebt?",
-              "name": "teils Eidechse/teils Blume",
-              "idx": 6
-            },
-            {
               "role": 0,
               "question": "Was für ein Geschäft mit dem Namen “Elektrische Maus” würdest Du  eröffnen?",
               "name": "elektrische Maus",
               "idx": 7
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 3,
-              "question": "Gib uns dein bestes finsteres Miauen!",
-              "name": "sprechende kriminelle Katze",
-              "idx": 2
             }
           ]
         },
@@ -11157,26 +9900,9 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 1,
-              "question": "Du musst noch viel lernen, um erwachsen zu werden....was ist Glumandas letzte Entwicklung?",
-              "correct": "Glurak",
-              "name": "kleiner Drache",
-              "altSpellings": [
-                "glurak",
-                "Glurack",
-                "glurack"
-              ],
-              "idx": 5
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "der teure",
+              "name": "Taube, die Frisör-Stammgast ist",
               "idx": 8,
               "tags": [
                 "Aristokrat",
@@ -11188,75 +9914,68 @@
         }
       ],
       "id": 57026,
-      "category": "Pokémon (gemäss meinem Vater)",
+      "category": "<i>Pokémon</i> (gemäß meinem Vater)",
       "prompt": "Welche dieser vagen Beschreibungen von Pokémon beschreibt auch euch?"
     },
     {
       "roles": [
         {
           "name": "<i>Der Bachelor</i>",
-          "required": true,
+          "required": false,
           "tags": [
             "Romantiker",
-            "Schwarm",
-            "liebender"
+            "liebender",
+            "polygamer"
           ]
         },
         {
-          "name": "<i>Survivor</i>",
+          "name": "<i>LOL: Last One Laughing</i>",
           "required": false,
           "tags": [
-            "mutiger",
-            "exotischer",
-            "starker",
-            "Überlebender"
+            "lustiger",
+            "kreativer",
+            "Spaßvogel"
           ]
         },
         {
           "name": "<i>Das große Backen</i>",
-          "required": true,
+          "required": false,
           "tags": [
-            "gemütlicher",
-            "Feinschmecker",
-            "nicer",
-            "softer"
+            "multitaskingfähiger",
+            "strukturierter",
+            "genießerischer"
           ]
         },
         {
-          "name": "<i>Real Housewives </i>",
+          "name": "<i>Germany's Next Topmodel</i>",
           "required": false,
           "tags": [
-            "dramatischer",
-            "lauter",
-            "unhöflicher",
-            "Partylöwe",
-            "wohlhabender"
+            "modebewusster",
+            "attraktiver",
+            "ehrgeiziger"
           ]
         },
         {
           "name": "<i>Die Höhle der Löwen</i>",
-          "required": true,
+          "required": false,
           "tags": [
             "geschäftlicher",
             "erfinderischer",
-            "Fachmann"
+            "überzeugender"
           ]
         },
         {
-          "name": "<i>Kleinkinder & Krönchen</i>",
+          "name": "<i>Promis unter Palmen</i>",
           "required": false,
           "tags": [
-            "Säugling",
-            "Tänzer",
-            "Schmierenschauspieler"
+            "wichtigtuerischer",
+            "extrovertierter",
+            "Performer"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -11268,15 +9987,15 @@
             },
             {
               "role": 2,
-              "question": "Welches Gericht könntest du aus den Sachen in diesem Raum zubereiten?",
+              "question": "Willkommen bei <i>Das große Backen</i>. Das Thema dieser Runde ist <i>Natur</i>. Kandidaten, bitte nennt euer Backwerk.",
               "name": "<i>Das große Backen</i>",
-              "idx": 7
+              "idx": 2
             },
             {
               "role": 2,
-              "question": "Welches Gericht könntest du aus den Sachen in diesem Raum zubereiten?",
+              "question": "Willkommen bei <i>Das große Backen</i>. Das Thema dieser Runde ist <i>Natur</i>. Kandidaten, bitte nennt euer Backwerk.",
               "name": "<i>Das große Backen</i>",
-              "idx": 7
+              "idx": 2
             }
           ]
         },
@@ -11344,21 +10063,20 @@
             },
             {
               "role": 2,
-              "question": "Wer ist Bettina Schliephake-Burchardt und wer ist Christian Hümbs?",
+              "question": "Wer schafft es bei <i>Das große Backen</i> bis ins Finale und wer scheidet in der ersten Runde sang und klanglos aus?",
               "roles": [
                 {
-                  "name": "Bettina Schliephake-Burchardt",
+                  "name": "Finale",
                   "tags": [
-                    "Opa",
-                    "smarter",
-                    "süßer"
+                    "fähiger",
+                    "kreativer"
                   ]
                 },
                 {
-                  "name": "Christian Hümbs",
+                  "name": "erste Runde",
                   "tags": [
-                    "Küchenchef",
-                    "eingebildeter"
+                    "unfähiger",
+                    "Tollpatsch"
                   ]
                 }
               ],
@@ -11370,12 +10088,14 @@
         {
           "roles": [
             {
-              "name": "<i>Adam & Eva</i>",
+              "name": "<i>Ich bin ein Star - Holt mich hier raus!</i>",
               "idx": 9,
               "tags": [
-                "Exhibitionist",
-                "nackter"
-              ]
+                "schmerzbefreiter",
+                "zickiger",
+                "emotionaler"
+              ],
+              "short": "<i>Dschungelcamp</i>"
             }
           ],
           "id": "Consolation"
@@ -11383,7 +10103,7 @@
       ],
       "id": 56128,
       "category": "Reality Shows",
-      "prompt": "Welche Realityshow passt am besten zu jedem von euch?"
+      "prompt": "Welche Realityshow passt am besten zu euch?"
     },
     {
       "roles": [
@@ -11428,8 +10148,7 @@
           "required": false,
           "tags": [
             "dummer",
-            "Dummbatz",
-            "Maskottchen-Träger"
+            "Dummbatz"
           ]
         },
         {
@@ -11446,9 +10165,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -11494,7 +10210,7 @@
             },
             {
               "role": 5,
-              "question": "Wen würdest du dich eher operieren lassen?",
+              "question": "Von wem würdest du dich eher bekochen lassen?",
               "name": "Küchenchef",
               "idx": 6
             }
@@ -11543,8 +10259,9 @@
           "name": "“Sein oder nicht-Sein?”",
           "required": true,
           "tags": [
-            "Bedenkenträger",
-            "launischer"
+            "bedachter",
+            "launischer",
+            "Philosoph"
           ]
         },
         {
@@ -11558,7 +10275,7 @@
         },
         {
           "name": "“Die ganze Welt ist eine Bühne”",
-          "required": true,
+          "required": false,
           "tags": [
             "künstlerischer",
             "Angeber"
@@ -11566,7 +10283,7 @@
         },
         {
           "name": "“in der Kürze liegt die Würze”",
-          "required": false,
+          "required": true,
           "tags": [
             "Introvertierter",
             "ruhiger",
@@ -11577,19 +10294,18 @@
           "name": "“Jetzt ist der Winter meiner Erniedrigung”",
           "required": false,
           "tags": [
-            "extraer",
+            "großspuriger",
             "Griesgram",
-            "verlorener",
-            "ausgenutzter"
+            "verlorener"
           ]
         },
         {
           "name": "“Schurke, ich habe es mit deiner Mutter getrieben!”",
           "required": true,
           "tags": [
-            "Prahlhans",
+            "verführerischer",
             "selbstbewusster",
-            "Flirtprofi",
+            "Angeber",
             "spitzzüngiger"
           ]
         }
@@ -11597,20 +10313,17 @@
       "x": true,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
               "role": 0,
-              "question": "Was würde der Geist deines Vaters dich wahrscheinlich bitten, zu tun?",
+              "question": "Was würde der Geist deines Vaters dich wahrscheinlich bitten zu tun?",
               "name": "“Sein oder nicht-Sein?”",
               "idx": 0
             },
             {
               "role": 5,
-              "question": "Beende diese Beleidigung, “Deine Mutter ist so shakespearesk....”",
+              "question": "Vervollständige diese Beleidigung: \"Deine Mutter hat...\"",
               "name": "“Schurke, ich habe es mit deiner Mutter getrieben!”",
               "idx": 5
             }
@@ -11621,7 +10334,7 @@
           "prompts": [
             {
               "role": 2,
-              "question": "Wenn die ganze Welt eine Bühne ist, dann spring auf und führe uns jetzt etwas vor.",
+              "question": "Wenn die ganze Welt eine Bühne ist, dann spring auf oder erhebe deine Stimme und führe uns jetzt etwas vor.",
               "name": "“Die ganze Welt ist eine Bühne”",
               "idx": 2
             }
@@ -11679,16 +10392,16 @@
               "question": "Wer schweigt, weil er vorsichtig ist, und wer hat nichts zu sagen?",
               "roles": [
                 {
-                  "name": "Kürze ist umsichtig",
+                  "name": "Vorsichtiger",
                   "tags": [
-                    "Intrigant",
-                    "smarter"
+                    "umsichtiger",
+                    "kluger"
                   ]
                 },
                 {
-                  "name": "Brevity ist die einzige Möglichkeit",
+                  "name": "Sprachloser",
                   "tags": [
-                    "Introvertierter",
+                    "introvertierter",
                     "ruhiger"
                   ]
                 }
@@ -11704,9 +10417,9 @@
               "name": "“Hallo, ich bin William Shakespeare.”",
               "idx": 6,
               "tags": [
-                "netter",
+                "freundlicher",
                 "Künstler",
-                "Realist"
+                "redegewandter"
               ]
             }
           ],
@@ -11720,79 +10433,65 @@
     {
       "roles": [
         {
-          "name": "<i>Scandal</i>",
+          "name": "Spongebob",
           "required": true,
           "tags": [
-            "extraer",
-            "Klatschmaul",
-            "empfindlicher"
+            "fleißiger",
+            "liebevoller",
+            "Kindskopf"
           ]
         },
         {
-          "name": "<i>Grey’s Anatomy</i>",
-          "required": true,
-          "tags": [
-            "Akademiker",
-            "Romantiker",
-            "smarter"
-          ]
-        },
-        {
-          "name": "<i>Off the Map</i>",
+          "name": "Patrick",
           "required": false,
           "tags": [
-            "verlorener",
-            "mysteriöser",
-            "Entdecker"
+            "tollpatschiger",
+            "bescheidener",
+            "Dummkopf"
           ]
         },
         {
-          "name": "<i>How to Get Away with Murder</i>",
+          "name": "Thaddäus",
           "required": false,
           "tags": [
-            "Intrigant",
-            "gewalttätiger"
+            "grießgrämiger",
+            "genervter",
+            "Möchtegern-Musiker"
           ]
         },
         {
-          "name": "<i>The Catch</i>",
+          "name": "Mr. Krabs",
           "required": false,
           "tags": [
-            "Schwarm",
-            "Adrenalinjunkie"
+            "sparsamer",
+            "reicher",
+            "Sparfuchs"
           ]
         },
         {
-          "name": "<i>The Princess Diaries 2: Royal Engagement</i>",
-          "short": "<i>Princess Diaries 2</i>",
-          "required": true,
+          "name": "Sandy",
+          "required": false,
           "tags": [
-            "niedlicher",
-            "Monarch",
-            "königlicher"
+            "kluger",
+            "intelligenter",
+            "Supergenius"
+          ]
+        },
+        {
+          "name": "Plankton",
+          "required": false,
+          "tags": [
+            "böser",
+            "kleinwüchsiger",
+            "Neider"
           ]
         }
       ],
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
-            {
-              "role": 0,
-              "question": "Mit welchem Politiker würdest du eine heiße und skandalöse geheime Affäre haben wollen?",
-              "name": "<i>Scandal</i>",
-              "idx": 7
-            },
-            {
-              "role": 0,
-              "question": "Mit welchem Politiker würdest du eine heiße und skandalöse geheime Affäre haben wollen?",
-              "name": "<i>Scandal</i>",
-              "idx": 7
-            },
             {
               "role": 5,
               "question": "In welchem Land bist du wahrscheinlich der geheime Herrscher?",
@@ -11802,43 +10501,8 @@
           ]
         },
         {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 1,
-              "question": "Wer kann zuerst auf sein Uvulum zeigen?",
-              "name": "<i>Grey’s Anatomy</i>",
-              "idx": 1
-            },
-            {
-              "role": 5,
-              "question": "Zitiere deine Lieblingszeile aus <i>The Princess Diaries 2</i>. (Oder eine Zeile, die darin enthalten sein sollte.)",
-              "name": "<i>The Princess Diaries 2: Royal Engagement</i>",
-              "idx": 5
-            }
-          ]
-        },
-        {
           "id": "FightTiebreaker",
           "prompts": [
-            {
-              "role": 2,
-              "question": "Wer verirrt sich am ehesten auf einer langen Autofahrt?",
-              "name": "<i>Off the Map</i>",
-              "idx": 0
-            },
-            {
-              "role": 4,
-              "question": "Wer wird am ehesten einen Hail Marry Pass fangen?",
-              "name": "<i>The Catch</i>",
-              "idx": 3
-            },
-            {
-              "role": 3,
-              "question": "Mit welcher ungewöhnlichen Waffe würdest du einen Mord begehen... theoretisch...",
-              "name": "<i>How to Get Away with Murder</i>",
-              "idx": 4
-            },
             {
               "role": 1,
               "question": "Wer kann am besten schlechte Nachrichten überbringen?",
@@ -11848,30 +10512,14 @@
           ]
         },
         {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "Wie viele Staffeln <i>Off the Map</i> wurden ausgestrahlt?",
-              "correct": "eine",
-              "name": "<i>Off the Map</i>",
-              "altSpellings": [
-                "1",
-                "eins"
-              ],
-              "idx": 6
-            }
-          ]
-        },
-        {
           "roles": [
             {
-              "name": "Britney Spears’ <i>Crossroads</i>",
+              "name": "Gary",
               "idx": 10,
               "tags": [
-                "vergessener",
-                "Chaot",
-                "unbeachteter"
+                "zurückgelehnter",
+                "ruhiger",
+                "Beobachter"
               ]
             }
           ],
@@ -11879,67 +10527,65 @@
         }
       ],
       "id": 56601,
-      "category": "Shonda Rhimes Projekte",
-      "prompt": "Welches Shonda Rhimes Prjoekt seid ihr?"
+      "category": "Spongebob",
+      "prompt": "Welcher Spongebob-Charakter bist du?"
     },
     {
       "roles": [
         {
           "name": "Facebook",
-          "required": true,
+          "required": false,
           "tags": [
-            "netter",
-            "Spion"
+            "spionierender",
+            "veralteter",
+            "Boomer"
           ]
         },
         {
-          "name": "Twitter",
-          "required": true,
+          "name": "X (vormals Twitter)",
+          "required": false,
           "tags": [
-            "Kämpfer",
-            "melodramatischer",
-            "spitzzüngiger"
+            "politischer",
+            "dramatischer",
+            "aufbrausender"
           ]
         },
         {
           "name": "Instagram",
-          "required": true,
+          "required": false,
           "tags": [
-            "extraer",
+            "exzentrischer",
             "Influencer"
           ]
         },
         {
-          "name": "Pinterest",
+          "name": "Linked In",
           "required": false,
           "tags": [
-            "künstlerischer",
-            "Baumeister"
+            "professioneller",
+            "lösungsorientierter"
           ]
         },
         {
           "name": "Snapchat",
-          "required": true,
+          "required": false,
           "tags": [
-            "vorsichtiger",
-            "mysteriöser",
-            "Geist"
+            "vergänglicher",
+            "authentischer",
+            "mitteilungsbedürftiger"
           ]
         },
         {
           "name": "Reddit",
           "required": false,
           "tags": [
-            "Chaot",
-            "pedantischer"
+            "professioneller",
+            "lösungsorientierter"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -11974,7 +10620,7 @@
             },
             {
               "role": 4,
-              "question": "Wer geistert am ehesten auf einer Party herum?",
+              "question": "Wer muss immer alles was er tut mit anderen teilen?",
               "name": "Snapchat",
               "idx": 5
             },
@@ -11992,16 +10638,17 @@
               "name": "MySpace",
               "idx": 0,
               "tags": [
-                "Ältester",
-                "unbeachteter"
+                "alter",
+                "unbeachteter",
+                "verlorener"
               ]
             },
             {
-              "name": "YouTube comments",
+              "name": "YouTube Kommentare",
               "idx": 7,
               "tags": [
-                "lästiger",
-                "Kämpfer"
+                "hasserfüllter",
+                "betrügerischer"
               ]
             }
           ],
@@ -12010,7 +10657,7 @@
       ],
       "id": 56117,
       "category": "Soziale Medien",
-      "prompt": "Welches Soziale Netzwerk passt am besten zu jedem von euch?"
+      "prompt": "Welches Soziale Netzwerk passt am besten zu euch?"
     },
     {
       "roles": [
@@ -12029,7 +10676,6 @@
           "required": true,
           "tags": [
             "aggressiver",
-            "badasser",
             "direkter",
             "unheimlicher"
           ]
@@ -12048,7 +10694,6 @@
           "tags": [
             "energischer",
             "rothaariger",
-            "sprudelnder",
             "unberechenbarer"
           ]
         },
@@ -12058,7 +10703,6 @@
           "tags": [
             "kindlicher",
             "niedlicher",
-            "Zopfträger",
             "Scherzkeks"
           ]
         },
@@ -12067,18 +10711,14 @@
           "short": "der Busfahrer",
           "required": false,
           "tags": [
-            "Blaumann",
             "schroffer",
-            "glücksbegünstigter",
+            "glücklicher",
             "Arbeiter"
           ]
         }
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -12167,7 +10807,8 @@
               "idx": 11,
               "tags": [
                 "Freigeist",
-                "vielseitiger"
+                "vielseitiger",
+                "duftender"
               ]
             }
           ],
@@ -12181,93 +10822,59 @@
     {
       "roles": [
         {
-          "name": "John Mayer",
-          "short": "Mayer",
+          "name": "Das verrückte Labyrinth",
           "required": false,
           "tags": [
-            "künstlerischer",
-            "Poet"
+            "spontan",
+            "anpassungsfähig",
+            "Pragmatiker"
           ]
         },
         {
-          "name": "Tom Hiddleston",
-          "short": "Hiddleston",
+          "name": "Schach",
           "required": false,
           "tags": [
-            "divaer",
-            "mysteriöser"
+            "Taktiker",
+            "kluger",
+            "intelligenter"
           ]
         },
         {
-          "name": "Harry Styles",
-          "short": "Styles",
+          "name": "Monopoly",
           "required": false,
           "tags": [
-            "kindlicher",
-            "Partygänger"
+            "reicher",
+            "Immobilienbesitzer"
           ]
         },
         {
-          "name": "Jake Gyllenhaal",
-          "short": "Gyllenhaal",
+          "name": "Risiko",
           "required": false,
           "tags": [
-            "Freigeist",
-            "empfindlicher"
+            "konfliktfreudiger",
+            "Militarist"
           ]
         },
         {
-          "name": "Joe Jonas",
-          "short": "Jonas",
+          "name": "Cluedo",
           "required": false,
           "tags": [
-            "Dummbatz",
-            "frecher"
+            "Detektiv",
+            "Spürnase",
+            "empathischer"
           ]
         },
         {
-          "name": "Taylor Lautner",
-          "short": "Lautner",
+          "name": "Siedler von Catan",
           "required": false,
           "tags": [
-            "langweiliger",
-            "Schwarm"
+            "handelsfreudiger",
+            "Händler"
           ]
         }
       ],
-      "x": true,
+      "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
-        {
-          "id": "GetInCharacter",
-          "prompts": [
-            {
-              "role": 4,
-              "question": "Was wäre ein besserer Name für die Band der Jonas Brothers gewesen?",
-              "name": "Joe Jonas",
-              "idx": 4
-            },
-            {
-              "role": 2,
-              "question": "What makes you beautiful/  Was macht dich schön?",
-              "name": "Harry Styles",
-              "idx": 6
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 5,
-              "question": "Gib uns dein bestes Werwolfgeheul!",
-              "name": "Taylor Lautner",
-              "idx": 3
-            }
-          ]
-        },
         {
           "id": "FightTiebreaker",
           "prompts": [
@@ -12288,39 +10895,18 @@
               "question": "Wer würde am besten mit tiefschwarzem Haar aussehen, das mit viel Haarpflegemittel eingeölt ist?",
               "name": "Tom Hiddleston",
               "idx": 1
-            },
-            {
-              "role": 5,
-              "question": "Wer würde sich an einem FKK-Strand am wohlsten fühlen?",
-              "name": "Taylor Lautner",
-              "idx": 8
-            }
-          ]
-        },
-        {
-          "id": "Trivia",
-          "prompts": [
-            {
-              "role": 2,
-              "question": "In welcher Band war der 16-jährige Harry Styles Mitglied?",
-              "correct": "One Direction",
-              "name": "Harry Styles",
-              "altSpellings": [
-                "1 Direction",
-                "one direction"
-              ],
-              "idx": 2
             }
           ]
         },
         {
           "roles": [
             {
-              "name": "dieses eine Kennedy-Kind, mit dem sie ausgegangen ist",
+              "name": "Mensch ärgere Dich nicht",
               "idx": 7,
               "tags": [
-                "leicht vergesslicher",
-                "Planer"
+                "ruhiger",
+                "gelassener",
+                "Geduldiger"
               ]
             }
           ],
@@ -12328,8 +10914,8 @@
         }
       ],
       "id": 56229,
-      "category": "Taylor Swift Exes",
-      "prompt": "Welcher ehemalige Freund von Taylor Swift passt am besten zu jedem von euch?"
+      "category": "Brettspiele",
+      "prompt": "Welches Brettspiel seid ihr?"
     },
     {
       "roles": [
@@ -12367,7 +10953,7 @@
           "required": true,
           "tags": [
             "oranger",
-            "Party Typ",
+            "Party-Typ",
             "radikaler"
           ]
         },
@@ -12392,9 +10978,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -12511,7 +11094,7 @@
             "Schwarm",
             "Held",
             "magischer",
-            "Party Typ",
+            "Party-Typ",
             "ausgenutzter"
           ]
         },
@@ -12528,9 +11111,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -12633,7 +11213,7 @@
                   "name": "langhaariger Thor",
                   "tags": [
                     "Schwarm",
-                    "sexier"
+                    "sexy"
                   ]
                 },
                 {
@@ -12666,7 +11246,7 @@
       ],
       "id": 56282,
       "category": "Die Avengers",
-      "prompt": "Welches Mitgleid der Avengers passt am besten zu euch?"
+      "prompt": "Welches Mitglied der Avengers passt am besten zu euch?"
     },
     {
       "roles": [
@@ -12727,9 +11307,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -12840,7 +11417,6 @@
           "required": true,
           "tags": [
             "zuverlässiger",
-            "Alien",
             "ethischer",
             "netter",
             "Held",
@@ -12853,28 +11429,26 @@
           "tags": [
             "mutiger",
             "Detektiv",
-            "grimmiger",
+            "reicher",
             "mürrischer",
-            "Held",
-            "Planer"
+            "Held"
           ]
         },
         {
           "name": "Wonder Woman",
-          "required": true,
+          "required": false,
           "tags": [
             "Krieger",
             "ethischer",
             "Held",
-            "elterlicher",
             "starker"
           ]
         },
         {
           "name": "The Flash",
-          "required": false,
+          "required": true,
           "tags": [
-            "Draufgänger",
+            "intelligenter",
             "schneller",
             "Held",
             "sprücheklopfender"
@@ -12882,17 +11456,16 @@
         },
         {
           "name": "Green Lantern",
-          "required": false,
+          "required": true,
           "tags": [
             "künstlerischer",
             "kreativer",
-            "Held",
-            "Poet"
+            "Held"
           ]
         },
         {
           "name": "Aquaman",
-          "required": true,
+          "required": false,
           "tags": [
             "Held",
             "Sonderling",
@@ -12902,9 +11475,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -12925,12 +11495,6 @@
         {
           "id": "MethodAct",
           "prompts": [
-            {
-              "role": 3,
-              "question": "Renne eine Runde durch den Raum, so schnell Sie können.",
-              "name": "The Flash",
-              "idx": 4
-            },
             {
               "role": 5,
               "question": "Zeige uns, wie sich die Fischsprache anhört.",
@@ -12959,10 +11523,10 @@
         {
           "roles": [
             {
+              "idx": 7,
               "name": "Elastoman",
-              "idx": 0,
               "tags": [
-                "Dummbatz",
+                "dummer",
                 "Held",
                 "dehnbarer"
               ]
@@ -12973,7 +11537,7 @@
       ],
       "id": 56180,
       "category": "The Justice League",
-      "prompt": "Welches Mitgleid der Justice League passt am besten zu jedem von euch?"
+      "prompt": "Welches Mitglied der Justice League passt am besten zu euch?"
     },
     {
       "roles": [
@@ -13038,9 +11602,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -13116,22 +11677,6 @@
             {
               "role": 0,
               "question": "Wer ist in den Schokoladenfluss gefallen, weil er hungrig war, und wer ist nur ungeschickt?",
-              "roles": [
-                {
-                  "name": "sprang aus Hunger",
-                  "tags": [
-                    "hungriger",
-                    "Schatz"
-                  ]
-                },
-                {
-                  "name": "nur ungeschickt",
-                  "tags": [
-                    "Stümper",
-                    "dummer"
-                  ]
-                }
-              ],
               "name": "in eine Schokoladenröhre gesaugt werden.",
               "idx": 7
             }
@@ -13154,7 +11699,7 @@
       ],
       "id": 56605,
       "category": "<i> Charlie & die Schokoladenfabrik</i>",
-      "prompt": "Wer wärt ihr in <i>Charlie & die Schokoladenfabrik</i>"
+      "prompt": "Wer wärt ihr in <i>Charlie & die Schokoladenfabrik</i>?"
     },
     {
       "roles": [
@@ -13214,9 +11759,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -13286,23 +11828,6 @@
             {
               "role": 4,
               "question": "Wer strahlt nur Selbstvertrauen aus?",
-              "roles": [
-                {
-                  "name": "schlaue Eule",
-                  "tags": [
-                    "smarter",
-                    "Lehrer",
-                    "weiser"
-                  ]
-                },
-                {
-                  "name": "selbstbewusste Eule",
-                  "tags": [
-                    "selbstbewusster",
-                    "Angeber"
-                  ]
-                }
-              ],
               "name": "Eule",
               "idx": 1
             }
@@ -13329,7 +11854,7 @@
     {
       "roles": [
         {
-          "name": "Vaas Montenegro <i>(Far Cry 3)</i>",
+          "name": "Vaas Montenegro (<i>Far Cry 3</i>)",
           "required": false,
           "tags": [
             "wahnsinniger",
@@ -13338,7 +11863,7 @@
           ]
         },
         {
-          "name": "Handsome Jack <i>(Borderlands 2)</i>",
+          "name": "Handsome Jack (<i>Borderlands 2</i>)",
           "required": false,
           "tags": [
             "hübscher",
@@ -13347,7 +11872,7 @@
           ]
         },
         {
-          "name": "Bowser <i>(Super-Mario-Franchise)</i>",
+          "name": "Bowser (<i>Super Mario</i>)",
           "required": false,
           "tags": [
             "langweiliger",
@@ -13356,7 +11881,7 @@
           ]
         },
         {
-          "name": "GLaDOS <i>(Portal)</i>",
+          "name": "GLaDOS (<i>Portal</i>)",
           "required": false,
           "tags": [
             "Stratege",
@@ -13365,7 +11890,7 @@
           ]
         },
         {
-          "name": "Diablo <i>(Diablo)</i>",
+          "name": "Diablo (<i>Diablo</i>)",
           "required": false,
           "tags": [
             "zerstörerischer",
@@ -13373,7 +11898,7 @@
           ]
         },
         {
-          "name": "Sephiroth <i>(Final Fantasy 7)</i>",
+          "name": "Sephiroth (<i>Final Fantasy 7</i>)",
           "required": false,
           "tags": [
             "außergewöhnlicher",
@@ -13384,9 +11909,6 @@
       ],
       "x": false,
       "reveals": [
-        {
-          "id": "standard"
-        },
         {
           "id": "GetInCharacter",
           "prompts": [
@@ -13401,17 +11923,6 @@
               "question": "Was ist das schärfste Werkzeug, das man in einem Theorieschuppen finden kann?",
               "name": "“I ain’t the sharpest tool in the shed”",
               "idx": 5
-            }
-          ]
-        },
-        {
-          "id": "MethodAct",
-          "prompts": [
-            {
-              "role": 5,
-              "question": "Wer kann am besten pfeifen?",
-              "name": "(Pfeif-Solo)",
-              "idx": 0
             }
           ]
         },
@@ -13474,7 +11985,7 @@
         {
           "roles": [
             {
-              "name": "Purpur-Tentakel <i>(Day of the Tentacle)</i>",
+              "name": "Purpur-Tentakel (<i>Day of the Tentacle</i>)",
               "idx": 6,
               "tags": [
                 "kluger",
@@ -13544,9 +12055,6 @@
       "x": false,
       "reveals": [
         {
-          "id": "standard"
-        },
-        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -13608,7 +12116,7 @@
       ],
       "id": 57785,
       "category": "<i>Pokémon</i>-Typen",
-      "prompt": "Welcher <i>Pokémon</i> seid ihr?"
+      "prompt": "Welcher <i>Pokémon</i>-Typ seid ihr?"
     }
   ]
 }

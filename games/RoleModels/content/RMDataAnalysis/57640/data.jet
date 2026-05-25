@@ -1,1 +1,1 @@
-{"fields":[{"t":"B","v":"true","n":"HasPrompt"},{"s":"Welchen künstlerischen Akzent würdest du der <i>Mona Lisa</i> hinzufügen?","t":"A","v":"833880_1","n":"Prompt"}]}
+{"fields":[{"t":"B","v":"true","n":"HasPrompt"},{"s":"Welchen künstlerischen Akzent würdest du der <i>Mona Lisa</i> hinzufügen?","t":"A","v":"prompt","n":"Prompt"}]}
