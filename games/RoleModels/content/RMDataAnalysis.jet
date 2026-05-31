@@ -2,6 +2,9 @@
   "episodeid": 1409,
   "content": [
     {
+      "id": 57724,
+      "x": false,
+      "prompt": "Wenn du unendlich viel Geld auf einer einstündigen Shoppingtour ausgeben könntest, was würdest du kaufen?",
       "same": [
         "Party-Typ",
         "Langweiler",
@@ -11,7 +14,6 @@
         "reifer",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         [
           "Party-Typ",
@@ -22,8 +24,6 @@
           "reifer"
         ]
       ],
-      "id": 57724,
-      "prompt": "Wenn du unendlich viel Geld auf einer einstündigen Shoppingtour ausgeben könntest, was würdest du kaufen?",
       "contradiction": [
         [
           "Party-Typ",
@@ -36,6 +36,9 @@
       ]
     },
     {
+      "id": 57723,
+      "x": false,
+      "prompt": "Wenn Taylor Swift dich fragen würde, warum du dich als ihr nächster Assistent bewerben willst, was würdest du antworten?",
       "same": [
         "fauler",
         "fleißiger",
@@ -43,7 +46,6 @@
         "ängstlicher",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         [
           "zuverlässiger",
@@ -58,8 +60,6 @@
           "ängstlicher"
         ]
       ],
-      "id": 57723,
-      "prompt": "Wenn Taylor Swift dich fragen würde, warum du dich als ihr nächster Assistent bewerben willst, was würdest du antworten?",
       "contradiction": [
         [
           "zuverlässiger",
@@ -76,6 +76,9 @@
       ]
     },
     {
+      "id": 57722,
+      "x": false,
+      "prompt": "Du und deine Single-Freunde sind im Club und feiern. Was hast du dir für den Abend vorgenommen?",
       "same": [
         "Party-Typ",
         "Langweiler",
@@ -84,7 +87,6 @@
         "Einzelgänger",
         "Schwarm"
       ],
-      "x": false,
       "opposite": [
         [
           "Party-Typ",
@@ -103,8 +105,6 @@
           "mürrischer"
         ]
       ],
-      "id": 57722,
-      "prompt": "Du und deine Single-Freunde sind im Club und feiern. Was hast du dir für den Abend vorgenommen?",
       "contradiction": [
         [
           "Party-Typ",
@@ -125,13 +125,15 @@
       ]
     },
     {
+      "id": 57721,
+      "x": true,
+      "prompt": "Es gibt ein Casting für eine Horror-Sex-Komödie, die in deiner Nähe gedreht wird. Für welche Rolle sprichst du vor?",
       "same": [
         "Schwarm",
         "unheimlicher",
         "Party-Typ",
         "Unruhestifter"
       ],
-      "x": true,
       "opposite": [
         [
           "niedlicher",
@@ -142,8 +144,6 @@
           "Langweiler"
         ]
       ],
-      "id": 57721,
-      "prompt": "Es gibt ein Casting für eine Horror-Sex-Komödie, die in deiner Nähe gedreht wird. Für welche Rolle sprichst du vor?",
       "contradiction": [
         [
           "niedlicher",
@@ -156,6 +156,9 @@
       ]
     },
     {
+      "id": 57641,
+      "x": false,
+      "prompt": "Eine Gruppe friedlicher vegetarischer Zombies ist in deine Nachbarschaft gezogen. Wie gehst du mit ihnen um?",
       "same": [
         "nerviger",
         "Unruhestifter",
@@ -166,7 +169,6 @@
         "kindischer",
         "reifer"
       ],
-      "x": false,
       "opposite": [
         [
           "aggressiver",
@@ -181,8 +183,6 @@
           "reifer"
         ]
       ],
-      "id": 57641,
-      "prompt": "Eine Gruppe friedlicher vegetarischer Zombies ist in deine Nachbarschaft gezogen. Wie gehst du mit ihnen um?",
       "contradiction": [
         [
           "aggressiver",
@@ -199,6 +199,9 @@
       ]
     },
     {
+      "id": 57640,
+      "x": false,
+      "prompt": "Welchen künstlerischen Akzent würdest du der Mona Lisa hinzufügen?",
       "same": [
         "kreativer",
         "Unruhestifter",
@@ -207,7 +210,6 @@
         "witziger",
         "seriöser"
       ],
-      "x": false,
       "opposite": [
         [
           "kindischer",
@@ -222,8 +224,6 @@
           "seriöser"
         ]
       ],
-      "id": 57640,
-      "prompt": "Welchen künstlerischen Akzent würdest du der <i>Mona Lisa</i> hinzufügen?",
       "contradiction": [
         [
           "kindischer",
@@ -240,6 +240,9 @@
       ]
     },
     {
+      "id": 57638,
+      "x": false,
+      "prompt": "Du wirst auf eine Stand-up-Comedy-Bühne geschubst. Das Mikrofon ist an. Du bist unvorbereitet. Wie fängst du an?",
       "same": [
         "Angeber",
         "zurückhaltender",
@@ -249,7 +252,6 @@
         "Feigling",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         [
           "Angeber",
@@ -268,8 +270,6 @@
           "mürrischer"
         ]
       ],
-      "id": 57638,
-      "prompt": "Du wirst auf eine Stand-up-Comedy-Bühne geschubst. Das Mikrofon ist an. Du bist unvorbereitet. Wie fängst du an?",
       "contradiction": [
         [
           "Angeber",
@@ -290,6 +290,9 @@
       ]
     },
     {
+      "id": 57637,
+      "x": false,
+      "prompt": "Kurz bevor du eine Abendveranstaltung betrittst, stellst du fest, dass du völlig falsch angezogen bist. Was machst du jetzt?",
       "same": [
         "unbekümmerter",
         "sorgenschwerer",
@@ -299,7 +302,6 @@
         "Feigling",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         [
           "stylisher",
@@ -314,8 +316,6 @@
           "Feigling"
         ]
       ],
-      "id": 57637,
-      "prompt": "Kurz bevor du eine Abendveranstaltung betrittst, stellst du fest, dass du völlig falsch angezogen bist. Was machst du jetzt?",
       "contradiction": [
         [
           "stylisher",
@@ -332,6 +332,9 @@
       ]
     },
     {
+      "id": 57616,
+      "x": false,
+      "prompt": "Auf dem Weg zu einem Blind Date triffst du deine alte Flamme. Sie fragt dich, ob du Zeit für einen Kaffee hast. Wie gehst du damit um?",
       "same": [
         "zuverlässiger",
         "unberechenbarer",
@@ -340,19 +343,19 @@
         "unbekümmerter",
         "gewiefter"
       ],
-      "x": false,
       "opposite": [
         "zuverlässiger",
         "unberechenbarer"
       ],
-      "id": 57616,
-      "prompt": "Auf dem Weg zu einem Blind Date triffst du deine alte Flamme. Sie fragt dich, ob du Zeit für einen Kaffee hast. Wie gehst du damit um?",
       "contradiction": [
         "zuverlässiger",
         "unberechenbarer"
       ]
     },
     {
+      "id": 57584,
+      "x": false,
+      "prompt": "Du entdeckst ein Mikrofon, das eine Nachricht an jeden Menschen auf der Erde senden kann. Was sprichst du hinein?",
       "same": [
         "böser",
         "aggressiver",
@@ -361,7 +364,6 @@
         "witziger",
         "nerviger"
       ],
-      "x": false,
       "opposite": [
         [
           "ethischer",
@@ -380,8 +382,6 @@
           "seriöser"
         ]
       ],
-      "id": 57584,
-      "prompt": "Du entdeckst ein Mikrofon, das eine Nachricht an jeden Menschen auf der Erde senden kann. Was sprichst du hinein?",
       "contradiction": [
         [
           "ethischer",
@@ -402,6 +402,9 @@
       ]
     },
     {
+      "id": 57491,
+      "x": false,
+      "prompt": "Du hast morgens vor der Arbeit noch eine Stunde Zeit. Was machst du damit?",
       "same": [
         "fauler",
         "fleißiger",
@@ -410,7 +413,6 @@
         "Sonderling",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         [
           "fauler",
@@ -425,8 +427,6 @@
           "unberechenbarer"
         ]
       ],
-      "id": 57491,
-      "prompt": "Du hast morgens vor der Arbeit noch eine Stunde Zeit. Was machst du damit?",
       "contradiction": [
         [
           "fauler",
@@ -443,12 +443,14 @@
       ]
     },
     {
+      "id": 57490,
+      "x": false,
+      "prompt": "Welches Lied eignet sich am besten für ein Workout?",
       "same": [
         "fleißiger",
         "aggressiver",
         "Unmensch"
       ],
-      "x": false,
       "opposite": [
         [
           "fauler",
@@ -459,8 +461,6 @@
           "Schatz"
         ]
       ],
-      "id": 57490,
-      "prompt": "Welches Lied eignet sich am besten für ein Workout?",
       "contradiction": [
         [
           "fauler",
@@ -473,13 +473,15 @@
       ]
     },
     {
+      "id": 57488,
+      "x": false,
+      "prompt": "Welches Thema eignet sich am besten für eine romantische Hotelsuite?",
       "same": [
         "mürrischer",
         "Schatz",
         "fauler",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         [
           "netter",
@@ -490,8 +492,6 @@
           "seriöser"
         ]
       ],
-      "id": 57488,
-      "prompt": "Welches Thema eignet sich am besten für eine romantische Hotelsuite?",
       "contradiction": [
         [
           "netter",
@@ -504,6 +504,9 @@
       ]
     },
     {
+      "id": 57485,
+      "x": false,
+      "prompt": "Was ist das Coolste, das man beim Fallschirmspringen laut rufen kann, während man aus dem Flugzeug springt?",
       "same": [
         "Adrenalinjunkie",
         "aggressiver",
@@ -512,7 +515,6 @@
         "Feigling",
         "Kumpel"
       ],
-      "x": false,
       "opposite": [
         [
           "vorsichtiger",
@@ -527,8 +529,6 @@
           "Feigling"
         ]
       ],
-      "id": 57485,
-      "prompt": "Was ist das Coolste, das man beim Fallschirmspringen laut rufen kann, während man aus dem Flugzeug springt?",
       "contradiction": [
         [
           "vorsichtiger",
@@ -545,6 +545,9 @@
       ]
     },
     {
+      "id": 57483,
+      "x": true,
+      "prompt": "Du organisierst eine Cocktailparty für Singles. Wie nennst du sie?",
       "same": [
         "netter",
         "mürrischer",
@@ -552,7 +555,6 @@
         "Schwarm",
         "kreativer"
       ],
-      "x": true,
       "opposite": [
         [
           "netter",
@@ -563,14 +565,15 @@
           "reifer"
         ]
       ],
-      "id": 57483,
-      "prompt": "Du organisierst eine Cocktailparty für Singles. Wie nennst du sie?",
       "contradiction": [
         "netter",
         "mürrischer"
       ]
     },
     {
+      "id": 57481,
+      "x": false,
+      "prompt": "Du stehst kurz davor, in den Boxring zu steigen. Du sollst dich einschüchternd anziehen. Was ziehst du an?",
       "same": [
         "stylisher",
         "unheimlicher",
@@ -579,7 +582,6 @@
         "Unmensch",
         "fauler"
       ],
-      "x": false,
       "opposite": [
         [
           "stylisher",
@@ -598,8 +600,6 @@
           "Feigling"
         ]
       ],
-      "id": 57481,
-      "prompt": "Du stehst kurz davor, in den Boxring zu steigen. Du sollst dich einschüchternd anziehen. Was ziehst du an?",
       "contradiction": [
         [
           "stylisher",
@@ -620,13 +620,15 @@
       ]
     },
     {
+      "id": 57479,
+      "x": false,
+      "prompt": "Wie sieht für dich die perfekte Rache aus?",
       "same": [
         "aggressiver",
         "unberechenbarer",
         "cleverer",
         "böser"
       ],
-      "x": false,
       "opposite": [
         [
           "aggressiver",
@@ -637,8 +639,6 @@
           "dummer"
         ]
       ],
-      "id": 57479,
-      "prompt": "Wie sieht für dich die perfekte Rache aus?",
       "contradiction": [
         [
           "aggressiver",
@@ -651,12 +651,14 @@
       ]
     },
     {
+      "id": 57477,
+      "x": false,
+      "prompt": "Als du die Eltern deines Partners kennenlernst, realisierst du, dass du sie auf einem Fahndungsplakat der Polizei gesehen hast. Was machst du?",
       "same": [
         "ethischer",
         "böser",
         "sorgenschwerer"
       ],
-      "x": false,
       "opposite": [
         [
           "ethischer",
@@ -671,8 +673,6 @@
           "dummer"
         ]
       ],
-      "id": 57477,
-      "prompt": "Als du die Eltern deines Partners kennenlernst, realisierst du, dass du sie auf einem Fahndungsplakat der Polizei gesehen hast. Was machst du?",
       "contradiction": [
         [
           "ethischer",
@@ -689,6 +689,9 @@
       ]
     },
     {
+      "id": 57476,
+      "x": false,
+      "prompt": "Im Restaurant ist dein Essen angebrannt. Der Kellner fragt, ob alles in Ordnung ist. Was antwortest du?",
       "same": [
         "aggressiver",
         "Schatz",
@@ -696,7 +699,6 @@
         "ängstlicher",
         "Feigling"
       ],
-      "x": false,
       "opposite": [
         [
           "aggressiver",
@@ -707,8 +709,6 @@
           "ängstlicher"
         ]
       ],
-      "id": 57476,
-      "prompt": "Im Restaurant ist dein Essen angebrannt. Der Kellner fragt, ob alles in Ordnung ist. Was antwortest du?",
       "contradiction": [
         [
           "aggressiver",
@@ -721,6 +721,9 @@
       ]
     },
     {
+      "id": 57475,
+      "x": false,
+      "prompt": "Du hast im Supermarkt ein großes Glas Gurken zerbrochen. Was machst du jetzt?",
       "same": [
         "zuverlässiger",
         "unberechenbarer",
@@ -729,7 +732,6 @@
         "unordentlicher",
         "gewiefter"
       ],
-      "x": false,
       "opposite": [
         [
           "zuverlässiger",
@@ -744,8 +746,6 @@
           "dummer"
         ]
       ],
-      "id": 57475,
-      "prompt": "Du hast im Supermarkt ein großes Glas Gurken zerbrochen. Was machst du jetzt?",
       "contradiction": [
         [
           "zuverlässiger",
@@ -762,13 +762,15 @@
       ]
     },
     {
+      "id": 57472,
+      "x": false,
+      "prompt": "Godzilla greift deine Stadt an. Was machst du?",
       "same": [
         "mutiger",
         "dummer",
         "zuverlässiger",
         "Anführer"
       ],
-      "x": false,
       "opposite": [
         [
           "zuverlässiger",
@@ -783,8 +785,6 @@
           "dummer"
         ]
       ],
-      "id": 57472,
-      "prompt": "Godzilla greift deine Stadt an. Was machst du?",
       "contradiction": [
         [
           "zuverlässiger",
@@ -801,25 +801,28 @@
       ]
     },
     {
+      "id": 57471,
+      "x": false,
+      "prompt": "Was ist das beste Spielzeug für ein Happy Meal?",
       "same": [
         "kindischer",
         "Schatz",
         "niedlicher",
         "mürrischer"
       ],
-      "x": false,
       "opposite": [
         "kindischer",
         "reifer"
       ],
-      "id": 57471,
-      "prompt": "Was ist das beste Spielzeug für ein Happy Meal?",
       "contradiction": [
         "kindischer",
         "reifer"
       ]
     },
     {
+      "id": 57467,
+      "x": false,
+      "prompt": "Worauf achtest du zuerst, wenn du ein Auto kaufst?",
       "same": [
         "kindischer",
         "reifer",
@@ -827,7 +830,6 @@
         "unberechenbarer",
         "Sonderling"
       ],
-      "x": false,
       "opposite": [
         [
           "kindischer",
@@ -838,8 +840,6 @@
           "unberechenbarer"
         ]
       ],
-      "id": 57467,
-      "prompt": "Worauf achtest du zuerst, wenn du ein Auto kaufst?",
       "contradiction": [
         [
           "kindischer",
@@ -852,6 +852,9 @@
       ]
     },
     {
+      "id": 57465,
+      "x": false,
+      "prompt": "Wenn dein Leben ein Videospiel wäre, wer wäre dein Endgegner?",
       "same": [
         "ethischer",
         "vorsichtiger",
@@ -859,7 +862,6 @@
         "reifer",
         "selbstbewusster"
       ],
-      "x": false,
       "opposite": [
         [
           "ethischer",
@@ -878,8 +880,6 @@
           "Feigling"
         ]
       ],
-      "id": 57465,
-      "prompt": "Wenn dein Leben ein Videospiel wäre, wer wäre dein Endgegner?",
       "contradiction": [
         [
           "ethischer",
@@ -900,13 +900,15 @@
       ]
     },
     {
+      "id": 57464,
+      "x": false,
+      "prompt": "Welche drei Dinge braucht man für einen perfekten Samstagabend?",
       "same": [
         "Party-Typ",
         "Langweiler",
         "niedlicher",
         "unheimlicher"
       ],
-      "x": false,
       "opposite": [
         [
           "Party-Typ",
@@ -917,8 +919,6 @@
           "unheimlicher"
         ]
       ],
-      "id": 57464,
-      "prompt": "Welche drei Dinge braucht man für einen perfekten Samstagabend?",
       "contradiction": [
         [
           "Party-Typ",
@@ -931,6 +931,9 @@
       ]
     },
     {
+      "id": 57463,
+      "x": false,
+      "prompt": "Was ist ein nonverbales Zeichen, um ein Gespräch zu beenden?",
       "same": [
         "netter",
         "mürrischer",
@@ -939,7 +942,6 @@
         "kindischer",
         "reifer"
       ],
-      "x": false,
       "opposite": [
         [
           "netter",
@@ -954,8 +956,6 @@
           "reifer"
         ]
       ],
-      "id": 57463,
-      "prompt": "Was ist ein nonverbales Zeichen, um ein Gespräch zu beenden?",
       "contradiction": [
         [
           "netter",
@@ -972,13 +972,15 @@
       ]
     },
     {
+      "id": 57462,
+      "x": false,
+      "prompt": "Deine Freunde helfen dir beim Umzug. Was bietest du als Bezahlung für ihre körperliche Arbeit an?",
       "same": [
         "zuverlässiger",
         "unberechenbarer",
         "fauler",
         "fleißiger"
       ],
-      "x": false,
       "opposite": [
         [
           "zuverlässiger",
@@ -989,8 +991,6 @@
           "fleißiger"
         ]
       ],
-      "id": 57462,
-      "prompt": "Deine Freunde helfen dir beim Umzug. Was bietest du als Bezahlung für ihre körperliche Arbeit an?",
       "contradiction": [
         [
           "zuverlässiger",
@@ -1003,13 +1003,15 @@
       ]
     },
     {
+      "id": 57461,
+      "x": false,
+      "prompt": "Du darfst die erste Nachricht an eine neu entdeckte außerirdische Spezies schreiben. Was schreibst du?",
       "same": [
         "netter",
         "mürrischer",
         "Anführer",
         "aggressiver"
       ],
-      "x": false,
       "opposite": [
         [
           "netter",
@@ -1020,8 +1022,6 @@
           "reifer"
         ]
       ],
-      "id": 57461,
-      "prompt": "Du darfst die erste Nachricht an eine neu entdeckte außerirdische Spezies schreiben. Was schreibst du?",
       "contradiction": [
         [
           "netter",
@@ -1034,13 +1034,15 @@
       ]
     },
     {
+      "id": 57460,
+      "x": false,
+      "prompt": "Du bist als Geburtstagsclown engagiert worden. Wie unterhältst du die Kinder?",
       "same": [
         "witziger",
         "zuverlässiger",
         "unberechenbarer",
         "mürrischer"
       ],
-      "x": false,
       "opposite": [
         [
           "witziger",
@@ -1055,8 +1057,6 @@
           "mürrischer"
         ]
       ],
-      "id": 57460,
-      "prompt": "Du bist als Geburtstagsclown engagiert worden. Wie unterhältst du die Kinder?",
       "contradiction": [
         [
           "witziger",
@@ -1073,12 +1073,14 @@
       ]
     },
     {
+      "id": 57459,
+      "x": false,
+      "prompt": "Wie würdest du deinen Wrestling-Signature-Move nennen?",
       "same": [
         "aggressiver",
         "Feigling",
         "mürrischer"
       ],
-      "x": false,
       "opposite": [
         [
           "aggressiver",
@@ -1089,8 +1091,6 @@
           "netter"
         ]
       ],
-      "id": 57459,
-      "prompt": "Wie würdest du deinen Wrestling-Signature-Move nennen?",
       "contradiction": [
         [
           "aggressiver",
@@ -1103,6 +1103,9 @@
       ]
     },
     {
+      "id": 57425,
+      "x": false,
+      "prompt": "Was wäre deine Aufgabe auf dem Todesstern?",
       "same": [
         "aggressiver",
         "Schatz",
@@ -1112,7 +1115,6 @@
         "mutiger",
         "Feigling"
       ],
-      "x": false,
       "opposite": [
         [
           "aggressiver",
@@ -1127,8 +1129,6 @@
           "Feigling"
         ]
       ],
-      "id": 57425,
-      "prompt": "Was wäre deine Aufgabe auf dem Todesstern?",
       "contradiction": [
         [
           "aggressiver",
@@ -1145,6 +1145,9 @@
       ]
     },
     {
+      "id": 57424,
+      "x": false,
+      "prompt": "Du bist ein Spion. Ein attraktiver Gegenspion hat die Geheimakte, die du brauchst. Wie bekommst du sie?",
       "same": [
         "aggressiver",
         "Schatz",
@@ -1155,7 +1158,6 @@
         "Schwarm",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         [
           "aggressiver",
@@ -1170,8 +1172,6 @@
           "böser"
         ]
       ],
-      "id": 57424,
-      "prompt": "Du bist ein Spion. Ein attraktiver Gegenspion hat die Geheimakte, die du brauchst. Wie bekommst du sie?",
       "contradiction": [
         [
           "aggressiver",
@@ -1188,6 +1188,9 @@
       ]
     },
     {
+      "id": 57423,
+      "x": false,
+      "prompt": "Du bist der Hausmeister eines Spukhotels und vom Schnee eingeschlossen. Wie verbringst du deine Zeit?",
       "same": [
         "unbekümmerter",
         "sorgenschwerer",
@@ -1196,7 +1199,6 @@
         "cleverer",
         "dummer"
       ],
-      "x": false,
       "opposite": [
         [
           "unbekümmerter",
@@ -1215,8 +1217,6 @@
           "Schatz"
         ]
       ],
-      "id": 57423,
-      "prompt": "Du bist der Hausmeister eines Spukhotels und vom Schnee eingeschlossen. Wie verbringst du deine Zeit?",
       "contradiction": [
         [
           "unbekümmerter",
@@ -1237,12 +1237,14 @@
       ]
     },
     {
+      "id": 57422,
+      "x": true,
+      "prompt": "Wenn eine Bar einen Drink nach dir benennen würde, was wäre dann drin?",
       "same": [
         "Party-Typ",
         "Sonderling",
         "Schwarm"
       ],
-      "x": true,
       "opposite": [
         [
           "Party-Typ",
@@ -1253,21 +1255,21 @@
           "reifer"
         ]
       ],
-      "id": 57422,
-      "prompt": "Wenn eine Bar einen Drink nach dir benennen würde, was wäre dann drin?",
       "contradiction": [
         "Party-Typ",
         "Langweiler"
       ]
     },
     {
+      "id": 57421,
+      "x": false,
+      "prompt": "Vervollständige den Satz: In einem Teenie-Film würde ich mit den “_____“ Kindern essen.",
       "same": [
         "selbstbewusster",
         "Sonderling",
         "Einzelgänger",
         "mürrischer"
       ],
-      "x": false,
       "opposite": [
         [
           "selbstbewusster",
@@ -1278,8 +1280,6 @@
           "mürrischer"
         ]
       ],
-      "id": 57421,
-      "prompt": "Vervollständige den Satz: In einem Teenie-Film würde ich mit den „_____“ Kindern essen.",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1292,13 +1292,15 @@
       ]
     },
     {
+      "id": 57420,
+      "x": false,
+      "prompt": "Du bist beim Speed-Dating. Mit welchem ersten Satz versuchst du aufzufallen?",
       "same": [
         "selbstbewusster",
         "Schwarm",
         "netter",
         "Schatz"
       ],
-      "x": false,
       "opposite": [
         [
           "selbstbewusster",
@@ -1309,8 +1311,6 @@
           "zurückhaltender"
         ]
       ],
-      "id": 57420,
-      "prompt": "Du bist beim Speed-Dating. Mit welchem ersten Satz versuchst du aufzufallen?",
       "contradiction": [
         [
           "Party-Typ",
@@ -1327,25 +1327,28 @@
       ]
     },
     {
+      "id": 57419,
+      "x": false,
+      "prompt": "Wie würde der kitschige Liebesfilm heißen, der auf deinem Leben basiert?",
       "same": [
         "Schwarm",
         "selbstbewusster",
         "kreativer",
         "Einzelgänger"
       ],
-      "x": false,
       "opposite": [
         "selbstbewusster",
         "ängstlicher"
       ],
-      "id": 57419,
-      "prompt": "Wie würde der kitschige Liebesfilm heißen, der auf deinem Leben basiert?",
       "contradiction": [
         "selbstbewusster",
         "ängstlicher"
       ]
     },
     {
+      "id": 57418,
+      "x": true,
+      "prompt": "Welches Outfit würdest du bei einem Blind-Date tragen?",
       "same": [
         "selbstbewusster",
         "ängstlicher",
@@ -1356,7 +1359,6 @@
         "Unmensch",
         "stylisher"
       ],
-      "x": true,
       "opposite": [
         [
           "selbstbewusster",
@@ -1371,8 +1373,6 @@
           "unordentlicher"
         ]
       ],
-      "id": 57418,
-      "prompt": "Welches Outfit würdest du bei einem Blind-Date tragen?",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1389,6 +1389,9 @@
       ]
     },
     {
+      "id": 57417,
+      "x": true,
+      "prompt": "Was ist das Schlimmste, dass man bei einem ersten Date sagen kann?",
       "same": [
         "ängstlicher",
         "sorgenschwerer",
@@ -1396,26 +1399,25 @@
         "Schwarm",
         "Unmensch"
       ],
-      "x": true,
       "opposite": [
         "selbstbewusster",
         "ängstlicher"
       ],
-      "id": 57417,
-      "prompt": "Was ist das Schlimmste, dass man bei einem ersten Date sagen kann?",
       "contradiction": [
         "selbstbewusster",
         "ängstlicher"
       ]
     },
     {
+      "id": 57416,
+      "x": false,
+      "prompt": "Du hast kein Geld mehr, bist dir aber sicher, dass dein Pokerblatt das deines Gegners schlagen wird. Was setzt du?",
       "same": [
         "selbstbewusster",
         "mutiger",
         "Feigling",
         "vorsichtiger"
       ],
-      "x": false,
       "opposite": [
         [
           "selbstbewusster",
@@ -1426,8 +1428,6 @@
           "Feigling"
         ]
       ],
-      "id": 57416,
-      "prompt": "Du hast kein Geld mehr, bist dir aber sicher, dass dein Pokerblatt das deines Gegners schlagen wird. Was setzt du?",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1440,6 +1440,9 @@
       ]
     },
     {
+      "id": 57415,
+      "x": false,
+      "prompt": "Du bist Kandidat bei <i>Gefragt – Gejagt</i>. Welche interessante Information über dich erzählst du dem Moderator?",
       "same": [
         "selbstbewusster",
         "ängstlicher",
@@ -1447,7 +1450,6 @@
         "Sonderling",
         "Unmensch"
       ],
-      "x": false,
       "opposite": [
         [
           "selbstbewusster",
@@ -1458,8 +1460,6 @@
           "zurückhaltender"
         ]
       ],
-      "id": 57415,
-      "prompt": "Du bist Kandidat bei <i>Gefragt – Gejagt</i>. Welche interessante Information über dich erzählst du dem Moderator?",
       "contradiction": [
         [
           "selbstbewusster",
@@ -1472,6 +1472,9 @@
       ]
     },
     {
+      "id": 57414,
+      "x": true,
+      "prompt": "Du hast aus Versehen den Hund von John Wick getötet. Was machst du jetzt?",
       "same": [
         "mutiger",
         "Feigling",
@@ -1479,13 +1482,10 @@
         "vorsichtiger",
         "selbstbewusster"
       ],
-      "x": true,
       "opposite": [
         "mutiger",
         "Feigling"
       ],
-      "id": 57414,
-      "prompt": "Du hast aus Versehen den Hund von John Wick getötet. Was machst du jetzt?",
       "contradiction": [
         [
           "mutiger",
@@ -1498,13 +1498,15 @@
       ]
     },
     {
+      "id": 57413,
+      "x": false,
+      "prompt": "Wenn du ein Ghostbuster wärst, den Geist welcher berühmten Person würdest du gerne fangen?",
       "same": [
         "mutiger",
         "Feigling",
         "vorsichtiger",
         "Adrenalinjunkie"
       ],
-      "x": false,
       "opposite": [
         [
           "mutiger",
@@ -1515,8 +1517,6 @@
           "Adrenalinjunkie"
         ]
       ],
-      "id": 57413,
-      "prompt": "Wenn du ein Ghostbuster wärst, den Geist welcher berühmten Person würdest du gerne fangen?",
       "contradiction": [
         [
           "mutiger",
@@ -1529,24 +1529,27 @@
       ]
     },
     {
+      "id": 57412,
+      "x": false,
+      "prompt": "Was ist das Merkwürdigste, wovor du Angst hast?",
       "same": [
         "Feigling",
         "Sonderling",
         "Unmensch"
       ],
-      "x": false,
       "opposite": [
         "mutiger",
         "Feigling"
       ],
-      "id": 57412,
-      "prompt": "Was ist das Merkwürdigste, wovor du Angst hast?",
       "contradiction": [
         "mutiger",
         "Feigling"
       ]
     },
     {
+      "id": 57411,
+      "x": false,
+      "prompt": "Wie lernt man seine Nachbarn am besten kennen?",
       "same": [
         "netter",
         "mürrischer",
@@ -1555,7 +1558,6 @@
         "Einzelgänger",
         "nerviger"
       ],
-      "x": false,
       "opposite": [
         [
           "netter",
@@ -1566,8 +1568,6 @@
           "Party-Typ"
         ]
       ],
-      "id": 57411,
-      "prompt": "Wie lernt man seine Nachbarn am besten kennen?",
       "contradiction": [
         [
           "netter",
@@ -1580,13 +1580,15 @@
       ]
     },
     {
+      "id": 57410,
+      "x": false,
+      "prompt": "Welcher Text auf einer Fußmatte würde am besten zu dir passen?",
       "same": [
         "netter",
         "mürrischer",
         "Sonderling",
         "Einzelgänger"
       ],
-      "x": false,
       "opposite": [
         [
           "netter",
@@ -1597,8 +1599,6 @@
           "unheimlicher"
         ]
       ],
-      "id": 57410,
-      "prompt": "Welcher Text auf einer Fußmatte würde am besten zu dir passen?",
       "contradiction": [
         [
           "netter",
@@ -1611,13 +1611,15 @@
       ]
     },
     {
+      "id": 57409,
+      "x": false,
+      "prompt": "Die Begrüßung “Hallo” ist nicht mehr zeitgemäß. Du darfst den neuen Standardgruß bestimmen. Wie lautet er?",
       "same": [
         "netter",
         "mürrischer",
         "Schatz",
         "Einzelgänger"
       ],
-      "x": false,
       "opposite": [
         [
           "netter",
@@ -1628,8 +1630,6 @@
           "seriöser"
         ]
       ],
-      "id": 57409,
-      "prompt": "Die Begrüßung “Hallo” ist nicht mehr zeitgemäß. Du darfst den neuen Standardgruß bestimmen. Wie lautet er?",
       "contradiction": [
         [
           "netter",
@@ -1642,6 +1642,9 @@
       ]
     },
     {
+      "id": 57408,
+      "x": false,
+      "prompt": "Du und deine Freunde sollen den Abschlussball organisieren. Welche Aufgabe übernimmst du?",
       "same": [
         "fleißiger",
         "fauler",
@@ -1651,7 +1654,6 @@
         "zuverlässiger",
         "unberechenbarer"
       ],
-      "x": false,
       "opposite": [
         [
           "fleißiger",
@@ -1666,8 +1668,6 @@
           "unberechenbarer"
         ]
       ],
-      "id": 57408,
-      "prompt": "Du und deine Freunde sollen den Abschlussball organisieren. Welche Aufgabe übernimmst du?",
       "contradiction": [
         [
           "fleißiger",
@@ -1684,32 +1684,34 @@
       ]
     },
     {
+      "id": 57407,
+      "x": false,
+      "prompt": "Wenn es eine Spielshow gäbe, in der es um eine körperliche Aufgabe geht, die du beherrschen musst, welche wäre das?",
       "same": [
         "fauler",
         "fleißiger",
         "cleverer",
         "aggressiver"
       ],
-      "x": false,
       "opposite": [
         "fauler",
         "fleißiger"
       ],
-      "id": 57407,
-      "prompt": "Wenn es eine Spielshow gäbe, in der es um eine körperliche Aufgabe geht, die du beherrschen musst, welche wäre das?",
       "contradiction": [
         "fauler",
         "fleißiger"
       ]
     },
     {
+      "id": 57406,
+      "x": false,
+      "prompt": "Welchen Dienst könntest du deiner Gruppe von Überlebenden anbieten, nachdem die Welt zusammengebrochen ist?",
       "same": [
         "fauler",
         "fleißiger",
         "cleverer",
         "zuverlässiger"
       ],
-      "x": false,
       "opposite": [
         [
           "fauler",
@@ -1720,8 +1722,6 @@
           "unberechenbarer"
         ]
       ],
-      "id": 57406,
-      "prompt": "Welchen Dienst könntest du deiner Gruppe von Überlebenden anbieten, nachdem die Welt zusammengebrochen ist?",
       "contradiction": [
         [
           "fauler",
@@ -1734,42 +1734,45 @@
       ]
     },
     {
+      "id": 57405,
+      "x": false,
+      "prompt": "Welches ist das unsicherste Passwort, das du dir vorstellen kannst?",
       "same": [
         "dummer",
         "sorgenschwerer",
         "ängstlicher"
       ],
-      "x": false,
       "opposite": [
         "cleverer",
         "dummer"
       ],
-      "id": 57405,
-      "prompt": "Welches ist das unsicherste Passwort, das du dir vorstellen kannst?",
       "contradiction": [
         "cleverer",
         "dummer"
       ]
     },
     {
+      "id": 57404,
+      "x": false,
+      "prompt": "Deine Familie hat beim Abendessen eine sehr hitzige Diskussion. Wie kannst du die Stimmung auflockern?",
       "same": [
         "cleverer",
         "dummer",
         "reifer"
       ],
-      "x": false,
       "opposite": [
         "cleverer",
         "dummer"
       ],
-      "id": 57404,
-      "prompt": "Deine Familie hat beim Abendessen eine sehr hitzige Diskussion. Wie kannst du die Stimmung auflockern?",
       "contradiction": [
         "cleverer",
         "dummer"
       ]
     },
     {
+      "id": 57403,
+      "x": false,
+      "prompt": "Du bekommst einen Wunsch erfüllt... aber du musst ihn ganz genau formulieren. Was wünschst du dir?",
       "same": [
         "cleverer",
         "dummer",
@@ -1778,7 +1781,6 @@
         "sorgenschwerer",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         [
           "cleverer",
@@ -1789,8 +1791,6 @@
           "reifer"
         ]
       ],
-      "id": 57403,
-      "prompt": "Du bekommst einen Wunsch erfüllt... aber du musst ihn ganz genau formulieren. Was wünschst du dir?",
       "contradiction": [
         [
           "cleverer",
@@ -1803,6 +1803,9 @@
       ]
     },
     {
+      "id": 57402,
+      "x": false,
+      "prompt": "Deine Bürokollegen wollen dem Chef einen Streich spielen. Welche Idee bringst du zum Brainstorming mit?",
       "same": [
         "witziger",
         "kindischer",
@@ -1810,7 +1813,6 @@
         "gewiefter",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         [
           "witziger",
@@ -1821,8 +1823,6 @@
           "reifer"
         ]
       ],
-      "id": 57402,
-      "prompt": "Deine Bürokollegen wollen dem Chef einen Streich spielen. Welche Idee bringst du zum Brainstorming mit?",
       "contradiction": [
         [
           "witziger",
@@ -1835,32 +1835,34 @@
       ]
     },
     {
+      "id": 57401,
+      "x": false,
+      "prompt": "Welchen Film schaust du, wenn du richtig schlechte Laune hast?",
       "same": [
         "witziger",
         "seriöser",
         "Schatz",
         "kindischer"
       ],
-      "x": false,
       "opposite": [
         "witziger",
         "seriöser"
       ],
-      "id": 57401,
-      "prompt": "Welchen Film schaust du, wenn du richtig schlechte Laune hast?",
       "contradiction": [
         "witziger",
         "seriöser"
       ]
     },
     {
+      "id": 57400,
+      "x": false,
+      "prompt": "Du bist auf einem Handelskongress und kannst auf dein Namensschild schreiben, was du willst. Was schreibst du?",
       "same": [
         "witziger",
         "kindischer",
         "mutiger",
         "Unmensch"
       ],
-      "x": false,
       "opposite": [
         [
           "witziger",
@@ -1871,8 +1873,6 @@
           "reifer"
         ]
       ],
-      "id": 57400,
-      "prompt": "Du bist auf einem Handelskongress und kannst auf dein Namensschild schreiben, was du willst. Was schreibst du?",
       "contradiction": [
         [
           "witziger",
@@ -1885,13 +1885,15 @@
       ]
     },
     {
+      "id": 57399,
+      "x": true,
+      "prompt": "Was ist das Schlimmste an Studentenpartys?",
       "same": [
         "zurückhaltender",
         "Langweiler",
         "Einzelgänger",
         "ängstlicher"
       ],
-      "x": true,
       "opposite": [
         [
           "Angeber",
@@ -1902,8 +1904,6 @@
           "Langweiler"
         ]
       ],
-      "id": 57399,
-      "prompt": "Was ist das Schlimmste an Studentenpartys?",
       "contradiction": [
         [
           "Angeber",
@@ -1916,13 +1916,15 @@
       ]
     },
     {
+      "id": 57398,
+      "x": false,
+      "prompt": "Du bist zur Oscar-Aftershow-Party eingeladen. Überall sind Stars. Was machst du?",
       "same": [
         "zurückhaltender",
         "Party-Typ",
         "Einzelgänger",
         "nerviger"
       ],
-      "x": false,
       "opposite": [
         [
           "Angeber",
@@ -1933,8 +1935,6 @@
           "Langweiler"
         ]
       ],
-      "id": 57398,
-      "prompt": "Du bist zur Oscar-Aftershow-Party eingeladen. Überall sind Stars. Was machst du?",
       "contradiction": [
         [
           "Angeber",
@@ -1947,6 +1947,9 @@
       ]
     },
     {
+      "id": 57397,
+      "x": false,
+      "prompt": "Wenn du Kandidat bei <i>Der Bachelor</i> oder <i>Die Bachelorette</i> wärst, was wäre dein Plan, um aufzufallen?",
       "same": [
         "Angeber",
         "zurückhaltender",
@@ -1955,7 +1958,6 @@
         "Schwarm",
         "Einzelgänger"
       ],
-      "x": false,
       "opposite": [
         [
           "Angeber",
@@ -1966,8 +1968,6 @@
           "Langweiler"
         ]
       ],
-      "id": 57397,
-      "prompt": "Wenn du Kandidat bei <i>Der Bachelor</i> oder <i>Die Bachelorette</i> wärst, was wäre dein Plan, um aufzufallen?",
       "contradiction": [
         [
           "Angeber",
@@ -1980,6 +1980,9 @@
       ]
     },
     {
+      "id": 57396,
+      "x": false,
+      "prompt": "Wovon hättest du gerne einen lebenslangen Vorrat?",
       "same": [
         "kindischer",
         "reifer",
@@ -1987,7 +1990,6 @@
         "unbekümmerter",
         "ängstlicher"
       ],
-      "x": false,
       "opposite": [
         [
           "kindischer",
@@ -1998,8 +2000,6 @@
           "unbekümmerter"
         ]
       ],
-      "id": 57396,
-      "prompt": "Wovon hättest du gerne einen lebenslangen Vorrat?",
       "contradiction": [
         [
           "kindischer",
@@ -2012,13 +2012,15 @@
       ]
     },
     {
+      "id": 57395,
+      "x": false,
+      "prompt": "Du bist in einem Wachsfigurenkabinett gefangen, in dem die Figuren zum Leben erwachen. Mit wem triffst du dich?",
       "same": [
         "kindischer",
         "reifer",
         "seriöser",
         "cleverer"
       ],
-      "x": false,
       "opposite": [
         [
           "kindischer",
@@ -2033,8 +2035,6 @@
           "seriöser"
         ]
       ],
-      "id": 57395,
-      "prompt": "Du bist in einem Wachsfigurenkabinett gefangen, in dem die Figuren zum Leben erwachen. Mit wem triffst du dich?",
       "contradiction": [
         [
           "kindischer",
@@ -2051,13 +2051,15 @@
       ]
     },
     {
+      "id": 57394,
+      "x": false,
+      "prompt": "Du bist für einen Tag wieder 10 Jahre alt. Was machst du?",
       "same": [
         "kindischer",
         "reifer",
         "Unruhestifter",
         "nerviger"
       ],
-      "x": false,
       "opposite": [
         [
           "kindischer",
@@ -2068,19 +2070,19 @@
           "sorgenschwerer"
         ]
       ],
-      "id": 57394,
-      "prompt": "Du bist für einen Tag wieder 10 Jahre alt. Was machst du?",
       "contradiction": [
         "kindischer",
         "reifer"
       ]
     },
     {
+      "id": 57393,
+      "x": false,
+      "prompt": "Was würdest du deinem Wohnzimmer hinzufügen, wenn du ein unbegrenztes Budget hättest?",
       "same": [
         "stylisher",
         "unordentlicher"
       ],
-      "x": false,
       "opposite": [
         [
           "stylisher",
@@ -2091,8 +2093,6 @@
           "unberechenbarer"
         ]
       ],
-      "id": 57393,
-      "prompt": "Was würdest du deinem Wohnzimmer hinzufügen, wenn du ein unbegrenztes Budget hättest?",
       "contradiction": [
         [
           "stylisher",
@@ -2105,24 +2105,27 @@
       ]
     },
     {
+      "id": 57392,
+      "x": false,
+      "prompt": "Wie würden Modemagazine dein aktuelles Outfit beschreiben?",
       "same": [
         "stylisher",
         "unordentlicher",
         "Schwarm"
       ],
-      "x": false,
       "opposite": [
         "stylisher",
         "unordentlicher"
       ],
-      "id": 57392,
-      "prompt": "Wie würden Modemagazine dein aktuelles Outfit beschreiben?",
       "contradiction": [
         "stylisher",
         "unordentlicher"
       ]
     },
     {
+      "id": 57391,
+      "x": false,
+      "prompt": "Was ziehst du an, wenn du zu einer „Alles außer Kleidung“-Party eingeladen bist?",
       "same": [
         "stylisher",
         "Chaot",
@@ -2131,7 +2134,6 @@
         "kreativer",
         "Schwarm"
       ],
-      "x": false,
       "opposite": [
         [
           "stylisher",
@@ -2142,8 +2144,6 @@
           "zurückhaltender"
         ]
       ],
-      "id": 57391,
-      "prompt": "Was ziehst du an, wenn du zu einer „Alles außer Kleidung“-Party eingeladen bist?",
       "contradiction": [
         [
           "stylisher",
@@ -2156,25 +2156,28 @@
       ]
     },
     {
+      "id": 57390,
+      "x": false,
+      "prompt": "Wenn du eine Superkraft hättest, die auf einem deiner Talente beruht, wie würde dein Superhelden-Name lauten?",
       "same": [
         "Anführer",
         "Kumpel",
         "mutiger",
         "Adrenalinjunkie"
       ],
-      "x": false,
       "opposite": [
         "Anführer",
         "Kumpel"
       ],
-      "id": 57390,
-      "prompt": "Wenn du eine Superkraft hättest, die auf einem deiner Talente beruht, wie würde dein Superhelden-Name lauten?",
       "contradiction": [
         "Anführer",
         "Kumpel"
       ]
     },
     {
+      "id": 57389,
+      "x": false,
+      "prompt": "Wenn du Kandidat bei <i>Big Brother</i> wärst, was wäre dein Spitzname?",
       "same": [
         "Anführer",
         "Kumpel",
@@ -2183,7 +2186,6 @@
         "Angeber",
         "Schwarm"
       ],
-      "x": false,
       "opposite": [
         [
           "Anführer",
@@ -2194,8 +2196,6 @@
           "zurückhaltender"
         ]
       ],
-      "id": 57389,
-      "prompt": "Wenn du Kandidat bei <i>Big Brother</i> wärst, was wäre dein Spitzname?",
       "contradiction": [
         [
           "Anführer",
@@ -2208,13 +2208,15 @@
       ]
     },
     {
+      "id": 57388,
+      "x": false,
+      "prompt": "Was machst du normalerweise, wenn du an Gruppenprojekten arbeitest?",
       "same": [
         "Anführer",
         "Kumpel",
         "Einzelgänger",
         "gewiefter"
       ],
-      "x": false,
       "opposite": [
         [
           "Anführer",
@@ -2225,8 +2227,6 @@
           "unberechenbarer"
         ]
       ],
-      "id": 57388,
-      "prompt": "Was machst du normalerweise, wenn du an Gruppenprojekten arbeitest?",
       "contradiction": [
         [
           "Anführer",
@@ -2239,44 +2239,47 @@
       ]
     },
     {
+      "id": 57387,
+      "x": false,
+      "prompt": "Ein Tierflüsterer ermöglicht es dir, eine Verbindung mit einem Tier deiner Wahl einzugehen. Welches wählst du?",
       "same": [
         "vorsichtiger",
         "Adrenalinjunkie",
         "Schatz",
         "niedlicher"
       ],
-      "x": false,
       "opposite": [
         "vorsichtiger",
         "Adrenalinjunkie"
       ],
-      "id": 57387,
-      "prompt": "Ein Tierflüsterer ermöglicht es dir, eine Verbindung mit einem Tier deiner Wahl einzugehen. Welches wählst du?",
       "contradiction": [
         "vorsichtiger",
         "Adrenalinjunkie"
       ]
     },
     {
+      "id": 57386,
+      "x": false,
+      "prompt": "Was wäre dein Plan, wenn du an den Hungerspielen teilnehmen müsstest?",
       "same": [
         "vorsichtiger",
         "aggressiver",
         "gewiefter",
         "Feigling"
       ],
-      "x": false,
       "opposite": [
         "vorsichtiger",
         "Adrenalinjunkie"
       ],
-      "id": 57386,
-      "prompt": "Was wäre dein Plan, wenn du an den Hungerspielen teilnehmen müsstest?",
       "contradiction": [
         "vorsichtiger",
         "Adrenalinjunkie"
       ]
     },
     {
+      "id": 57385,
+      "x": false,
+      "prompt": "Welchen fiktiven Ort würdest du gerne besuchen?",
       "same": [
         "vorsichtiger",
         "Adrenalinjunkie",
@@ -2284,7 +2287,6 @@
         "Feigling",
         "Unmensch"
       ],
-      "x": false,
       "opposite": [
         [
           "vorsichtiger",
@@ -2295,8 +2297,6 @@
           "mutiger"
         ]
       ],
-      "id": 57385,
-      "prompt": "Welchen fiktiven Ort würdest du gerne besuchen?",
       "contradiction": [
         [
           "vorsichtiger",
@@ -2309,29 +2309,31 @@
       ]
     },
     {
+      "id": 57384,
+      "x": false,
+      "prompt": "Was ist deine Vorstellung von einem perfekten, stressfreien Urlaub?",
       "same": [
         "unbekümmerter",
         "sorgenschwerer",
         "Einzelgänger"
       ],
-      "x": false,
       "opposite": [
         "unbekümmerter",
         "sorgenschwerer"
       ],
-      "id": 57384,
-      "prompt": "Was ist deine Vorstellung von einem perfekten, stressfreien Urlaub?",
       "contradiction": [
         "unbekümmerter",
         "sorgenschwerer"
       ]
     },
     {
+      "id": 57383,
+      "x": false,
+      "prompt": "Du bist zu einem potentiellen Vampir eingeladen. Was bringst du mit?",
       "same": [
         "Schatz",
         "Party-Typ"
       ],
-      "x": false,
       "opposite": [
         [
           "unbekümmerter",
@@ -2342,19 +2344,19 @@
           "Langweiler"
         ]
       ],
-      "id": 57383,
-      "prompt": "Du bist zu einem potentiellen Vampir eingeladen. Was bringst du mit?",
       "contradiction": [
         "unbekümmerter",
         "sorgenschwerer"
       ]
     },
     {
+      "id": 57382,
+      "x": false,
+      "prompt": "Wie sieht dein Plan für eine Alien-Invasion aus?",
       "same": [
         "unbekümmerter",
         "sorgenschwerer"
       ],
-      "x": false,
       "opposite": [
         [
           "unbekümmerter",
@@ -2365,8 +2367,6 @@
           "dummer"
         ]
       ],
-      "id": 57382,
-      "prompt": "Wie sieht dein Plan für eine Alien-Invasion aus?",
       "contradiction": [
         [
           "unbekümmerter",
@@ -2379,55 +2379,55 @@
       ]
     },
     {
+      "id": 57381,
+      "x": false,
+      "prompt": "Was ist der perfekte Party-Snack?",
       "same": [
         "Party-Typ",
         "Schatz"
       ],
-      "x": false,
       "opposite": [
         "Party-Typ",
         "Langweiler"
       ],
-      "id": 57381,
-      "prompt": "Was ist der perfekte Party-Snack?",
       "contradiction": [
         "Party-Typ",
         "Langweiler"
       ]
     },
     {
+      "id": 57380,
+      "x": false,
+      "prompt": "Die Stimmung auf der Party kippt. Wie bringst du sie wieder in Schwung?",
       "same": [
         "Party-Typ",
         "Langweiler",
         "Angeber",
         "Sonderling"
       ],
-      "x": false,
       "opposite": [
         "Party-Typ",
         "Langweiler"
       ],
-      "id": 57380,
-      "prompt": "Die Stimmung auf der Party kippt. Wie bringst du sie wieder in Schwung?",
       "contradiction": [
         "Party-Typ",
         "Langweiler"
       ]
     },
     {
+      "id": 57379,
+      "x": false,
+      "prompt": "Bei der Arbeit darfst du wirklich anziehen, was du willst. Was ziehst du an?",
       "same": [
         "Party-Typ",
         "Langweiler",
         "kreativer",
         "Sonderling"
       ],
-      "x": false,
       "opposite": [
         "Party-Typ",
         "Langweiler"
       ],
-      "id": 57379,
-      "prompt": "Bei der Arbeit darfst du wirklich anziehen, was du willst. Was ziehst du an?",
       "contradiction": [
         [
           "Party-Typ",
@@ -2440,94 +2440,97 @@
       ]
     },
     {
+      "id": 57378,
+      "x": false,
+      "prompt": "Welche selbstgebaute Falle würdest du einem ungeschickten Einbrecherpärchen stellen?",
       "same": [
         "aggressiver",
         "gewiefter",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         "aggressiver",
         "Schatz"
       ],
-      "id": 57378,
-      "prompt": "Welche selbstgebaute Falle würdest du einem ungeschickten Einbrecherpärchen stellen?",
       "contradiction": [
         "aggressiver",
         "Schatz"
       ]
     },
     {
-      "same": [
-        "aggressiver",
-        "kreativer"
-      ],
-      "x": false,
-      "opposite": [
-        "aggressiver",
-        "Schatz"
-      ],
       "id": 57377,
-      "prompt": "Wenn du in der Welt von Game of Thrones leben würdest, wie würdest du dein Schwert nennen?",
-      "contradiction": [
-        "aggressiver",
-        "Schatz"
-      ]
-    },
-    {
+      "x": false,
+      "prompt": "Wenn du in der Welt von <i>Game of Thrones</i> leben würdest, wie würdest du dein Schwert nennen?",
       "same": [
         "aggressiver",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         "aggressiver",
         "Schatz"
       ],
-      "id": 57376,
-      "prompt": "Wie würde die Tagline deines Actionfilms lauten?",
       "contradiction": [
         "aggressiver",
         "Schatz"
       ]
     },
     {
+      "id": 57376,
+      "x": false,
+      "prompt": "Wie würde die Tagline deines Actionfilms lauten?",
+      "same": [
+        "aggressiver",
+        "kreativer"
+      ],
+      "opposite": [
+        "aggressiver",
+        "Schatz"
+      ],
+      "contradiction": [
+        "aggressiver",
+        "Schatz"
+      ]
+    },
+    {
+      "id": 57375,
+      "x": false,
+      "prompt": "Was wäre deine bevorzugte Waffe während der Zombie-Apokalypse?",
       "same": [
         "aggressiver",
         "Schatz",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         "aggressiver",
         "Schatz"
       ],
-      "id": 57375,
-      "prompt": "Was wäre deine bevorzugte Waffe während der Zombie-Apokalypse?",
       "contradiction": [
         "aggressiver",
         "Schatz"
       ]
     },
     {
+      "id": 57374,
+      "x": false,
+      "prompt": "Du wirst auf einer einsamen Insel stranden. Du darfst einen Gegenstand mitbringen. Was wählst du aus?",
       "same": [
         "unberechenbarer",
         "zuverlässiger",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         "unberechenbarer",
         "zuverlässiger"
       ],
-      "id": 57374,
-      "prompt": "Du wirst auf einer einsamen Insel stranden. Du darfst einen Gegenstand mitbringen. Was wählst du aus?",
       "contradiction": [
         "unberechenbarer",
         "zuverlässiger"
       ]
     },
     {
+      "id": 57373,
+      "x": false,
+      "prompt": "Du sollst auf 8-jährige Zwillinge aufpassen. Welche Aktivitäten planst du für sie?",
       "same": [
         "zuverlässiger",
         "unberechenbarer",
@@ -2535,7 +2538,6 @@
         "reifer",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         [
           "zuverlässiger",
@@ -2546,8 +2548,6 @@
           "reifer"
         ]
       ],
-      "id": 57373,
-      "prompt": "Du sollst auf 8-jährige Zwillinge aufpassen. Welche Aktivitäten planst du für sie?",
       "contradiction": [
         [
           "zuverlässiger",
@@ -2560,13 +2560,15 @@
       ]
     },
     {
+      "id": 57372,
+      "x": false,
+      "prompt": "Du gewinnst 10.000 Euro im Lotto. Was machst du als erstes mit dem Geld?",
       "same": [
         "unberechenbarer",
         "zuverlässiger",
         "Sonderling",
         "cleverer"
       ],
-      "x": false,
       "opposite": [
         [
           "unberechenbarer",
@@ -2577,8 +2579,6 @@
           "dummer"
         ]
       ],
-      "id": 57372,
-      "prompt": "Du gewinnst 10.000 Euro im Lotto. Was machst du als erstes mit dem Geld?",
       "contradiction": [
         [
           "unberechenbarer",
@@ -2591,128 +2591,128 @@
       ]
     },
     {
+      "id": 57371,
+      "x": false,
+      "prompt": "Du kannst eine Nachricht aus dem Grab schicken. Wie lautet sie?",
       "same": [
         "unheimlicher",
         "gewiefter"
       ],
-      "x": false,
       "opposite": [
         "unheimlicher",
         "niedlicher"
       ],
-      "id": 57371,
-      "prompt": "Du kannst eine Nachricht aus dem Grab schicken. Wie lautet sie?",
       "contradiction": [
         "unheimlicher",
         "niedlicher"
       ]
     },
     {
+      "id": 57370,
+      "x": false,
+      "prompt": "Wenn du einen Raum in einem Spukhaus entwerfen könntest, wie würde es aussehen?",
       "same": [
         "unheimlicher",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         "unheimlicher",
         "niedlicher"
       ],
-      "id": 57370,
-      "prompt": "Wenn du einen Raum in einem Spukhaus entwerfen könntest, wie würde es aussehen?",
       "contradiction": [
         "unheimlicher",
         "niedlicher"
       ]
     },
     {
+      "id": 57369,
+      "x": false,
+      "prompt": "Wenn du ein unbegrenztes Budget hättest, wie würde dein ideales Halloween-Kostüm aussehen?",
       "same": [
         "niedlicher",
         "unheimlicher",
         "Unmensch",
         "kreativer"
       ],
-      "x": false,
       "opposite": [
         "niedlicher",
         "unheimlicher"
       ],
-      "id": 57369,
-      "prompt": "Wenn du ein unbegrenztes Budget hättest, wie würde dein ideales Halloween-Kostüm aussehen?",
       "contradiction": [
         "niedlicher",
         "unheimlicher"
       ]
     },
     {
+      "id": 57368,
+      "x": false,
+      "prompt": "Du findest ein Adressbuch voller privater Telefonnummern von Prominenten. Was machst du damit?",
       "same": [
         "böser",
         "ethischer",
         "nerviger",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         "böser",
         "ethischer"
       ],
-      "id": 57368,
-      "prompt": "Du findest ein Adressbuch voller privater Telefonnummern von Prominenten. Was machst du damit?",
       "contradiction": [
         "böser",
         "ethischer"
       ]
     },
     {
+      "id": 57367,
+      "x": false,
+      "prompt": "Du findest das Instagram-Passwort von jemandem heraus, der immer mit dir online chattet. Was tust du?",
       "same": [
         "böser",
         "ethischer",
         "gewiefter",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         "böser",
         "ethischer"
       ],
-      "id": 57367,
-      "prompt": "Du findest das Instagram-Passwort von jemandem heraus, der immer mit dir online chattet. Was tust du?",
       "contradiction": [
         "böser",
         "ethischer"
       ]
     },
     {
+      "id": 57366,
+      "x": false,
+      "prompt": "Du kannst die Webcam einer beliebigen Person einschalten und sie 15 Minuten lang beobachten. Für wen entscheidest du dich?",
       "same": [
         "böser",
         "ethischer",
         "gewiefter"
       ],
-      "x": false,
       "opposite": [
         "böser",
         "ethischer"
       ],
-      "id": 57366,
-      "prompt": "Du kannst die Webcam einer beliebigen Person einschalten und sie 15 Minuten lang beobachten. Für wen entscheidest du dich?",
       "contradiction": [
         "böser",
         "ethischer"
       ]
     },
     {
+      "id": 57365,
+      "x": false,
+      "prompt": "Die Polizei gibt dir die Erlaubnis, wo du willst Feuerwerkskörper zu zünden. Wo zündest du sie?",
       "same": [
         "böser",
         "ethischer",
         "Adrenalinjunkie",
         "Unruhestifter"
       ],
-      "x": false,
       "opposite": [
         "böser",
         "ethischer"
       ],
-      "id": 57365,
-      "prompt": "Die Polizei gibt dir die Erlaubnis, wo du willst Feuerwerkskörper zu zünden. Wo zündest du sie?",
       "contradiction": [
         [
           "böser",
