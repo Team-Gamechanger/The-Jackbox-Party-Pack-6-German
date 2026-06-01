@@ -2300,9 +2300,9 @@
         "proto_tag_type": "adjective"
     },
     "GEDULDIGER": {
-        "word_type": "noun",
+        "word_type": "adjective",
         "proto_tag": "GEDULDIGER",
-        "proto_tag_type": "noun"
+        "proto_tag_type": "adjective"
     },
     "GEFÄHRLICHER": {
         "word_type": "adjective",
@@ -3290,9 +3290,9 @@
         "proto_tag_type": "noun"
     },
     "INTRIGANTER": {
-        "word_type": "noun",
+        "word_type": "adjective",
         "proto_tag": "INTRIGANTER",
-        "proto_tag_type": "noun"
+        "proto_tag_type": "adjective"
     },
     "INTRIGIERENDER": {
         "word_type": "adjective",

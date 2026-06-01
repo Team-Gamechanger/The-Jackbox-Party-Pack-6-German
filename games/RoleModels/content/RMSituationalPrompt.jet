@@ -1195,7 +1195,7 @@
           "name": "Klug investieren",
           "required": true,
           "tags": [
-            "erwachsener",
+            "vernünftiger",
             "verlässlicher",
             "reifer",
             "umsichtiger"
@@ -4534,7 +4534,7 @@
             "kindischer",
             "Feigling",
             "unreifer",
-            "jugendlicher",
+            "junger",
             "spießiger"
           ]
         },
@@ -8981,20 +8981,9 @@
           "name": "Die Leute daran erinnern müssen, wer du bist",
           "required": false,
           "tags": [
-            {
-              "name": "stylisher Regenbogen",
-              "tags": [
-                "stylisher",
-                "Trendsetter"
-              ]
-            },
-            {
-              "name": "magischer Regenbogen",
-              "tags": [
-                "Rätsler",
-                "zauberhafter"
-              ]
-            }
+            "unauffälliger",
+            "unbeachteter",
+            "vergesslicher"
           ]
         },
         {
@@ -9056,7 +9045,7 @@
             {
               "role": 2,
               "question": "Zeig uns deine Flirtskills.",
-              "name": "Mit der alten Schulfllamme anbandeln",
+              "name": "Mit der alten Schulflamme anbandeln",
               "idx": 2
             }
           ]
@@ -10579,7 +10568,7 @@
           "tags": [
             "Akademiker",
             "Bücherwurm",
-            "introvertierter",
+            "zurückhaltender",
             "smarter"
           ]
         },
