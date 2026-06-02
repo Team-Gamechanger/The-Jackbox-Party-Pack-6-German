@@ -67,12 +67,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Komponist",
-              "required": false,
               "tags": [
                 "musikalischer",
                 "kultivierter",
@@ -204,12 +206,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Person mit Flugangst",
-              "required": false,
               "tags": [
                 "beschränkter",
                 "paranoider",
@@ -334,12 +338,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Virus, das eine Pandemie auslöst",
-              "required": false,
               "tags": [
                 "gefährlicher",
                 "kleiner",
@@ -457,13 +463,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Von einem Bären gefressen werden",
               "short": "Vom Bären gefressen",
-              "required": false,
               "tags": [
                 "köstlicher",
                 "Hauptgang"
@@ -581,12 +589,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Coole Narbe, die etwas wie ein Tattoo aussieht",
-              "required": false,
               "tags": [
                 "cooler",
                 "vernarbter",
@@ -714,12 +724,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Assassine mit Tourette",
-              "required": false,
               "tags": [
                 "geheimnisvoller",
                 "stotternder",
@@ -832,12 +844,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "„Mein Geständnis“",
-              "required": false,
               "tags": [
                 "krimineller",
                 "böser",
@@ -949,12 +963,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Nur mit Handtuch bekleidet und ausgesperrt",
-              "required": false,
               "tags": [
                 "Exhibitionist",
                 "verlegener"
@@ -1083,12 +1099,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Reizentzugskammer",
-              "required": false,
               "tags": [
                 "esoterischer",
                 "Spinner"
@@ -1214,12 +1232,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Alles auf Schwarz setzen",
-              "required": false,
               "tags": [
                 "Adrenalinjunkie",
                 "unglücklicher"
@@ -1339,12 +1359,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Alpecin auftragen",
-              "required": false,
               "tags": [
                 "Träumer",
                 "hoffnungsvoller"
@@ -1476,12 +1498,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Unüberspringbare <i>YouTube</i>-Werbung",
-              "required": false,
               "tags": [
                 "gefangener",
                 "zwangsgefütterter",
@@ -1605,12 +1629,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Zukunft",
-              "required": false,
               "tags": [
                 "technologieaffiner",
                 "moderner",
@@ -1734,12 +1760,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Bruder von einem der Jungs, der auch singt",
-              "required": false,
               "tags": [
                 "Bruder",
                 "talentierter"
@@ -1870,12 +1898,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "„Ich muss auf meinen Heimatplaneten zurück.“",
-              "required": false,
               "tags": [
                 "außerirdischer",
                 "kühner",
@@ -2000,12 +2030,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "24 Stunden am Stück schlafen",
-              "required": false,
               "tags": [
                 "Faulenzer",
                 "schläfriger"
@@ -2143,13 +2175,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 5,
               "name": "Derjenige, der weder Führerschein noch Auto hat",
               "short": "Hat weder Führerschein noch Auto",
-              "required": false,
               "tags": [
                 "ungebildeter",
                 "dummer",
@@ -2274,12 +2308,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Giftefeu",
-              "required": false,
               "tags": [
                 "verwechselter",
                 "giftiger"
@@ -2419,13 +2455,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Kleines Kind, das Zuckerwatte auskotzt",
               "short": "Zuckerwatte kotzen",
-              "required": false,
               "tags": [
                 "kindlicher",
                 "bunter",
@@ -2582,12 +2620,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Richtig guter Geigenspieler",
-              "required": false,
               "tags": [
                 "Künstler",
                 "ländlicher",
@@ -2705,12 +2745,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Typ, der blinkende Windräder verkauft",
-              "required": false,
               "tags": [
                 "sorgloser",
                 "leuchtender",
@@ -2836,12 +2878,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "<i>David</i> von Michelangelo",
-              "required": false,
               "tags": [
                 "ästhetischer",
                 "meisterhafter",
@@ -2965,12 +3009,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "“Ein Loser sagt was?”",
-              "required": false,
               "tags": [
                 "einfacher",
                 "doofer",
@@ -3102,12 +3148,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Der Besoffene",
-              "required": false,
               "tags": [
                 "lauter",
                 "chaotischer",
@@ -3238,13 +3286,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Der, der eigentlich gar keine Ahnung von Fußball hat",
               "short": "Der Ahnungslose",
-              "required": false,
               "tags": [
                 "naiver",
                 "unwissender",
@@ -3372,12 +3422,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Ordnungsamt",
-              "required": false,
               "tags": [
                 "Durchsetzer",
                 "moralischer",
@@ -3496,12 +3548,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Viele Bilder von 100-Euro-Scheinen ausdrucken",
-              "required": false,
               "tags": [
                 "närrischer",
                 "fehlgeleiteter",
@@ -3626,12 +3680,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der Klassenlehrer",
-              "required": false,
               "tags": [
                 "reifer",
                 "hilfsbereiter",
@@ -3752,12 +3808,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Der, der viel zu früh im Voice-Channel hockt",
-              "required": false,
               "tags": [
                 "überpünktlicher",
                 "einsamer"
@@ -3881,12 +3939,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der, der den ganzen Tag frei hat und nur zum Spaß kommt",
-              "required": false,
               "tags": [
                 "fauler",
                 "entspannter",
@@ -4012,12 +4072,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 4,
               "name": "Halb erinnertes Familienrezept",
-              "required": false,
               "tags": [
                 "alter",
                 "Liebling",
@@ -4144,12 +4206,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "404",
-              "required": false,
               "tags": [
                 "verlorener",
                 "verwirrter"
@@ -4267,12 +4331,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "“Kritikern nicht vorgeführt!”",
-              "required": false,
               "tags": [
                 "vorsichtiger",
                 "rätselhafter",
@@ -4429,12 +4495,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Hat gerade gefurzt",
-              "required": false,
               "tags": [
                 "ekliger",
                 "Streichespieler",
@@ -4576,12 +4644,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Erwähnt beiläufig Kannibalismus",
-              "required": false,
               "tags": [
                 "kulinarischer",
                 "hungriger",
@@ -4691,12 +4761,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Dienstag",
-              "required": false,
               "tags": [
                 "organisierter",
                 "pflichtbewusster",
@@ -4814,12 +4886,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Neid",
-              "required": false,
               "tags": [
                 "neidischer",
                 "intrigierender",
@@ -4940,12 +5014,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "50.000 v. Chr. - 49.990 v. Chr.",
-              "required": false,
               "tags": [
                 "zurückgezogener",
                 "primitiver",
@@ -5061,12 +5137,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Der Tod",
-              "required": false,
               "tags": [
                 "chaotischer",
                 "nachdenklicher"
@@ -5179,12 +5257,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Einen Pitbull",
-              "required": false,
               "tags": [
                 "tierlieber",
                 "beschützender",
@@ -5303,12 +5383,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Mag einfach zusätzliche Hausaufgaben",
-              "required": false,
               "tags": [
                 "intelligenter",
                 "zurückhaltender",
@@ -5434,12 +5516,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Mops",
-              "required": false,
               "tags": [
                 "freundlicher",
                 "fröhlicher",
@@ -5556,12 +5640,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Schwangerschaftstest",
-              "required": false,
               "tags": [
                 "ängstlicher",
                 "Sorgenmacher"
@@ -5672,12 +5758,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Typ ohne Foto, der “oberflächliche Menschen” hasst",
-              "required": false,
               "tags": [
                 "Feigling",
                 "arroganter",
@@ -5804,12 +5892,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Eipulver",
-              "required": false,
               "tags": [
                 "künstlicher",
                 "einfacher",
@@ -5926,12 +6016,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Zylinder",
-              "required": false,
               "tags": [
                 "schicker",
                 "Spinner"
@@ -6050,12 +6142,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "*Unverständliches Schluchzen*",
-              "required": false,
               "tags": [
                 "Heulsusen-Typ",
                 "unreifer",
@@ -6185,12 +6279,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "„Neues Handy. Wer ist da?”",
-              "required": false,
               "tags": [
                 "ahnungsloser",
                 "Einzelgänger"
@@ -6308,12 +6404,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Kleiner Schnurrbart auf dem Finger tätowiert",
-              "required": false,
               "tags": [
                 "falscher",
                 "Party-Typ",
@@ -6473,13 +6571,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Der, für den es nur ein Gerät im Studio gibt",
               "short": "Der Fokussierte",
-              "required": false,
               "tags": [
                 "zielstrebiger",
                 "disziplinierter",
@@ -6600,12 +6700,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Museum der zerbrochenen Beziehungen",
-              "required": false,
               "tags": [
                 "emotionaler",
                 "dramatischer",
@@ -6727,12 +6829,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Wissenschaft der Alleskönner",
-              "required": false,
               "tags": [
                 "vielseitiger",
                 "talentierter",
@@ -6852,12 +6956,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Bleibt lieber zu Hause",
-              "required": false,
               "tags": [
                 "heimatverbundener",
                 "zurückhaltender"
@@ -6975,12 +7081,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "Student, der um 22 Uhr einkaufen geht",
-              "required": false,
               "tags": [
                 "gelassener",
                 "verplanter",
@@ -7092,12 +7200,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "GEZ nicht bezahlt",
-              "required": false,
               "tags": [
                 "Rebell",
                 "eigennütziger"
@@ -7217,12 +7327,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Perfektionismus",
-              "required": false,
               "tags": [
                 "detailverliebter",
                 "wahnhafter",
@@ -7341,12 +7453,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der, der in die Erzieher verliebt ist",
-              "required": false,
               "tags": [
                 "optimistischer",
                 "naiver",
@@ -7466,12 +7580,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Glück",
-              "required": false,
               "tags": [
                 "bevorteilter",
                 "ausgeglichener",
@@ -7591,12 +7707,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der Troll",
-              "required": false,
               "tags": [
                 "Provokant",
                 "störender",
@@ -7715,12 +7833,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "<i>Netflix</i>",
-              "required": false,
               "tags": [
                 "vielseitiger",
                 "populärer"
@@ -7838,12 +7958,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Grausige alte Renate",
-              "required": false,
               "tags": [
                 "gruseliger",
                 "gespenstischer"
@@ -7968,12 +8090,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Fortuna, die Göttin des Glücks",
-              "required": false,
               "tags": [
                 "glücklicher",
                 "wohlhabender",
@@ -8095,12 +8219,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Kommuniziert nur über Anwälte",
-              "required": false,
               "tags": [
                 "geschäftsmäßiger",
                 "Geschäftsmann",
@@ -8218,12 +8344,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der, der sich auf der Messe verirrt",
-              "required": false,
               "tags": [
                 "verlorener",
                 "verwirrter",
@@ -8338,12 +8466,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 4,
               "name": "Schwitzige Handfläche",
-              "required": false,
               "tags": [
                 "nervöser",
                 "schwitziger",
@@ -8465,12 +8595,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "#werbung",
-              "required": false,
               "tags": [
                 "Hochstapler",
                 "Geldmacher",
@@ -8603,12 +8735,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Bauarbeiterhelm",
-              "required": false,
               "tags": [
                 "vorsichtiger",
                 "hart arbeitender",
@@ -8730,13 +8864,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Der, der als erster von der Truppe verraten wird",
               "short": "Der Verratene",
-              "required": false,
               "tags": [
                 "ersetzbarer",
                 "naiver",
@@ -8853,12 +8989,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Unter der Tribüne rumhängen",
-              "required": false,
               "tags": [
                 "Freigeist",
                 "unabhängiger",
@@ -8997,12 +9135,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 10,
               "name": "Einen medizinischen Notfall erleiden",
-              "required": false,
               "tags": [
                 "Leidtragender",
                 "unglücklicher"
@@ -9127,12 +9267,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Klassenmobber",
-              "required": false,
               "tags": [
                 "Straftäter",
                 "Faulpelz",
@@ -9249,12 +9391,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Dekoratives Schild mit der Aufschrift “SCHOKOHOLIKER”",
-              "required": false,
               "tags": [
                 "Feinschmecker",
                 "süßer",
@@ -9379,12 +9523,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der, der alle Pakete annimmt",
-              "required": false,
               "tags": [
                 "arbeitsloser",
                 "sammelwütiger",
@@ -9495,6 +9641,9 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -9574,12 +9723,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Hält das Alter geheim",
-              "required": false,
               "tags": [
                 "Datenschützer",
                 "geheimnisvoller",
@@ -9700,12 +9851,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Schwarze Lakritze",
-              "required": false,
               "tags": [
                 "geschmackloser",
                 "Einzelgänger"
@@ -9829,12 +9982,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Nur ein Montag",
-              "required": false,
               "tags": [
                 "langweiliger",
                 "Langweiler"
@@ -9953,12 +10108,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Unscharfes Foto des Daumens",
-              "required": false,
               "tags": [
                 "unscharfer",
                 "Däumling"
@@ -10074,12 +10231,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Peinlicher älterer Cousin",
-              "required": false,
               "tags": [
                 "peinlicher",
                 "launischer",
@@ -10204,12 +10363,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "<i>Thermomix</i>",
-              "required": false,
               "tags": [
                 "teurer",
                 "Alleskönner"
@@ -10329,12 +10490,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Kleine Teilnahme-Trophäe",
-              "required": false,
               "tags": [
                 "kleiner",
                 "Unterstützer"
@@ -10469,12 +10632,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Ein Auto auf Betonsteinen",
-              "required": false,
               "tags": [
                 "träger",
                 "Faulpelz"
@@ -10592,12 +10757,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Als Kind verkleidet, um dem Team beizutreten",
-              "required": false,
               "tags": [
                 "kindlicher",
                 "Trickbetrüger"
@@ -10721,12 +10888,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Stammgast im Bordbistro",
-              "required": false,
               "tags": [
                 "geselliger",
                 "genussfreudiger",
@@ -10848,12 +11017,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Handyhüllenkiosk",
-              "required": false,
               "tags": [
                 "lästiger",
                 "Verkäufer"
@@ -10972,12 +11143,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Drei Jahre alte Zahnbürste",
-              "required": false,
               "tags": [
                 "Gammler",
                 "veralteter",
@@ -11103,12 +11276,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "Kolossaler Drache",
-              "required": false,
               "tags": [
                 "mächtiger",
                 "angsteinflößender",
@@ -11233,12 +11408,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Trash Metal",
-              "required": false,
               "tags": [
                 "ungeschickter",
                 "Chaot"
@@ -11247,7 +11424,6 @@
             {
               "idx": 8,
               "name": "Folk Metal",
-              "required": false,
               "tags": [
                 "Hippie",
                 "altmodischer"
@@ -11367,12 +11543,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Schlagsahne",
-              "required": false,
               "tags": [
                 "Flirtprofi",
                 "Feinschmecker",
@@ -11483,12 +11661,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Den Jungbrunnen suchen",
-              "required": false,
               "tags": [
                 "Entdecker",
                 "magischer",
@@ -11603,12 +11783,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Captain Vorsicht",
-              "required": false,
               "tags": [
                 "vorsichtiger",
                 "Introvertierter",
@@ -11731,12 +11913,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Vergisst zu kommen",
-              "required": false,
               "tags": [
                 "geistesabwesender",
                 "Wirrkopf"
@@ -11880,12 +12064,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Warten, bis das Opfer an Altersschwäche stirbt",
-              "required": false,
               "tags": [
                 "Feigling",
                 "Beobachter",
@@ -12003,6 +12189,9 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "MethodAct",
           "prompts": [
             {
@@ -12102,12 +12291,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "<i>Fack Ju Göhte</i>",
-              "required": false,
               "tags": [
                 "chaotischer",
                 "Spaßmacher"
@@ -12223,12 +12414,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Krötenzunge",
-              "required": false,
               "tags": [
                 "grober",
                 "Naturalist"
@@ -12353,12 +12546,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Nur ein alter Lederriemen, der um den Hals hängt",
-              "required": false,
               "tags": [
                 "rustikaler",
                 "Trendsetter"
@@ -12487,12 +12682,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Die, die nicht genannt werden sollen",
-              "required": false,
               "tags": [
                 "böser",
                 "mysteriöser"
@@ -12611,12 +12808,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Die US-Wahlen von 2016",
-              "required": false,
               "tags": [
                 "chaotischer",
                 "Desaster"
@@ -12625,7 +12824,6 @@
             {
               "idx": 9,
               "name": "Dein Ehepartner verwandelt sich in eine Pflaume und du isst sie aus Versehen",
-              "required": false,
               "tags": [
                 "köstlicher",
                 "Feinschmecker"
@@ -12744,12 +12942,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 5,
               "name": "Die beste Oma der Welt",
-              "required": false,
               "tags": [
                 "preisgekrönter",
                 "Ältester",
@@ -12868,12 +13068,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "In Ruhe darauf warten, dass man dran kommt",
-              "required": false,
               "tags": [
                 "geduldiger",
                 "ruhiger",
@@ -12999,6 +13201,9 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "MethodAct",
           "prompts": [
             {
@@ -13102,12 +13307,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Klassik",
-              "required": false,
               "tags": [
                 "altmodischer",
                 "entspannter",
@@ -13226,12 +13433,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Business-Hose und eine knitterfreie Bluse",
-              "required": false,
               "tags": [
                 "unternehmerischer",
                 "Drohnenpilot",
@@ -13351,12 +13560,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Vom Dach in den Pool springend",
-              "required": false,
               "tags": [
                 "Adrenalinjunkie",
                 "wilder",
@@ -13480,12 +13691,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Für ein Amt kandidieren ",
-              "required": false,
               "tags": [
                 "Politiker",
                 "mieser"
@@ -13601,12 +13814,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Seiten aus Rezeptbüchern stehlen",
-              "required": false,
               "tags": [
                 "Küchenchef",
                 "Feinschmecker",
@@ -13722,12 +13937,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Einschlafen während des Höhepunkts",
-              "required": false,
               "tags": [
                 "träger",
                 "Faulpelz"
@@ -13848,12 +14065,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Apathischer Leguan",
-              "required": false,
               "tags": [
                 "träger",
                 "Einzelgänger"
@@ -13977,12 +14196,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Johnny Depps Eyeliner",
-              "required": false,
               "tags": [
                 "Schauspieler",
                 "gekünstlelter",
@@ -14105,12 +14326,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Sardinen",
-              "required": false,
               "tags": [
                 "exzentrischer",
                 "fischiger",
@@ -14233,12 +14456,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Hose",
-              "required": false,
               "tags": [
                 "notdürftiger",
                 "Opportunist"
@@ -14359,12 +14584,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Etwas Verbotenes",
-              "required": false,
               "tags": [
                 "geheimnisvoller",
                 "chaotischer",
@@ -14492,12 +14719,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Hacker",
-              "required": false,
               "tags": [
                 "Verbrecher",
                 "destruktiver",
@@ -14646,12 +14875,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Plüschwürfel",
-              "required": false,
               "tags": [
                 "Glücksspieler",
                 "unreifer",
@@ -14766,12 +14997,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Gruselige Bilder",
-              "required": false,
               "tags": [
                 "grober",
                 "Chaot"
@@ -14891,12 +15124,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Einfach nur gelangweilt",
-              "required": false,
               "tags": [
                 "gelangweilter",
                 "Sonderling",
@@ -15011,12 +15246,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Ich bin perfekt, ich bereue nichts",
-              "required": false,
               "tags": [
                 "selbstbewusster",
                 "dummer",
@@ -15147,13 +15384,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Als Computerchip",
               "short": "Computerchip",
-              "required": false,
               "tags": [
                 "Roboter",
                 "lebloser",
@@ -15273,12 +15512,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Der Chef",
-              "required": false,
               "tags": [
                 "dominanter",
                 "kontrollierender",
@@ -15397,13 +15638,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Person, die im Müllcontainer nach Essen wühlt",
               "short": "Dumpster-Diver",
-              "required": false,
               "tags": [
                 "Recycler",
                 "sparsamer"
@@ -15526,12 +15769,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Der Normale",
-              "required": false,
               "tags": [
                 "vernünftiger",
                 "unauffälliger"
@@ -15647,12 +15892,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Sich beschweren, dass man zu Hause sein vermisst",
-              "required": false,
               "tags": [
                 "lästiger",
                 "Nörgler"
@@ -15775,13 +16022,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Der, der nicht rausgeht, weil es zu kalt ist",
               "short": "Die Frostbeule",
-              "required": false,
               "tags": [
                 "bequemer",
                 "fauler",
@@ -15905,12 +16154,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Nur Croutons",
-              "required": false,
               "tags": [
                 "knuspriger",
                 "Rebell"
@@ -16027,12 +16278,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Karneval",
-              "required": false,
               "tags": [
                 "Partygänger",
                 "witziger",
@@ -16166,12 +16419,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Blanche von den <i>Golden Girls</i>",
-              "required": false,
               "tags": [
                 "Ältester",
                 "Schwarm"
@@ -16281,12 +16536,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Alles fand in einer Schneekugel eines Kindes statt",
-              "required": false,
               "tags": [
                 "Träumer",
                 "seltsamer"
@@ -16402,12 +16659,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "“ICH HABE DEN PILOTEN SCHON IMMER GELIEBT!”",
-              "required": false,
               "tags": [
                 "Schwarm",
                 "Romantiker"
@@ -16528,12 +16787,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "„Einmal gepoppt, nie mehr gestoppt”",
-              "required": false,
               "tags": [
                 "energischer",
                 "Unhold"
@@ -16675,12 +16936,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Das frühreife Kind",
-              "required": false,
               "tags": [
                 "kindlicher",
                 "niedlicher"
@@ -16838,12 +17101,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "10.000 € an einen Buchmacher verlieren",
-              "required": false,
               "tags": [
                 "ausgenutzter",
                 "riskanter",
@@ -16965,12 +17230,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Kürbissuppe",
-              "required": false,
               "tags": [
                 "herbstlicher",
                 "Widerling"
@@ -17086,12 +17353,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Umleitung",
-              "required": false,
               "tags": [
                 "verlorener",
                 "unberechenbarer"
@@ -17230,12 +17499,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Mutter machte dich aus Lehm",
-              "required": false,
               "tags": [
                 "künstlicher",
                 "Hippie"
@@ -17351,12 +17622,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Juckpulver",
-              "required": false,
               "tags": [
                 "lästiger",
                 "Scherzkeks"
@@ -17496,12 +17769,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Erwachsener, der sich als Teenager ausgibt",
-              "required": false,
               "tags": [
                 "Ältester",
                 "Lügner",
@@ -17641,12 +17916,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Selfies am Spiegel machen",
-              "required": false,
               "tags": [
                 "divaer",
                 "Influencer"
@@ -17774,12 +18051,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Werbegeschenk der lokalen Bank",
-              "required": false,
               "tags": [
                 "reicher",
                 "Langweiler"
@@ -17887,12 +18166,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "Die Hose von jemand anderem",
-              "required": false,
               "tags": [
                 "verlorener",
                 "Dieb"
@@ -18015,12 +18296,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Der, der nur so tut, als könne er ein Instrument spielen",
-              "required": false,
               "tags": [
                 "untalentierter",
                 "Hochstapler",
@@ -18155,12 +18438,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "“Special Guest Star”-Kreisrahmen",
-              "required": false,
               "tags": [
                 "divenhafter",
                 "extravaganter"
@@ -18312,12 +18597,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 5,
               "name": "Plötzlicher Schnitt auf Schwarz",
-              "required": false,
               "tags": [
                 "lästiger",
                 "Spielverderber"
@@ -18438,12 +18725,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Marionettenspieler",
-              "required": false,
               "tags": [
                 "Boss",
                 "dummer",
@@ -18565,12 +18854,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Mittagessen in einer Toilettenkabine essen",
-              "required": false,
               "tags": [
                 "kindlicher",
                 "grober",
@@ -18689,12 +18980,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Hamburg",
-              "required": false,
               "tags": [
                 "eleganter",
                 "cooler",
@@ -18817,12 +19110,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Stapel ungelesener Post",
-              "required": false,
               "tags": [
                 "vernachlässigter",
                 "Ausgestoßener",
@@ -18989,12 +19284,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Die Vampirschwestern",
-              "required": false,
               "tags": [
                 "schwesternhafter",
                 "Familienmensch"
@@ -19003,7 +19300,6 @@
             {
               "idx": 9,
               "name": "Der kleine Vampir",
-              "required": false,
               "tags": [
                 "Blutsauger",
                 "süßer"
@@ -19163,12 +19459,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Verziert alles",
-              "required": false,
               "tags": [
                 "dekorativer",
                 "Modeguru",
@@ -19303,12 +19601,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "„Ein Idiot sagt was?”",
-              "required": false,
               "tags": [
                 "kindlicher",
                 "Trickbetrüger"
@@ -19443,12 +19743,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "10.000€ in kleinen, nicht zurückverfolgbaren Scheinen",
-              "required": false,
               "tags": [
                 "Intrigant",
                 "Dieb"
@@ -19566,12 +19868,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Der, der <i>YouTube</i>-Premium nutzt",
-              "required": false,
               "tags": [
                 "reicher",
                 "privilegierter",
@@ -19687,12 +19991,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Schaufensterpuppe",
-              "required": false,
               "tags": [
                 "künstlicher",
                 "Modeguru"
@@ -19805,12 +20111,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Ich dachte, ich hätte es verloren... aber es ist in meiner Tasche",
-              "required": false,
               "tags": [
                 "Dummbatz",
                 "überraschender"
@@ -19927,12 +20235,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Der, der auch an Silvester arbeiten muss",
-              "required": false,
               "tags": [
                 "gestresster",
                 "unbeliebter"
@@ -20081,12 +20391,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Blut auf Spiegel",
-              "required": false,
               "tags": [
                 "Scherzkeks",
                 "beängstigender",
@@ -20227,12 +20539,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Nicht überspringbare Werbung",
-              "required": false,
               "tags": [
                 "lästiger",
                 "Verkäufer"
@@ -20354,12 +20668,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "“Hier ist eine Karte zu meinem geheimen Schatz.”",
-              "required": false,
               "tags": [
                 "Aristokrat",
                 "mysteriöser"

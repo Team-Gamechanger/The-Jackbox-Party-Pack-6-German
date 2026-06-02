@@ -344,12 +344,16 @@
         "gewiefter"
       ],
       "opposite": [
-        "zuverlässiger",
-        "unberechenbarer"
+        [
+          "zuverlässiger",
+          "unberechenbarer"
+        ]
       ],
       "contradiction": [
-        "zuverlässiger",
-        "unberechenbarer"
+        [
+          "zuverlässiger",
+          "unberechenbarer"
+        ]
       ]
     },
     {
@@ -566,8 +570,10 @@
         ]
       ],
       "contradiction": [
-        "netter",
-        "mürrischer"
+        [
+          "netter",
+          "mürrischer"
+        ]
       ]
     },
     {
@@ -811,12 +817,16 @@
         "mürrischer"
       ],
       "opposite": [
-        "kindischer",
-        "reifer"
+        [
+          "kindischer",
+          "reifer"
+        ]
       ],
       "contradiction": [
-        "kindischer",
-        "reifer"
+        [
+          "kindischer",
+          "reifer"
+        ]
       ]
     },
     {
@@ -1256,8 +1266,10 @@
         ]
       ],
       "contradiction": [
-        "Party-Typ",
-        "Langweiler"
+        [
+          "Party-Typ",
+          "Langweiler"
+        ]
       ]
     },
     {
@@ -1337,12 +1349,16 @@
         "Einzelgänger"
       ],
       "opposite": [
-        "selbstbewusster",
-        "ängstlicher"
+        [
+          "selbstbewusster",
+          "ängstlicher"
+        ]
       ],
       "contradiction": [
-        "selbstbewusster",
-        "ängstlicher"
+        [
+          "selbstbewusster",
+          "ängstlicher"
+        ]
       ]
     },
     {
@@ -1400,12 +1416,16 @@
         "Unmensch"
       ],
       "opposite": [
-        "selbstbewusster",
-        "ängstlicher"
+        [
+          "selbstbewusster",
+          "ängstlicher"
+        ]
       ],
       "contradiction": [
-        "selbstbewusster",
-        "ängstlicher"
+        [
+          "selbstbewusster",
+          "ängstlicher"
+        ]
       ]
     },
     {
@@ -1483,8 +1503,10 @@
         "selbstbewusster"
       ],
       "opposite": [
-        "mutiger",
-        "Feigling"
+        [
+          "mutiger",
+          "Feigling"
+        ]
       ],
       "contradiction": [
         [
@@ -1538,12 +1560,16 @@
         "Unmensch"
       ],
       "opposite": [
-        "mutiger",
-        "Feigling"
+        [
+          "mutiger",
+          "Feigling"
+        ]
       ],
       "contradiction": [
-        "mutiger",
-        "Feigling"
+        [
+          "mutiger",
+          "Feigling"
+        ]
       ]
     },
     {
@@ -1694,12 +1720,16 @@
         "aggressiver"
       ],
       "opposite": [
-        "fauler",
-        "fleißiger"
+        [
+          "fauler",
+          "fleißiger"
+        ]
       ],
       "contradiction": [
-        "fauler",
-        "fleißiger"
+        [
+          "fauler",
+          "fleißiger"
+        ]
       ]
     },
     {
@@ -1743,12 +1773,16 @@
         "ängstlicher"
       ],
       "opposite": [
-        "cleverer",
-        "dummer"
+        [
+          "cleverer",
+          "dummer"
+        ]
       ],
       "contradiction": [
-        "cleverer",
-        "dummer"
+        [
+          "cleverer",
+          "dummer"
+        ]
       ]
     },
     {
@@ -1761,12 +1795,16 @@
         "reifer"
       ],
       "opposite": [
-        "cleverer",
-        "dummer"
+        [
+          "cleverer",
+          "dummer"
+        ]
       ],
       "contradiction": [
-        "cleverer",
-        "dummer"
+        [
+          "cleverer",
+          "dummer"
+        ]
       ]
     },
     {
@@ -1845,12 +1883,16 @@
         "kindischer"
       ],
       "opposite": [
-        "witziger",
-        "seriöser"
+        [
+          "witziger",
+          "seriöser"
+        ]
       ],
       "contradiction": [
-        "witziger",
-        "seriöser"
+        [
+          "witziger",
+          "seriöser"
+        ]
       ]
     },
     {
@@ -2071,8 +2113,10 @@
         ]
       ],
       "contradiction": [
-        "kindischer",
-        "reifer"
+        [
+          "kindischer",
+          "reifer"
+        ]
       ]
     },
     {
@@ -2114,12 +2158,16 @@
         "Schwarm"
       ],
       "opposite": [
-        "stylisher",
-        "unordentlicher"
+        [
+          "stylisher",
+          "unordentlicher"
+        ]
       ],
       "contradiction": [
-        "stylisher",
-        "unordentlicher"
+        [
+          "stylisher",
+          "unordentlicher"
+        ]
       ]
     },
     {
@@ -2166,12 +2214,16 @@
         "Adrenalinjunkie"
       ],
       "opposite": [
-        "Anführer",
-        "Kumpel"
+        [
+          "Anführer",
+          "Kumpel"
+        ]
       ],
       "contradiction": [
-        "Anführer",
-        "Kumpel"
+        [
+          "Anführer",
+          "Kumpel"
+        ]
       ]
     },
     {
@@ -2249,12 +2301,16 @@
         "niedlicher"
       ],
       "opposite": [
-        "vorsichtiger",
-        "Adrenalinjunkie"
+        [
+          "vorsichtiger",
+          "Adrenalinjunkie"
+        ]
       ],
       "contradiction": [
-        "vorsichtiger",
-        "Adrenalinjunkie"
+        [
+          "vorsichtiger",
+          "Adrenalinjunkie"
+        ]
       ]
     },
     {
@@ -2268,12 +2324,16 @@
         "Feigling"
       ],
       "opposite": [
-        "vorsichtiger",
-        "Adrenalinjunkie"
+        [
+          "vorsichtiger",
+          "Adrenalinjunkie"
+        ]
       ],
       "contradiction": [
-        "vorsichtiger",
-        "Adrenalinjunkie"
+        [
+          "vorsichtiger",
+          "Adrenalinjunkie"
+        ]
       ]
     },
     {
@@ -2318,12 +2378,16 @@
         "Einzelgänger"
       ],
       "opposite": [
-        "unbekümmerter",
-        "sorgenschwerer"
+        [
+          "unbekümmerter",
+          "sorgenschwerer"
+        ]
       ],
       "contradiction": [
-        "unbekümmerter",
-        "sorgenschwerer"
+        [
+          "unbekümmerter",
+          "sorgenschwerer"
+        ]
       ]
     },
     {
@@ -2345,8 +2409,10 @@
         ]
       ],
       "contradiction": [
-        "unbekümmerter",
-        "sorgenschwerer"
+        [
+          "unbekümmerter",
+          "sorgenschwerer"
+        ]
       ]
     },
     {
@@ -2387,12 +2453,16 @@
         "Schatz"
       ],
       "opposite": [
-        "Party-Typ",
-        "Langweiler"
+        [
+          "Party-Typ",
+          "Langweiler"
+        ]
       ],
       "contradiction": [
-        "Party-Typ",
-        "Langweiler"
+        [
+          "Party-Typ",
+          "Langweiler"
+        ]
       ]
     },
     {
@@ -2406,12 +2476,16 @@
         "Sonderling"
       ],
       "opposite": [
-        "Party-Typ",
-        "Langweiler"
+        [
+          "Party-Typ",
+          "Langweiler"
+        ]
       ],
       "contradiction": [
-        "Party-Typ",
-        "Langweiler"
+        [
+          "Party-Typ",
+          "Langweiler"
+        ]
       ]
     },
     {
@@ -2425,8 +2499,10 @@
         "Sonderling"
       ],
       "opposite": [
-        "Party-Typ",
-        "Langweiler"
+        [
+          "Party-Typ",
+          "Langweiler"
+        ]
       ],
       "contradiction": [
         [
@@ -2449,12 +2525,16 @@
         "kreativer"
       ],
       "opposite": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ],
       "contradiction": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ]
     },
     {
@@ -2466,12 +2546,16 @@
         "kreativer"
       ],
       "opposite": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ],
       "contradiction": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ]
     },
     {
@@ -2483,12 +2567,16 @@
         "kreativer"
       ],
       "opposite": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ],
       "contradiction": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ]
     },
     {
@@ -2501,12 +2589,16 @@
         "kreativer"
       ],
       "opposite": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ],
       "contradiction": [
-        "aggressiver",
-        "Schatz"
+        [
+          "aggressiver",
+          "Schatz"
+        ]
       ]
     },
     {
@@ -2519,12 +2611,16 @@
         "kreativer"
       ],
       "opposite": [
-        "unberechenbarer",
-        "zuverlässiger"
+        [
+          "unberechenbarer",
+          "zuverlässiger"
+        ]
       ],
       "contradiction": [
-        "unberechenbarer",
-        "zuverlässiger"
+        [
+          "unberechenbarer",
+          "zuverlässiger"
+        ]
       ]
     },
     {
@@ -2599,12 +2695,16 @@
         "gewiefter"
       ],
       "opposite": [
-        "unheimlicher",
-        "niedlicher"
+        [
+          "unheimlicher",
+          "niedlicher"
+        ]
       ],
       "contradiction": [
-        "unheimlicher",
-        "niedlicher"
+        [
+          "unheimlicher",
+          "niedlicher"
+        ]
       ]
     },
     {
@@ -2616,12 +2716,16 @@
         "kreativer"
       ],
       "opposite": [
-        "unheimlicher",
-        "niedlicher"
+        [
+          "unheimlicher",
+          "niedlicher"
+        ]
       ],
       "contradiction": [
-        "unheimlicher",
-        "niedlicher"
+        [
+          "unheimlicher",
+          "niedlicher"
+        ]
       ]
     },
     {
@@ -2635,12 +2739,16 @@
         "kreativer"
       ],
       "opposite": [
-        "niedlicher",
-        "unheimlicher"
+        [
+          "niedlicher",
+          "unheimlicher"
+        ]
       ],
       "contradiction": [
-        "niedlicher",
-        "unheimlicher"
+        [
+          "niedlicher",
+          "unheimlicher"
+        ]
       ]
     },
     {
@@ -2654,12 +2762,16 @@
         "Unruhestifter"
       ],
       "opposite": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ],
       "contradiction": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ]
     },
     {
@@ -2673,12 +2785,16 @@
         "Unruhestifter"
       ],
       "opposite": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ],
       "contradiction": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ]
     },
     {
@@ -2691,12 +2807,16 @@
         "gewiefter"
       ],
       "opposite": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ],
       "contradiction": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ]
     },
     {
@@ -2710,8 +2830,10 @@
         "Unruhestifter"
       ],
       "opposite": [
-        "böser",
-        "ethischer"
+        [
+          "böser",
+          "ethischer"
+        ]
       ],
       "contradiction": [
         [

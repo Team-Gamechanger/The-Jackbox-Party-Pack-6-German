@@ -69,13 +69,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Schlumpf, der immer betrunken ist",
               "short": "Saufi",
-              "required": false,
               "tags": [
                 "unvorsichtiger",
                 "blauer",
@@ -201,12 +203,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Karpador",
-              "required": false,
               "tags": [
                 "nutzloser",
                 "schuppiger"
@@ -329,12 +333,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Ist ein Autist",
-              "required": false,
               "tags": [
                 "intelligenter",
                 "beschränkter",
@@ -464,13 +470,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "<i>Wie viel Kuh hat das H?</i>",
               "short": "Schradinenbetrüger",
-              "required": false,
               "tags": [
                 "fassungsloser",
                 "Betrüger",
@@ -615,12 +623,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Spiel des Jahres",
-              "required": false,
               "tags": [
                 "selbstverliebter",
                 "arroganter",
@@ -751,13 +761,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Ein Jurymitglied",
               "short": "Jurymitglied",
-              "required": false,
               "tags": [
                 "gemeiner",
                 "arroganter",
@@ -892,12 +904,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "<i>Tetris</i>",
-              "required": false,
               "tags": [
                 "einfacher",
                 "unbeweglicher",
@@ -1040,13 +1054,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Verliert ständig die Verbindung zur Lobby",
               "short": "Der Asynchrone",
-              "required": false,
               "tags": [
                 "frustrierter",
                 "genervter",
@@ -1165,12 +1181,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "T-Bag",
-              "required": false,
               "tags": [
                 "hinterlistiger",
                 "schleimiger",
@@ -1299,12 +1317,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Gunther",
-              "required": false,
               "tags": [
                 "ausdrucksloser",
                 "liebeskranker",
@@ -1439,12 +1459,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Geist",
-              "required": false,
               "tags": [
                 "Tiermensch",
                 "loyaler",
@@ -1604,12 +1626,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Haus Frey",
-              "required": false,
               "tags": [
                 "Party-Typ",
                 "rachsüchtiger"
@@ -1754,12 +1778,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Squib/Knallfrosch",
-              "required": false,
               "tags": [
                 "unbeachteter",
                 "Sonderling",
@@ -1885,12 +1911,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Dumme Antworten",
-              "required": false,
               "tags": [
                 "Idiot",
                 "offensichtlicher"
@@ -2048,12 +2076,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Blooper",
-              "required": false,
               "tags": [
                 "spritziger",
                 "verwirrter"
@@ -2175,12 +2205,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Die handgeschriebene Karte, die dein Bruder reingemogelt hat",
-              "required": false,
               "tags": [
                 "Intrigant",
                 "gewiefter"
@@ -2348,12 +2380,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Claude",
-              "required": false,
               "tags": [
                 "emotionsloser",
                 "stummer",
@@ -2490,12 +2524,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Circuit de Monaco",
-              "required": false,
               "tags": [
                 "kontaktfreudiger",
                 "protziger",
@@ -2633,12 +2669,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Der Spielleiter",
-              "required": false,
               "tags": [
                 "sadistischer",
                 "allmächtiger",
@@ -2762,12 +2800,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Mystery Machine",
-              "required": false,
               "tags": [
                 "mysteriöser",
                 "angetriebener"
@@ -2904,13 +2944,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der, der aus einer Stadt kommt, die kein Karneval feiert",
               "short": "Der Tourist",
-              "required": false,
               "tags": [
                 "überforderter",
                 "verwirrter"
@@ -3052,12 +3094,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Der Große Mumpitz",
-              "required": false,
               "tags": [
                 "tollpatschiger",
                 "Magier"
@@ -3184,12 +3228,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Dacia Sandero",
-              "required": false,
               "tags": [
                 "unspektakulärer",
                 "lustiger",
@@ -3316,12 +3362,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 17,
               "name": "Holodeck-Gangster",
-              "required": false,
               "tags": [
                 "künstlicher",
                 "Verbrecher",
@@ -3543,12 +3591,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Jar Jar Binks",
-              "required": false,
               "tags": [
                 "Alien",
                 "lästiger",
@@ -3674,12 +3724,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Phasma",
-              "required": false,
               "tags": [
                 "Bengel",
                 "kindlicher",
@@ -3845,12 +3897,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Gordon Ramsay",
-              "required": false,
               "tags": [
                 "temperamentvoller",
                 "aufbrausender",
@@ -3984,12 +4038,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Sabbel",
-              "required": false,
               "tags": [
                 "Sünder",
                 "Klatschmaul"
@@ -4124,12 +4180,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 11,
               "name": "Hausmeister Willie",
-              "required": false,
               "tags": [
                 "verrückter",
                 "kreativer",
@@ -4285,12 +4343,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "„Großer Gott, steh uns bei!“",
-              "required": false,
               "tags": [
                 "schockierter",
                 "Pessimist",
@@ -4418,12 +4478,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Geflügelter Affe",
-              "required": false,
               "tags": [
                 "unheimlicher",
                 "lauter"
@@ -4589,12 +4651,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Orbitalsatellit",
-              "required": false,
               "tags": [
                 "kontrollierender",
                 "unauffälliger"
@@ -4715,12 +4779,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 2,
               "name": "Teilnahmeurkunde der Bundesjugendspiele",
-              "required": false,
               "tags": [
                 "fauler",
                 "langweiliger",
@@ -4864,12 +4930,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "<i>Die Wilden Kerle</i>-Reihe",
-              "required": false,
               "tags": [
                 "peinlicher",
                 "extrovertierter"
@@ -5018,12 +5086,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Adam West Batman",
-              "required": false,
               "tags": [
                 "netter",
                 "Dummkopf",
@@ -5145,12 +5215,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Toadwart",
-              "required": false,
               "tags": [
                 "unterwürfiger",
                 "tollpatschiger",
@@ -5286,12 +5358,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 10,
               "name": "<i>Krieg der Sterne</i> (1977)",
-              "required": false,
               "tags": [
                 "machtvoller",
                 "Krieger"
@@ -5421,12 +5495,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Der Sportreporter",
-              "required": false,
               "tags": [
                 "unsportlicher",
                 "unwissender"
@@ -5553,12 +5629,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Nur eine normale Katze",
-              "required": false,
               "tags": [
                 "Begleiter",
                 "gewöhnlicher"
@@ -5689,12 +5767,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Oskar",
-              "required": false,
               "tags": [
                 "treuer",
                 "struppiger"
@@ -5811,12 +5891,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Night City aus Cyberpunk 2077</i>",
-              "required": false,
               "tags": [
                 "glamouröser",
                 "moderner"
@@ -5925,12 +6007,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "<i>Der Maulwurf der wissen wollte, wer ihm auf den Kopf gemacht hat</i>",
-              "required": false,
               "tags": [
                 "Griesgram",
                 "empfindlicher"
@@ -6061,13 +6145,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "\"Monsta\" von Culcha Candela",
               "short": "Culcha Candela",
-              "required": false,
               "tags": [
                 "außergewöhnlicher",
                 "unberechenbarer"
@@ -6184,12 +6270,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Das Monster unter deinem Bett",
-              "required": false,
               "tags": [
                 "unheimlicher",
                 "vielseitiger"
@@ -6311,12 +6399,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Marcel D'Avis",
-              "required": false,
               "tags": [
                 "lästiger",
                 "besorgter"
@@ -6441,13 +6531,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Santa Maria (aus <i>Schuh des Manitu</i>)",
               "short": "Santa Maria",
-              "required": false,
               "tags": [
                 "skrupelloser",
                 "Dieb",
@@ -6593,12 +6685,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "<i>Berlin - Tag & Nacht</i> Wiederholungen",
-              "required": false,
               "tags": [
                 "überforderter",
                 "Laiendarsteller",
@@ -6736,13 +6830,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "<i>Bubsy 3D</i> (<i>PlayStation 1</i>, 1996)",
               "short": "Bubsy 3D",
-              "required": false,
               "tags": [
                 "orientierungsloser",
                 "Schreihals"
@@ -6856,12 +6952,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Diese Prinzessin aus <i>Atlantis: Das Geheimnis der verlorenen Stadt</i>",
-              "required": false,
               "tags": [
                 "zeitloser",
                 "aquatischer",
@@ -6982,12 +7080,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Appa",
-              "required": false,
               "tags": [
                 "gutmütiger",
                 "ergebener"
@@ -7097,6 +7197,9 @@
         }
       ],
       "reveals": [
+        {
+          "id": "standard"
+        },
         {
           "id": "MethodAct",
           "prompts": [
@@ -7215,12 +7318,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Hook der Abschleppwagen",
-              "required": false,
               "tags": [
                 "ländlicher",
                 "rustikaler",
@@ -7382,12 +7487,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "“Mein Abendessen mit Boris Becker”",
-              "required": false,
               "tags": [
                 "Athlet",
                 "sportlicher"
@@ -7529,12 +7636,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Dieser trottelige kleine Roboter-Helfer",
-              "required": false,
               "tags": [
                 "dummer",
                 "Roboter",
@@ -7682,12 +7791,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Oliver Pocher",
-              "required": false,
               "tags": [
                 "Komiker",
                 "lästiger"
@@ -7824,12 +7935,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "Einfach nur ein wirklich großer Typ",
-              "required": false,
               "tags": [
                 "Zuschauer",
                 "hoher",
@@ -7972,12 +8085,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 1,
               "name": "Reiswaffel",
-              "required": false,
               "tags": [
                 "neutraler",
                 "trockener",
@@ -8087,12 +8202,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "SNES Regenbogen-Boulevard",
-              "required": false,
               "tags": [
                 "agiler",
                 "energischer",
@@ -8212,12 +8329,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Chucky",
-              "required": false,
               "tags": [
                 "unheimlicher",
                 "Intrigant",
@@ -8364,12 +8483,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Ein richtiger Tausendfüßler",
-              "required": false,
               "tags": [
                 "wilder",
                 "natürlicher"
@@ -8504,12 +8625,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "“Prince von Bel Air” Titelmelodie",
-              "required": false,
               "tags": [
                 "nostalgischer",
                 "rebellischer",
@@ -8659,12 +8782,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "<i>Vernetzt - Johnny Mnemonic</i>",
-              "required": false,
               "tags": [
                 "verrückter",
                 "gejagter",
@@ -8798,12 +8923,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "Tamagotchi",
-              "required": false,
               "tags": [
                 "fürsorglicher",
                 "beängstigender"
@@ -8922,12 +9049,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Alkoholfreier Ipanema",
-              "required": false,
               "tags": [
                 "verantwortungsbewusster",
                 "Lügner"
@@ -9040,12 +9169,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Dorfbewohner",
-              "required": false,
               "tags": [
                 "wehrloser",
                 "Bauer"
@@ -9158,12 +9289,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "<i>Disneys Große Pause</i>",
-              "required": false,
               "tags": [
                 "verzweifelter",
                 "rebellischer"
@@ -9278,12 +9411,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "\"Ich bin nur eine Darmgrippe von meinem Traumgewicht entfernt.\"",
-              "required": false,
               "tags": [
                 "oberflächlicher",
                 "dünner",
@@ -9471,12 +9606,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Die Grauen Herren (aus Momo)",
-              "required": false,
               "tags": [
                 "Bürokrat",
                 "Raucher"
@@ -9588,12 +9725,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "der aus dem Jason Segel Film",
-              "required": false,
               "tags": [
                 "langweiliger",
                 "Zuschauer"
@@ -9747,12 +9886,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 11,
               "name": "Tasmania Berlin",
-              "required": false,
               "tags": [
                 "berüchtigter",
                 "verlorener",
@@ -9894,12 +10035,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "BastiGHG",
-              "required": false,
               "tags": [
                 "Herausforderer",
                 "duellfreudiger"
@@ -10044,12 +10187,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 3,
               "name": "Reitsport",
-              "required": false,
               "tags": [
                 "unabhängiger",
                 "simpler",
@@ -10179,6 +10324,9 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "GetInCharacter",
           "prompts": [
             {
@@ -10264,12 +10412,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 8,
               "name": "Taube, die Frisör-Stammgast ist",
-              "required": false,
               "tags": [
                 "Aristokrat",
                 "wohlhabender"
@@ -10394,13 +10544,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "<i>Ich bin ein Star - Holt mich hier raus!</i>",
               "short": "<i>Dschungelcamp</i>",
-              "required": false,
               "tags": [
                 "schmerzbefreiter",
                 "zickiger",
@@ -10583,12 +10735,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Hatschi",
-              "required": false,
               "tags": [
                 "allergischer",
                 "Nieser",
@@ -10731,12 +10885,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "“Hallo, ich bin William Shakespeare.”",
-              "required": false,
               "tags": [
                 "freundlicher",
                 "Künstler",
@@ -10909,12 +11065,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 10,
               "name": "Gary",
-              "required": false,
               "tags": [
                 "zurückgelehnter",
                 "ruhiger",
@@ -11077,12 +11235,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 0,
               "name": "<i>MySpace</i>",
-              "required": false,
               "tags": [
                 "alter",
                 "unbeachteter",
@@ -11092,7 +11252,6 @@
             {
               "idx": 7,
               "name": "<i>YouTube</i>-Kommentare",
-              "required": false,
               "tags": [
                 "hasserfüllter",
                 "betrügerischer"
@@ -11212,12 +11371,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 11,
               "name": "All Spice",
-              "required": false,
               "tags": [
                 "Freigeist",
                 "vielseitiger",
@@ -11369,12 +11530,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Mensch ärgere Dich nicht",
-              "required": false,
               "tags": [
                 "ruhiger",
                 "gelassener",
@@ -11508,12 +11671,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Gehirn in einem Bauch",
-              "required": false,
               "tags": [
                 "smarter",
                 "Bösewicht"
@@ -11642,12 +11807,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Dieser Typ mit Pfeil und Bogen",
-              "required": false,
               "tags": [
                 "Teufelskerl",
                 "unbeachteter"
@@ -11839,12 +12006,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "System of a Down",
-              "required": false,
               "tags": [
                 "chaotischer",
                 "unberechenbarer",
@@ -11992,12 +12161,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 7,
               "name": "Elastoman",
-              "required": false,
               "tags": [
                 "dummer",
                 "Held",
@@ -12126,12 +12297,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 9,
               "name": "Betreibt die Schokoladenfabrik",
-              "required": false,
               "tags": [
                 "charismatischer",
                 "erfinderischer",
@@ -12284,12 +12457,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Heffalump",
-              "required": false,
               "tags": [
                 "einzigartiger",
                 "unheimlicher"
@@ -12441,13 +12616,15 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Purpur-Tentakel (<i>Day of the Tentacle</i>)",
               "short": "Purpur-Tentakel",
-              "required": false,
               "tags": [
                 "kluger",
                 "aggressiver"
@@ -12594,12 +12771,14 @@
       ],
       "reveals": [
         {
+          "id": "standard"
+        },
+        {
           "id": "Consolation",
           "roles": [
             {
               "idx": 6,
               "name": "Normal",
-              "required": false,
               "tags": [
                 "langweiliger",
                 "unbedeutender"
